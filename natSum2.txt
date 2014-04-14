@@ -1,0 +1,479 @@
+1	@2010-10-27@
+2	America#America#Germany#America#America#America#Germany#America#America#America#@2010-10-27@
+15	America#America#America#America#America#America#Congo#Congo#Congo#America#America#America#America#France#America#Mexico#America#France#America#America#16	America#Thailand#America#America#America#America#America#America#America#America#America#America#17	America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-08-18@
+30	America#America#@2010-09-29@
+31	America#America#Germany#Hong Kong#America#America#America#Australia#Australia#America#Australia#@2010-09-29@
+32	India#India#America#America#@2010-08-25@
+46	America#America#America#America#America#America#America#Poland#America#America#America#@2010-10-06@
+47	America#America#America#@2010-08-22@
+61	Japan#New Zealand#New Zealand#Japan#United Kingdom#@2010-10-13@
+62	America#America#Italy#America#America#Italy#America#@2010-10-13@
+77	America#America#America#America#@2010-10-13@
+92	America#Germany#Germany#Germany#America#America#Germany#Germany#Germany#Georgia#Germany#America#Spain#America#Germany#America#America#Germany#America#Germany#Germany#Germany#Russia#Russia#Germany#Germany#America#Germany#@2010-12-22@
+93	America#France#Finland#America#Finland#Finland#America#Finland#France#France#France#America#Italy#Finland#America#India#Finland#America#@2010-12-22@
+94	United Kingdom#America#United Kingdom#India#America#United Kingdom#America#United Kingdom#America#United Kingdom#United Kingdom#United Kingdom#America#America#America#America#America#America#United Kingdom#United Kingdom#America#India#America#United Kingdom#America#@2010-09-24@
+95	America#America#@2010-12-22@
+111	America#America#America#Germany#America#America#America#America#America#America#Canada#America#America#Germany#America#@2010-11-10@
+112	America#America#America#Switzerland#America#America#America#America#America#America#America#Switzerland#America#@2010-11-10@
+113	Switzerland#Germany#Switzerland#Switzerland#Switzerland#Germany#Germany#Germany#America#Switzerland#Switzerland#Switzerland#@2010-11-10@
+125	America#America#America#@2010-10-24@
+126	America#America#America#America#Israel#America#Japan#America#Israel#America#America#America#America#America#@2010-10-06@
+127	America#America#America#America#America#@2010-10-03@
+141	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#@2010-11-07@
+142	Panama#Panama#Panama#Panama#Panama#Panama#Panama#America#America#Panama#Panama#America#America#America#America#Panama#@2010-11-24@
+143	America#America#America#America#America#America#America#America#America#America#@2010-11-24@
+150	United Kingdom#@2010-11-03@
+157	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-11-03@
+158	America#America#America#@2010-12-01@
+159	America#America#America#America#America#America#America#America#America#America#America#Argentina#America#America#@2010-12-01@
+160	America#America#America#America#America#America#America#@2010-09-29@
+162	Canada#Canada#Canada#America#America#France#France#France#Canada#Canada#@2010-11-03@
+174	Japan#Japan#Japan#Japan#@2010-10-10@
+176	United Kingdom#Georgia#China#Georgia#United Kingdom#United Kingdom#Georgia#Georgia#United Kingdom#@2010-11-17@
+177	America#America#America#America#America#America#@2010-11-14@
+178	America#America#America#America#America#America#America#America#America#America#@2010-11-17@
+194	America#America#Canada#America#America#America#@2010-11-10@
+195	America#America#America#America#America#Germany#America#America#Germany#America#America#America#Germany#Taiwan#America#America#@2010-12-15@
+197	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-12-15@
+216	Denmark#America#America#Belgium#Germany#America#America#America#America#America#Germany#Germany#America#America#Germany#Belgium#America#America#@2011-01-12@
+233	Mali#United Kingdom#United Kingdom#@2010-12-15@
+234	Canada#America#Canada#Canada#Canada#America#America#Canada#America#Canada#@2011-01-19@
+235	America#America#@2011-01-19@
+250	America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-11-28@
+251	America#America#Spain#America#America#America#America#America#@2011-01-26@
+252	United Kingdom#United Kingdom#@2011-01-26@
+260	America#America#America#America#America#America#America#America#America#America#@2010-12-08@
+268	France#France#France#France#France#France#France#France#France#France#France#France#France#France#@2011-01-05@
+284	America#America#America#Israel#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-02-09@
+285	America#America#America#America#America#America#America#@2011-02-09@
+286	United Kingdom#United Kingdom#@2011-02-09@
+299	America#America#America#America#@2011-02-16@
+300	America#America#America#America#America#America#America#America#America#Australia#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-02-09@
+314	Austria#Austria#Austria#Austria#Austria#Austria#Austria#Austria#Austria#Austria#@2011-02-23@
+315	Georgia#America#Georgia#Georgia#Georgia#America#Georgia#Georgia#Georgia#America#America#America#America#Georgia#America#Germany#America#@2011-02-23@
+316	America#America#America#America#America#America#@2011-01-26@
+317	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#@2011-02-16@
+323	America#America#America#America#America#America#America#America#America#America#America#America#Denmark#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-02-02@
+344	America#America#America#America#America#America#America#America#America#America#@2011-03-09@
+345	Germany#Germany#Germany#@2011-03-09@
+346	America#America#America#America#America#America#America#America#America#America#Iran#America#America#America#Iran#America#America#America#@2011-03-09@
+360	Germany#Germany#Denmark#Germany#Germany#Germany#Germany#Germany#@2011-03-16@
+361	America#America#America#America#America#Korea#America#America#America#America#America#South Korea#South Korea#America#America#America#America#America#America#America#Georgia#Georgia#Australia#Australia#America#America#America#America#America#America#America#America#Canada#America#America#Australia#Canada#America#America#America#America#America#@2011-02-06@
+362	China#China#China#China#China#China#China#@2011-03-02@
+363	America#America#America#America#America#America#America#Germany#America#America#America#America#America#America#America#America#Germany#America#America#America#America#@2011-02-13@
+376	America#America#America#America#America#@2011-03-23@
+377	United Kingdom#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Israel#America#America#America#America#America#America#America#America#Georgia#America#America#America#America#America#America#America#America#America#America#America#Canada#America#America#America#America#America#America#America#America#America#America#America#America#@2011-03-23@
+379	America#America#Canada#America#America#America#America#America#America#America#Canada#America#Canada#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-12-22@
+391	Finland#Canada#Finland#Canada#Finland#Finland#Canada#Canada#Finland#Finland#Finland#Finland#Finland#Germany#Germany#Canada#Finland#Finland#Canada#Finland#@2011-03-02@
+392	Germany#Germany#Germany#Australia#Australia#Australia#Australia#Australia#Australia#Germany#Australia#Australia#Germany#@2011-03-30@
+393	America#America#America#America#America#@2011-01-30@
+394	Austria#Austria#Germany#Austria#Germany#Austria#Austria#Germany#Austria#@2011-03-30@
+401	America#America#America#America#America#America#America#Spain#America#America#America#America#America#Spain#America#America#America#America#America#Spain#America#America#America#America#America#America#@2011-03-02@
+408	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-02-02@
+409	Finland#Finland#Finland#Finland#America#America#Italy#Italy#Italy#Italy#Finland#@2011-03-02@
+421	China#China#China#@2011-04-13@
+422	Germany#Germany#Germany#Germany#Germany#Germany#France#United Kingdom#America#Germany#Korea#Germany#@2011-03-23@
+423	America#America#America#America#America#America#America#America#America#America#America#America#America#@2010-12-22@
+436	America#America#America#America#America#America#@2011-04-13@
+437	America#America#Canada#America#America#@2011-03-16@
+439	America#America#America#America#America#America#Switzerland#America#America#@2011-03-20@
+451	Portugal#Portugal#America#America#America#America#America#America#America#@2011-03-20@
+452	America#Italy#America#America#America#America#@2011-04-27@
+453	Switzerland#Switzerland#Switzerland#Canada#Canada#Switzerland#Switzerland#Switzerland#@2011-04-27@
+465	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#@2011-04-06@
+466	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-04-06@
+467	France#America#America#France#Australia#America#America#America#@2011-04-06@
+478	America#America#America#@2011-05-11@
+479	Germany#Belgium#France#France#Germany#Germany#Brazil#Germany#France#France#Denmark#Spain#Spain#Spain#Denmark#Denmark#Japan#Japan#Netherlands#Japan#France#France#Spain#Denmark#Denmark#France#France#China#Denmark#Netherlands#Spain#France#Netherlands#Denmark#Spain#Denmark#Finland#Denmark#France#France#France#Germany#@2011-04-20@
+480	America#America#America#America#America#America#America#America#@2011-05-01@
+494	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2011-05-18@
+495	Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#@2011-04-13@
+509	America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-03-23@
+510	Japan#@2011-04-24@
+511	America#America#America#America#America#America#America#America#America#America#@2011-05-25@
+515	America#America#America#America#America#America#America#America#America#Germany#Germany#America#America#America#America#@2011-04-06@
+526	Japan#Japan#Japan#Japan#@2011-04-17@
+539	Germany#Germany#Germany#Germany#Switzerland#America#Germany#Germany#@2011-05-25@
+540	Italy#Italy#Italy#Italy#Italy#Italy#Italy#France#Italy#Italy#Italy#Italy#@2011-06-08@
+554	Japan#Japan#Japan#Germany#America#America#Germany#@2011-06-15@
+555	America#America#America#America#America#America#America#@2011-06-15@
+556	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#@2011-06-15@
+569	America#America#America#@2011-06-22@
+570	America#Morocco#America#America#America#America#America#@2011-06-12@
+571	China#China#America#China#China#China#China#China#China#America#China#@2011-06-12@
+572	Japan#Japan#Japan#Japan#@2011-06-01@
+575	United Kingdom#Belgium#America#United Kingdom#United Kingdom#United Kingdom#America#United Kingdom#America#United Kingdom#United Kingdom#America#America#United Kingdom#America#America#America#United Kingdom#@2011-06-01@
+585	America#America#@2011-05-15@
+586	America#America#Austria#America#France#America#@2011-06-29@
+587	Israel#Israel#Israel#Israel#Israel#@2011-06-29@
+588	@2011-06-29@
+616	America#America#America#America#@2011-07-13@
+617	@2011-07-10@
+618	America#America#America#America#America#@2011-07-13@
+619	Korea#Korea#America#America#Korea#Korea#America#Korea#@2011-07-13@
+631	America#America#United Kingdom#America#United Kingdom#America#@2011-07-20@
+632	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-07-20@
+633	America#America#America#America#@2011-07-10@
+646	China#China#China#China#@2011-07-27@
+647	America#America#@2011-07-06@
+648	America#America#America#America#America#America#America#America#America#America#@2011-07-27@
+662	United Kingdom#United Kingdom#@2011-07-06@
+663	Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#@2011-06-29@
+664	Japan#Japan#Japan#Japan#America#America#America#America#America#Japan#America#Japan#@2011-06-22@
+675	United Kingdom#America#America#United Kingdom#America#America#America#America#America#America#America#America#America#Canada#America#America#America#America#America#America#America#America#America#America#Georgia#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Georgia#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#United Kingdom#@2011-07-20@
+676	Germany#Germany#Germany#Germany#Germany#Germany#France#America#America#France#France#Germany#Germany#Germany#Germany#@2011-08-10@
+691	Netherlands#Germany#Netherlands#Netherlands#Netherlands#Netherlands#Netherlands#Germany#Netherlands#Netherlands#Netherlands#Netherlands#Netherlands#Netherlands#Japan#Japan#Netherlands#Netherlands#Netherlands#@2011-07-04@
+692	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#America#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#@2011-07-27@
+706	America#America#America#America#America#@2011-08-24@
+707	Germany#@2011-08-07@
+721	America#America#Kenya#Australia#Kenya#America#America#America#America#America#@2011-08-03@
+722	Switzerland#Switzerland#America#America#Switzerland#America#America#@2011-08-03@
+723	America#America#America#America#America#America#America#@2011-08-03@
+736	Israel#America#Germany#Germany#America#America#America#America#America#America#Germany#Germany#America#America#Germany#America#@2011-07-27@
+737	America#America#Israel#Israel#America#Netherlands#America#America#@2011-09-07@
+751	America#United Kingdom#United Kingdom#America#America#United Kingdom#Germany#United Kingdom#United Kingdom#America#America#America#America#United Kingdom#@2011-09-14@
+752	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-08-28@
+766	United Kingdom#Germany#Germany#America#Germany#America#United Kingdom#Germany#America#Germany#Germany#Germany#Germany#United Kingdom#United Kingdom#America#United Kingdom#America#Germany#United Kingdom#@2011-08-28@
+767	America#America#America#America#Austria#America#America#America#America#America#America#America#America#America#America#America#America#Austria#America#America#@2011-09-11@
+784	Denmark#America#America#America#America#America#America#America#Belgium#America#America#Ireland#Ireland#Ireland#America#Belgium#America#America#America#America#@2011-07-19@
+785	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2011-09-18@
+786	America#America#America#@2011-09-18@
+797	America#America#America#America#United Kingdom#America#@2011-08-24@
+816	Germany#Germany#Germany#Germany#Switzerland#Germany#Germany#Germany#Germany#Switzerland#Germany#Australia#America#Germany#Germany#Germany#Germany#Germany#Germany#@2011-10-05@
+817	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2011-09-11@
+818	America#America#America#@2011-10-02@
+833	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#America#Switzerland#Switzerland#Germany#Germany#Germany#Germany#China#Australia#Switzerland#Denmark#Germany#Switzerland#@2011-10-19@
+834	America#America#America#America#America#America#Germany#America#America#@2011-10-12@
+849	Mexico#America#Germany#America#America#Netherlands#America#Germany#Germany#America#America#America#America#Canada#Russia#Germany#America#Finland#Finland#Denmark#Netherlands#Russia#Canada#Japan#Spain#Canada#Germany#Canada#Russia#@2011-10-02@
+850	Sweden#America#America#America#Denmark#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Denmark#America#America#America#Austria#Denmark#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Denmark#America#America#@2011-10-12@
+851	America#America#America#America#America#America#Portugal#Croatia#America#Croatia#America#America#America#Germany#America#America#United Kingdom#America#America#America#America#America#America#America#America#@2011-10-26@
+865	Iran#Germany#Germany#Germany#Iran#Germany#Iran#Iran#Germany#Iran#Germany#Iran#Germany#Iran#Germany#Germany#Germany#Iran#Germany#Germany#Iran#Germany#Iran#Germany#Germany#Germany#Iran#Iran#Germany#Iran#Germany#Iran#Germany#Iran#Oman#Iran#Germany#Iran#Germany#Germany#Germany#Germany#Germany#Iran#Germany#@2011-09-21@
+866	Japan#Japan#Japan#Germany#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Germany#Germany#Japan#Japan#Germany#Singapore#Taiwan#Germany#Japan#Japan#Japan#Japan#@2011-09-11@
+867	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-10-05@
+868	Austria#Austria#Germany#Austria#America#United Kingdom#America#Austria#America#Germany#Austria#America#Germany#America#Austria#@2011-10-05@
+882	Belgium#Belgium#Belgium#Belgium#Belgium#America#Belgium#Belgium#Belgium#@2011-10-09@
+883	Germany#Germany#Germany#Germany#Germany#Germany#@2011-11-02@
+898	Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#Argentina#Denmark#Denmark#Denmark#Australia#America#America#America#Denmark#Denmark#Denmark#Sweden#America#Canada#Canada#Denmark#Denmark#America#United Kingdom#United Kingdom#United Kingdom#Russia#Canada#Russia#Denmark#America#Russia#Russia#China#America#America#Netherlands#Denmark#Denmark#Germany#Russia#Germany#Russia#America#America#Russia#Norway#America#Australia#United Kingdom#Russia#America#Denmark#Denmark#@2011-11-02@
+899	America#America#America#America#America#America#America#America#America#@2011-10-19@
+915	Germany#Switzerland#Germany#Switzerland#Belgium#America#Switzerland#@2011-11-13@
+930	Switzerland#Switzerland#Switzerland#@2011-10-19@
+931	America#Germany#America#America#America#America#America#America#America#Germany#Germany#Germany#Germany#America#America#America#@2011-11-02@
+932	America#Sweden#America#America#America#America#America#Sweden#America#@2011-10-02@
+944	Germany#United Kingdom#United Kingdom#America#Italy#Italy#United Kingdom#Austria#United Kingdom#France#United Kingdom#Estonia#United Kingdom#Japan#Iran#Italy#Germany#United Kingdom#United Kingdom#United Kingdom#America#Germany#Italy#Netherlands#United Kingdom#Germany#United Kingdom#Sweden#Estonia#America#Greece#Italy#America#United Kingdom#Netherlands#Netherlands#America#United Kingdom#France#Switzerland#Sweden#Germany#Italy#Italy#France#France#United Kingdom#Italy#Iran#United Kingdom#Netherlands#Netherlands#Germany#United Kingdom#Germany#United Kingdom#United Kingdom#Sweden#America#Australia#America#America#Sweden#Finland#America#Germany#Switzerland#Germany#United Kingdom#United Kingdom#United Kingdom#Germany#Greece#United Kingdom#United Kingdom#America#Sweden#Italy#Netherlands#America#Sweden#America#Australia#Japan#Germany#Netherlands#Germany#Netherlands#United Kingdom#Finland#Italy#Estonia#United Kingdom#America#Italy#Finland#Italy#United Kingdom#United Kingdom#America#Germany#Germany#United Kingdom#America#Netherlands#United Kingdom#Germany#Japan#America#America#United Kingdom#Sweden#Germany#Italy#Iran#Netherlands#Australia#Germany#Germany#America#Netherlands#United Kingdom#United Kingdom#Finland#United Kingdom#Greece#Iran#America#Estonia#Italy#America#Netherlands#Netherlands#Netherlands#United Kingdom#Germany#France#America#Finland#Australia#Germany#America#Sweden#United Kingdom#Netherlands#Italy#United Kingdom#Germany#United Kingdom#Japan#United Kingdom#United Kingdom#Austria#United Kingdom#United Kingdom#Italy#United Kingdom#Italy#Italy#United Kingdom#Australia#United Kingdom#United Kingdom#@2011-11-30@
+945	Spain#Spain#Spain#Spain#Switzerland#Switzerland#Canada#America#Spain#Spain#@2011-11-09@
+960	Switzerland#Switzerland#Switzerland#Switzerland#France#France#Switzerland#@2011-12-07@
+961	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Tanzania#Tanzania#Tanzania#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2011-11-23@
+993	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#@2011-11-09@
+995	America#America#America#@2011-11-23@
+1005	America#America#America#America#Australia#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Australia#Australia#Australia#America#America#Australia#Belgium#America#America#Canada#Canada#Canada#Canada#Canada#Italy#America#America#America#America#Mexico#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-01-11@
+1020	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-01-11@
+1021	United Kingdom#United Kingdom#United Kingdom#United Kingdom#@2012-01-09@
+1034	America#America#America#America#America#America#@2011-12-18@
+1037	America#America#America#America#@2012-01-25@
+1038	Chile#Chile#America#Chile#Chile#Chile#Chile#America#Chile#Chile#America#Italy#Denmark#America#Italy#Denmark#America#Chile#@2012-01-11@
+1039	America#America#@2012-01-09@
+1069	America#America#America#Spain#Spain#America#Spain#America#America#America#America#Spain#America#America#America#Spain#America#America#America#America#America#America#America#America#America#America#Spain#America#America#America#America#America#America#America#America#America#Spain#America#Spain#Spain#America#America#America#America#America#America#America#America#America#@2012-02-08@
+1070	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-02-01@
+1071	America#America#America#America#America#America#@2012-01-11@
+1086	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Canada#Switzerland#Switzerland#Switzerland#@2012-02-15@
+1087	America#America#America#America#America#America#@2012-02-15@
+1088	Japan#America#America#America#Japan#Japan#Japan#Japan#Japan#Japan#Germany#Japan#Japan#America#Japan#@2012-01-22@
+1101	America#Germany#@2012-01-25@
+1102	China#China#China#China#Australia#Canada#China#China#China#China#China#China#@2012-02-22@
+1103	America#America#America#America#America#America#America#@2012-02-22@
+1104	Germany#Germany#Germany#America#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#America#Germany#@2012-02-22@
+1111	America#America#America#America#America#America#America#America#America#America#@2012-01-18@
+1130	Denmark#America#France#Denmark#Switzerland#Denmark#Spain#United Kingdom#United Kingdom#France#America#Denmark#United Kingdom#United Kingdom#America#United Kingdom#America#United Kingdom#United Kingdom#America#Denmark#United Kingdom#United Kingdom#Spain#France#America#United Kingdom#United Kingdom#United Kingdom#France#Germany#France#United Kingdom#America#Switzerland#America#United Kingdom#United Kingdom#United Kingdom#America#America#America#Denmark#France#@2012-03-07@
+1131	America#America#America#America#America#America#America#America#America#America#America#America#@2012-02-19@
+1132	America#America#America#America#America#@2012-02-26@
+1145	America#America#@2012-01-18@
+1160	America#America#America#@2012-03-21@
+1161	America#America#America#America#America#America#America#America#America#Singapore#Singapore#America#America#America#@2012-03-14@
+1162	America#America#@2012-03-14@
+1170	America#America#America#America#@2012-02-22@
+1177	America#America#America#America#America#America#America#America#America#America#United Kingdom#America#America#America#@2012-02-12@
+1178	France#France#France#France#France#Japan#Japan#@2012-03-28@
+1185	America#America#America#@2012-02-29@
+1210	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2012-04-11@
+1211	America#America#America#@2012-03-18@
+1212	@2012-03-21@
+1213	China#China#China#China#China#China#China#China#China#China#China#China#@2012-02-29@
+1225	Israel#Israel#Israel#Germany#America#Germany#America#Israel#@2012-04-01@
+1226	America#America#America#America#America#America#America#@2012-03-28@
+1227	Japan#Japan#Japan#Japan#Japan#Japan#Japan#@2012-03-07@
+1240	Switzerland#America#America#America#Germany#America#Germany#America#America#@2012-04-25@
+1241	America#America#@2012-04-25@
+1244	America#America#America#America#America#China#America#America#France#@2012-04-04@
+1258	America#Sweden#Germany#America#Germany#America#America#Germany#America#America#America#America#America#Germany#America#America#America#America#America#America#America#America#America#Sweden#America#@2012-04-04@
+1259	America#America#America#@2012-03-14@
+1260	America#America#America#America#America#America#Brazil#America#America#America#America#America#America#America#America#America#America#America#America#@2012-02-07@
+1274	America#America#America#America#America#America#America#America#America#Switzerland#America#America#America#Switzerland#America#America#America#America#America#@2012-04-29@
+1275	Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#@2012-04-29@
+1276	America#America#@2012-04-25@
+1290	America#America#America#America#America#America#Spain#America#America#France#@2012-03-21@
+1291	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-03-21@
+1292	Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Germany#Germany#Israel#Germany#Israel#Israel#@2012-05-09@
+1308	United Kingdom#United Kingdom#America#Netherlands#America#America#America#United Kingdom#United Kingdom#America#Netherlands#United Kingdom#America#United Kingdom#United Kingdom#United Kingdom#@2012-05-16@
+1310	America#America#Portugal#America#America#America#America#@2012-05-09@
+1324	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-02-22@
+1325	America#America#America#America#America#America#India#America#America#@2012-04-18@
+1326	America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-05-13@
+1327	Israel#America#America#America#America#@2012-05-23@
+1331	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-03-29@
+1341	Japan#Japan#Japan#Japan#Japan#Australia#@2012-04-18@
+1358	America#America#America#Mexico#Mexico#America#Mexico#America#@2012-06-13@
+1359	@2012-06-13@
+1360	@2012-06-13@
+1361	America#America#Malawi#Malawi#Puerto Rico#Venezuela#Venezuela#Venezuela#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-05-09@
+1362	America#America#America#America#America#Japan#America#Japan#America#America#@2012-05-16@
+1374	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Italy#Germany#Germany#Germany#United Kingdom#Germany#France#Germany#United Kingdom#France#Germany#Germany#Germany#Germany#United Kingdom#United Kingdom#United Kingdom#Turkey#Germany#Germany#United Kingdom#Germany#Spain#Japan#France#United Kingdom#Germany#Germany#Germany#Germany#Slovakia#Poland#Germany#Germany#Germany#Poland#Germany#Japan#Germany#Sweden#Spain#Germany#United Kingdom#Netherlands#Germany#Germany#Germany#Japan#United Kingdom#America#@2012-06-20@
+1375	United Kingdom#Canada#United Kingdom#Canada#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Canada#Canada#Canada#United Kingdom#Canada#Norway#United Kingdom#America#United Kingdom#United Kingdom#Canada#United Kingdom#Canada#United Kingdom#United Kingdom#Norway#United Kingdom#United Kingdom#United Kingdom#Canada#@2012-04-18@
+1376	America#America#America#America#America#America#America#America#Mali#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Mali#America#America#America#America#America#America#America#America#Mali#America#America#America#@2012-06-10@
+1377	America#America#America#America#Switzerland#America#Switzerland#Switzerland#America#Switzerland#America#America#@2012-06-10@
+1378	America#America#America#America#@2012-05-18@
+1390	America#Australia#Mexico#@2012-05-30@
+1391	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-05-20@
+1392	America#America#America#America#@2012-06-03@
+1406	America#America#America#America#America#@2012-05-30@
+1407	America#America#America#America#@2012-06-06@
+1408	America#America#America#@2012-05-13@
+1417	America#America#America#America#America#@2012-07-11@
+1418	America#America#Sweden#America#America#America#America#Sweden#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-07-11@
+1419	Japan#China#Japan#China#America#@2012-07-11@
+1433	Germany#Germany#Germany#Germany#Italy#Germany#Belgium#South Africa#France#Netherlands#Germany#Norway#America#Ireland#Netherlands#Germany#Austria#Germany#United Kingdom#Germany#America#Australia#Germany#Germany#Germany#Germany#Germany#Poland#Germany#Germany#@2012-07-18@
+1434	America#America#America#America#America#America#@2012-07-04@
+1435	America#America#America#Germany#America#America#America#America#America#America#America#Germany#America#America#America#America#Netherlands#Netherlands#Netherlands#Canada#Canada#America#Germany#America#America#America#America#America#America#America#America#America#America#America#@2012-06-27@
+1436	@2012-07-18@
+1450	America#America#America#France#America#America#America#America#America#America#Switzerland#France#America#@2012-07-11@
+1464	America#United Kingdom#America#America#America#America#America#@2012-06-03@
+1467	America#America#America#America#France#America#America#America#France#America#@2012-06-13@
+1468	America#America#@2012-06-27@
+1481	Germany#Germany#America#Germany#America#Germany#@2012-08-08@
+1482	America#America#America#America#@2012-07-11@
+1483	Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#Ireland#United Kingdom#Ireland#Ireland#Ireland#Ireland#Ireland#@2012-07-13@
+1497	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-08-15@
+1514	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Canada#Australia#America#Australia#America#America#America#America#America#America#America#America#America#America#@2012-06-20@
+1515	Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#@2012-08-22@
+1519	Germany#Canada#Canada#Canada#Canada#Germany#Germany#Germany#Canada#America#America#America#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#America#America#Germany#Germany#Germany#America#America#America#Canada#Canada#Poland#Poland#Austria#France#France#France#Switzerland#South Korea#South Korea#South Korea#Germany#America#France#France#America#America#America#Thailand#Italy#Italy#Netherlands#Netherlands#Netherlands#Netherlands#America#America#Czech Republic#Czech Republic#America#America#Canada#America#America#Canada#Canada#Canada#United Kingdom#United Kingdom#America#America#Hungary#Hungary#America#Japan#Japan#America#America#America#America#Georgia#America#Japan#Italy#Hungary#Hungary#America#Italy#South Korea#Brazil#America#South Korea#America#Italy#Canada#Canada#America#Canada#America#America#America#Canada#Canada#Canada#Canada#Canada#Canada#Canada#United Kingdom#Canada#Germany#Germany#Canada#Canada#@2012-07-25@
+1533	America#America#France#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-08-29@
+1534	United Kingdom#America#Japan#Italy#United Kingdom#America#America#America#United Kingdom#Sweden#America#France#United Kingdom#United Kingdom#America#America#Germany#America#India#United Kingdom#United Kingdom#America#United Kingdom#United Kingdom#Germany#Japan#Germany#Japan#Germany#Germany#India#Korea#Japan#Japan#Japan#Japan#Japan#America#America#America#America#United Kingdom#Japan#Japan#New Zealand#America#America#United Kingdom#Spain#Japan#America#America#Netherlands#Korea#China#Japan#United Kingdom#Germany#America#America#United Kingdom#Japan#Japan#Japan#America#@2012-08-29@
+1536	America#America#America#America#America#America#Colombia#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Colombia#America#America#America#America#Colombia#Colombia#@2012-08-15@
+1537	Canada#Canada#Canada#America#Canada#America#Canada#Canada#Canada#Canada#Canada#Canada#Canada#@2012-08-22@
+1558	Spain#America#Spain#America#Japan#America#Spain#Spain#America#America#America#America#America#America#America#America#Spain#Japan#Spain#America#America#Norway#America#America#America#America#America#Switzerland#Spain#Spain#America#America#America#America#Switzerland#America#America#Spain#America#Singapore#America#Spain#America#America#Switzerland#America#Spain#America#America#Spain#Singapore#America#America#America#Spain#America#Switzerland#Spain#America#America#Singapore#Norway#Japan#Japan#Spain#America#Switzerland#America#America#America#Singapore#Japan#America#Switzerland#Switzerland#America#America#Singapore#America#Japan#Spain#America#@2012-09-05@
+1569	Belgium#Belgium#Belgium#Belgium#Belgium#Belgium#United Kingdom#Belgium#@2012-09-02@
+1570	America#America#America#America#America#America#America#America#@2012-08-26@
+1584	America#America#America#America#America#Brazil#Brazil#America#Germany#Romania#Mexico#Mexico#Mexico#Mexico#Mexico#France#@2012-09-19@
+1585	America#America#America#Korea#America#America#America#America#America#America#@2012-08-22@
+1586	America#America#America#America#America#America#America#America#America#America#Netherlands#America#America#America#America#Canada#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-09-19@
+1587	America#America#@2012-07-29@
+1601	America#America#Canada#America#@2012-09-19@
+1602	@2012-09-09@
+1603	Georgia#America#Georgia#America#America#America#America#Georgia#Georgia#America#America#America#America#America#America#America#America#America#@2012-09-16@
+1613	@2012-09-05@
+1618	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#China#America#America#America#America#America#America#America#America#America#America#America#America#America#Norway#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-09-05@
+1619	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-09-05@
+1620	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Hong Kong#America#America#America#America#America#America#America#@2012-09-05@
+1627	America#America#America#America#America#@2012-10-10@
+1628	Greece#Greece#Greece#@2012-09-12@
+1644	America#Sweden#Sweden#America#@2012-09-26@
+1645	China#China#China#China#China#China#China#@2012-10-17@
+1646	Switzerland#Switzerland#Switzerland#@2012-09-23@
+1662	China#Japan#China#Japan#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#Japan#Japan#Japan#China#China#China#China#China#Japan#Japan#China#China#China#China#China#@2012-10-03@
+1663	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-09-19@
+1664	America#America#United Kingdom#United Kingdom#America#United Kingdom#United Kingdom#America#America#America#@2012-10-10@
+1674	China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#Denmark#Canada#Belgium#Belgium#Belgium#France#France#France#France#France#China#China#China#China#China#China#China#France#Canada#Denmark#Denmark#Denmark#@2012-09-26@
+1679	@2012-09-23@
+1697	Portugal#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#France#Switzerland#Switzerland#Portugal#Switzerland#@2012-10-17@
+1698	America#America#America#America#America#America#America#America#@2012-10-14@
+1699	Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#America#America#America#Denmark#Denmark#Denmark#@2012-10-24@
+1700	America#America#America#America#America#America#America#@2012-11-07@
+1714	Netherlands#United Kingdom#Japan#America#United Kingdom#America#France#South Korea#France#Netherlands#Denmark#United Kingdom#South Korea#Netherlands#United Kingdom#South Korea#United Kingdom#Italy#Denmark#America#Italy#America#Denmark#Argentina#America#Sweden#Denmark#Netherlands#Italy#Denmark#America#America#United Kingdom#France#America#America#South Korea#United Kingdom#United Kingdom#United Kingdom#Netherlands#America#France#United Kingdom#Netherlands#United Kingdom#America#America#Australia#United Kingdom#France#Australia#United Kingdom#Denmark#America#United Kingdom#France#Denmark#United Kingdom#United Kingdom#Sweden#United Kingdom#America#Australia#United Kingdom#Denmark#South Korea#Sweden#United Kingdom#America#Japan#United Kingdom#South Korea#South Korea#South Korea#South Korea#United Kingdom#South Korea#South Korea#United Kingdom#America#China#America#United Kingdom#China#Argentina#America#Netherlands#Argentina#United Kingdom#United Kingdom#Japan#America#United Kingdom#South Korea#China#South Korea#America#Denmark#South Korea#South Korea#France#Netherlands#Ukraine#United Kingdom#America#America#Argentina#America#America#America#America#America#United Kingdom#United Kingdom#United Kingdom#France#America#Sweden#Germany#America#Germany#Denmark#United Kingdom#China#Denmark#United Kingdom#China#France#Denmark#China#China#China#United Kingdom#United Kingdom#America#@2012-11-14@
+1715	Australia#Australia#Australia#Australia#America#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#America#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#America#America#America#America#America#America#America#America#America#America#America#America#America#Canada#America#America#Canada#America#Australia#Australia#Australia#Australia#Australia#Australia#America#Italy#America#Italy#Italy#Italy#America#America#America#United Kingdom#United Kingdom#America#United Kingdom#America#America#America#Australia#Italy#Australia#America#Australia#Australia#Australia#America#Australia#Australia#@2012-10-24@
+1716	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-09-18@
+1717	America#America#America#@2012-11-07@
+1732	Canada#Canada#America#America#Canada#Canada#Canada#Canada#@2012-10-31@
+1733	Germany#Germany#Germany#Germany#Germany#Austria#Germany#Austria#Germany#Germany#@2012-11-07@
+1734	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2012-11-21@
+1735	America#America#America#America#America#America#America#America#America#America#Netherlands#America#America#America#China#America#@2012-11-07@
+1736	@2012-10-31@
+1737	America#America#America#America#America#@2012-10-17@
+1752	Belgium#Belgium#Belgium#America#America#America#America#Belgium#Belgium#America#Belgium#@2012-10-10@
+1753	Australia#Australia#@2012-11-28@
+1754	United Kingdom#Germany#Germany#United Kingdom#United Kingdom#United Kingdom#America#United Kingdom#America#America#America#America#America#America#America#America#America#United Kingdom#Germany#United Kingdom#United Kingdom#@2012-11-28@
+1755	@2012-10-17@
+1756	Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Argentina#Argentina#Australia#Australia#Australia#Australia#@2012-10-10@
+1757	America#America#America#America#America#America#@2012-10-17@
+1758	America#America#America#America#America#@2012-10-07@
+1786	America#America#America#America#America#China#America#America#America#America#America#America#America#America#America#America#China#America#@2012-11-28@
+1787	America#America#America#America#America#America#Netherlands#America#@2012-11-28@
+1789	America#America#America#America#America#Canada#Canada#France#America#America#@2012-12-12@
+1806	Germany#Italy#Italy#Italy#Italy#Italy#Italy#@2012-12-05@
+1807	America#Germany#America#America#America#America#America#America#America#America#America#Germany#America#@2012-12-12@
+1808	America#America#America#China#America#China#America#America#America#America#America#America#America#@2012-12-09@
+1824	America#America#America#America#@2012-11-21@
+1825	Norway#Norway#Norway#Norway#Norway#Norway#@2012-12-05@
+1836	Japan#Taiwan#Japan#Japan#Japan#@2012-12-19@
+1837	America#Poland#America#@2012-12-09@
+1854	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#America#Canada#Canada#Canada#America#Canada#Canada#Canada#@2012-11-21@
+1859	America#America#America#America#America#America#America#@2012-12-19@
+1871	Germany#Germany#Germany#America#Germany#Germany#Germany#Germany#Germany#America#America#America#America#Germany#@2012-12-05@
+1872	@2013-01-23@
+1873	America#America#America#America#America#@2012-12-12@
+1888	China#China#China#China#China#China#@2012-12-19@
+1892	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-10-24@
+1893	America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2012-12-19@
+1894	@2013-01-23@
+1923	China#America#@2013-02-06@
+1924	America#America#America#America#America#America#America#America#America#America#America#America#Netherlands#Netherlands#United Kingdom#America#America#America#America#America#America#America#Netherlands#America#@2013-01-30@
+1939	America#America#America#America#America#America#America#America#@2013-02-06@
+1954	United Kingdom#@2013-02-17@
+1970	Canada#Austria#Austria#Austria#Canada#@2013-01-13@
+1984	America#America#America#America#America#America#America#@2013-03-13@
+1985	America#America#America#America#Italy#America#America#America#America#America#America#@2013-03-06@
+1986	America#America#America#@2013-02-10@
+2001	America#America#America#America#@2013-02-20@
+2002	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2013-02-27@
+2003	United Kingdom#United Kingdom#United Kingdom#United Kingdom#@2013-03-10@
+2016	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Finland#Japan#@2013-03-27@
+2017	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Sweden#Sweden#Sweden#Sweden#Germany#Germany#America#America#America#America#America#America#America#America#America#America#America#@2013-03-03@
+2018	Austria#Austria#Austria#Germany#America#America#Austria#Austria#America#Austria#Israel#Japan#Japan#Japan#Austria#Austria#Austria#Israel#America#America#Germany#Austria#Austria#Austria#@2013-03-10@
+2019	America#America#America#America#@2013-02-27@
+2033	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#@2013-02-27@
+2034	Germany#Germany#Germany#@2013-02-03@
+2047	America#America#America#America#China#America#@2013-03-31@
+2048	America#America#America#America#America#America#America#America#America#America#@2013-04-03@
+2063	America#America#America#China#America#America#America#@2013-04-17@
+2064	Portugal#Portugal#Portugal#@2013-04-17@
+2078	America#United Kingdom#America#Hong Kong#America#America#@2013-04-03@
+2079	America#America#America#@2013-04-24@
+2080	America#America#America#America#America#India#America#America#America#America#America#America#America#America#America#America#United Kingdom#United Kingdom#America#America#America#America#America#@2013-03-06@
+2081	America#America#America#America#America#America#America#America#America#America#America#America#America#Mexico#Mexico#America#America#America#America#America#America#America#America#America#America#Malawi#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Mexico#America#America#America#@2013-04-03@
+2082	America#America#@2013-04-24@
+2088	Germany#Canada#@2013-04-03@
+2096	Japan#United Kingdom#China#Argentina#Argentina#America#Switzerland#Uruguay#United Kingdom#China#China#Canada#Argentina#Germany#Germany#China#China#China#Argentina#United Kingdom#Canada#Ireland#Argentina#Uruguay#Canada#Canada#China#China#Germany#@2013-03-13@
+2097	America#Canada#America#America#America#America#Canada#America#@2013-03-17@
+2115	United Kingdom#United Kingdom#Germany#America#Switzerland#Germany#France#Germany#Germany#Germany#Belgium#Sweden#America#America#Switzerland#Belgium#Belgium#Finland#Finland#Belgium#United Kingdom#United Kingdom#Belgium#Finland#Poland#Germany#America#Germany#Germany#Poland#Finland#Germany#Germany#Germany#Belgium#United Kingdom#Spain#Germany#Belgium#Germany#Germany#Switzerland#Germany#Belgium#United Kingdom#Germany#Switzerland#Germany#Germany#Belgium#America#Poland#@2013-05-08@
+2116	America#Canada#Japan#Switzerland#America#Canada#America#@2013-04-28@
+2117	America#America#America#America#America#America#America#America#America#@2013-05-01@
+2118	America#America#America#America#America#America#@2013-05-01@
+2131	America#America#@2013-05-08@
+2132	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2013-04-10@
+2133	America#America#America#America#America#America#America#America#America#America#@2013-05-01@
+2146	France#France#France#France#France#France#America#France#@2013-05-22@
+2147	Germany#America#America#Germany#America#America#America#@2013-05-08@
+2163	Sweden#Sweden#Sweden#Italy#Belgium#Sweden#Sweden#Sweden#Italy#Sweden#Italy#Sweden#Sweden#Sweden#Germany#Sweden#Sweden#Sweden#Sweden#America#Sweden#Sweden#Sweden#Sweden#Sweden#Sweden#Sweden#Canada#Spain#Canada#Sweden#Sweden#Germany#Sweden#Belgium#Sweden#Sweden#Canada#Sweden#Sweden#Canada#Canada#Sweden#Norway#America#Canada#Italy#Canada#Sweden#Sweden#Belgium#Sweden#Sweden#Sweden#Sweden#Sweden#@2013-05-22@
+2164	Canada#Israel#America#Canada#Canada#America#America#@2013-05-19@
+2179	@2013-05-01@
+2180	America#America#@2013-04-17@
+2181	Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2013-05-01@
+2190	America#America#America#Botswana#Botswana#Botswana#@2013-06-12@
+2191	America#America#@2013-06-05@
+2206	America#America#America#America#America#@2013-06-19@
+2207	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Japan#Canada#Japan#Canada#Canada#Canada#Canada#@2013-05-24@
+2208	America#America#America#America#America#America#America#America#America#South Korea#South Korea#America#America#America#America#America#America#America#America#America#America#@2013-05-29@
+2209	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#@2013-05-30@
+2223	America#America#@2013-06-19@
+2224	Canada#Canada#Canada#Canada#America#Canada#Canada#Canada#Canada#@2013-06-19@
+2239	China#America#America#America#France#America#America#@2013-06-05@
+2240	Germany#Germany#Germany#Germany#Germany#Germany#@2013-05-26@
+2241	United Kingdom#United Kingdom#@2013-05-26@
+2252	Canada#Canada#Ireland#Egypt#Canada#Canada#Canada#Canada#America#Canada#Canada#Canada#Canada#Canada#Australia#Canada#@2013-07-10@
+2253	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#America#America#America#America#Georgia#America#Canada#America#America#America#Canada#Canada#Georgia#America#Canada#America#America#America#America#Canada#Canada#Canada#Canada#@2013-07-10@
+2254	America#America#America#America#America#America#America#America#America#America#Belgium#America#America#Canada#America#America#America#America#America#America#America#America#America#America#America#America#Belgium#America#America#America#America#Germany#Germany#Canada#Canada#Canada#Canada#America#America#Germany#America#Canada#America#America#America#@2013-07-03@
+2268	America#America#America#America#Portugal#America#America#America#Portugal#America#America#America#America#@2013-07-17@
+2269	America#America#America#America#America#America#America#@2013-07-17@
+2270	Germany#United Kingdom#United Kingdom#United Kingdom#@2013-07-17@
+2284	America#America#America#America#America#America#America#@2013-07-17@
+2285	@2013-06-23@
+2286	America#America#Germany#America#America#America#Australia#America#America#Canada#America#America#Greece#America#America#America#Canada#America#America#America#Australia#America#@2013-07-14@
+2287	America#America#America#America#America#America#America#America#America#@2013-07-17@
+2288	America#Canada#Netherlands#America#Canada#Canada#Canada#America#America#America#America#Denmark#America#America#Canada#America#@2013-07-17@
+2300	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#@2013-06-12@
+2315	China#China#Germany#Germany#@2013-08-07@
+2316	Germany#Germany#Germany#Germany#America#Germany#@2013-08-07@
+2317	America#America#Canada#America#America#America#America#America#America#America#America#Canada#America#America#America#America#America#America#America#America#America#America#Canada#America#@2013-08-07@
+2331	America#America#America#America#America#Canada#America#America#America#America#America#America#America#America#Canada#America#America#America#@2013-07-17@
+2332	America#America#America#America#America#America#China#Germany#India#America#@2013-08-07@
+2333	America#America#@2013-07-21@
+2347	Spain#Spain#Spain#Spain#@2013-07-10@
+2348	United Kingdom#United Kingdom#United Kingdom#Canada#United Kingdom#Australia#United Kingdom#United Kingdom#Sweden#Norway#France#Germany#United Kingdom#United Kingdom#United Kingdom#Belgium#Germany#Iceland#Netherlands#United Kingdom#Japan#Germany#United Kingdom#France#America#Germany#Germany#United Kingdom#Norway#Germany#Australia#Spain#United Kingdom#America#Japan#Germany#United Kingdom#United Kingdom#Italy#Australia#Spain#United Kingdom#United Kingdom#America#Germany#Germany#Germany#Netherlands#Netherlands#United Kingdom#Japan#United Kingdom#Spain#Netherlands#Netherlands#France#Australia#United Kingdom#France#United Kingdom#United Kingdom#Germany#America#Australia#Germany#Spain#Japan#Germany#United Kingdom#United Kingdom#@2013-08-14@
+2349	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#@2013-08-21@
+2356	America#America#America#America#America#America#@2013-07-24@
+2382	America#America#America#America#@2013-09-11@
+2383	America#America#America#America#America#America#America#@2013-08-14@
+2399	Austria#Austria#Austria#Austria#Austria#@2013-08-28@
+2400	America#America#America#America#Italy#America#America#America#America#America#America#America#America#America#@2013-09-11@
+2401	America#America#Georgia#America#America#Australia#America#@2013-09-01@
+2415	America#America#@2013-09-25@
+2417	America#America#America#America#America#America#America#America#America#America#@2013-09-04@
+2419	America#Netherlands#America#America#America#America#America#America#America#America#America#South Korea#America#America#@2013-08-21@
+2433	America#America#America#America#Taiwan#America#America#America#America#America#America#America#America#@2013-08-28@
+2434	America#America#America#America#America#America#America#America#America#America#@2013-08-28@
+2449	China#China#Sweden#China#China#China#Sweden#China#China#Sweden#China#@2013-09-25@
+2450	America#France#America#America#America#France#France#America#America#America#@2013-10-02@
+2451	Japan#Japan#Denmark#Denmark#Japan#@2013-10-02@
+2464	Japan#Japan#Japan#@2013-10-16@
+2465	America#America#America#America#America#America#America#America#America#Japan#America#America#America#America#America#@2013-10-09@
+2466	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2013-10-16@
+2467	Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#@2013-09-11@
+2480	America#America#@2013-10-02@
+2481	America#America#America#America#America#America#America#@2013-10-02@
+2482	America#America#America#@2013-10-06@
+2483	Germany#Germany#Germany#Germany#France#Germany#@2013-10-13@
+2486	America#America#@2013-09-18@
+2498	Israel#United Kingdom#Israel#United Kingdom#Israel#@2013-09-25@
+2499	America#Germany#Germany#America#America#America#America#America#America#America#America#America#America#@2013-10-09@
+2500	Spain#Germany#Germany#Spain#Spain#Germany#France#Germany#Germany#@2013-10-23@
+2501	Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#@2013-09-18@
+2502	Germany#Germany#Germany#Germany#Germany#@2013-10-23@
+2533	Israel#Israel#America#America#America#Israel#Israel#Israel#America#America#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#Israel#America#America#America#America#America#America#America#@2013-10-30@
+2534	America#America#America#America#America#America#America#America#America#@2013-11-06@
+2549	America#Germany#Belgium#Sweden#America#America#America#America#America#Sweden#Finland#Canada#France#France#America#@2013-11-20@
+2550	America#America#America#America#America#America#America#@2013-09-22@
+2551	America#India#America#America#America#America#America#America#America#America#@2013-11-13@
+2552	Israel#Israel#Singapore#Israel#America#America#America#Israel#Czech Republic#America#Singapore#Italy#America#Italy#Israel#America#Israel#Singapore#@2013-10-09@
+2565	America#America#America#America#@2013-11-20@
+2566	America#America#America#America#Finland#America#America#@2013-10-13@
+2567	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#@2013-10-30@
+2581	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Australia#United Kingdom#America#@2013-11-06@
+2582	America#America#America#America#America#South Korea#America#America#America#America#America#America#America#America#America#America#@2013-10-23@
+2583	Switzerland#America#America#America#@2013-11-06@
+2584	America#America#America#@2013-09-15@
+2588	America#America#America#America#America#Germany#Germany#Belgium#Australia#Australia#Australia#India#Germany#Belgium#America#America#America#America#@2013-11-20@
+2589	America#America#America#America#@2013-12-04@
+2590	America#America#America#America#@2013-12-04@
+2604	Slovenia#Slovenia#Slovenia#@2013-12-11@
+2605	America#Germany#Germany#America#Germany#Germany#America#@2013-12-04@
+2606	America#America#Singapore#Singapore#America#America#Singapore#Singapore#America#America#America#Netherlands#Netherlands#America#America#America#America#America#America#Switzerland#Switzerland#America#America#America#America#Switzerland#Switzerland#Netherlands#Netherlands#Singapore#Singapore#Singapore#Thailand#America#Netherlands#America#Singapore#America#Singapore#America#@2013-11-27@
+2607	America#America#America#America#America#@2013-12-04@
+2621	America#America#America#America#America#America#America#Singapore#Chile#Chile#America#America#@2013-11-24@
+2622	China#China#China#China#China#China#China#China#China#China#Canada#Canada#Canada#America#America#America#China#Canada#China#China#@2013-12-11@
+2623	China#China#China#China#China#America#China#America#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#China#Japan#Japan#Japan#China#China#China#China#China#China#America#China#@2013-12-11@
+2641	Denmark#Germany#Australia#France#Germany#America#Denmark#Sweden#Spain#America#America#Denmark#Germany#Denmark#@2013-12-08@
+2642	Singapore#Singapore#Singapore#Singapore#Singapore#Germany#America#America#Japan#Japan#Singapore#Singapore#America#Canada#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Spain#Spain#Spain#America#Singapore#Singapore#America#America#Germany#America#Singapore#America#@2014-01-08@
+2643	@2013-12-25@
+2657	Iceland#Germany#Iceland#Iceland#Germany#Iceland#Iceland#Iceland#Iceland#Sweden#Germany#Germany#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Denmark#India#Denmark#Denmark#Sweden#Sweden#Iceland#Iceland#Iceland#Iceland#Iceland#@2013-12-18@
+2658	United Kingdom#United Kingdom#@2013-12-01@
+2659	Argentina#France#France#@2014-01-01@
+2660	Canada#Canada#Canada#Canada#Canada#Russia#Russia#Canada#@2014-01-08@
+2673	Germany#America#America#America#America#Germany#Germany#Germany#America#Germany#America#America#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#America#America#America#America#America#America#Austria#Georgia#France#France#America#America#America#America#America#Russia#Russia#Russia#Russia#Germany#America#America#Germany#Germany#@2013-12-18@
+2675	America#America#America#America#America#America#America#America#America#America#@2014-01-05@
+2676	France#Cambodia#America#France#France#Cambodia#Cambodia#Cambodia#France#France#Cambodia#Cambodia#Cambodia#Cambodia#Cambodia#Cambodia#Cambodia#France#Cambodia#Switzerland#France#Thailand#Switzerland#France#France#France#America#France#France#Cambodia#@2013-12-18@
+2677	America#America#America#America#America#Mexico#America#America#America#America#America#Israel#Israel#Israel#America#America#America#America#America#America#America#America#America#America#Mexico#America#America#America#Israel#America#America#America#@2013-12-18@
+2678	America#America#America#America#America#America#America#America#America#America#America#@2013-12-19@
+2679	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#@2013-12-22@
+2690	America#America#America#America#America#America#America#America#@2013-11-24@
+2694	France#France#Switzerland#Switzerland#Australia#Germany#America#Australia#Switzerland#@2014-01-19@
+2695	Japan#Japan#Japan#America#America#Japan#Japan#America#@2014-01-29@
+2696	France#France#France#France#France#France#France#France#Singapore#Canada#France#France#France#@2014-01-22@
+2722	America#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Estonia#United Kingdom#United Kingdom#United Kingdom#America#America#America#America#United Kingdom#America#America#America#America#America#United Kingdom#Finland#America#United Kingdom#America#United Kingdom#America#United Kingdom#@2014-01-22@
+2723	America#America#America#America#America#America#America#America#Sweden#Sweden#America#America#America#Belgium#Sweden#America#America#America#America#America#United Kingdom#America#America#America#America#Sweden#America#America#America#@2014-01-22@
+2724	America#America#America#America#America#America#America#America#@2014-01-12@
+2738	Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#Spain#@2014-02-12@
+2739	Australia#Australia#Australia#Australia#@2014-01-26@
+2741	Korea#America#America#Korea#Korea#America#America#America#@2014-02-12@
+2754	Canada#Germany#Germany#Germany#Canada#Germany#Canada#Canada#Canada#Canada#Lebanon#Canada#Germany#Germany#Germany#America#Germany#America#Canada#Canada#Canada#Canada#Germany#Canada#Canada#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Canada#Germany#Canada#Canada#Canada#Canada#Canada#Canada#America#America#Netherlands#Canada#Canada#Germany#Canada#Canada#Canada#Canada#Canada#Canada#Canada#America#America#Italy#America#America#Poland#Canada#Germany#Germany#Germany#Canada#America#America#Germany#America#America#America#Canada#Canada#Canada#Canada#Canada#America#Canada#Canada#Canada#Germany#Canada#America#Canada#Germany#Germany#Canada#Germany#Germany#Canada#@2014-02-19@
+2755	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2014-02-19@
+2756	America#America#America#America#America#America#America#America#America#America#America#@2014-02-19@
+2770	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#@2014-01-29@
+2771	Germany#Japan#Germany#Germany#Germany#Japan#Germany#Germany#Germany#Germany#America#Germany#Switzerland#Germany#Japan#Germany#Germany#Germany#Japan#Japan#Germany#Japan#Germany#@2014-01-29@

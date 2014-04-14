@@ -1,0 +1,3358 @@
+1	America@Italy@	1996-12-26
+2	America@America@Sweden@	1996-12-26
+3	United Kingdom@Netherlands@Japan@United Kingdom@	1996-12-26
+4	United Kingdom@Sweden@America@	1996-12-26
+5	America@Norway@	1996-12-26
+6	America@	1996-12-26
+7	United Kingdom@	1996-12-26
+8	America@America@	1996-12-26
+9	America@France@America@America@	1996-12-12
+10	America@America@America@United Kingdom@	1996-12-12
+11	America@America@America@	1996-12-12
+12	America@United Kingdom@America@	1996-12-12
+13	Japan@	1996-12-12
+14	India@India@	1996-12-12
+15	America@America@America@Canada@Canada@	1996-12-12
+16	America@America@United Kingdom@	1996-12-12
+17	Japan@Japan@	1996-12-12
+18	Israel@America@America@America@	1996-12-12
+19	America@America@America@	1996-12-12
+20	France@America@United Kingdom@	1996-12-12
+21	America@America@America@	1996-12-12
+22	America@America@America@	1996-12-12
+24	Germany@France@	1996-12-12
+25	Switzerland@America@	1996-12-12
+26	Switzerland@America@Germany@	1996-12-12
+27	Germany@Germany@United Kingdom@	1996-12-12
+28	Germany@Greece@Germany@Finland@Australia@	1996-12-05
+29	America@America@America@	1996-12-05
+30	Germany@United Kingdom@America@United Kingdom@United Kingdom@	1996-12-05
+31	Germany@United Kingdom@	1996-12-05
+32	China@France@China@France@France@	1996-12-05
+33	Norway@America@America@America@	1996-12-05
+34	America@India@Russia@Russia@Russia@Kyrgyzstan@	1996-12-05
+35	America@Canada@	1996-12-05
+36	America@United Kingdom@France@Japan@United Kingdom@Japan@Denmark@United Kingdom@India@France@	1996-12-05
+37	America@America@America@	1996-12-05
+38	America@	1996-12-05
+39	Germany@	1996-12-05
+40	America@	1996-12-05
+41	America@America@America@America@America@America@	1996-12-05
+42	America@	1996-12-05
+43	France@France@	1996-12-05
+44	France@France@	1996-12-05
+45	America@	1996-12-05
+46	America@America@America@	1996-11-28
+47	America@America@America@	1996-11-28
+48	Australia@Austria@	1996-11-28
+49	America@America@America@	1996-11-28
+50	United Kingdom@United Kingdom@	1996-11-28
+51	America@America@	1996-11-28
+52	America@	1996-11-28
+53	United Kingdom@	1996-11-28
+54	Japan@Japan@	1996-11-28
+55	America@America@	1996-11-28
+56	America@America@Germany@Netherlands@	1996-11-28
+57	United Kingdom@	1996-11-28
+58	France@Switzerland@	1996-11-28
+59	America@Japan@	1996-11-28
+60	Singapore@America@	1996-11-28
+61	America@	1996-11-28
+62	United Kingdom@United Kingdom@	1996-11-28
+63	America@America@Netherlands@France@	1996-11-21
+64	Netherlands@America@United Kingdom@	1996-11-21
+65	America@	1996-11-21
+66	America@Korea@America@America@America@	1996-11-21
+67	Japan@United Kingdom@Japan@Japan@	1996-11-21
+68	America@Israel@America@France@France@Germany@	1996-11-21
+69	Australia@	1996-11-21
+70	Netherlands@Norway@Netherlands@America@	1996-11-21
+71	America@America@America@Canada@Canada@	1996-11-21
+72	America@America@	1996-11-21
+73	America@America@	1996-11-21
+74	China@France@	1996-11-21
+75	America@Japan@	1996-11-21
+76	America@	1996-11-21
+77	Japan@United Kingdom@	1996-11-21
+78	France@	1996-11-21
+79	America@	1996-11-21
+80	Canada@Canada@	1996-11-21
+81	America@America@Switzerland@Switzerland@America@	1996-11-14
+82	America@Canada@America@	1996-11-14
+83	Switzerland@Canada@Canada@America@	1996-11-14
+84	America@	1996-11-14
+85	Israel@America@	1996-11-14
+86	America@	1996-11-14
+87	China@United Kingdom@	1996-11-14
+88	America@	1996-11-14
+89	America@	1996-11-14
+90	America@	1996-11-14
+91	America@	1996-11-14
+92	Germany@Germany@	1996-11-14
+93	America@America@	1996-11-14
+94	America@Israel@America@Italy@Mali@America@	1996-11-14
+95	America@America@America@America@	1996-11-14
+96	America@Colombia@Argentina@America@India@America@Switzerland@	1996-11-14
+97	Switzerland@America@Switzerland@Spain@	1996-11-07
+98	America@America@America@America@	1996-11-07
+99	Norway@Switzerland@America@Russia@	1996-11-07
+100	France@Russia@Germany@	1996-11-07
+101	America@United Kingdom@	1996-11-07
+102	America@America@Australia@United Kingdom@	1996-11-07
+103	United Kingdom@Germany@	1996-11-07
+104	America@	1996-11-07
+105	America@	1996-11-07
+106	Switzerland@	1996-11-07
+107	America@America@America@	1996-11-07
+108	America@	1996-11-07
+109	France@	1996-11-07
+110	America@	1996-11-07
+111	America@	1996-11-07
+112	Norway@America@	1996-11-07
+113	United Kingdom@	1996-10-31
+114	America@	1996-10-31
+115	America@America@America@America@	1996-10-31
+116	United Kingdom@	1996-10-31
+117	Norway@Denmark@Denmark@	1996-10-31
+118	Australia@Lithuania@Sweden@	1996-10-31
+119	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-10-31
+120	America@America@	1996-10-31
+121	Spain@France@India@France@United Kingdom@France@India@France@	1996-10-31
+122	United Kingdom@United Kingdom@United Kingdom@	1996-10-31
+123	America@	1996-10-31
+124	America@	1996-10-31
+125	America@	1996-10-31
+126	America@America@America@America@	1996-10-31
+127	America@America@	1996-10-31
+128	United Kingdom@United Kingdom@United Kingdom@	1996-10-24
+129	America@	1996-10-24
+130	Russia@	1996-10-24
+131	United Kingdom@United Kingdom@	1996-10-24
+132	France@France@America@	1996-10-24
+133	America@America@America@America@America@	1996-10-24
+134	France@France@France@France@Switzerland@France@	1996-10-24
+135	America@America@France@America@	1996-10-24
+136	America@	1996-10-24
+137	America@America@	1996-10-24
+138	America@America@Germany@	1996-10-24
+139	Canada@America@Canada@America@	1996-10-24
+140	Germany@	1996-10-24
+141	America@	1996-10-24
+142	China@France@	1996-10-24
+143	Italy@Switzerland@	1996-10-24
+144	Australia@Netherlands@Canada@Norway@Norway@Canada@	1996-10-17
+145	Japan@Japan@Japan@	1996-10-17
+146	America@America@America@Chile@America@Canada@	1996-10-17
+147	America@America@America@France@	1996-10-17
+148	America@Germany@	1996-10-17
+150	America@Georgia@	1996-10-17
+151	America@	1996-10-17
+152	Georgia@America@	1996-10-17
+153	America@America@United Kingdom@United Kingdom@	1996-10-17
+154	America@Finland@	1996-10-17
+155	United Kingdom@	1996-10-17
+156	America@	1996-10-17
+157	America@	1996-10-17
+158	America@America@India@	1996-10-17
+159	America@	1996-10-17
+160	America@America@	1996-10-17
+161	America@America@America@United Kingdom@America@Mexico@Poland@America@Mexico@	1996-10-10
+162	United Kingdom@United Kingdom@Slovakia@	1996-10-10
+163	Denmark@	1996-10-10
+164	America@Poland@	1996-10-10
+165	Poland@America@	1996-10-10
+166	United Kingdom@Poland@	1996-10-10
+167	America@America@Austria@	1996-10-10
+168	United Kingdom@	1996-10-10
+169	United Kingdom@United Kingdom@Australia@United Kingdom@	1996-10-10
+170	America@America@	1996-10-10
+171	America@Germany@	1996-10-10
+172	America@America@	1996-10-10
+173	America@America@Georgia@	1996-10-10
+174	Switzerland@Switzerland@Switzerland@	1996-10-10
+175	America@	1996-10-10
+176	Canada@America@	1996-10-10
+177	United Kingdom@United Kingdom@	1996-10-10
+178	America@America@	1996-10-10
+179	America@America@	1996-10-03
+180	Germany@	1996-10-03
+181	America@France@Australia@America@America@Canada@America@	1996-10-03
+182	Canada@	1996-10-03
+183	America@	1996-10-03
+184	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-10-03
+185	America@America@	1996-10-03
+186	Germany@	1996-10-03
+187	America@America@	1996-10-03
+188	America@	1996-10-03
+189	America@	1996-10-03
+190	America@Japan@	1996-10-03
+191	America@America@	1996-10-03
+192	America@America@America@	1996-10-03
+193	America@United Kingdom@Japan@	1996-10-03
+194	India@America@United Kingdom@Ireland@America@America@Ireland@	1996-09-26
+195	United Kingdom@America@	1996-09-26
+196	America@Israel@Israel@	1996-09-26
+197	Germany@Canada@Germany@	1996-09-26
+198	Canada@America@	1996-09-26
+199	America@	1996-09-26
+200	America@	1996-09-26
+201	America@	1996-09-26
+202	Germany@	1996-09-26
+203	America@Switzerland@	1996-09-26
+204	America@America@	1996-09-26
+205	India@	1996-09-26
+206	America@	1996-09-26
+207	America@	1996-09-26
+208	America@America@America@America@	1996-09-19
+209	United Kingdom@Spain@	1996-09-19
+210	America@America@	1996-09-19
+211	America@America@America@America@	1996-09-19
+213	United Kingdom@Australia@United Kingdom@United Kingdom@Australia@	1996-09-19
+214	America@	1996-09-19
+215	United Kingdom@	1996-09-19
+216	America@	1996-09-19
+217	United Kingdom@United Kingdom@	1996-09-19
+218	America@America@	1996-09-19
+219	Germany@Germany@Germany@America@	1996-09-19
+220	America@America@America@Canada@	1996-09-19
+221	America@Canada@	1996-09-19
+222	America@	1996-09-19
+223	America@	1996-09-19
+224	France@Italy@	1996-09-12
+225	America@America@America@	1996-09-12
+226	United Kingdom@	1996-09-12
+227	America@America@	1996-09-12
+228	America@America@America@	1996-09-12
+229	Germany@	1996-09-12
+230	America@	1996-09-12
+231	Belgium@Switzerland@Belgium@	1996-09-12
+232	Germany@Spain@	1996-09-12
+233	America@	1996-09-12
+234	America@America@	1996-09-12
+235	America@America@	1996-09-12
+236	America@	1996-09-12
+237	America@America@India@	1996-09-12
+238	America@	1996-09-12
+239	America@America@America@	1996-09-12
+240	America@America@America@America@	1996-09-05
+241	Singapore@America@America@	1996-09-05
+242	France@France@	1996-09-05
+243	America@America@America@Germany@	1996-09-05
+245	Italy@Germany@Germany@Australia@	1996-09-05
+246	America@Australia@America@America@America@	1996-09-05
+247	China@France@China@France@	1996-09-05
+248	America@America@America@America@	1996-09-05
+249	Belgium@Canada@Germany@France@Belgium@Germany@	1996-09-05
+250	Germany@Germany@	1996-09-05
+251	America@America@	1996-09-05
+252	America@America@	1996-09-05
+253	Israel@	1996-09-05
+254	Japan@Japan@	1996-09-05
+255	America@Germany@	1996-09-05
+256	America@America@	1996-09-05
+257	America@	1996-09-05
+258	Israel@Germany@America@	1996-08-29
+259	United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@	1996-08-29
+260	Canada@	1996-08-29
+261	America@America@	1996-08-29
+262	America@Ecuador@	1996-08-29
+263	Germany@Germany@Germany@	1996-08-29
+264	Switzerland@Switzerland@	1996-08-29
+265	America@Canada@America@Poland@	1996-08-29
+266	Germany@Sweden@	1996-08-29
+267	Israel@	1996-08-29
+268	America@America@America@	1996-08-29
+269	America@America@America@America@	1996-08-29
+270	Japan@Japan@Japan@Canada@Japan@Japan@Israel@	1996-08-29
+271	China@France@America@	1996-08-29
+272	America@America@	1996-08-29
+273	United Kingdom@United Kingdom@	1996-08-29
+274	America@America@Italy@Canada@	1996-08-29
+275	France@Canada@Switzerland@	1996-08-29
+276	America@America@America@Italy@Germany@	1996-08-22
+277	America@America@	1996-08-22
+278	United Kingdom@	1996-08-22
+279	America@America@	1996-08-22
+280	America@	1996-08-22
+281	Australia@Australia@Australia@Australia@	1996-08-22
+282	America@America@	1996-08-22
+283	Finland@Finland@	1996-08-22
+284	America@America@America@America@	1996-08-22
+285	America@America@America@America@America@Netherlands@	1996-08-22
+286	America@	1996-08-22
+287	France@America@	1996-08-22
+288	Iran@Belgium@America@France@India@France@Belgium@Japan@America@	1996-08-22
+289	Switzerland@Switzerland@	1996-08-22
+290	America@	1996-08-22
+291	America@	1996-08-22
+292	America@America@	1996-08-22
+293	America@America@	1996-08-15
+294	America@America@America@America@	1996-08-15
+295	United Kingdom@United Kingdom@	1996-08-15
+296	America@	1996-08-15
+297	America@America@	1996-08-15
+298	France@America@	1996-08-15
+299	Norway@America@	1996-08-15
+300	Germany@	1996-08-15
+301	America@America@	1996-08-15
+302	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-08-15
+303	Japan@	1996-08-15
+304	Japan@	1996-08-15
+305	Japan@Japan@Japan@Japan@Japan@	1996-08-15
+306	Germany@Germany@America@	1996-08-15
+307	America@America@America@	1996-08-15
+308	Germany@Germany@America@	1996-08-15
+309	America@United Kingdom@America@America@	1996-08-15
+310	America@	1996-08-08
+311	Mexico@America@	1996-08-08
+312	America@	1996-08-08
+313	Japan@Japan@	1996-08-08
+314	America@	1996-08-08
+315	America@	1996-08-08
+316	America@America@America@	1996-08-08
+317	United Kingdom@America@	1996-08-08
+318	America@	1996-08-08
+319	Germany@America@	1996-08-08
+320	America@America@America@America@Japan@	1996-08-08
+321	America@America@America@	1996-08-08
+322	United Kingdom@	1996-08-08
+323	America@	1996-08-08
+324	America@Netherlands@	1996-08-08
+325	America@	1996-08-08
+326	America@	1996-08-01
+327	Germany@	1996-08-01
+328	Japan@America@Japan@Japan@Japan@	1996-08-01
+329	France@France@France@United Kingdom@America@France@	1996-08-01
+330	America@America@	1996-08-01
+331	Germany@Germany@	1996-08-01
+332	America@America@	1996-08-01
+333	France@	1996-08-01
+334	Spain@America@	1996-08-01
+335	America@America@	1996-08-01
+336	America@America@America@America@America@America@	1996-08-01
+337	United Kingdom@	1996-08-01
+338	America@	1996-08-01
+339	Germany@	1996-08-01
+340	America@America@	1996-08-01
+341	America@	1996-08-01
+342	Germany@	1996-08-01
+343	America@	1996-08-01
+344	America@Japan@	1996-07-25
+345	America@	1996-07-25
+346	France@United Kingdom@	1996-07-25
+347	Finland@Russia@United Kingdom@Mexico@Russia@France@	1996-07-25
+348	United Kingdom@United Kingdom@France@	1996-07-25
+349	America@Israel@	1996-07-25
+350	Germany@	1996-07-25
+351	Germany@Germany@	1996-07-25
+352	Canada@Canada@China@	1996-07-25
+353	Turkey@United Kingdom@Finland@America@Turkey@	1996-07-25
+354	America@Greece@Greece@Greece@Greece@Greece@Greece@	1996-07-25
+355	America@	1996-07-25
+356	America@America@	1996-07-25
+357	America@Canada@France@Germany@America@	1996-07-25
+358	America@America@	1996-07-25
+359	Germany@Germany@America@New Zealand@	1996-07-25
+360	America@	1996-07-25
+361	America@	1996-07-25
+362	America@	1996-07-18
+363	America@America@	1996-07-18
+364	America@United Kingdom@	1996-07-18
+365	America@America@America@Norway@	1996-07-18
+366	America@America@Denmark@	1996-07-18
+367	America@	1996-07-18
+368	China@France@France@France@France@China@France@France@French Polynesia@Monaco@	1996-07-18
+369	America@	1996-07-18
+370	United Kingdom@United Kingdom@United Kingdom@	1996-07-18
+371	Israel@America@	1996-07-18
+372	America@America@America@	1996-07-18
+373	Italy@Italy@Italy@	1996-07-18
+374	United Kingdom@Switzerland@	1996-07-18
+375	America@America@America@Singapore@	1996-07-18
+376	Finland@United Kingdom@	1996-07-18
+377	America@	1996-07-18
+378	America@America@America@	1996-07-18
+379	America@America@America@America@	1996-07-18
+380	America@	1996-07-18
+381	Germany@America@	1996-07-11
+382	America@	1996-07-11
+383	America@America@	1996-07-11
+384	America@America@	1996-07-11
+385	Germany@Sweden@Sweden@	1996-07-11
+386	America@Norway@	1996-07-11
+387	America@America@	1996-07-11
+388	America@	1996-07-11
+389	America@America@America@	1996-07-11
+390	America@America@	1996-07-11
+391	America@	1996-07-11
+392	America@	1996-07-11
+393	America@Switzerland@	1996-07-11
+394	America@America@Japan@	1996-07-11
+395	America@America@America@	1996-07-11
+396	America@	1996-07-11
+397	Switzerland@Switzerland@	1996-07-11
+398	America@America@	1996-07-11
+399	America@America@United Kingdom@United Kingdom@Australia@Norway@	1996-07-04
+400	Germany@Germany@	1996-07-04
+401	America@America@	1996-07-04
+402	America@America@Japan@India@Japan@Japan@America@	1996-07-04
+403	America@Germany@Japan@	1996-07-04
+404	America@	1996-07-04
+405	America@America@Norway@	1996-07-04
+406	United Kingdom@United Kingdom@Sweden@	1996-07-04
+407	America@America@America@	1996-07-04
+408	America@Spain@	1996-07-04
+409	America@America@Australia@Finland@Finland@	1996-07-04
+410	America@America@	1996-07-04
+411	America@India@France@United Kingdom@Japan@	1996-07-04
+412	America@	1996-07-04
+413	United Kingdom@United Kingdom@United Kingdom@France@	1996-07-04
+414	Germany@United Kingdom@	1996-07-04
+415	America@Spain@	1996-06-27
+416	America@America@America@	1996-06-27
+417	America@	1996-06-27
+418	Switzerland@Switzerland@Germany@Switzerland@Switzerland@	1996-06-27
+419	America@	1996-06-27
+420	Japan@	1996-06-27
+421	Canada@	1996-06-27
+422	Australia@Australia@Australia@	1996-06-27
+423	America@Germany@United Kingdom@	1996-06-27
+424	America@	1996-06-27
+425	Sweden@United Kingdom@America@Finland@	1996-06-27
+426	United Kingdom@Finland@Costa Rica@America@Finland@	1996-06-27
+427	America@	1996-06-27
+428	America@	1996-06-27
+429	America@America@America@	1996-06-27
+430	Korea@	1996-06-27
+431	America@China@France@	1996-06-27
+432	Canada@America@America@America@America@	1996-06-20
+433	America@America@	1996-06-20
+434	South Africa@America@America@	1996-06-20
+435	Switzerland@Switzerland@Switzerland@	1996-06-20
+436	America@America@	1996-06-20
+437	America@	1996-06-20
+438	Russia@United Kingdom@United Kingdom@United Kingdom@Russia@	1996-06-20
+439	America@	1996-06-20
+440	America@	1996-06-20
+441	America@America@	1996-06-20
+442	America@	1996-06-20
+443	America@America@	1996-06-20
+444	America@America@America@	1996-06-20
+445	America@America@	1996-06-20
+446	Canada@Canada@	1996-06-20
+447	America@	1996-06-20
+448	United Kingdom@United Kingdom@America@America@America@	1996-06-13
+449	America@Australia@Australia@Australia@Slovakia@	1996-06-13
+450	Canada@Canada@	1996-06-13
+451	United Kingdom@	1996-06-13
+452	America@America@America@	1996-06-13
+453	Italy@Sweden@Italy@Italy@	1996-06-13
+454	United Kingdom@	1996-06-13
+455	America@	1996-06-13
+456	America@America@	1996-06-13
+457	America@	1996-06-13
+458	America@Germany@	1996-06-13
+459	America@United Kingdom@America@	1996-06-13
+460	America@America@	1996-06-13
+461	Germany@	1996-06-13
+462	Slovakia@	1996-06-06
+463	United Kingdom@	1996-06-06
+464	America@United Kingdom@United Kingdom@	1996-06-06
+465	America@	1996-06-06
+466	America@Switzerland@Switzerland@	1996-06-06
+467	United Kingdom@	1996-06-06
+468	America@	1996-06-06
+469	America@United Kingdom@	1996-06-06
+470	America@	1996-06-06
+471	Germany@Spain@Taiwan@	1996-05-30
+472	Germany@America@America@America@America@America@Sweden@Germany@United Kingdom@Germany@Netherlands@	1996-05-30
+473	America@Mexico@	1996-05-30
+474	United Kingdom@United Kingdom@China@	1996-05-30
+475	Georgia@Georgia@Georgia@Germany@Canada@Georgia@Canada@	1996-05-30
+476	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-05-30
+477	United Kingdom@America@	1996-05-30
+478	America@United Kingdom@	1996-05-30
+479	America@	1996-05-30
+480	America@America@America@	1996-05-30
+481	United Kingdom@Greece@Germany@Germany@	1996-05-30
+482	United Kingdom@	1996-05-30
+483	America@	1996-05-30
+484	Georgia@America@	1996-05-30
+485	Japan@United Kingdom@	1996-05-30
+486	America@Switzerland@	1996-05-30
+487	Spain@America@America@	1996-05-23
+488	America@America@	1996-05-23
+489	America@America@America@America@	1996-05-23
+490	India@	1996-05-23
+491	America@America@America@	1996-05-23
+492	America@America@New Zealand@	1996-05-23
+493	America@Brazil@	1996-05-23
+494	United Kingdom@United Kingdom@	1996-05-23
+495	Germany@United Kingdom@America@	1996-05-23
+496	United Kingdom@United Kingdom@	1996-05-23
+497	America@	1996-05-23
+498	America@Japan@Canada@America@America@	1996-05-23
+499	France@	1996-05-23
+500	America@America@	1996-05-23
+501	America@America@America@Canada@	1996-05-23
+502	Germany@Switzerland@Switzerland@United Kingdom@	1996-05-23
+503	America@	1996-05-16
+504	America@Switzerland@	1996-05-16
+505	Switzerland@	1996-05-16
+506	America@	1996-05-16
+507	America@Germany@	1996-05-16
+508	Australia@Australia@	1996-05-16
+509	France@United Kingdom@France@Netherlands@France@	1996-05-16
+510	America@America@	1996-05-16
+511	Sweden@America@	1996-05-16
+512	America@	1996-05-16
+513	America@Switzerland@Switzerland@	1996-05-16
+514	America@America@America@	1996-05-16
+515	America@	1996-05-16
+516	America@America@America@	1996-05-16
+517	Germany@America@	1996-05-16
+518	America@	1996-05-16
+519	Switzerland@Switzerland@	1996-05-09
+520	Netherlands@United Kingdom@United Kingdom@	1996-05-09
+521	Sweden@	1996-05-09
+522	Japan@Japan@United Kingdom@United Kingdom@	1996-05-09
+523	Canada@Canada@Canada@Canada@	1996-05-09
+524	Australia@Australia@	1996-05-09
+526	Germany@America@America@	1996-05-09
+527	Japan@Japan@Japan@Japan@Japan@Japan@Japan@	1996-05-09
+528	America@	1996-05-09
+529	America@America@America@America@Japan@	1996-05-09
+530	America@America@	1996-05-09
+531	America@New Zealand@	1996-05-09
+532	Germany@Germany@Germany@Germany@	1996-05-09
+533	United Kingdom@France@France@	1996-05-09
+534	America@America@America@	1996-05-02
+535	America@France@	1996-05-02
+536	America@America@	1996-05-02
+537	America@America@	1996-05-02
+538	France@China@France@	1996-05-02
+539	America@	1996-05-02
+540	America@America@	1996-05-02
+541	United Kingdom@United Kingdom@Latvia@Latvia@	1996-05-02
+542	America@America@America@	1996-05-02
+543	United Kingdom@	1996-05-02
+544	America@	1996-05-02
+545	Germany@	1996-05-02
+546	Germany@Germany@	1996-05-02
+547	China@China@France@Costa Rica@France@	1996-05-02
+548	France@	1996-05-02
+549	America@America@America@America@America@	1996-05-02
+550	United Kingdom@United Kingdom@Brazil@	1996-05-02
+551	Russia@United Kingdom@Belarus@	1996-04-25
+552	Canada@Canada@	1996-04-25
+553	France@Italy@	1996-04-25
+554	Japan@Japan@	1996-04-25
+555	Canada@Canada@	1996-04-25
+556	America@Canada@Canada@America@America@	1996-04-25
+557	America@	1996-04-25
+558	United Kingdom@America@	1996-04-25
+559	America@	1996-04-25
+560	America@America@Ukraine@	1996-04-25
+561	Japan@	1996-04-25
+562	Netherlands@Netherlands@Netherlands@France@Netherlands@	1996-04-25
+563	Sweden@Canada@Sweden@	1996-04-25
+564	Canada@Netherlands@	1996-04-25
+565	America@America@America@America@	1996-04-25
+566	Japan@America@Japan@	1996-04-25
+567	America@America@	1996-04-25
+568	America@	1996-04-25
+569	United Kingdom@United Kingdom@	1996-04-18
+570	Canada@America@	1996-04-18
+571	America@Canada@	1996-04-18
+572	United Kingdom@Japan@	1996-04-18
+573	America@America@America@	1996-04-18
+574	Colombia@	1996-04-18
+575	America@America@America@America@	1996-04-18
+576	South Africa@United Kingdom@	1996-04-18
+577	America@	1996-04-18
+578	Austria@America@Israel@America@	1996-04-18
+579	Japan@Japan@Japan@Japan@	1996-04-18
+580	America@America@	1996-04-18
+581	America@Israel@	1996-04-18
+582	Australia@America@Georgia@Slovenia@	1996-04-18
+583	Switzerland@Switzerland@Switzerland@Switzerland@Switzerland@United Kingdom@	1996-04-18
+584	America@America@	1996-04-18
+585		1996-04-18
+586	America@America@	1996-04-11
+587	Germany@	1996-04-11
+588	United Kingdom@	1996-04-11
+589	America@	1996-04-11
+590	Israel@	1996-04-11
+591	Italy@America@Italy@	1996-04-11
+592	America@Denmark@Germany@	1996-04-11
+593	Japan@	1996-04-11
+594	America@Japan@	1996-04-11
+595	Japan@Japan@Japan@Switzerland@	1996-04-11
+596	America@	1996-04-11
+597	America@America@	1996-04-11
+598	America@	1996-04-11
+599	America@America@	1996-04-11
+600	America@America@	1996-04-11
+601	America@America@Germany@	1996-04-11
+602	America@	1996-04-11
+603	America@	1996-04-11
+604	France@United Kingdom@France@	1996-04-04
+605	France@France@China@France@China@France@	1996-04-04
+606	America@America@America@America@America@	1996-04-04
+607	America@	1996-04-04
+608	Colombia@America@Colombia@	1996-04-04
+609	America@	1996-04-04
+610	America@	1996-04-04
+611	China@	1996-04-04
+612	Canada@	1996-04-04
+613	United Kingdom@Germany@	1996-04-04
+614	Belgium@Germany@Canada@Canada@	1996-04-04
+615	America@America@	1996-04-04
+616	America@	1996-04-04
+617	America@	1996-04-04
+618	Japan@America@Japan@	1996-04-04
+619	America@America@	1996-04-04
+620	America@Italy@America@India@	1996-04-04
+621	America@America@Japan@America@	1996-03-28
+622	Australia@United Kingdom@New Zealand@Australia@	1996-03-28
+623	America@	1996-03-28
+624	Japan@	1996-03-28
+625	Russia@United Kingdom@	1996-03-28
+626	Colombia@Colombia@	1996-03-28
+627	France@France@Syria@France@	1996-03-28
+628	America@	1996-03-28
+629	America@America@America@	1996-03-28
+630	America@	1996-03-28
+631	Germany@	1996-03-28
+632	America@	1996-03-28
+633	Switzerland@America@America@America@America@	1996-03-28
+634	America@America@America@America@	1996-03-28
+635	Canada@Canada@Japan@America@	1996-03-28
+636	America@	1996-03-28
+637	America@America@	1996-03-21
+638	America@	1996-03-21
+639	America@America@	1996-03-21
+640	Netherlands@	1996-03-21
+641	America@America@	1996-03-21
+642	Germany@	1996-03-21
+643	India@	1996-03-21
+644	America@Israel@America@America@Denmark@	1996-03-21
+645	America@	1996-03-21
+646	America@	1996-03-21
+647	America@America@America@	1996-03-21
+648	Georgia@	1996-03-21
+649	America@Mexico@	1996-03-21
+650	America@America@	1996-03-21
+651	Canada@	1996-03-21
+652	Finland@	1996-03-21
+653	America@America@France@America@America@	1996-03-14
+654	America@America@	1996-03-14
+655	France@France@Spain@	1996-03-14
+656	United Kingdom@Brazil@	1996-03-14
+657	Japan@Japan@	1996-03-14
+658	United Kingdom@Belgium@United Kingdom@United Kingdom@	1996-03-14
+659	Germany@	1996-03-14
+660	America@America@America@	1996-03-14
+661	France@France@Canada@	1996-03-14
+662	America@	1996-03-14
+663	United Kingdom@	1996-03-14
+664	France@Finland@	1996-03-14
+665	Germany@Germany@	1996-03-14
+666	America@	1996-03-14
+667	America@America@	1996-03-14
+668	Germany@Germany@Germany@	1996-03-14
+669	America@	1996-03-14
+670	Switzerland@America@America@	1996-03-07
+671	America@	1996-03-07
+672	Hungary@	1996-03-07
+673	India@Norway@America@America@	1996-03-07
+674	America@France@America@	1996-03-07
+675	United Kingdom@America@	1996-03-07
+676	America@	1996-03-07
+677	America@	1996-03-07
+678	United Kingdom@	1996-03-07
+679	America@Spain@	1996-03-07
+680	United Kingdom@United Kingdom@	1996-03-07
+681	Japan@America@America@America@America@America@	1996-03-07
+682	America@America@America@America@America@Netherlands@	1996-03-07
+683	America@America@	1996-03-07
+684	America@America@	1996-03-07
+685	America@America@Switzerland@	1996-03-07
+686	America@Morocco@Morocco@	1996-02-29
+687	United Kingdom@Canada@	1996-02-29
+688	America@Spain@Netherlands@America@America@	1996-02-29
+689	India@United Kingdom@Spain@United Kingdom@	1996-02-29
+690	America@Israel@America@	1996-02-29
+691	Germany@	1996-02-29
+692	Denmark@Denmark@Denmark@Denmark@Iceland@	1996-02-29
+693	Australia@	1996-02-29
+694	America@	1996-02-29
+695	United Kingdom@	1996-02-29
+696	France@France@America@United Kingdom@France@Sweden@France@Belgium@France@Denmark@France@China@France@	1996-02-29
+697	America@	1996-02-29
+698	United Kingdom@America@Italy@Netherlands@United Kingdom@Sweden@China@France@	1996-02-29
+699	America@Sweden@	1996-02-29
+700	America@America@	1996-02-29
+701	America@	1996-02-29
+702	America@	1996-02-29
+703	America@America@Australia@	1996-02-29
+704	America@Taiwan@	1996-02-22
+705	America@	1996-02-22
+706	Germany@America@	1996-02-22
+707	Canada@Canada@America@	1996-02-22
+708	Canada@Canada@	1996-02-22
+709	America@America@	1996-02-22
+711	America@America@Puerto Rico@America@	1996-02-22
+712	America@Canada@	1996-02-22
+713	America@	1996-02-22
+714	America@	1996-02-22
+715	America@	1996-02-22
+716	Germany@	1996-02-22
+717	America@America@America@	1996-02-22
+718	America@America@America@America@	1996-02-22
+719	United Kingdom@Costa Rica@United Kingdom@	1996-02-22
+720	America@	1996-02-22
+721	Germany@Switzerland@	1996-02-22
+722	America@	1996-02-15
+723	America@America@India@France@	1996-02-15
+724	America@America@America@	1996-02-15
+725	America@United Kingdom@United Kingdom@	1996-02-15
+726	America@	1996-02-15
+727	America@America@America@	1996-02-15
+728	America@Australia@	1996-02-15
+729	United Kingdom@Sweden@	1996-02-15
+730	China@France@Switzerland@	1996-02-15
+731	America@	1996-02-15
+732	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-02-15
+733	Germany@	1996-02-15
+734	America@United Kingdom@	1996-02-15
+735	Canada@Israel@Israel@	1996-02-15
+736	America@	1996-02-15
+737	America@	1996-02-15
+738	America@America@	1996-02-15
+739	America@America@America@America@America@	1996-02-08
+740	France@France@	1996-02-08
+741	China@France@South Africa@Mexico@Netherlands@	1996-02-08
+742	Italy@France@	1996-02-08
+743	Switzerland@Costa Rica@	1996-02-08
+744	America@America@	1996-02-08
+745	France@	1996-02-08
+746	Canada@United Kingdom@	1996-02-08
+747	Australia@Australia@America@Canada@	1996-02-08
+748	United Kingdom@	1996-02-08
+749	America@America@	1996-02-08
+750	Canada@Canada@	1996-02-08
+751	United Kingdom@United Kingdom@	1996-02-08
+752	America@	1996-02-08
+753	America@America@America@	1996-02-08
+754	Germany@	1996-02-08
+755	America@America@	1996-02-08
+756	America@America@	1996-02-01
+757	Japan@Japan@Japan@Japan@	1996-02-01
+758	America@United Kingdom@Finland@America@	1996-02-01
+759	France@France@	1996-02-01
+760	America@Norway@America@	1996-02-01
+761	Mexico@America@	1996-02-01
+762	Germany@Switzerland@Germany@	1996-02-01
+763	Tanzania@Switzerland@America@America@Kenya@United Kingdom@United Kingdom@Switzerland@Tanzania@Tanzania@America@	1996-02-01
+764	United Kingdom@United Kingdom@Germany@America@Italy@Canada@Sweden@	1996-02-01
+765	Switzerland@United Kingdom@	1996-02-01
+766	America@	1996-02-01
+767	America@	1996-02-01
+768	America@	1996-02-01
+769	Germany@	1996-02-01
+770	America@	1996-02-01
+771	Germany@Germany@Germany@Greece@	1996-02-01
+772	America@America@America@	1996-01-25
+773	America@	1996-01-25
+774	France@France@America@United Kingdom@France@United Kingdom@Germany@	1996-01-25
+775	America@	1996-01-25
+776	United Kingdom@	1996-01-25
+777	America@Canada@	1996-01-25
+779	America@America@	1996-01-25
+780	Switzerland@Switzerland@Switzerland@	1996-01-25
+781	America@Germany@America@Israel@America@United Kingdom@America@	1996-01-25
+782	Japan@America@	1996-01-25
+783	Canada@Canada@Canada@Japan@Japan@	1996-01-25
+784	America@Canada@Canada@	1996-01-25
+785	America@	1996-01-25
+786	America@	1996-01-25
+787	United Kingdom@United Kingdom@United Kingdom@	1996-01-25
+788	America@America@America@	1996-01-25
+789	America@America@United Kingdom@	1996-01-18
+790	America@Germany@	1996-01-18
+791	America@America@America@America@	1996-01-18
+792	America@	1996-01-18
+794	America@America@	1996-01-18
+795	Japan@Japan@	1996-01-18
+796	New Zealand@	1996-01-18
+797	Germany@	1996-01-18
+798	America@America@	1996-01-18
+799	United Kingdom@	1996-01-18
+800	America@	1996-01-18
+801	America@America@	1996-01-18
+802	America@India@	1996-01-18
+803	France@	1996-01-18
+804	America@	1996-01-18
+805	Australia@United Kingdom@	1996-01-11
+806	Sweden@Germany@	1996-01-11
+807	Russia@Russia@Russia@Russia@Germany@	1996-01-11
+808	France@	1996-01-11
+809	America@America@	1996-01-11
+810	France@	1996-01-11
+811	South Africa@United Kingdom@	1996-01-11
+812	Spain@	1996-01-11
+813	United Kingdom@United Kingdom@	1996-01-11
+814	Canada@	1996-01-11
+815	America@	1996-01-11
+816	Japan@Japan@Japan@Japan@Japan@Japan@	1996-01-11
+817	United Kingdom@	1996-01-11
+818	America@	1996-01-11
+819	United Kingdom@America@	1996-01-11
+820	United Kingdom@Austria@	1996-01-11
+821	America@America@Germany@America@	1996-01-11
+822	America@America@America@America@	1996-01-04
+823	Germany@	1996-01-04
+824	Norway@Israel@	1996-01-04
+825	Japan@	1996-01-04
+826	America@	1996-01-04
+827	America@	1996-01-04
+828	Sri Lanka@United Kingdom@	1996-01-04
+829	America@America@	1996-01-04
+830	America@America@	1996-01-04
+831	United Kingdom@United Kingdom@	1996-01-04
+832	United Kingdom@United Kingdom@	1996-01-04
+833	America@	1996-01-04
+834	United Kingdom@United Kingdom@	1996-01-04
+835	America@	1996-01-04
+836	United Kingdom@United Kingdom@	1996-01-04
+837	America@America@America@America@	1996-01-04
+838	Canada@Canada@Canada@	1996-01-04
+839	America@Russia@	1996-01-04
+840	Japan@	1995-12-28
+841	America@America@America@America@	1995-12-28
+842	America@	1995-12-28
+843	America@America@Mongolia@	1995-12-28
+844	America@	1995-12-28
+845	United Kingdom@United Kingdom@United Kingdom@Sweden@	1995-12-28
+846	America@	1995-12-28
+847	United Kingdom@Switzerland@	1995-12-28
+848	Costa Rica@America@Iran@America@Iceland@United Kingdom@Canada@United Kingdom@Costa Rica@Netherlands@America@France@Costa Rica@America@	1995-12-28
+849	America@Switzerland@Switzerland@America@Georgia@	1995-12-14
+850	China@France@France@	1995-12-14
+851	America@America@	1995-12-14
+852	Australia@Germany@America@America@America@America@	1995-12-14
+853	Brazil@Sweden@Brazil@Brazil@	1995-12-14
+854	China@America@France@China@France@	1995-12-14
+855	America@	1995-12-14
+856	America@	1995-12-14
+857	America@	1995-12-14
+858	Denmark@	1995-12-14
+859	America@America@	1995-12-14
+860	America@	1995-12-14
+861	America@America@America@	1995-12-14
+862	United Kingdom@Germany@	1995-12-14
+863	America@	1995-12-14
+864	France@	1995-12-14
+865	America@	1995-12-14
+866	America@America@	1995-12-14
+867	America@	1995-12-14
+868	United Kingdom@United Kingdom@America@United Kingdom@	1995-12-14
+869	America@America@America@	1995-12-14
+870	America@	1995-12-14
+871	America@America@	1995-12-07
+872	America@America@	1995-12-07
+873	America@	1995-12-07
+874	Canada@	1995-12-07
+875	Switzerland@	1995-12-07
+876	America@	1995-12-07
+877	New Zealand@New Zealand@America@	1995-12-07
+878	Germany@	1995-12-07
+879	America@United Kingdom@	1995-12-07
+880	America@	1995-12-07
+881	America@	1995-12-07
+882	United Kingdom@Japan@	1995-12-07
+883	America@Russia@	1995-12-07
+884	America@	1995-12-07
+885	Australia@Australia@	1995-12-07
+886	America@America@America@	1995-12-07
+887	Germany@France@	1995-12-07
+888	America@America@	1995-12-07
+889	America@	1995-12-07
+890	America@America@	1995-11-30
+891	America@America@	1995-11-30
+892	Georgia@America@Georgia@	1995-11-30
+893	Netherlands@	1995-11-30
+895	America@America@Japan@	1995-11-30
+896	Netherlands@	1995-11-30
+897	America@America@	1995-11-30
+898	America@	1995-11-30
+899	Germany@Belgium@Belgium@Germany@	1995-11-30
+900	America@	1995-11-30
+901	Germany@	1995-11-30
+902	United Kingdom@Spain@	1995-11-30
+903	America@America@	1995-11-30
+904	America@Switzerland@	1995-11-30
+905	America@America@France@America@	1995-11-30
+906	America@	1995-11-30
+907	Germany@America@	1995-11-30
+908	America@America@	1995-11-30
+909	Switzerland@	1995-11-23
+910	America@America@	1995-11-23
+911	America@Russia@United Kingdom@United Kingdom@	1995-11-23
+912	France@United Kingdom@	1995-11-23
+913	United Kingdom@	1995-11-23
+914	America@America@	1995-11-23
+915	America@America@America@Canada@Canada@America@America@New Zealand@America@	1995-11-23
+916	Italy@Italy@Italy@	1995-11-23
+917	America@	1995-11-23
+918	United Kingdom@Iran@	1995-11-23
+919	United Kingdom@France@	1995-11-23
+921	Germany@	1995-11-23
+922	America@Germany@America@	1995-11-23
+923	America@America@America@	1995-11-23
+924	America@	1995-11-23
+925	India@France@France@	1995-11-23
+926	America@America@America@	1995-11-23
+927	America@America@	1995-11-23
+928	America@America@	1995-11-23
+929	United Kingdom@United Kingdom@United Kingdom@India@United Kingdom@	1995-11-23
+930	Japan@America@America@Japan@	1995-11-16
+931	Canada@	1995-11-16
+932	America@	1995-11-16
+933	America@America@	1995-11-16
+934	America@America@	1995-11-16
+935	France@France@	1995-11-16
+937	China@America@America@China@Canada@Netherlands@	1995-11-16
+938	America@	1995-11-16
+939	America@	1995-11-16
+940	America@America@	1995-11-16
+941	America@	1995-11-16
+942	America@America@America@	1995-11-16
+943	America@America@	1995-11-16
+944	United Kingdom@India@	1995-11-16
+945	Canada@America@America@Canada@	1995-11-16
+946	America@	1995-11-16
+947	Germany@	1995-11-09
+948	America@Australia@America@America@America@	1995-11-09
+949	America@America@America@	1995-11-09
+950	United Kingdom@	1995-11-09
+951	Jordan@America@America@	1995-11-09
+952	America@	1995-11-09
+953	America@America@United Kingdom@America@	1995-11-09
+954	America@America@	1995-11-09
+955	Japan@	1995-11-09
+956	United Kingdom@America@United Kingdom@America@	1995-11-09
+957	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1995-11-09
+958	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1995-11-09
+959	Canada@	1995-11-09
+960	America@	1995-11-09
+961	America@	1995-11-09
+962	America@America@America@	1995-11-09
+963	America@	1995-11-09
+964	America@	1995-11-09
+965	America@	1995-11-09
+966	United Kingdom@United Kingdom@	1995-11-09
+967	America@	1995-11-09
+968	America@Brazil@	1995-11-02
+969	America@America@	1995-11-02
+970	Germany@Italy@Italy@Italy@America@	1995-11-02
+971	United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1995-11-02
+972	France@	1995-11-02
+973	Canada@Canada@	1995-11-02
+974	America@	1995-11-02
+975	Australia@	1995-11-02
+976	Canada@United Kingdom@	1995-11-02
+977	Netherlands@Netherlands@	1995-11-02
+979	Netherlands@Netherlands@	1995-11-02
+980	America@America@Brazil@	1995-11-02
+981	United Kingdom@Hungary@	1995-11-02
+982	America@America@America@	1995-11-02
+983	America@	1995-11-02
+984	America@America@	1995-11-02
+985	Japan@Japan@Japan@Japan@	1995-11-02
+986	Canada@	1995-11-02
+987	Germany@	1995-11-02
+988	Canada@Canada@America@	1995-10-26
+989	Italy@Italy@Germany@Italy@Brazil@Brazil@America@	1995-10-26
+990	America@America@America@	1995-10-26
+991	America@	1995-10-26
+992	America@America@	1995-10-26
+993	America@Germany@America@America@America@America@Spain@Germany@Japan@France@Australia@America@Canada@Sweden@France@America@Japan@India@Canada@America@America@America@America@	1995-10-26
+994	America@America@	1995-10-26
+995	China@Poland@Australia@Sweden@	1995-10-26
+996	America@Panama@	1995-10-26
+997	America@America@America@	1995-10-26
+998	America@America@	1995-10-26
+999	America@Brazil@	1995-10-26
+1000	America@	1995-10-26
+1001	America@India@America@United Kingdom@	1995-10-26
+1002	America@	1995-10-26
+1003	America@	1995-10-26
+1004	America@Japan@	1995-10-26
+1005	America@America@America@America@Canada@	1995-10-26
+1006	India@	1995-10-26
+1007	France@America@France@America@France@Germany@	1995-10-19
+1008	America@America@	1995-10-19
+1009	America@	1995-10-19
+1010	America@France@America@	1995-10-19
+1011	America@Israel@	1995-10-19
+1012	America@America@America@	1995-10-19
+1013	China@America@America@	1995-10-19
+1014	Finland@	1995-10-19
+1015	United Kingdom@United Kingdom@	1995-10-19
+1016	America@	1995-10-19
+1017	Japan@Japan@	1995-10-19
+1018	America@America@America@	1995-10-19
+1019	America@America@	1995-10-19
+1020	America@France@France@France@	1995-10-19
+1021	America@	1995-10-19
+1022	America@	1995-10-19
+1023		1995-10-19
+1024	America@America@	1995-10-19
+1025	Japan@Japan@	1995-10-19
+1026	America@Sweden@	1995-10-12
+1027	Mexico@	1995-10-12
+1028	Germany@	1995-10-12
+1029	United Kingdom@United Kingdom@	1995-10-12
+1030	Israel@Israel@	1995-10-12
+1031	America@America@	1995-10-12
+1032	Canada@America@	1995-10-12
+1033	America@America@	1995-10-12
+1034	America@	1995-10-12
+1035	America@America@	1995-10-12
+1036	Germany@	1995-10-12
+1037	France@France@France@	1995-10-12
+1038	India@	1995-10-12
+1039	France@China@France@France@	1995-10-12
+1040	America@	1995-10-12
+1041	Japan@Japan@Japan@Japan@	1995-10-12
+1042	Germany@Netherlands@America@	1995-10-12
+1043	America@	1995-10-12
+1044	America@America@America@	1995-10-12
+1045	America@	1995-10-12
+1046	America@	1995-10-05
+1047	America@	1995-10-05
+1048	America@	1995-10-05
+1049	America@Netherlands@	1995-10-05
+1050	Canada@	1995-10-05
+1051	Poland@France@France@Poland@Poland@Austria@Poland@Poland@	1995-10-05
+1052	Australia@Australia@Australia@	1995-10-05
+1053	Japan@United Kingdom@	1995-10-05
+1054	United Kingdom@	1995-10-05
+1055	France@India@France@	1995-10-05
+1056	United Kingdom@	1995-10-05
+1057	Switzerland@	1995-10-05
+1058	America@Israel@	1995-10-05
+1059	America@France@America@	1995-10-05
+1060	America@	1995-10-05
+1061	Canada@Canada@	1995-10-05
+1062	America@	1995-10-05
+1063	America@America@	1995-10-05
+1064	America@	1995-10-05
+1065	America@	1995-09-28
+1066	America@	1995-09-28
+1067	America@	1995-09-28
+1068	United Kingdom@	1995-09-28
+1069	United Kingdom@United Kingdom@	1995-09-28
+1070	France@France@	1995-09-28
+1071	United Kingdom@United Kingdom@United Kingdom@	1995-09-28
+1072	America@	1995-09-28
+1073	Japan@	1995-09-28
+1074	America@	1995-09-28
+1075	United Kingdom@	1995-09-28
+1076	America@America@	1995-09-28
+1077	United Kingdom@United Kingdom@	1995-09-28
+1078	America@America@	1995-09-28
+1079	America@America@	1995-09-28
+1080	America@France@	1995-09-28
+1081	Denmark@Denmark@Denmark@	1995-09-28
+1082	America@America@Japan@	1995-09-28
+1083	Mexico@America@	1995-09-21
+1084	Netherlands@United Kingdom@	1995-09-21
+1085	America@	1995-09-21
+1086	America@	1995-09-21
+1087	America@	1995-09-21
+1088	United Kingdom@	1995-09-21
+1089	America@	1995-09-21
+1090	America@	1995-09-21
+1091	Mexico@America@	1995-09-21
+1092	Netherlands@United Kingdom@	1995-09-21
+1093	America@	1995-09-21
+1094	America@	1995-09-21
+1095	America@Australia@	1995-09-21
+1096	Switzerland@Brazil@Switzerland@	1995-09-21
+1097	France@India@France@	1995-09-21
+1098	Argentina@Argentina@	1995-09-21
+1099	America@America@	1995-09-21
+1100	America@	1995-09-21
+1101	America@Australia@	1995-09-21
+1102	America@	1995-09-21
+1103	America@America@America@	1995-09-21
+1104	United Kingdom@Germany@	1995-09-21
+1105	America@	1995-09-21
+1107	America@America@	1995-09-21
+1108	1109	America@America@	1995-09-14
+1110	Spain@	1995-09-14
+1111	America@America@	1995-09-14
+1112	America@	1995-09-14
+1113	America@America@America@America@	1995-09-14
+1114	America@China@America@	1995-09-14
+1115	Denmark@	1995-09-14
+1116	Canada@Canada@America@	1995-09-14
+1117	America@America@	1995-09-14
+1118	America@America@Spain@United Kingdom@	1995-09-14
+1119	America@	1995-09-14
+1120	America@America@	1995-09-14
+1121	Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@	1995-09-14
+1122	Netherlands@Netherlands@	1995-09-14
+1123	America@America@America@	1995-09-14
+1124	United Kingdom@United Kingdom@America@	1995-09-07
+1125	America@America@Australia@America@	1995-09-07
+1126	Japan@	1995-09-07
+1127	America@America@	1995-09-07
+1128	Japan@Japan@Japan@	1995-09-07
+1129	America@America@	1995-09-07
+1130	America@	1995-09-07
+1131	America@	1995-09-07
+1132	United Kingdom@	1995-09-07
+1133	America@	1995-09-07
+1134	Italy@Italy@America@	1995-09-07
+1135	America@	1995-09-07
+1136	Brazil@America@	1995-09-07
+1137	America@America@	1995-09-07
+1138	United Kingdom@United Kingdom@United Kingdom@	1995-09-07
+1139	America@America@	1995-09-07
+1140	Canada@America@	1995-08-31
+1141	America@	1995-08-31
+1142	Denmark@	1995-08-31
+1143	Canada@America@	1995-08-31
+1144	America@America@Mexico@	1995-08-31
+1145	America@	1995-08-31
+1146	Japan@Japan@	1995-08-31
+1147	Germany@Switzerland@	1995-08-31
+1148	America@	1995-08-31
+1149	Canada@Canada@Italy@France@Sweden@	1995-08-31
+1150	Italy@Italy@Iran@United Kingdom@	1995-08-31
+1151	America@America@Japan@	1995-08-31
+1152	America@America@America@Germany@America@	1995-08-31
+1153	America@	1995-08-31
+1154	America@America@America@	1995-08-31
+1155	Australia@	1995-08-24
+1156	Germany@Germany@	1995-08-24
+1157	United Kingdom@Slovenia@United Kingdom@	1995-08-24
+1158	Israel@Germany@	1995-08-24
+1159	America@America@America@America@America@	1995-08-24
+1160	China@Canada@Canada@	1995-08-24
+1161	America@America@	1995-08-24
+1162	America@	1995-08-24
+1163	America@America@	1995-08-24
+1164	America@	1995-08-24
+1165	United Kingdom@France@America@America@America@	1995-08-24
+1166	Israel@United Kingdom@	1995-08-24
+1167	America@America@America@France@	1995-08-24
+1168	Japan@Switzerland@	1995-08-24
+1169	Germany@Poland@	1995-08-24
+1170	United Kingdom@United Kingdom@	1995-08-10
+1171	United Kingdom@	1995-08-10
+1172	America@America@	1995-08-10
+1173	Italy@Italy@Italy@America@	1995-08-10
+1174	America@Japan@	1995-08-10
+1175	America@	1995-08-10
+1176	America@America@America@	1995-08-10
+1177	Costa Rica@	1995-08-10
+1178	Italy@America@	1995-08-10
+1179	America@America@	1995-08-10
+1180	United Kingdom@United Kingdom@United Kingdom@	1995-08-10
+1181	America@	1995-08-10
+1182	America@	1995-08-10
+1183	Spain@America@Australia@	1995-07-27
+1184	India@	1995-07-27
+1185	America@	1995-07-27
+1186	America@	1995-07-27
+1187	America@Germany@	1995-07-27
+1188	America@	1995-07-27
+1189	America@	1995-07-27
+1190	Japan@	1995-07-27
+1191	Netherlands@Netherlands@Japan@Denmark@Norway@America@	1995-07-27
+1192	Germany@United Kingdom@	1995-07-27
+1193	America@France@	1995-07-27
+1194	Japan@Japan@Japan@	1995-07-27
+1195	America@United Kingdom@	1995-07-27
+1196	America@	1995-07-20
+1197	Denmark@Japan@	1995-07-20
+1198	America@Canada@	1995-07-20
+1199	United Kingdom@United Kingdom@	1995-07-20
+1200	United Kingdom@United Kingdom@Kenya@Gambia@United Kingdom@	1995-07-20
+1201	America@America@America@	1995-07-20
+1202	Germany@America@America@	1995-07-20
+1203	America@	1995-07-20
+1204	America@	1995-07-20
+1205	America@	1995-07-20
+1206	America@	1995-07-20
+1207	America@America@	1995-07-20
+1208	Japan@Japan@	1995-07-20
+1209	United Kingdom@United Kingdom@	1995-07-20
+1210	1211	United Kingdom@America@United Kingdom@Germany@France@United Kingdom@	1995-07-13
+1212	America@	1995-07-13
+1213	United Kingdom@Switzerland@Russia@America@	1995-07-13
+1214	France@France@	1995-07-13
+1215	America@	1995-07-13
+1216	Germany@	1995-07-13
+1217	America@America@	1995-07-13
+1218	America@	1995-07-13
+1219	America@	1995-07-13
+1220	America@America@	1995-07-13
+1221	Japan@Japan@Switzerland@America@	1995-07-13
+1222	United Kingdom@United Kingdom@	1995-07-13
+1223	America@America@Georgia@	1995-07-13
+1224	America@America@Russia@	1995-07-06
+1225	America@	1995-07-06
+1226	America@America@	1995-07-06
+1227	India@Australia@	1995-07-06
+1228	Germany@India@	1995-07-06
+1229	United Kingdom@Costa Rica@United Kingdom@	1995-07-06
+1230	Canada@Canada@Canada@	1995-07-06
+1231	Canada@Canada@Canada@	1995-07-06
+1232	America@Germany@Germany@	1995-07-06
+1233	America@	1995-07-06
+1234	America@America@Canada@	1995-07-06
+1235	America@Russia@	1995-07-06
+1236	America@	1995-07-06
+1237	China@France@France@France@United Kingdom@France@	1995-07-06
+1238	Netherlands@Ukraine@	1995-06-29
+1239	America@	1995-06-29
+1240	America@	1995-06-29
+1241	America@	1995-06-29
+1242	France@	1995-06-29
+1243	America@	1995-06-29
+1244	America@	1995-06-29
+1245	United Kingdom@America@	1995-06-29
+1246	America@America@	1995-06-29
+1247	Switzerland@France@	1995-06-29
+1248	Netherlands@Netherlands@Austria@Netherlands@	1995-06-29
+1249	America@	1995-06-29
+1250		1995-06-29
+1251	America@America@	1995-06-29
+1252	America@	1995-06-29
+1253	Japan@Germany@United Kingdom@Japan@Japan@Japan@	1995-06-22
+1254	Italy@Italy@	1995-06-22
+1255	United Kingdom@	1995-06-22
+1256	America@Netherlands@	1995-06-22
+1257	Canada@Canada@Canada@Canada@	1995-06-22
+1258	America@	1995-06-22
+1259	France@	1995-06-22
+1260	Switzerland@	1995-06-22
+1261	Austria@America@	1995-06-22
+1262	Sweden@America@	1995-06-22
+1263	United Kingdom@America@United Kingdom@United Kingdom@America@	1995-06-22
+1264	United Kingdom@Germany@	1995-06-22
+1265	America@America@	1995-06-22
+1266	America@America@	1995-06-22
+1267	United Kingdom@United Kingdom@Sweden@	1995-06-22
+1268	Australia@Australia@Australia@	1995-06-08
+1269	America@America@America@America@	1995-06-08
+1270	America@America@	1995-06-08
+1271	America@America@Papua New Guinea@Papua New Guinea@United Kingdom@	1995-06-08
+1272	Australia@Australia@	1995-06-08
+1273	Germany@Germany@Germany@Germany@America@	1995-06-08
+1274	America@America@	1995-06-08
+1275	America@America@Germany@	1995-06-08
+1276	America@Sweden@	1995-06-08
+1277	Germany@Germany@	1995-06-08
+1278	Germany@Germany@Germany@	1995-06-08
+1279	Denmark@Denmark@America@Germany@	1995-06-08
+1280	America@America@	1995-06-08
+1281	America@	1995-06-08
+1282	Switzerland@Switzerland@America@	1995-06-08
+1283	America@Korea@	1995-06-01
+1284	United Kingdom@United Kingdom@	1995-06-01
+1285	America@America@	1995-06-01
+1286	America@America@	1995-06-01
+1287	America@Russia@America@	1995-06-01
+1288	America@	1995-06-01
+1289	America@	1995-06-01
+1290	America@	1995-06-01
+1291	United Kingdom@Brazil@United Kingdom@Germany@	1995-06-01
+1292	America@Canada@America@	1995-06-01
+1293	America@France@Germany@	1995-06-01
+1294	United Kingdom@	1995-06-01
+1295	United Kingdom@	1995-06-01
+1296	America@America@	1995-06-01
+1297	Canada@America@	1995-06-01
+1298	America@America@France@	1995-05-25
+1299	Japan@China@France@Japan@	1995-05-25
+1300	America@	1995-05-25
+1301	America@China@	1995-05-25
+1302	America@America@	1995-05-25
+1303	Sweden@	1995-05-25
+1304	India@	1995-05-25
+1305	Netherlands@United Kingdom@	1995-05-25
+1306	America@	1995-05-25
+1307	America@Japan@	1995-05-25
+1308	America@	1995-05-25
+1309	America@	1995-05-25
+1310	Australia@Australia@	1995-05-25
+1311	America@America@	1995-05-25
+1312	Netherlands@	1995-05-25
+1313	America@United Kingdom@Denmark@	1995-05-18
+1314	Germany@Germany@	1995-05-18
+1315	Switzerland@Germany@Germany@	1995-05-18
+1316	America@America@	1995-05-18
+1317	America@	1995-05-18
+1318	America@America@America@America@	1995-05-18
+1319	America@	1995-05-18
+1320	America@Australia@America@	1995-05-18
+1321	America@America@Switzerland@	1995-05-18
+1322	America@Sweden@	1995-05-18
+1323	Canada@America@America@	1995-05-18
+1324	America@	1995-05-18
+1325	Georgia@America@America@	1995-05-18
+1326	Canada@	1995-05-18
+1327	America@	1995-05-11
+1328	America@America@Turkey@Germany@	1995-05-11
+1329	America@America@	1995-05-11
+1330	Germany@Germany@United Kingdom@Denmark@Denmark@Norway@Belgium@Spain@Finland@Switzerland@Switzerland@Greece@	1995-05-11
+1331	Canada@Canada@Canada@France@Canada@Canada@	1995-05-11
+1332	America@America@	1995-05-11
+1333	America@America@Norway@	1995-05-11
+1334	America@	1995-05-11
+1335	America@	1995-05-11
+1336	Switzerland@	1995-05-11
+1337	America@Austria@	1995-05-11
+1338	America@America@Japan@	1995-05-11
+1339	America@	1995-05-11
+1340	Germany@America@America@	1995-05-11
+1341	America@	1995-05-04
+1343	America@America@	1995-05-04
+1344	America@America@America@America@	1995-05-04
+1345	Russia@South Africa@	1995-05-04
+1346	America@Belgium@Italy@	1995-05-04
+1347	America@America@	1995-05-04
+1348	America@	1995-05-04
+1349	Canada@	1995-05-04
+1350	America@France@Belgium@America@	1995-05-04
+1351	America@	1995-05-04
+1352	America@	1995-05-04
+1353	Japan@	1995-05-04
+1354	Germany@Germany@Belgium@	1995-05-04
+1355	America@America@Canada@	1995-05-04
+1356	America@America@America@America@America@America@Germany@America@	1995-04-27
+1357	America@America@America@America@America@America@America@Georgia@	1995-04-27
+1358	Switzerland@Switzerland@Switzerland@Switzerland@	1995-04-27
+1359	Israel@	1995-04-27
+1360	America@America@	1995-04-27
+1361	China@France@	1995-04-27
+1362	United Kingdom@	1995-04-27
+1363	United Kingdom@South Africa@	1995-04-27
+1364	Israel@Israel@	1995-04-27
+1365	Italy@Italy@Italy@	1995-04-27
+1366	America@	1995-04-27
+1367	Japan@Japan@	1995-04-27
+1368	Japan@Japan@	1995-04-27
+1369	America@	1995-04-27
+1370	Switzerland@	1995-04-27
+1371	America@Chile@Italy@America@America@Chile@America@	1995-04-20
+1372	America@America@America@Mexico@	1995-04-20
+1373	America@America@Japan@	1995-04-20
+1374	America@America@Russia@	1995-04-20
+1375	America@America@America@America@	1995-04-20
+1376	America@	1995-04-20
+1377	Netherlands@America@	1995-04-20
+1378	Germany@Spain@	1995-04-20
+1379	United Kingdom@Switzerland@	1995-04-20
+1380	America@United Kingdom@	1995-04-20
+1381	America@	1995-04-20
+1382	America@America@America@Argentina@	1995-04-20
+1383	Belgium@China@France@United Kingdom@	1995-04-20
+1384	America@	1995-04-13
+1385	Italy@	1995-04-13
+1386	Spain@	1995-04-13
+1387	America@	1995-04-13
+1388	Czech Republic@	1995-04-13
+1389	United Kingdom@	1995-04-13
+1390	United Kingdom@	1995-04-13
+1391	America@	1995-04-13
+1392	America@	1995-04-13
+1393	United Kingdom@	1995-04-13
+1394	Georgia@	1995-04-13
+1395	America@France@	1995-04-13
+1396	America@	1995-04-13
+1397	Japan@Japan@	1995-04-13
+1398	America@America@Australia@	1995-04-13
+1399	United Kingdom@	1995-04-13
+1400	Italy@America@Italy@America@America@	1995-04-13
+1401	United Kingdom@United Kingdom@	1995-04-13
+1402	America@	1995-04-13
+1403	America@	1995-04-13
+1404	America@	1995-04-13
+1405	Italy@Italy@America@Italy@	1995-04-13
+1406	America@America@	1995-04-13
+1407	America@America@America@	1995-04-13
+1408	America@America@	1995-04-13
+1409	Switzerland@Switzerland@America@America@	1995-04-13
+1410	Germany@	1995-03-30
+1411	America@	1995-03-30
+1412	America@	1995-03-30
+1413	America@	1995-03-30
+1414	Mexico@Mexico@	1995-03-30
+1415	Norway@United Kingdom@Denmark@Iceland@	1995-03-30
+1416	Mongolia@America@America@Mongolia@	1995-03-30
+1417	America@America@	1995-03-30
+1418	Canada@Japan@	1995-03-30
+1419	America@	1995-03-30
+1420	America@Japan@	1995-03-30
+1421	America@	1995-03-30
+1422	Germany@United Kingdom@	1995-03-30
+1423	America@	1995-03-30
+1424	Canada@America@Canada@America@	1995-03-30
+1425	Canada@Canada@Canada@	1995-03-30
+1426	France@France@	1995-03-23
+1427	France@France@France@	1995-03-23
+1428	Netherlands@United Kingdom@Netherlands@	1995-03-23
+1429	Japan@	1995-03-23
+1430	America@	1995-03-23
+1431	America@	1995-03-23
+1432	America@America@America@	1995-03-23
+1433	America@	1995-03-23
+1434	America@	1995-03-23
+1435	America@America@	1995-03-23
+1436	America@America@Australia@	1995-03-23
+1437	America@	1995-03-23
+1438	United Kingdom@Switzerland@	1995-03-23
+1439	America@America@America@	1995-03-23
+1440	America@America@	1995-03-23
+1441	Japan@Japan@	1995-03-16
+1442	America@	1995-03-16
+1443	America@America@America@France@America@Fiji@America@America@New Caledonia@	1995-03-16
+1444	America@	1995-03-16
+1445	Philippines@Canada@	1995-03-16
+1446	America@Australia@	1995-03-16
+1447	America@China@	1995-03-16
+1448	Sweden@America@	1995-03-16
+1449	Switzerland@	1995-03-16
+1450	America@United Kingdom@America@America@America@America@America@	1995-03-16
+1451	Switzerland@Switzerland@	1995-03-16
+1452	America@America@	1995-03-16
+1453	America@America@America@	1995-03-16
+1454	America@Taiwan@	1995-03-16
+1455	Australia@America@Australia@Australia@South Africa@Australia@	1995-03-09
+1456	Israel@America@	1995-03-09
+1457	America@	1995-03-09
+1458	United Kingdom@	1995-03-09
+1459	America@America@	1995-03-09
+1460	Australia@	1995-03-09
+1461	United Kingdom@	1995-03-09
+1462	Japan@Japan@America@	1995-03-09
+1463	America@America@	1995-03-09
+1464	Japan@Japan@America@America@	1995-03-09
+1465	America@Switzerland@America@	1995-03-09
+1466	America@Japan@	1995-03-09
+1467	America@America@	1995-03-09
+1468	America@	1995-03-09
+1469	America@	1995-03-09
+1470	America@America@	1995-03-09
+1471	America@	1995-03-09
+1472	America@South Africa@	1995-03-09
+1473	America@	1995-03-02
+1474	America@	1995-03-02
+1475	America@	1995-03-02
+1476	Switzerland@China@France@	1995-03-02
+1477	America@	1995-03-02
+1478	America@America@	1995-03-02
+1479	Switzerland@Switzerland@	1995-03-02
+1480	France@France@America@Netherlands@United Kingdom@	1995-03-02
+1481	America@United Kingdom@	1995-03-02
+1482	France@France@Switzerland@	1995-03-02
+1483	Canada@	1995-03-02
+1484	Netherlands@Netherlands@Netherlands@Switzerland@	1995-03-02
+1485	Denmark@	1995-03-02
+1486	America@America@	1995-03-02
+1487	America@	1995-03-02
+1488	America@America@	1995-03-02
+1489	America@	1995-03-02
+1490	America@America@Korea@	1995-03-02
+1491	America@America@	1995-02-23
+1492	America@	1995-02-23
+1493	America@	1995-02-23
+1494	America@	1995-02-23
+1495	America@Canada@America@America@	1995-02-23
+1496	America@America@America@	1995-02-23
+1497	Germany@	1995-02-23
+1498	America@United Kingdom@	1995-02-23
+1499	Germany@Germany@United Kingdom@	1995-02-23
+1500	Japan@Japan@Japan@	1995-02-23
+1501	Germany@	1995-02-23
+1502	America@	1995-02-23
+1503	America@Germany@	1995-02-23
+1504	Germany@Netherlands@	1995-02-23
+1505	America@	1995-02-23
+1506	Canada@	1995-02-23
+1507	America@America@America@	1995-02-23
+1508	Germany@	1995-02-16
+1509	Netherlands@Netherlands@Germany@	1995-02-16
+1510	France@Spain@France@France@America@	1995-02-16
+1511	Australia@	1995-02-16
+1512	Japan@Japan@	1995-02-16
+1513	America@America@America@America@	1995-02-16
+1514	America@America@Chile@America@	1995-02-16
+1515	America@America@America@America@America@	1995-02-16
+1516	America@America@	1995-02-16
+1517	United Kingdom@America@America@	1995-02-16
+1518	Germany@Switzerland@Sweden@	1995-02-16
+1519	America@Israel@	1995-02-16
+1520	America@America@	1995-02-16
+1521	America@America@Germany@America@America@America@	1995-02-16
+1522	America@	1995-02-16
+1523	America@France@	1995-02-16
+1525	America@France@America@	1995-02-09
+1526	Germany@America@America@	1995-02-09
+1528	America@	1995-02-09
+1529	America@America@	1995-02-09
+1530	Georgia@	1995-02-09
+1531	Canada@Canada@	1995-02-09
+1532	Israel@Israel@	1995-02-09
+1533	America@	1995-02-09
+1534	America@America@India@America@America@America@America@America@America@America@America@America@America@America@	1995-02-09
+1535	Germany@	1995-02-09
+1536	Israel@America@America@America@Canada@United Kingdom@America@America@	1995-02-09
+1537	United Kingdom@United Kingdom@United Kingdom@	1995-02-09
+1538	America@Italy@	1995-02-02
+1539	Japan@Japan@	1995-02-02
+1540	America@	1995-02-02
+1541	Netherlands@Germany@	1995-02-02
+1542	America@Israel@	1995-02-02
+1543	America@	1995-02-02
+1544	United Kingdom@	1995-02-02
+1545	Finland@Finland@Canada@	1995-02-02
+1546	America@	1995-02-02
+1547	America@	1995-02-02
+1548	Italy@America@	1995-02-02
+1549	Germany@Germany@	1995-02-02
+1550	America@America@America@	1995-02-02
+1551	America@America@	1995-02-02
+1552	America@America@America@	1995-02-02
+1553	France@France@	1995-01-26
+1554	Belgium@Belgium@	1995-01-26
+1555	China@	1995-01-26
+1556	Georgia@	1995-01-26
+1557	Australia@Norway@America@	1995-01-26
+1558	France@Germany@Netherlands@Germany@Australia@Belgium@Australia@	1995-01-26
+1559	France@	1995-01-26
+1560	Sweden@America@America@	1995-01-26
+1561	America@America@	1995-01-26
+1562	America@	1995-01-26
+1563	America@America@	1995-01-26
+1564	Canada@Denmark@Canada@Canada@	1995-01-26
+1565	America@Israel@America@Netherlands@	1995-01-26
+1566	Switzerland@France@France@	1995-01-26
+1567	Germany@Germany@	1995-01-26
+1568	Switzerland@Switzerland@Switzerland@Switzerland@	1995-01-26
+1569	America@America@Canada@	1995-01-19
+1570	America@Taiwan@	1995-01-19
+1571	America@	1995-01-19
+1572	America@	1995-01-19
+1573	America@America@	1995-01-19
+1574	America@America@America@	1995-01-19
+1575	America@Canada@America@	1995-01-19
+1576	United Kingdom@United Kingdom@America@	1995-01-19
+1577	United Kingdom@Japan@United Kingdom@	1995-01-19
+1578	United Kingdom@Germany@	1995-01-19
+1579	America@	1995-01-19
+1580	America@America@America@America@America@	1995-01-19
+1581	America@	1995-01-19
+1582	America@	1995-01-19
+1583	America@	1995-01-19
+1584	United Kingdom@America@	1995-01-19
+1585	Japan@America@Japan@Mexico@	1995-01-12
+1586	Canada@	1995-01-12
+1587	Germany@	1995-01-12
+1588	United Kingdom@France@United Kingdom@	1995-01-12
+1589	Canada@	1995-01-12
+1590	America@America@America@America@	1995-01-12
+1591	United Kingdom@	1995-01-12
+1592	United Kingdom@United Kingdom@Denmark@United Kingdom@	1995-01-12
+1593	Sweden@Sweden@United Kingdom@	1995-01-12
+1594	Japan@Japan@Japan@Japan@Japan@Japan@Japan@	1995-01-12
+1595	Germany@America@	1995-01-12
+1596	America@America@America@	1995-01-12
+1597	America@America@	1995-01-12
+1598	United Kingdom@United Kingdom@United Kingdom@America@	1995-01-12
+1599	America@Mexico@	1994-12-29
+1600	America@	1994-12-29
+1601	Netherlands@Netherlands@America@	1994-12-29
+1602	France@France@	1994-12-29
+1603	Germany@Germany@	1994-12-29
+1604	Australia@	1994-12-29
+1605	America@Canada@Sweden@	1994-12-29
+1606	America@America@Switzerland@America@	1994-12-29
+1607	Switzerland@Switzerland@Switzerland@	1994-12-29
+1608	America@United Kingdom@	1994-12-29
+1609	America@America@Canada@	1994-12-29
+1610	Japan@	1994-12-29
+1611	America@America@Canada@	1994-12-29
+1612	America@Canada@America@America@	1994-12-29
+1613	Germany@	1994-12-29
+1614	Germany@	1994-12-29
+1615	America@	1994-12-29
+1616	America@America@America@America@America@America@Germany@America@America@America@France@	1994-12-15
+1617	America@United Kingdom@United Kingdom@Spain@	1994-12-15
+1618	Japan@Japan@Japan@Japan@	1994-12-15
+1619	Netherlands@Netherlands@Netherlands@	1994-12-15
+1620	America@America@America@America@America@	1994-12-15
+1621	America@Brazil@America@America@	1994-12-15
+1622	America@America@	1994-12-15
+1623	United Kingdom@Germany@Italy@France@United Kingdom@Germany@Germany@	1994-12-15
+1624	America@Japan@France@	1994-12-15
+1625	America@America@America@	1994-12-15
+1626	Sweden@United Kingdom@	1994-12-15
+1627	France@Italy@America@	1994-12-15
+1628	America@	1994-12-15
+1629	Canada@	1994-12-15
+1630	America@	1994-12-15
+1631	Denmark@Russia@France@China@France@Denmark@Russia@France@	1994-12-15
+1632	America@America@	1994-12-15
+1633	America@America@America@	1994-12-08
+1634	Japan@Switzerland@Germany@	1994-12-08
+1635	America@America@	1994-12-08
+1636	Bermuda@America@America@	1994-12-08
+1637	America@America@Fiji@Tonga@	1994-12-08
+1638	Germany@America@Germany@Germany@Germany@America@	1994-12-08
+1639	America@America@America@America@	1994-12-08
+1640	Germany@	1994-12-08
+1641	America@America@America@	1994-12-08
+1642	America@	1994-12-08
+1643	America@America@	1994-12-08
+1644	Germany@	1994-12-08
+1645	Japan@Japan@Japan@Japan@Japan@	1994-12-08
+1646	America@America@America@America@	1994-12-08
+1647	Germany@America@	1994-12-01
+1648	America@Canada@America@	1994-12-01
+1649	Sweden@Sweden@Sweden@	1994-12-01
+1650	France@France@Netherlands@	1994-12-01
+1651	America@America@	1994-12-01
+1652	United Kingdom@	1994-12-01
+1653	Germany@Germany@Germany@America@	1994-12-01
+1654	America@	1994-12-01
+1655	America@	1994-12-01
+1656	Austria@	1994-12-01
+1657	United Kingdom@United Kingdom@	1994-12-01
+1658	America@	1994-12-01
+1659	America@America@	1994-12-01
+1660	America@	1994-12-01
+1661	America@	1994-11-24
+1662	America@China@America@Singapore@	1994-11-24
+1663	United Kingdom@United Kingdom@	1994-11-24
+1664	Germany@	1994-11-24
+1665	America@America@America@America@	1994-11-24
+1666	America@Canada@Switzerland@	1994-11-24
+1667	United Kingdom@United Kingdom@	1994-11-24
+1668	America@	1994-11-24
+1669	America@Austria@America@Switzerland@	1994-11-24
+1670	America@	1994-11-24
+1671	America@	1994-11-24
+1672	America@America@	1994-11-24
+1673	America@America@	1994-11-24
+1674	America@America@Germany@	1994-11-17
+1675	America@Netherlands@Japan@Japan@	1994-11-17
+1676	America@	1994-11-17
+1677	America@	1994-11-17
+1678	Belgium@France@	1994-11-17
+1679	Canada@	1994-11-17
+1680	America@	1994-11-17
+1681	America@United Kingdom@	1994-11-17
+1682	America@America@	1994-11-17
+1683	Germany@Germany@Germany@Germany@Switzerland@	1994-11-17
+1684	India@	1994-11-17
+1685	America@America@	1994-11-17
+1686	America@America@Italy@	1994-11-17
+1687	America@	1994-11-10
+1688	United Kingdom@	1994-11-10
+1689	America@China@	1994-11-10
+1690	America@	1994-11-10
+1691	Sweden@United Kingdom@	1994-11-10
+1692	United Kingdom@	1994-11-10
+1693	Germany@	1994-11-10
+1694	Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@	1994-11-10
+1695	America@America@America@	1994-11-10
+1696	France@	1994-11-10
+1697	United Kingdom@America@United Kingdom@Germany@America@United Kingdom@United Kingdom@	1994-11-03
+1698	Netherlands@United Kingdom@Netherlands@America@Mexico@	1994-11-03
+1699	United Kingdom@Switzerland@	1994-11-03
+1700	United Kingdom@America@United Kingdom@America@	1994-11-03
+1701	Norway@Norway@	1994-11-03
+1702	Finland@	1994-11-03
+1703	America@America@	1994-11-03
+1704	Japan@Japan@	1994-11-03
+1705	America@	1994-11-03
+1706	America@	1994-11-03
+1707	America@America@	1994-11-03
+1708	America@	1994-11-03
+1709	Germany@Germany@	1994-10-27
+1710	America@	1994-10-27
+1711	Sweden@United Kingdom@Germany@	1994-10-27
+1712	Canada@Venezuela@Venezuela@	1994-10-27
+1713	America@America@	1994-10-27
+1714	Canada@Canada@America@	1994-10-27
+1715	United Kingdom@	1994-10-27
+1716	America@	1994-10-27
+1717	France@Italy@France@France@	1994-10-27
+1718	America@America@America@	1994-10-27
+1719	America@America@	1994-10-27
+1720	Switzerland@Hungary@Germany@America@	1994-10-27
+1721	Germany@America@America@Mexico@	1994-10-27
+1722	Switzerland@Switzerland@Switzerland@Greece@	1994-10-20
+1723	America@France@	1994-10-20
+1724	America@	1994-10-20
+1725	America@America@America@America@America@	1994-10-20
+1726	America@America@America@	1994-10-20
+1727	America@	1994-10-20
+1728	United Kingdom@United Kingdom@	1994-10-20
+1729	Netherlands@	1994-10-20
+1730	America@America@America@	1994-10-20
+1731	America@	1994-10-20
+1732	America@America@	1994-10-20
+1733	America@Germany@	1994-10-20
+1734	America@	1994-10-20
+1735	America@	1994-10-20
+1736	America@Germany@America@France@Netherlands@	1994-10-13
+1737	France@France@Russia@	1994-10-13
+1738	America@America@America@	1994-10-13
+1739	Netherlands@	1994-10-13
+1740	United Kingdom@	1994-10-13
+1741	United Kingdom@	1994-10-13
+1742	India@France@Italy@America@	1994-10-13
+1743	America@Japan@	1994-10-13
+1744	Sweden@	1994-10-13
+1745	America@America@United Kingdom@	1994-10-13
+1747	America@Israel@	1994-10-13
+1748	America@America@	1994-10-13
+1749	Sweden@United Kingdom@	1994-10-13
+1750	America@America@	1994-10-13
+1751	America@United Kingdom@	1994-10-06
+1752	Japan@Japan@Japan@Japan@	1994-10-06
+1753	America@France@	1994-10-06
+1754	America@America@America@America@America@America@America@	1994-10-06
+1755	France@France@United Kingdom@Iceland@France@	1994-10-06
+1756	United Kingdom@Gambia@	1994-10-06
+1757	Italy@Italy@Australia@	1994-10-06
+1758	Germany@America@	1994-10-06
+1759	Switzerland@	1994-10-06
+1760	America@	1994-10-06
+1761	America@	1994-10-06
+1762	America@America@	1994-10-06
+1763	America@	1994-10-06
+1764	America@	1994-10-06
+1765	Japan@Japan@Japan@Japan@	1994-09-29
+1766	Germany@Taiwan@	1994-09-29
+1767	Peru@	1994-09-29
+1768	Germany@	1994-09-29
+1769	America@America@Bermuda@	1994-09-29
+1770	America@America@America@	1994-09-29
+1771	United Kingdom@United Kingdom@United Kingdom@	1994-09-29
+1772	Japan@	1994-09-29
+1773	America@America@	1994-09-29
+1774	America@America@America@	1994-09-29
+1775	Canada@Canada@United Kingdom@	1994-09-29
+1776	Switzerland@Netherlands@Sweden@	1994-09-29
+1777	America@	1994-09-29
+1778	United Kingdom@	1994-09-29
+1779	Israel@Israel@America@	1994-09-29
+1780	America@America@	1994-09-22
+1781	Italy@France@Germany@Italy@	1994-09-22
+1782	America@	1994-09-22
+1783	Israel@	1994-09-22
+1784	America@Iceland@	1994-09-22
+1785	America@Denmark@Iceland@France@	1994-09-22
+1786	Mexico@America@Japan@America@Belgium@America@	1994-09-22
+1787	Canada@Canada@China@France@	1994-09-22
+1788	United Kingdom@	1994-09-22
+1789	Italy@	1994-09-22
+1790	America@America@Canada@	1994-09-22
+1791	America@Canada@	1994-09-22
+1792	America@America@America@	1994-09-22
+1793	America@	1994-09-22
+1794	America@America@	1994-09-22
+1795	Japan@Japan@United Kingdom@Netherlands@Japan@	1994-09-15
+1796	America@	1994-09-15
+1797	America@	1994-09-15
+1798	America@	1994-09-15
+1799	Colombia@	1994-09-15
+1800	Canada@	1994-09-15
+1801	Canada@Canada@Canada@	1994-09-15
+1802	America@	1994-09-15
+1803	America@Italy@	1994-09-15
+1804	America@	1994-09-15
+1805	India@France@	1994-09-15
+1806	America@Switzerland@Switzerland@Switzerland@	1994-09-15
+1807	America@	1994-09-15
+1808	United Kingdom@United Kingdom@	1994-09-15
+1809	America@	1994-09-15
+1810	Canada@United Kingdom@France@America@	1994-09-08
+1811	Japan@	1994-09-08
+1812	Germany@Germany@Germany@	1994-09-08
+1813	Poland@United Kingdom@America@America@America@America@America@	1994-09-08
+1814	America@America@America@America@	1994-09-08
+1815	America@Russia@America@	1994-09-08
+1816	America@America@America@America@	1994-09-08
+1817	America@	1994-09-08
+1818	America@	1994-09-08
+1819	France@United Kingdom@France@France@France@America@France@	1994-09-08
+1820	America@America@	1994-09-08
+1821	America@	1994-09-08
+1822	America@America@	1994-09-08
+1823	America@America@	1994-09-08
+1824	America@America@America@America@	1994-09-01
+1825	France@Mexico@Mexico@	1994-09-01
+1826	America@America@America@America@United Kingdom@	1994-09-01
+1827	America@	1994-09-01
+1828	America@	1994-09-01
+1829	New Zealand@Germany@America@	1994-09-01
+1830	United Kingdom@Russia@United Kingdom@	1994-09-01
+1831	America@United Kingdom@	1994-09-01
+1832	Japan@America@America@	1994-09-01
+1833	America@America@Japan@	1994-09-01
+1834	America@America@	1994-09-01
+1835	America@America@America@United Kingdom@America@America@Finland@	1994-09-01
+1836	America@America@America@	1994-09-01
+1837	America@America@	1994-08-25
+1838	Israel@America@	1994-08-25
+1839	America@Hungary@Hungary@France@	1994-08-25
+1840	America@	1994-08-25
+1841	United Kingdom@Japan@	1994-08-25
+1842	America@	1994-08-25
+1843	America@America@America@America@	1994-08-25
+1844	Switzerland@	1994-08-25
+1845	America@	1994-08-25
+1846	America@Australia@	1994-08-25
+1847	America@	1994-08-25
+1848	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1994-08-25
+1849	United Kingdom@United Kingdom@	1994-08-25
+1850	Japan@	1994-08-18
+1851	Belgium@	1994-08-18
+1852	United Kingdom@	1994-08-18
+1853	Australia@Australia@Australia@	1994-08-18
+1854	America@America@	1994-08-18
+1855	United Kingdom@United Kingdom@	1994-08-18
+1856	United Kingdom@America@United Kingdom@	1994-08-18
+1857	America@America@Canada@America@	1994-08-18
+1858	United Kingdom@	1994-08-18
+1859	United Kingdom@Spain@United Kingdom@	1994-08-18
+1860	United Kingdom@United Kingdom@Japan@	1994-08-18
+1861	America@America@	1994-08-18
+1862	Sweden@Italy@	1994-08-18
+1863	America@	1994-08-18
+1864	America@America@America@	1994-08-11
+1865	America@	1994-08-11
+1866	France@China@France@	1994-08-11
+1867	America@	1994-08-11
+1868	United Kingdom@	1994-08-11
+1869	United Kingdom@United Kingdom@	1994-08-11
+1870	United Kingdom@America@	1994-08-11
+1871	United Kingdom@America@	1994-08-11
+1872	America@Canada@America@America@America@Canada@Canada@	1994-08-11
+1873	America@	1994-08-11
+1874	America@America@	1994-08-11
+1875	America@	1994-08-11
+1876	America@America@America@	1994-08-11
+1877	America@America@	1994-08-11
+1879	Mexico@	1994-08-04
+1880	America@America@America@	1994-08-04
+1881	America@	1994-08-04
+1882	Germany@Norway@Norway@	1994-08-04
+1883	America@America@America@	1994-08-04
+1884	Spain@	1994-08-04
+1885	America@America@America@	1994-08-04
+1886	Germany@Germany@	1994-08-04
+1887	America@	1994-08-04
+1888	America@America@Japan@	1994-08-04
+1889	Germany@Germany@Germany@Germany@	1994-08-04
+1890	Switzerland@Switzerland@	1994-08-04
+1891	Switzerland@Germany@	1994-08-04
+1892	America@	1994-08-04
+1893	Spain@	1994-07-28
+1894	Germany@	1994-07-28
+1895	America@Russia@America@	1994-07-28
+1896	America@	1994-07-28
+1897	America@	1994-07-28
+1898	America@	1994-07-28
+1899	United Kingdom@Australia@United Kingdom@	1994-07-28
+1900	France@	1994-07-28
+1901	United Kingdom@United Kingdom@United Kingdom@	1994-07-28
+1902	Japan@Japan@Japan@	1994-07-28
+1903	Japan@Japan@Japan@	1994-07-28
+1904	America@	1994-07-28
+1905	America@	1994-07-28
+1906	America@America@	1994-07-28
+1907	United Kingdom@United Kingdom@	1994-07-21
+1908	America@America@America@America@	1994-07-21
+1909	America@America@	1994-07-21
+1910	Germany@Germany@	1994-07-21
+1911	America@Zimbabwe@	1994-07-21
+1912	Japan@America@	1994-07-21
+1913	America@America@	1994-07-21
+1914	America@	1994-07-21
+1915	Japan@Japan@	1994-07-21
+1916	America@America@	1994-07-21
+1917	America@America@Spain@	1994-07-21
+1918	America@America@America@America@	1994-07-21
+1919	America@America@United Kingdom@	1994-07-21
+1920	America@Mexico@America@America@	1994-07-14
+1921	America@America@	1994-07-14
+1922	Germany@	1994-07-14
+1923	Japan@	1994-07-14
+1924	America@America@	1994-07-14
+1925	Japan@	1994-07-14
+1926	America@China@America@America@	1994-07-14
+1927	Norway@Norway@	1994-07-14
+1928	United Kingdom@	1994-07-14
+1929	America@	1994-07-14
+1930	America@America@America@America@	1994-07-14
+1931	America@America@	1994-07-14
+1932	America@	1994-07-14
+1933	America@America@Japan@	1994-07-14
+1934	Italy@France@	1994-07-07
+1935	Israel@	1994-07-07
+1936	Greece@America@	1994-07-07
+1937	America@	1994-07-07
+1938	India@	1994-07-07
+1939	France@	1994-07-07
+1940	United Kingdom@	1994-07-07
+1941	America@	1994-07-07
+1942	America@America@	1994-07-07
+1943	Japan@Japan@	1994-07-07
+1944	United Kingdom@New Zealand@	1994-07-07
+1945	Japan@Japan@Japan@Japan@Canada@Japan@Japan@	1994-07-07
+1946	America@America@	1994-07-07
+1947	America@America@America@	1994-07-07
+1948	Canada@Canada@	1994-06-30
+1949	Australia@	1994-06-30
+1950	America@	1994-06-30
+1951	Poland@America@	1994-06-30
+1952	America@America@	1994-06-30
+1953	America@Sweden@	1994-06-30
+1954	America@America@	1994-06-30
+1955	United Kingdom@United Kingdom@	1994-06-30
+1956	America@	1994-06-30
+1957	Canada@America@Canada@	1994-06-30
+1958	America@	1994-06-30
+1959	Germany@Switzerland@America@	1994-06-30
+1960	America@	1994-06-30
+1961	America@	1994-06-30
+1962	America@America@	1994-06-30
+1963	France@	1994-06-23
+1964	America@	1994-06-23
+1965	America@Norway@	1994-06-23
+1966	Austria@America@	1994-06-23
+1967	America@Argentina@	1994-06-23
+1968	Canada@	1994-06-23
+1969	United Kingdom@Netherlands@	1994-06-23
+1970	America@	1994-06-23
+1971	America@	1994-06-23
+1972	America@America@United Kingdom@America@America@	1994-06-23
+1973	America@America@America@	1994-06-23
+1974	Japan@United Kingdom@	1994-06-23
+1975	America@America@America@America@America@America@	1994-06-23
+1976	America@	1994-06-23
+1977	Germany@	1994-06-23
+1978	America@America@China@	1994-06-23
+1979	India@America@Spain@America@	1994-06-16
+1980	Switzerland@Switzerland@America@	1994-06-16
+1981	Belgium@	1994-06-16
+1982	America@	1994-06-16
+1983	America@	1994-06-16
+1984	Canada@America@Canada@Canada@	1994-06-16
+1985	Japan@	1994-06-16
+1986	Japan@Japan@Japan@Japan@Japan@	1994-06-16
+1987	America@	1994-06-16
+1988	America@America@America@Switzerland@	1994-06-16
+1989	America@America@	1994-06-16
+1990	America@America@	1994-06-16
+1991	France@America@India@France@	1994-06-16
+1992	America@	1994-06-16
+1993	America@	1994-06-16
+1994	Australia@Georgia@Australia@	1994-06-16
+1995	United Kingdom@United Kingdom@Finland@Finland@America@	1994-06-09
+1996	America@America@America@America@	1994-06-09
+1997	America@America@America@	1994-06-09
+1998	France@Switzerland@	1994-06-09
+1999	America@America@	1994-06-09
+2000	United Kingdom@	1994-06-09
+2001	United Kingdom@America@	1994-06-09
+2002	Sweden@America@Germany@	1994-06-09
+2003	America@America@	1994-06-09
+2004	Japan@Japan@Japan@	1994-06-09
+2005	America@America@India@India@	1994-06-09
+2006	America@America@America@America@America@	1994-06-09
+2007	America@America@America@Israel@	1994-06-09
+2008	Canada@Canada@Israel@America@America@	1994-06-09
+2009	America@America@	1994-06-02
+2010	China@	1994-06-02
+2011	United Kingdom@	1994-06-02
+2012	America@America@France@	1994-06-02
+2013	France@	1994-06-02
+2014	America@America@	1994-06-02
+2015	United Kingdom@	1994-06-02
+2016	America@America@America@America@	1994-06-02
+2017	America@	1994-06-02
+2018	America@	1994-06-02
+2019	United Kingdom@United Kingdom@United Kingdom@	1994-06-02
+2020	United Kingdom@United Kingdom@	1994-06-02
+2021	America@Austria@	1994-06-02
+2022	America@	1994-06-02
+2023	South Africa@America@America@	1994-05-26
+2024	Netherlands@Netherlands@	1994-05-26
+2025	America@	1994-05-26
+2026	America@	1994-05-26
+2027	Canada@America@	1994-05-26
+2028	America@	1994-05-26
+2029	United Kingdom@United Kingdom@	1994-05-26
+2030	United Kingdom@Canada@	1994-05-26
+2031	America@	1994-05-26
+2032	America@America@	1994-05-26
+2033	America@	1994-05-26
+2034	America@America@United Kingdom@United Kingdom@Netherlands@America@	1994-05-26
+2035	France@America@Canada@	1994-05-26
+2036	America@France@Japan@America@America@Australia@	1994-05-26
+2037	America@	1994-05-26
+2038	America@America@America@	1994-05-26
+2039	Puerto Rico@America@	1994-05-19
+2040	America@Mexico@	1994-05-19
+2041	America@	1994-05-19
+2042	Germany@	1994-05-19
+2043	Netherlands@America@America@Canada@India@	1994-05-19
+2044	France@France@	1994-05-19
+2045	Canada@America@	1994-05-19
+2046	Canada@	1994-05-19
+2047	America@America@	1994-05-19
+2048	Switzerland@	1994-05-19
+2049	America@	1994-05-19
+2050	America@	1994-05-19
+2051	America@	1994-05-19
+2052	America@America@Japan@	1994-05-19
+2053	Slovakia@	1994-05-12
+2054	America@America@America@	1994-05-12
+2055	Japan@	1994-05-12
+2056	America@	1994-05-12
+2057	America@	1994-05-12
+2058	America@America@	1994-05-12
+2059	Canada@	1994-05-12
+2060	United Kingdom@Switzerland@United Kingdom@	1994-05-12
+2061	America@America@	1994-05-12
+2062	Italy@Germany@America@America@America@Italy@France@America@America@	1994-05-12
+2063	America@Canada@America@Greece@Saudi Arabia@	1994-05-12
+2064	America@America@America@	1994-05-12
+2065	America@America@America@	1994-05-05
+2066	America@	1994-05-05
+2067	America@Norway@	1994-05-05
+2068	America@France@	1994-05-05
+2069	Spain@Spain@United Kingdom@America@	1994-05-05
+2070	Russia@Russia@Russia@	1994-05-05
+2071	America@	1994-05-05
+2072	America@South Africa@	1994-05-05
+2073	America@	1994-05-05
+2074	America@	1994-05-05
+2075	Netherlands@	1994-05-05
+2076	Israel@Israel@Israel@	1994-05-05
+2077	Canada@Canada@	1994-05-05
+2078	America@	1994-05-05
+2079	Japan@Japan@Japan@Japan@	1994-04-21
+2080	America@	1994-04-21
+2081	Japan@Japan@Japan@	1994-04-21
+2082	America@France@America@	1994-04-21
+2083	America@Australia@	1994-04-21
+2084	United Kingdom@	1994-04-21
+2085	America@	1994-04-21
+2086	United Kingdom@	1994-04-21
+2087	America@	1994-04-21
+2088	America@	1994-04-21
+2089	America@America@United Kingdom@	1994-04-21
+2090	America@Switzerland@	1994-04-21
+2091	America@America@	1994-04-21
+2092	Sweden@Sweden@United Kingdom@	1994-04-21
+2093	America@America@America@America@	1994-04-21
+2094	America@America@	1994-04-21
+2095	Canada@Mexico@America@Germany@America@Spain@Italy@Italy@America@America@America@Canada@Canada@Slovakia@	1994-04-14
+2096	America@	1994-04-14
+2097	America@America@Hungary@	1994-04-14
+2098	America@America@	1994-04-14
+2099	France@America@France@	1994-04-14
+2100	America@America@	1994-04-14
+2101	America@America@Israel@	1994-04-14
+2102	Germany@Germany@	1994-04-14
+2103	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1994-04-14
+2104	America@America@America@America@	1994-04-14
+2105	America@America@America@	1994-04-14
+2106	America@France@	1994-04-14
+2107	America@	1994-04-14
+2108	America@America@America@	1994-04-14
+2109	Switzerland@America@	1994-04-14
+2110	Canada@Canada@Switzerland@Belgium@	1994-04-14
+2111	America@America@America@	1994-04-14
+2112	America@	1994-04-07
+2113	America@	1994-04-07
+2114	Japan@	1994-04-07
+2115	America@	1994-04-07
+2116	America@Mexico@	1994-04-07
+2117	America@America@Germany@	1994-04-07
+2118	America@	1994-04-07
+2119	America@	1994-04-07
+2120	America@	1994-04-07
+2121	America@America@America@	1994-04-07
+2122	America@	1994-04-07
+2123	America@Israel@America@	1994-04-07
+2124	Sweden@Denmark@Denmark@	1994-04-07
+2125	America@Georgia@America@Japan@	1994-04-07
+2126	America@Japan@	1994-04-07
+2127	America@America@America@	1994-03-31
+2128	India@Italy@America@	1994-03-31
+2129	America@	1994-03-31
+2130	United Kingdom@	1994-03-31
+2131	America@	1994-03-31
+2132	America@America@Canada@America@America@	1994-03-31
+2133	Netherlands@Netherlands@Netherlands@	1994-03-31
+2134	America@Israel@	1994-03-31
+2135	America@America@	1994-03-31
+2136	America@America@America@	1994-03-31
+2137	Australia@	1994-03-31
+2138	India@France@France@China@France@	1994-03-31
+2139	Finland@	1994-03-31
+2140	America@	1994-03-31
+2141	Israel@America@	1994-03-31
+2142	America@France@America@	1994-03-24
+2143	United Kingdom@United Kingdom@	1994-03-24
+2144	America@Germany@America@	1994-03-24
+2145	America@	1994-03-24
+2146	Sweden@Sweden@Sweden@Sweden@	1994-03-24
+2147	France@France@America@France@France@France@	1994-03-24
+2148	Australia@	1994-03-24
+2149	America@	1994-03-24
+2150	United Kingdom@Japan@	1994-03-24
+2151	Germany@America@Switzerland@Switzerland@Japan@	1994-03-24
+2152	America@	1994-03-24
+2153	America@	1994-03-24
+2154	2155	America@	1994-03-24
+2156	Finland@Sweden@	1994-03-24
+2157	America@	1994-03-17
+2158	America@	1994-03-17
+2159	America@Germany@	1994-03-17
+2160	America@Australia@	1994-03-17
+2161	Japan@Japan@	1994-03-17
+2162	New Zealand@America@	1994-03-17
+2163	Germany@Germany@Switzerland@Finland@	1994-03-17
+2164	United Kingdom@Japan@	1994-03-17
+2165	America@	1994-03-17
+2166	America@Germany@	1994-03-17
+2167	America@Germany@America@	1994-03-17
+2168	America@America@	1994-03-17
+2169	America@America@	1994-03-17
+2170	America@America@America@America@America@Sweden@Georgia@America@	1994-03-17
+2171	Germany@Switzerland@Switzerland@Switzerland@Switzerland@	1994-03-17
+2172	America@Australia@	1994-03-17
+2173	Spain@America@America@Netherlands@America@United Kingdom@	1994-03-10
+2174	Japan@America@America@Japan@	1994-03-10
+2175	America@Mexico@America@Japan@	1994-03-10
+2176	Germany@United Kingdom@	1994-03-10
+2177	United Kingdom@United Kingdom@	1994-03-10
+2178	America@America@Colombia@Canada@	1994-03-10
+2179	United Kingdom@	1994-03-10
+2180	America@America@	1994-03-10
+2181	America@	1994-03-10
+2182	America@	1994-03-10
+2183	America@	1994-03-10
+2184	America@	1994-03-10
+2185	Germany@Italy@	1994-03-10
+2186	America@	1994-03-10
+2187	America@	1994-03-10
+2188	America@America@America@	1994-03-03
+2189	United Kingdom@China@France@China@France@	1994-03-03
+2190	Israel@Hungary@	1994-03-03
+2191	Mexico@	1994-03-03
+2192	United Kingdom@	1994-03-03
+2193	China@China@	1994-03-03
+2194	France@	1994-03-03
+2195	America@	1994-03-03
+2196	Germany@Germany@Brazil@	1994-03-03
+2197	America@America@America@	1994-03-03
+2198	America@Japan@America@Canada@	1994-03-03
+2199	America@America@America@	1994-03-03
+2200	America@America@	1994-03-03
+2201	United Kingdom@United Kingdom@America@	1994-03-03
+2202	Australia@America@	1994-02-24
+2203	America@Netherlands@Mexico@	1994-02-24
+2204	Netherlands@Germany@	1994-02-24
+2205	America@	1994-02-24
+2206	Japan@	1994-02-24
+2207	America@	1994-02-24
+2208	Sweden@	1994-02-24
+2209	America@America@	1994-02-24
+2210	America@Germany@	1994-02-24
+2211	America@	1994-02-24
+2212	America@America@	1994-02-24
+2213	France@	1994-02-24
+2214	United Kingdom@Saudi Arabia@	1994-02-24
+2215	Netherlands@Switzerland@Netherlands@	1994-02-24
+2216	America@	1994-02-24
+2217	Germany@America@America@America@Netherlands@America@	1994-02-17
+2218	Canada@Czech Republic@Canada@America@	1994-02-17
+2219	New Zealand@	1994-02-17
+2220	Japan@Norway@Norway@	1994-02-17
+2221	America@America@	1994-02-17
+2222	America@	1994-02-17
+2223	America@India@	1994-02-17
+2224	America@	1994-02-17
+2225	Japan@	1994-02-17
+2226	Canada@Canada@Canada@America@	1994-02-17
+2227	Germany@Netherlands@United Kingdom@	1994-02-17
+2228	America@America@	1994-02-17
+2229	Germany@Germany@Germany@United Kingdom@	1994-02-17
+2230	America@America@	1994-02-17
+2231	America@	1994-02-17
+2232	United Kingdom@	1994-02-10
+2233	America@America@	1994-02-10
+2234	France@	1994-02-10
+2235	United Kingdom@	1994-02-10
+2236	United Kingdom@	1994-02-10
+2237	Canada@Italy@Italy@	1994-02-10
+2238	India@	1994-02-10
+2239	Ireland@Ireland@	1994-02-10
+2240	America@America@	1994-02-10
+2241	America@Canada@	1994-02-10
+2242	Japan@Japan@	1994-02-10
+2243	Japan@Japan@Japan@	1994-02-10
+2244	Germany@America@Germany@	1994-02-10
+2245	France@America@Australia@	1994-02-03
+2246	Netherlands@China@	1994-02-03
+2247	America@	1994-02-03
+2248	America@America@	1994-02-03
+2249	Canada@	1994-02-03
+2250	United Kingdom@	1994-02-03
+2251	America@	1994-02-03
+2252	Germany@Germany@America@	1994-02-03
+2253	America@	1994-02-03
+2254	Switzerland@Switzerland@	1994-02-03
+2255	America@	1994-02-03
+2256	America@	1994-02-03
+2257	America@America@America@America@	1994-02-03
+2258	Canada@Canada@	1994-02-03
+2259	Canada@Canada@Canada@Canada@	1994-02-03
+2260	America@America@Japan@	1994-02-03
+2261	Israel@	1994-01-27
+2262	United Kingdom@Japan@Japan@Portugal@Sweden@	1994-01-27
+2263	America@America@Sweden@America@Netherlands@America@	1994-01-27
+2264	Denmark@Sweden@	1994-01-27
+2265	United Kingdom@America@	1994-01-27
+2266	Ukraine@France@Belgium@France@France@America@	1994-01-27
+2267	America@Canada@	1994-01-27
+2268	America@	1994-01-27
+2269	Sweden@	1994-01-27
+2270	United Kingdom@Germany@Germany@America@	1994-01-27
+2271	Netherlands@Netherlands@Italy@	1994-01-27
+2272	Italy@Finland@	1994-01-27
+2273	France@United Kingdom@United Kingdom@France@United Kingdom@	1994-01-27
+2274	America@United Kingdom@United Kingdom@	1994-01-27
+2275	Estonia@	1994-01-27
+2277	Chile@America@America@	1994-01-20
+2278	America@Japan@Netherlands@	1994-01-20
+2279	America@Netherlands@	1994-01-20
+2280	America@America@	1994-01-20
+2281	America@	1994-01-20
+2282	America@Germany@America@	1994-01-20
+2283	America@America@America@	1994-01-20
+2284	Finland@	1994-01-20
+2285	Canada@Germany@	1994-01-20
+2286	Germany@Germany@	1994-01-20
+2287	America@United Kingdom@	1994-01-20
+2288	America@	1994-01-20
+2289	America@	1994-01-20
+2290	Australia@	1994-01-20
+2291	Australia@	1994-01-20
+2292	Australia@Canada@Germany@Slovakia@	1994-01-20
+2293	America@America@America@	1994-01-20
+2294	Japan@Netherlands@	1994-01-13
+2295	Japan@	1994-01-13
+2296	America@	1994-01-13
+2297	America@America@France@Mexico@	1994-01-13
+2298	Mexico@America@America@America@Mexico@America@	1994-01-13
+2299	United Kingdom@	1994-01-13
+2300	America@America@	1994-01-13
+2301	United Kingdom@	1994-01-13
+2302	Japan@	1994-01-13
+2303	Switzerland@Germany@	1994-01-13
+2304	America@	1994-01-13
+2305	America@America@	1994-01-13
+2306	America@	1994-01-13
+2307	France@America@France@	1994-01-13
+2308	Germany@	1994-01-13
+2309	America@America@America@	1994-01-13
+2310	America@America@	1994-01-13
+2311	America@	1994-01-06
+2312	Germany@	1994-01-06
+2313	America@America@	1994-01-06
+2314	America@America@	1994-01-06
+2315	America@Germany@	1994-01-06
+2316	America@	1994-01-06
+2317	America@America@	1994-01-06
+2318	America@	1994-01-06
+2319	Germany@	1994-01-06
+2320	America@Spain@America@America@	1994-01-06
+2321	America@	1994-01-06
+2322	America@America@	1994-01-06
+2323	Switzerland@Switzerland@	1994-01-06
+2324	United Kingdom@Peru@	1994-01-06
+2325	America@America@America@America@	1994-01-06
+2326	United Kingdom@United Kingdom@	1994-01-06
+2327	America@	1993-12-30
+2328	United Kingdom@United Kingdom@	1993-12-30
+2329	Canada@America@Mexico@Canada@	1993-12-30
+2330	United Kingdom@	1993-12-30
+2331	America@America@	1993-12-30
+2332	Israel@Israel@Canada@America@America@	1993-12-30
+2333	Japan@Japan@Japan@	1993-12-30
+2334	Germany@France@	1993-12-30
+2335	Georgia@America@America@	1993-12-30
+2336	America@	1993-12-30
+2337	Russia@Russia@	1993-12-16
+2338	America@	1993-12-16
+2339	Italy@United Kingdom@Italy@United Kingdom@	1993-12-16
+2340	America@America@	1993-12-16
+2341	France@	1993-12-16
+2342	America@America@Canada@	1993-12-16
+2343	America@	1993-12-16
+2344	America@United Kingdom@	1993-12-16
+2345	Hungary@France@Japan@	1993-12-16
+2346	Japan@Japan@	1993-12-16
+2347	America@Germany@Germany@	1993-12-16
+2348	America@America@	1993-12-16
+2349	France@France@France@	1993-12-16
+2350	America@America@America@	1993-12-16
+2351	America@	1993-12-16
+2352	America@	1993-12-16
+2353	America@America@	1993-12-09
+2354	United Kingdom@	1993-12-09
+2355	America@Denmark@America@America@Germany@Finland@United Kingdom@America@	1993-12-09
+2356	America@America@Denmark@Iceland@France@	1993-12-09
+2357	America@United Kingdom@	1993-12-09
+2358	China@America@India@China@America@America@America@	1993-12-09
+2359	United Kingdom@	1993-12-09
+2360	America@America@	1993-12-09
+2361	America@	1993-12-09
+2362	America@America@	1993-12-09
+2363	America@	1993-12-09
+2364	America@America@Mexico@America@	1993-12-09
+2365	America@America@Switzerland@Australia@America@	1993-12-09
+2366	Canada@America@	1993-12-09
+2367	America@	1993-12-09
+2368	Israel@	1993-12-09
+2369	Switzerland@	1993-12-02
+2370	America@Australia@Mexico@	1993-12-02
+2371	France@Switzerland@	1993-12-02
+2372	America@	1993-12-02
+2373	United Kingdom@	1993-12-02
+2374	France@Mexico@	1993-12-02
+2375	America@America@America@	1993-12-02
+2376	Canada@	1993-12-02
+2377	America@	1993-12-02
+2378	France@France@United Kingdom@	1993-12-02
+2379	America@	1993-12-02
+2380	Italy@Italy@	1993-12-02
+2381	America@	1993-12-02
+2382	America@America@India@	1993-12-02
+2383	France@Switzerland@	1993-12-02
+2384	United Kingdom@	1993-12-02
+2385	France@	1993-12-25
+2386	Germany@Russia@	1993-12-25
+2387	America@	1993-12-25
+2388	America@America@America@	1993-12-25
+2389	America@	1993-12-25
+2390	America@America@	1993-12-25
+2391	Canada@Canada@Canada@	1993-12-25
+2392	America@	1993-12-25
+2393	Netherlands@Netherlands@	1993-12-25
+2394	America@	1993-12-25
+2395	America@	1993-12-25
+2396	America@America@America@	1993-12-25
+2397	America@	1993-12-25
+2398	France@Hungary@America@	1993-12-25
+2399	America@America@	1993-12-25
+2400	America@America@America@	1993-12-25
+2401		1993-11-18
+2402	Spain@America@America@	1993-11-18
+2403	United Kingdom@	1993-11-18
+2404	America@	1993-11-18
+2405	America@Mexico@America@	1993-11-18
+2406	South Africa@United Kingdom@	1993-11-18
+2407	America@America@America@	1993-11-18
+2408	America@Japan@America@America@Estonia@Belgium@America@America@	1993-11-18
+2409	United Kingdom@United Kingdom@Singapore@	1993-11-18
+2410	America@	1993-11-18
+2411	France@America@America@	1993-11-18
+2412	Austria@	1993-11-18
+2413	Australia@Japan@France@Australia@Australia@Australia@	1993-11-18
+2414	America@	1993-11-18
+2415	Australia@Mexico@Australia@	1993-11-11
+2416	Japan@	1993-11-11
+2417	Switzerland@	1993-11-11
+2418	America@	1993-11-11
+2419	United Kingdom@China@France@	1993-11-11
+2420	Israel@United Kingdom@	1993-11-11
+2421	United Kingdom@	1993-11-11
+2422	America@America@America@	1993-11-11
+2423	Japan@Japan@	1993-11-11
+2424	America@	1993-11-11
+2425	America@	1993-11-11
+2426	United Kingdom@America@America@America@America@	1993-11-11
+2427	America@America@America@America@America@	1993-11-11
+2428	Austria@	1993-11-11
+2429	France@	1993-11-11
+2430	America@America@	1993-11-11
+2431	Mexico@America@	1993-11-04
+2432	Austria@America@America@Japan@	1993-11-04
+2433	America@	1993-11-04
+2434	America@America@America@	1993-11-04
+2435	Finland@America@Finland@	1993-11-04
+2436	China@France@	1993-11-04
+2437	Canada@Canada@China@	1993-11-04
+2438	Germany@	1993-11-04
+2439	America@America@America@	1993-11-04
+2440	America@	1993-11-04
+2441	America@America@America@America@	1993-11-04
+2442	America@	1993-11-04
+2443	Japan@Japan@America@	1993-11-04
+2444	Canada@Canada@Canada@Canada@	1993-11-04
+2445	America@America@	1993-11-04
+2446	America@	1993-11-04
+2447	United Kingdom@United Kingdom@Austria@Iran@	1993-11-04
+2448	America@America@	1993-10-28
+2449	America@	1993-10-28
+2450	America@America@Canada@	1993-10-28
+2451	America@	1993-10-28
+2452	United Kingdom@	1993-10-28
+2453	Germany@America@Germany@Germany@Malawi@	1993-10-28
+2454	America@America@	1993-10-28
+2455	United Kingdom@	1993-10-28
+2456	America@America@America@	1993-10-28
+2457	America@	1993-10-28
+2458	America@China@	1993-10-28
+2459	France@	1993-10-28
+2460	America@America@America@America@	1993-10-28
+2461	America@France@America@America@	1993-10-28
+2462	America@United Kingdom@	1993-10-28
+2463	America@America@Spain@Spain@	1993-10-21
+2464	America@America@	1993-10-21
+2465	America@	1993-10-21
+2466	America@Brazil@	1993-10-21
+2467	America@Iceland@	1993-10-21
+2468	America@	1993-10-21
+2469	Germany@Canada@United Kingdom@America@	1993-10-21
+2470	Peru@	1993-10-21
+2471	America@	1993-10-21
+2472	Germany@	1993-10-21
+2473	America@Japan@	1993-10-21
+2474	America@Germany@America@America@America@	1993-10-21
+2475	Switzerland@	1993-10-21
+2476	America@	1993-10-21
+2477	America@Canada@	1993-10-21
+2478	Germany@Switzerland@	1993-10-21
+2479	America@America@Australia@America@America@America@	1993-10-14
+2480	France@France@France@France@France@France@	1993-10-14
+2481	America@America@Poland@America@America@United Kingdom@	1993-10-14
+2482	United Kingdom@United Kingdom@	1993-10-14
+2483	America@	1993-10-14
+2484	America@Germany@France@Germany@Germany@	1993-10-14
+2485	America@America@United Kingdom@America@Australia@	1993-10-14
+2486	America@America@	1993-10-14
+2487	America@	1993-10-14
+2488	America@America@	1993-10-14
+2489	Belgium@	1993-10-14
+2490	America@Japan@Japan@	1993-10-14
+2491	Japan@	1993-10-14
+2492	America@America@	1993-10-14
+2493	America@	1993-10-14
+2494	America@America@	1993-10-14
+2495	America@America@United Kingdom@America@America@America@	1993-10-14
+2496	Germany@	1993-10-07
+2497	America@Switzerland@Switzerland@	1993-10-07
+2498	America@America@America@United Kingdom@	1993-10-07
+2499	America@	1993-10-07
+2500	United Kingdom@	1993-10-07
+2501	Spain@	1993-10-07
+2502	America@America@	1993-10-07
+2503	America@	1993-10-07
+2504	Canada@America@	1993-10-07
+2505	America@	1993-10-07
+2506	America@	1993-10-07
+2507	America@	1993-10-07
+2508	Australia@United Kingdom@	1993-10-07
+2509	Germany@Sweden@	1993-10-07
+2510	Denmark@Denmark@America@Denmark@Sweden@Denmark@	1993-10-07
+2511	Spain@	1993-09-30
+2512	France@	1993-09-30
+2513	Netherlands@Netherlands@	1993-09-30
+2514	Canada@	1993-09-30
+2515	United Kingdom@Austria@	1993-09-30
+2516	Australia@	1993-09-30
+2517	America@America@America@America@Chile@	1993-09-30
+2518	United Kingdom@	1993-09-30
+2519	Canada@Canada@	1993-09-30
+2520	Germany@Germany@Spain@	1993-09-30
+2521	America@America@	1993-09-30
+2522	Brazil@	1993-09-30
+2523	America@	1993-09-30
+2524	United Kingdom@United Kingdom@	1993-09-30
+2525	America@America@	1993-09-30
+2526	America@America@Australia@Germany@	1993-09-30
+2527	United Kingdom@America@United Kingdom@	1993-09-23
+2528	America@	1993-09-23
+2529	America@	1993-09-23
+2530	United Kingdom@United Kingdom@	1993-09-23
+2531	Netherlands@America@	1993-09-23
+2532	America@America@	1993-09-23
+2533	United Kingdom@Peru@United Kingdom@	1993-09-23
+2534	America@Argentina@	1993-09-23
+2535	Switzerland@Switzerland@United Kingdom@Japan@America@	1993-09-23
+2536	America@America@	1993-09-23
+2537	America@	1993-09-23
+2538	America@	1993-09-23
+2539	America@America@America@America@	1993-09-23
+2540	America@America@Germany@	1993-09-23
+2541	America@	1993-09-23
+2542	United Kingdom@Germany@Denmark@	1993-09-23
+2543	America@	1993-09-23
+2544	America@America@	1993-09-16
+2545	America@America@America@America@America@America@	1993-09-16
+2546	America@United Kingdom@	1993-09-16
+2547	Canada@America@	1993-09-16
+2548	America@America@America@	1993-09-16
+2549	Puerto Rico@Netherlands@America@	1993-09-16
+2550	America@United Kingdom@	1993-09-16
+2551	Israel@America@	1993-09-16
+2552	America@	1993-09-16
+2553	Japan@Japan@	1993-09-16
+2554	America@America@	1993-09-16
+2555	America@America@	1993-09-16
+2556	America@America@	1993-09-16
+2557	America@America@America@	1993-09-16
+2558	America@America@America@	1993-09-16
+2559	United Kingdom@Australia@	1993-09-09
+2560	Mexico@America@	1993-09-09
+2561	America@America@	1993-09-09
+2562	Italy@France@	1993-09-09
+2563	America@Denmark@Iceland@France@France@China@France@Switzerland@	1993-09-09
+2564	America@America@	1993-09-09
+2565	America@America@America@	1993-09-09
+2566	Canada@Canada@	1993-09-09
+2567	Canada@Canada@Canada@	1993-09-09
+2568	America@Spain@Germany@America@America@	1993-09-09
+2569	Australia@America@	1993-09-09
+2570	Japan@Japan@	1993-09-09
+2571	France@Germany@Germany@	1993-09-09
+2572	Germany@Germany@Germany@	1993-09-09
+2573	Austria@Switzerland@Austria@	1993-09-09
+2574	America@America@	1993-09-09
+2575	Japan@Mexico@America@	1993-09-02
+2576	United Kingdom@Netherlands@	1993-09-02
+2577	United Kingdom@	1993-09-02
+2578	America@America@	1993-09-02
+2579	Israel@Austria@	1993-09-02
+2580	America@America@	1993-09-02
+2581	Japan@	1993-09-02
+2582	Japan@Japan@Japan@	1993-09-02
+2583	America@Germany@	1993-09-02
+2584	America@	1993-09-02
+2585	United Kingdom@	1993-09-02
+2586	America@America@America@France@America@France@	1993-09-02
+2587	Japan@	1993-09-02
+2588	America@	1993-09-02
+2589	America@America@	1993-09-02
+2590	America@America@	1993-09-02
+2591	America@	1993-09-02
+2592	America@	1993-08-26
+2593	America@America@America@America@America@	1993-08-26
+2594	Netherlands@	1993-08-26
+2595	China@France@	1993-08-26
+2596	America@	1993-08-26
+2597	America@	1993-08-26
+2598	America@America@America@	1993-08-26
+2599	Canada@Germany@	1993-08-26
+2600	Switzerland@Switzerland@Switzerland@United Kingdom@Australia@America@	1993-08-26
+2601	America@Japan@	1993-08-26
+2602	Japan@Japan@Japan@Japan@	1993-08-26
+2603	America@France@	1993-08-26
+2604	Germany@Germany@	1993-08-26
+2605	Italy@America@	1993-08-26
+2606	America@	1993-08-26
+2607	United Kingdom@Switzerland@	1993-08-26
+2608	America@America@	1993-08-26
+2609	United Kingdom@Spain@America@United Kingdom@United Kingdom@America@	1993-08-19
+2610	America@	1993-08-19
+2611	Israel@	1993-08-19
+2612	America@Poland@	1993-08-19
+2613	India@India@India@	1993-08-19
+2614	America@America@	1993-08-19
+2615	United Kingdom@	1993-08-19
+2616	Canada@	1993-08-19
+2617	United Kingdom@United Kingdom@	1993-08-19
+2618	America@	1993-08-19
+2619	America@America@	1993-08-19
+2620	Canada@Canada@	1993-08-19
+2621	America@America@	1993-08-19
+2622	America@America@America@America@	1993-08-19
+2623	America@America@	1993-08-19
+2624	Switzerland@America@	1993-08-19
+2625	America@Germany@America@America@Russia@	1993-08-19
+2626	America@America@Mexico@America@	1993-08-12
+2627	Australia@Australia@	1993-08-12
+2628	America@Japan@America@America@America@America@	1993-08-12
+2629	America@	1993-08-12
+2630	America@America@	1993-08-12
+2631	Georgia@America@	1993-08-12
+2632	United Kingdom@Argentina@United Kingdom@	1993-08-12
+2633	America@America@	1993-08-12
+2634	America@	1993-08-12
+2635	America@America@	1993-08-12
+2636	America@Israel@America@America@America@	1993-08-12
+2637	America@	1993-08-12
+2638	America@Canada@United Kingdom@	1993-08-12
+2639	America@America@	1993-08-12
+2640	America@America@America@	1993-08-12
+2641	Japan@	1993-08-12
+2642	America@America@	1993-08-12
+2643	United Kingdom@America@America@America@	1993-08-05
+2644	America@	1993-08-05
+2645	America@America@America@	1993-08-05
+2646	Japan@	1993-08-05
+2647	United Kingdom@America@	1993-08-05
+2648	Japan@Japan@America@United Kingdom@Japan@	1993-08-05
+2649	America@	1993-08-05
+2650	Germany@Australia@	1993-08-05
+2651	America@	1993-08-05
+2652	United Kingdom@	1993-08-05
+2653	Japan@Japan@	1993-08-05
+2654	America@	1993-08-05
+2655	United Kingdom@China@France@Slovenia@	1993-08-05
+2656	America@America@	1993-08-05
+2657	America@Canada@America@	1993-08-05
+2658	America@	1993-08-05
+2659	America@America@America@	1993-07-29
+2660	America@	1993-07-29
+2661	United Kingdom@Austria@America@	1993-07-29
+2662	America@	1993-07-29
+2663	United Kingdom@	1993-07-29
+2664	America@	1993-07-29
+2665	Sweden@	1993-07-29
+2666	New Zealand@	1993-07-29
+2667	America@	1993-07-29
+2668	Switzerland@Switzerland@	1993-07-29
+2669	America@America@America@America@America@	1993-07-29
+2670	America@	1993-07-29
+2671	Germany@	1993-07-29
+2672	America@	1993-07-29
+2673	Israel@America@	1993-07-29
+2674	America@America@America@	1993-07-29
+2675	America@America@America@	1993-07-22
+2676	Japan@Japan@	1993-07-22
+2677	Australia@	1993-07-22
+2678	France@France@France@France@	1993-07-22
+2679	Germany@America@Germany@China@	1993-07-22
+2680	America@Austria@Mexico@America@	1993-07-22
+2681	Canada@Canada@America@	1993-07-22
+2682	America@Germany@Netherlands@Japan@	1993-07-22
+2683	America@America@America@	1993-07-22
+2684	America@America@Canada@America@	1993-07-22
+2685	Canada@	1993-07-22
+2686	United Kingdom@	1993-07-22
+2687	America@America@Germany@	1993-07-22
+2688	United Kingdom@	1993-07-22
+2689	United Kingdom@	1993-07-22
+2690	America@	1993-07-22
+2691	France@	1993-07-22
+2692	Netherlands@America@America@America@	1993-07-15
+2693	America@	1993-07-15
+2694	Denmark@Iceland@France@America@	1993-07-15
+2695	Switzerland@Switzerland@	1993-07-15
+2696	America@America@	1993-07-15
+2697	France@France@	1993-07-15
+2698	America@America@America@	1993-07-15
+2699	Finland@America@Finland@Finland@	1993-07-15
+2700	Italy@Italy@	1993-07-15
+2701	America@	1993-07-15
+2702	America@	1993-07-15
+2703	America@Germany@	1993-07-15
+2704	Switzerland@Switzerland@Switzerland@	1993-07-15
+2705	Germany@America@Switzerland@Germany@America@Germany@	1993-07-15
+2706	America@Switzerland@America@	1993-07-15
+2707	America@	1993-07-15
+2708	America@	1993-07-08
+2709	America@	1993-07-08
+2710	America@America@America@Bolivia@	1993-07-08
+2711	China@France@	1993-07-08
+2712	United Kingdom@	1993-07-08
+2713	France@France@France@	1993-07-08
+2714	America@	1993-07-08
+2715	America@America@	1993-07-08
+2716	America@	1993-07-08
+2717	America@America@	1993-07-08
+2718	America@America@	1993-07-08
+2719	Germany@Germany@Germany@	1993-07-08
+2720	America@	1993-07-08
+2721	India@America@	1993-07-08
+2722	Germany@Germany@	1993-07-08
+2723	Germany@Germany@	1993-07-08
+2724	Germany@United Kingdom@America@America@	1993-07-08
+2725	Russia@	1993-07-01
+2726	United Kingdom@	1993-07-01
+2727	America@America@America@America@	1993-07-01
+2728	America@America@France@	1993-07-01
+2729	United Kingdom@China@	1993-07-01
+2730	Germany@	1993-07-01
+2731	United Kingdom@Austria@	1993-07-01
+2732	Finland@	1993-07-01
+2733	America@	1993-07-01
+2734	Russia@United Kingdom@	1993-07-01
+2735	China@France@Spain@France@Spain@	1993-07-01
+2736	America@	1993-07-01
+2737	America@	1993-07-01
+2738	Georgia@America@	1993-07-01
+2739	America@America@	1993-07-01
+2740	America@	1993-07-01
+2741	America@	1993-06-24
+2742	America@	1993-06-24
+2743	America@America@	1993-06-24
+2744	United Kingdom@United Kingdom@	1993-06-24
+2745	America@America@America@	1993-06-24
+2746	America@America@	1993-06-24
+2747	Netherlands@	1993-06-24
+2748	Israel@	1993-06-24
+2749	Netherlands@	1993-06-24
+2750	America@	1993-06-24
+2751	America@America@	1993-06-24
+2752	America@America@America@	1993-06-24
+2753	Israel@Canada@	1993-06-24
+2754	America@	1993-06-24
+2755	America@America@	1993-06-24
+2756	America@Japan@	1993-06-24
+2757	Japan@	1993-06-17
+2758	America@America@	1993-06-17
+2759	America@America@	1993-06-17
+2760	France@America@America@	1993-06-17
+2761	America@	1993-06-17
+2762	France@	1993-06-17
+2763	America@	1993-06-17
+2764	United Kingdom@United Kingdom@	1993-06-17
+2765	America@America@	1993-06-17
+2766	America@	1993-06-17
+2767	Norway@Norway@	1993-06-17
+2768	Austria@United Kingdom@America@	1993-06-17
+2769	United Kingdom@Israel@	1993-06-17
+2770	United Kingdom@United Kingdom@	1993-06-17
+2771	America@Sweden@	1993-06-17
+2772	Germany@Germany@Germany@America@America@Germany@	1993-06-17
+2773	America@America@	1993-06-17
+2774	America@	1993-06-10
+2775	America@	1993-06-10
+2776	America@Spain@	1993-06-10
+2777	Netherlands@	1993-06-10
+2778	America@America@America@	1993-06-10
+2779	Germany@	1993-06-10
+2780	America@Georgia@Lebanon@America@	1993-06-10
+2781	United Kingdom@	1993-06-10
+2782	Netherlands@	1993-06-10
+2783	Australia@Germany@Israel@	1993-06-10
+2784	United Kingdom@	1993-06-10
+2785	America@	1993-06-10
+2786	America@America@America@	1993-06-10
+2787	Spain@America@	1993-06-10
+2788	America@America@Spain@	1993-06-10
+2790	Slovakia@United Kingdom@United Kingdom@Canada@	1993-06-03
+2791	America@	1993-06-03
+2792	America@	1993-06-03
+2793	Japan@	1993-06-03
+2794	China@France@	1993-06-03
+2795	Australia@Australia@Canada@America@America@	1993-06-03
+2796	Hong Kong@	1993-06-03
+2797	America@America@	1993-06-03
+2798	America@America@	1993-06-03
+2799	America@America@America@	1993-06-03
+2800	United Kingdom@New Zealand@United Kingdom@Italy@	1993-06-03
+2801	America@	1993-06-03
+2802	Italy@Italy@	1993-06-03
+2803	United Kingdom@United Kingdom@	1993-06-03
+2804	America@America@America@	1993-05-27
+2805	Canada@America@Canada@	1993-05-27
+2806	America@	1993-05-27
+2807	United Kingdom@	1993-05-27
+2808	Canada@Switzerland@Canada@Canada@Canada@Canada@	1993-05-27
+2809	America@America@America@	1993-05-27
+2810	America@United Kingdom@	1993-05-27
+2811	United Kingdom@United Kingdom@	1993-05-27
+2812	America@America@	1993-05-27
+2813	Canada@	1993-05-27
+2814	Sweden@United Kingdom@	1993-05-27
+2815	United Kingdom@Chile@America@United Kingdom@Hong Kong@	1993-05-27
+2816	France@France@France@	1993-05-27
+2817	Singapore@United Kingdom@	1993-05-27
+2818	America@	1993-05-27
+2819	America@	1993-05-27
+2820	United Kingdom@	1993-05-20
+2821	Netherlands@America@	1993-05-20
+2822	Germany@France@	1993-05-20
+2823	Norway@America@New Zealand@	1993-05-20
+2824	America@United Kingdom@United Kingdom@America@America@	1993-05-20
+2825	America@	1993-05-20
+2826	United Kingdom@Australia@United Kingdom@Ireland@	1993-05-20
+2827	Switzerland@	1993-05-20
+2828	America@America@	1993-05-20
+2829	America@	1993-05-20
+2830	America@America@	1993-05-20
+2831	France@America@Sweden@	1993-05-20
+2832	United Kingdom@	1993-05-20
+2833	America@Israel@	1993-05-20
+2834	America@America@Italy@America@	1993-05-20
+2835	America@America@America@	1993-05-20
+2836	China@France@Germany@	1993-05-20
+2837	Canada@United Kingdom@United Kingdom@France@America@	1993-05-13
+2838	America@India@Georgia@	1993-05-13
+2839	America@Germany@Germany@	1993-05-13
+2840	France@China@France@	1993-05-13
+2841	America@	1993-05-13
+2842	Russia@America@	1993-05-13
+2843	America@America@	1993-05-13
+2844	America@	1993-05-13
+2845	America@America@	1993-05-13
+2846	America@Germany@Canada@America@America@	1993-05-13
+2847	America@America@Germany@America@	1993-05-13
+2848	Switzerland@France@	1993-05-13
+2849	America@America@Switzerland@	1993-05-13
+2850	America@America@	1993-05-13
+2851	America@	1993-05-13
+2852	Switzerland@	1993-05-13
+2853	United Kingdom@	1993-05-13
+2854	United Kingdom@	1993-05-06
+2855	Australia@	1993-05-06
+2856	Switzerland@	1993-05-06
+2857	United Kingdom@Belgium@	1993-05-06
+2858	America@	1993-05-06
+2859	United Kingdom@	1993-05-06
+2860	Switzerland@Switzerland@Switzerland@United Kingdom@	1993-05-06
+2861	Canada@	1993-05-06
+2862	Netherlands@	1993-05-06
+2863	America@America@	1993-05-06
+2864	America@	1993-05-06
+2865	America@America@Taiwan@	1993-05-06
+2866	China@France@France@	1993-05-06
+2867	Canada@Australia@Canada@	1993-05-06
+2868	Canada@France@America@	1993-05-06
+2869	America@Canada@	1993-05-06
+2870	America@	1993-04-29
+2871	America@	1993-04-29
+2872	Sweden@Norway@	1993-04-29
+2873	Netherlands@Netherlands@Georgia@India@Netherlands@	1993-04-29
+2874	United Kingdom@United Kingdom@	1993-04-29
+2875	America@Taiwan@Japan@India@	1993-04-29
+2876	Germany@Germany@	1993-04-29
+2877	America@America@	1993-04-29
+2878	Japan@	1993-04-29
+2879	America@	1993-04-29
+2880	America@America@	1993-04-29
+2881	America@America@	1993-04-29
+2882	United Kingdom@United Kingdom@	1993-04-29
+2883	Netherlands@Netherlands@	1993-04-29
+2884	Japan@	1993-04-29
+2885	America@America@America@	1993-04-29
+2886	America@America@America@	1993-04-29
+2887	United Kingdom@	1993-04-15
+2888	America@United Kingdom@	1993-04-15
+2889	America@America@America@	1993-04-15
+2890	Australia@	1993-04-15
+2891	America@America@	1993-04-15
+2892	America@China@France@France@	1993-04-15
+2893	Mongolia@America@	1993-04-15
+2894	Canada@America@United Kingdom@	1993-04-15
+2895	United Kingdom@	1993-04-15
+2896	United Kingdom@	1993-04-15
+2897	America@America@Israel@	1993-04-15
+2898	America@America@	1993-04-15
+2899	Australia@	1993-04-15
+2900	America@	1993-04-15
+2901	America@America@	1993-04-15
+2902	Japan@	1993-04-15
+2903	Switzerland@America@	1993-04-15
+2904	United Kingdom@Italy@	1993-04-15
+2905	Netherlands@Netherlands@Spain@America@	1993-04-08
+2906	United Kingdom@United Kingdom@	1993-04-08
+2907	Japan@	1993-04-08
+2908	America@Japan@	1993-04-08
+2909	America@America@America@America@America@America@America@America@	1993-04-08
+2910	America@United Kingdom@Canada@	1993-04-08
+2911	Spain@Spain@	1993-04-08
+2912	United Kingdom@	1993-04-08
+2913	Australia@	1993-04-08
+2914	Australia@United Kingdom@	1993-04-08
+2915	Eritrea@Italy@	1993-04-08
+2916	Germany@	1993-04-08
+2917	America@America@	1993-04-08
+2918	United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1993-04-08
+2919	China@France@	1993-04-08
+2920	America@	1993-04-08
+2921	America@America@	1993-04-08
+2922	United Kingdom@United Kingdom@Brazil@China@France@	1993-04-08
+2923	Germany@America@United Kingdom@Mexico@America@America@Sweden@Germany@United Kingdom@Germany@Netherlands@Czech Republic@	1993-04-01
+2924	America@America@America@	1993-04-01
+2925	Austria@America@United Kingdom@	1993-04-01
+2926	America@America@America@	1993-04-01
+2927	America@America@	1993-04-01
+2928	America@America@	1993-04-01
+2929	America@	1993-04-01
+2930	Australia@	1993-04-01
+2931	America@America@	1993-04-01
+2932	America@	1993-04-01
+2933	United Kingdom@Costa Rica@United Kingdom@America@	1993-04-01
+2934	Germany@	1993-04-01
+2935	America@America@	1993-04-01
+2936	America@America@	1993-04-01
+2937	Japan@Japan@America@	1993-04-01
+2938	Japan@Japan@Jordan@	1993-04-01
+2939	Germany@	1993-04-01
+2940	France@France@America@	1993-04-01
+2941	France@Canada@France@America@	1993-03-25
+2942	Netherlands@Germany@	1993-03-25
+2943	Japan@	1993-03-25
+2944	United Kingdom@	1993-03-25
+2945	Australia@China@France@France@	1993-03-25
+2946	America@	1993-03-25
+2947	Russia@Russia@Russia@	1993-03-25
+2948	Sweden@Sweden@	1993-03-25
+2949	United Kingdom@Italy@United Kingdom@	1993-03-25
+2950	Denmark@America@Japan@America@	1993-03-25
+2951	Greece@Germany@	1993-03-25
+2952	America@United Kingdom@	1993-03-25
+2953	America@Germany@America@America@	1993-03-25
+2954	America@Italy@America@America@America@	1993-03-25
+2955	America@America@America@Germany@	1993-03-25
+2956	Germany@Canada@	1993-03-25
+2957	America@America@	1993-03-25
+2958	Italy@	1993-03-25
+2959	Canada@Canada@	1993-03-25
+2960	Germany@	1993-03-18
+2961	Russia@France@Austria@America@	1993-03-18
+2962	Israel@France@	1993-03-18
+2963	America@United Kingdom@	1993-03-18
+2964	America@America@	1993-03-18
+2965	United Kingdom@Canada@	1993-03-18
+2966	India@Australia@	1993-03-18
+2967	America@	1993-03-18
+2968	Germany@Switzerland@Switzerland@Switzerland@	1993-03-18
+2969	France@France@	1993-03-18
+2970	United Kingdom@	1993-03-18
+2971	America@	1993-03-18
+2972	United Kingdom@	1993-03-18
+2973	America@Austria@Austria@	1993-03-18
+2974	China@France@China@France@	1993-03-18
+2975	America@America@	1993-03-18
+2976	America@America@	1993-03-11
+2977	America@Germany@Puerto Rico@	1993-03-11
+2978	America@	1993-03-11
+2979	America@	1993-03-11
+2980	United Kingdom@America@America@	1993-03-11
+2981	United Kingdom@	1993-03-11
+2982	America@America@America@France@France@America@America@	1993-03-11
+2983	America@	1993-03-11
+2984	America@Spain@	1993-03-11
+2985	America@Israel@Israel@	1993-03-11
+2986	America@	1993-03-11
+2987	America@America@	1993-03-11
+2988	America@	1993-03-11
+2989	America@America@	1993-03-11
+2990	America@	1993-03-11
+2991	America@	1993-03-11
+2992	America@America@Japan@	1993-03-11
+2993	France@	1993-03-11
+2994	America@America@America@America@Mexico@	1993-03-04
+2995	America@America@Israel@	1993-03-04
+2996	America@	1993-03-04
+2997	America@America@	1993-03-04
+2998	United Kingdom@United Kingdom@United Kingdom@	1993-03-04
+2999	United Kingdom@America@	1993-03-04
+3000	Netherlands@	1993-03-04
+3001	America@America@America@	1993-03-04
+3002	America@America@America@Canada@America@America@America@Belgium@America@America@Australia@America@America@	1993-03-04
+3003	America@Brazil@	1993-03-04
+3004	America@America@	1993-03-04
+3005	America@America@America@Australia@America@	1993-03-04
+3006	United Kingdom@	1993-03-04
+3007	America@America@America@	1993-03-04
+3008	Japan@Japan@Japan@America@Japan@	1993-03-04
+3009	America@	1993-03-04
+3010	United Kingdom@United Kingdom@America@	1993-03-04
+3011	America@America@America@America@	1993-03-04
+3012	Italy@Italy@	1993-02-25
+3013	America@	1993-02-25
+3014	America@	1993-02-25
+3015	America@Japan@	1993-02-25
+3016	Austria@	1993-02-25
+3017	United Kingdom@	1993-02-25
+3018	America@Germany@	1993-02-25
+3019	America@	1993-02-25
+3020	India@France@France@Germany@America@United Kingdom@	1993-02-25
+3021	Sweden@Sweden@	1993-02-25
+3022	America@America@America@	1993-02-25
+3023	Germany@	1993-02-25
+3024	America@America@America@	1993-02-25
+3025	Germany@	1993-02-25
+3026	America@America@	1993-02-25
+3027	America@	1993-02-25
+3028	Australia@Slovakia@Australia@America@Italy@Italy@China@	1993-02-18
+3029	France@	1993-02-18
+3030	Belgium@	1993-02-18
+3031	Canada@Canada@Canada@	1993-02-18
+3032	Canada@Canada@	1993-02-18
+3033	America@	1993-02-18
+3034	United Kingdom@United Kingdom@Canada@	1993-02-18
+3035	United Kingdom@	1993-02-18
+3036	America@America@	1993-02-18
+3037	America@	1993-02-18
+3038	Germany@Germany@America@	1993-02-18
+3039	Sweden@Greece@Germany@	1993-02-18
+3040	France@India@France@India@France@France@	1993-02-18
+3041	America@America@	1993-02-18
+3042	America@	1993-02-18
+3043	Switzerland@Switzerland@America@Switzerland@Switzerland@	1993-02-18
+3044	America@America@	1993-02-18
+3045	Australia@United Kingdom@United Kingdom@	1993-02-11
+3046	America@	1993-02-11
+3047	America@America@America@	1993-02-11
+3048	America@	1993-02-11
+3049	America@America@America@America@America@	1993-02-11
+3052	America@Brazil@America@	1993-02-11
+3053	America@	1993-02-11
+3054	Germany@France@United Kingdom@Italy@Germany@	1993-02-11
+3055	France@Switzerland@	1993-02-11
+3056	America@America@	1993-02-11
+3057	America@	1993-02-11
+3058	Japan@	1993-02-11
+3059	America@America@America@	1993-02-11
+3060	America@America@Japan@	1993-02-11
+3061	America@America@America@	1993-02-11
+3062	America@	1993-02-11
+3063	United Kingdom@Poland@United Kingdom@United Kingdom@Germany@	1993-02-04
+3064	Japan@	1993-02-04
+3065	America@	1993-02-04
+3066	America@America@America@America@America@America@	1993-02-04
+3067	United Kingdom@United Kingdom@United Kingdom@America@America@America@	1993-02-04
+3068	United Kingdom@Italy@United Kingdom@	1993-02-04
+3069	Canada@Canada@Canada@	1993-02-04
+3070	America@America@	1993-02-04
+3071	Sweden@	1993-02-04
+3072	Germany@America@	1993-02-04
+3073	America@America@	1993-02-04
+3074	America@America@	1993-02-04
+3075	America@	1993-02-04
+3076	America@	1993-02-04
+3077	America@	1993-02-04
+3078	Switzerland@	1993-02-04
+3079	Canada@	1993-02-04
+3080	America@Georgia@America@Georgia@America@	1993-02-04
+3081	Germany@Germany@Canada@	1993-02-04
+3082	America@Germany@Italy@Germany@America@	1993-01-28
+3083	Japan@	1993-01-28
+3084	America@Russia@America@America@	1993-01-28
+3085	America@America@America@America@	1993-01-28
+3086	Australia@America@	1993-01-28
+3087	Belgium@America@America@	1993-01-28
+3088	America@America@	1993-01-28
+3089	United Kingdom@	1993-01-28
+3090	Germany@	1993-01-28
+3091	Germany@Finland@Germany@	1993-01-28
+3092	America@	1993-01-28
+3093	America@America@	1993-01-28
+3094	United Kingdom@America@America@	1993-01-28
+3095	Germany@Germany@	1993-01-28
+3096	Japan@Japan@Japan@Japan@	1993-01-28
+3097	United Kingdom@	1993-01-21
+3098	France@Spain@Spain@	1993-01-21
+3100	America@Hungary@	1993-01-21
+3101	Canada@Canada@Canada@	1993-01-21
+3102	United Kingdom@United Kingdom@Japan@	1993-01-21
+3103	Germany@America@	1993-01-21
+3104	America@	1993-01-21
+3105	United Kingdom@	1993-01-21
+3106	America@	1993-01-21
+3107	United Kingdom@	1993-01-21
+3108	America@America@	1993-01-21
+3109	America@America@America@	1993-01-21
+3110	Belgium@Switzerland@Belgium@	1993-01-21
+3111	Japan@Japan@	1993-01-21
+3112	America@	1993-01-21
+3113	America@	1993-01-21
+3114	Sweden@United Kingdom@Sweden@	1993-01-21
+3115	America@	1993-01-14
+3116	America@Germany@	1993-01-14
+3117	America@	1993-01-14
+3118	America@America@	1993-01-14
+3119	America@America@	1993-01-14
+3120	France@	1993-01-14
+3121	America@America@Canada@	1993-01-14
+3122	America@America@	1993-01-14
+3123	Germany@Germany@Germany@Germany@	1993-01-14
+3124	India@France@France@Israel@	1993-01-14
+3125	Germany@	1993-01-14
+3126	America@	1993-01-14
+3127	America@America@	1993-01-14
+3128	America@	1993-01-14
+3129	America@	1993-01-14
+3130	United Kingdom@	1993-01-14
+3131	India@America@	1993-01-14
+3132	America@	1993-01-14
+3133	America@	1993-01-14
+3134	Japan@	1993-01-07
+3135	Slovakia@	1993-01-07
+3136	New Zealand@America@	1993-01-07
+3137	Switzerland@America@	1993-01-07
+3138	America@	1993-01-07
+3139	Mexico@America@	1993-01-07
+3140	America@	1993-01-07
+3141	America@America@	1993-01-07
+3142	America@America@Argentina@	1993-01-07
+3143	Netherlands@America@America@	1993-01-07
+3144	America@	1993-01-07
+3145	America@America@Germany@America@America@	1993-01-07
+3146	Canada@	1993-01-07
+3147	America@United Kingdom@America@	1993-01-07
+3148	3149	America@United Kingdom@	1993-01-07
+3150	America@	1993-01-07
+3151	Switzerland@Switzerland@	1993-01-07
+3152	Canada@Canada@	1993-01-07
+3153	America@America@	1992-12-31
+3154	France@China@America@France@Russia@	1992-12-31
+3155	France@	1992-12-31
+3156	America@	1992-12-31
+3157	United Kingdom@United Kingdom@	1992-12-31
+3158	United Kingdom@	1992-12-31
+3159	America@	1992-12-31
+3160	Japan@America@America@Estonia@America@	1992-12-31
+3161	America@Germany@	1992-12-31
+3162	United Kingdom@Sweden@	1992-12-31
+3163	Austria@Germany@Germany@	1992-12-31
+3164	America@	1992-12-31
+3165	America@America@America@	1992-12-31
+3166	America@America@	1992-12-31
+3167	America@America@America@America@	1992-12-31
+3168	Germany@	1992-12-31
+3169	Germany@	1992-12-31
+3170	Israel@	1992-12-31
+3171	America@	1992-12-31
+3172	Spain@Spain@	1992-12-17
+3173	America@America@Mexico@	1992-12-17
+3174	United Kingdom@	1992-12-17
+3175	Sweden@Sweden@France@Sweden@	1992-12-17
+3176	France@America@America@France@	1992-12-17
+3177	Japan@Japan@Japan@	1992-12-17
+3178	Sweden@Madagascar@	1992-12-17
+3179	Germany@Germany@	1992-12-17
+3180	America@America@America@	1992-12-17
+3181	America@America@	1992-12-17
+3182	Japan@Canada@	1992-12-17
+3183	United Kingdom@United Kingdom@	1992-12-17
+3184	America@America@	1992-12-17
+3185	America@	1992-12-17
+3186	Germany@United Kingdom@	1992-12-17
+3187	America@	1992-12-17
+3188	Canada@Peru@Canada@America@Canada@	1992-12-17
+3189	America@	1992-12-17
+3190	Germany@Spain@Netherlands@Germany@	1992-12-10
+3191	America@America@	1992-12-10
+3192	America@	1992-12-10
+3193	America@America@America@America@Austria@America@	1992-12-10
+3194	America@America@Israel@America@	1992-12-10
+3195	Canada@America@	1992-12-10
+3196	America@Canada@	1992-12-10
+3197	America@	1992-12-10
+3198	America@America@	1992-12-10
+3199	America@America@	1992-12-10
+3200	America@America@	1992-12-10
+3201	America@	1992-12-10
+3202	United Kingdom@United Kingdom@United Kingdom@Costa Rica@Canada@	1992-12-10
+3203	America@	1992-12-10
+3204	Japan@Japan@Japan@	1992-12-10
+3205	Switzerland@Switzerland@Germany@America@America@	1992-12-10
+3206	America@Switzerland@Switzerland@	1992-12-10
+3207	America@America@	1992-12-10
+3208	America@America@	1992-12-03
+3209	Netherlands@Mexico@America@	1992-12-03
+3210	Israel@	1992-12-03
+3211	Australia@United Kingdom@Australia@	1992-12-03
+3212	Switzerland@	1992-12-03
+3213	France@Italy@	1992-12-03
+3214	Denmark@Germany@Denmark@America@	1992-12-03
+3215	America@	1992-12-03
+3216	America@America@	1992-12-03
+3217	United Kingdom@United Kingdom@	1992-12-03
+3218	Israel@Norway@Norway@Norway@Germany@	1992-12-03
+3219	America@	1992-12-03
+3220	United Kingdom@United Kingdom@	1992-12-03
+3221	America@America@	1992-12-03
+3222	America@	1992-12-03
+3223	United Kingdom@United Kingdom@United Kingdom@	1992-12-03
+3224	Sweden@	1992-12-03
+3225	America@France@	1992-12-03
+3226	Switzerland@	1992-11-26
+3227	America@Australia@	1992-11-26
+3228	America@	1992-11-26
+3229	United Kingdom@	1992-11-26
+3231	America@	1992-11-26
+3232	France@America@France@	1992-11-26
+3233	Canada@	1992-11-26
+3234	America@America@America@	1992-11-26
+3235	Japan@Japan@	1992-11-26
+3236	America@	1992-11-26
+3237	America@	1992-11-26
+3238	America@	1992-11-26
+3239	Finland@	1992-11-26
+3240	Germany@Germany@Switzerland@	1992-11-26
+3241	America@America@America@	1992-11-26
+3242	America@America@America@	1992-11-26
+3243	America@	1992-11-26
+3244	America@America@	1992-11-26
+3245	America@Germany@United Kingdom@	1992-11-19
+3246	Germany@	1992-11-19
+3247	United Kingdom@	1992-11-19
+3248	America@Germany@France@America@Switzerland@Switzerland@Switzerland@Germany@Germany@Switzerland@	1992-11-19
+3249	America@	1992-11-19
+3250	America@	1992-11-19
+3251	America@America@	1992-11-19
+3252	America@Sweden@Poland@America@America@	1992-11-19
+3253	France@France@	1992-11-19
+3254	India@	1992-11-19
+3255	United Kingdom@United Kingdom@United Kingdom@	1992-11-19
+3256	America@America@	1992-11-19
+3257	America@America@America@	1992-11-19
+3258	America@America@	1992-11-19
+3259	America@	1992-11-19
+3260	America@America@	1992-11-19
+3261	United Kingdom@	1992-11-19
+3262	Germany@America@	1992-11-12
+3263	America@America@	1992-11-12
+3264	America@America@America@Mexico@	1992-11-12
+3265	America@	1992-11-12
+3266	New Zealand@	1992-11-12
+3267	America@	1992-11-12
+3268	America@	1992-11-12
+3269	America@Canada@America@America@	1992-11-12
+3270	United Kingdom@Switzerland@Panama@United Kingdom@	1992-11-12
+3271	America@America@	1992-11-12
+3272	America@America@Canada@	1992-11-12
+3273	Spain@	1992-11-12
+3274	America@	1992-11-12
+3275	America@Japan@America@	1992-11-12
+3276	America@America@America@	1992-11-12
+3277	Germany@Netherlands@America@United Kingdom@Germany@	1992-11-12
+3278	America@	1992-11-12
+3279	United Kingdom@United Kingdom@	1992-11-12
+3280	America@	1992-11-12
+3281	United Kingdom@Italy@Hungary@United Kingdom@	1992-11-12
+3282	America@Italy@Spain@	1992-11-05
+3283	France@America@America@	1992-11-05
+3284	Japan@Italy@Japan@	1992-11-05
+3285	India@	1992-11-05
+3287	America@	1992-11-05
+3288	America@America@	1992-11-05
+3289	United Kingdom@New Zealand@United Kingdom@	1992-11-05
+3290	United Kingdom@United Kingdom@Singapore@	1992-11-05
+3291	Netherlands@	1992-11-05
+3292	United Kingdom@	1992-11-05
+3293	United Kingdom@America@America@	1992-11-05
+3294	Japan@	1992-11-05
+3295	America@	1992-11-05
+3296	America@	1992-11-05
+3297	Canada@America@Canada@	1992-11-05
+3298	United Kingdom@United Kingdom@	1992-11-05
+3299	America@America@Australia@	1992-10-29
+3300	Canada@	1992-10-29
+3301	America@	1992-10-29
+3302	America@Canada@America@	1992-10-29
+3303	New Zealand@New Zealand@Mexico@America@	1992-10-29
+3304	America@America@Mexico@	1992-10-29
+3305	Poland@Germany@Germany@Germany@	1992-10-29
+3306	America@America@	1992-10-29
+3307	United Kingdom@	1992-10-29
+3308	Belgium@	1992-10-29
+3309	Italy@Italy@France@America@	1992-10-29
+3310	China@France@America@	1992-10-29
+3311	America@New Zealand@	1992-10-29
+3312	Israel@	1992-10-29
+3313	Germany@Germany@Germany@	1992-10-29
+3314	America@America@	1992-10-29
+3315	Germany@Slovakia@	1992-10-29
+3316	Germany@	1992-10-29
+3317	Slovakia@	1992-10-22
+3318	France@Switzerland@	1992-10-22
+3319	America@America@	1992-10-22
+3320	Sweden@Sweden@Germany@	1992-10-22
+3321	America@	1992-10-22
+3322	United Kingdom@America@	1992-10-22
+3323	America@Poland@Poland@United Kingdom@America@	1992-10-22
+3324	Canada@	1992-10-22
+3325	America@Australia@	1992-10-22
+3326	America@America@	1992-10-22
+3327	America@	1992-10-22
+3328	America@America@	1992-10-22
+3329	America@	1992-10-22
+3330	Germany@Netherlands@	1992-10-22
+3331	America@America@	1992-10-22
+3332	Spain@America@America@	1992-10-22
+3333	Japan@Japan@Japan@	1992-10-22
+3334	United Kingdom@United Kingdom@	1992-10-22
+3335	America@America@Germany@Italy@America@Australia@America@Slovakia@America@America@America@South Africa@	1992-10-15
+3337	Finland@	1992-10-15
+3338	Spain@France@Russia@	1992-10-15
+3339	America@United Kingdom@	1992-10-15
+3340	America@	1992-10-15
+3341	Canada@United Kingdom@	1992-10-15
+3342	America@America@	1992-10-15
+3343	America@	1992-10-15
+3344	Canada@Canada@Canada@Canada@	1992-10-15
+3345	America@America@	1992-10-15
+3346	India@France@France@United Kingdom@France@France@France@France@France@India@France@France@	1992-10-15
+3347	United Kingdom@	1992-10-15
+3348	Germany@America@Japan@	1992-10-15
+3349	Canada@	1992-10-15
+3350	America@	1992-10-15
+3351	India@	1992-10-08
+3352	America@America@	1992-10-08
+3353	Australia@America@Australia@	1992-10-08
+3354	America@America@America@	1992-10-08
+3355	America@	1992-10-08
+3356	America@	1992-10-08
+3357	America@Australia@	1992-10-08
+3358	Australia@United Kingdom@United Kingdom@Australia@Australia@Australia@United Kingdom@Australia@	1992-10-08
+3359	America@America@	1992-10-08
+3360	America@America@America@	1992-10-08
+3361	America@America@China@France@	1992-10-08
+3362	America@America@	1992-10-08
+3363	Australia@Germany@	1992-10-08
+3364	America@America@	1992-10-08
+3365	America@	1992-10-08
+3366	United Kingdom@	1992-10-08
+3367	America@	1992-10-01
+3368	United Kingdom@	1992-10-01
+3369	Finland@Vatican@Vatican@Finland@Finland@	1992-10-01
+3370	America@America@	1992-10-01
+3371	America@America@America@	1992-10-01
+3372	France@	1992-10-01
+3373	America@	1992-10-01
+3374	Spain@United Kingdom@Spain@	1992-10-01
+3375	Canada@Greece@Canada@United Kingdom@	1992-10-01
+3376	Austria@	1992-10-01
+3377	Italy@Italy@America@	1992-10-01
+3378	America@Belgium@	1992-10-01
+3379	United Kingdom@America@America@	1992-10-01
+3380	America@America@	1992-10-01
+3381	America@America@America@	1992-10-01
+3382	United Kingdom@France@United Kingdom@	1992-10-01
+3383	America@America@Germany@	1992-09-24
+3384	America@America@America@	1992-09-24
+3385	United Kingdom@	1992-09-24
+3386	Switzerland@	1992-09-24
+3387	America@America@	1992-09-24
+3388	D
