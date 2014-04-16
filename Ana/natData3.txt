@@ -1,0 +1,1212 @@
+5	Howard Hughes Medical Institute,.Department of Chemistry and Chemical Biology,.
+18	Department of Chemistry,.
+19	Department of Geosciences,.
+20	Department of Dermatology,.
+21	Department of Physics,.
+37	Vollum Institute,.
+38	Department of Physiology &amp; Cellular Biophysics,.
+39	Chemistry and Chemical Biology,.
+42	Department of Chemical Engineering,.These authors contributed equally to this work..
+51	The Whitehead Institute for Biomedical Research,.These authors contributed equally to this work..
+54	Howard Hughes Medical Institute, Division of Biology, MC 156-29,.
+63	Howard Hughes Medical Institute,.Department of Molecular, Cellular and Developmental Biology,.
+67	Ministry of Education Protein Science Laboratory,.These authors contributed equally to this work..
+68	Department of Physiology and Biophysics, and Center for Biomembrane Systems,.Department of Chemistry and Institute for Surface and Interface Science,.
+80	Department of Human Genetics,.These authors contributed equally to this work..
+81	Ludwig Institute for Cancer Research,.
+93	NIMH Psychoactive Drug Screening Program, Department of Pharmacology,.These authors contributed equally to this work..
+100	Program in Neurogenetics,.Departments of Neurology,.
+132	Department of Biochemistry,.Graduate Program in Biomolecular Structure and Design,.
+143	The Department of Neuroscience,.
+146	Department of Chemistry,.These authors contributed equally to this work..
+163	Palaeoecology, Institute of Environmental Biology, Faculty of Science, Laboratory of Palaeobotany and Palynology,.
+175	Department of Microbiology and Immunology, Weill Cornell Medical College,.These authors contributed equally to this work..
+192	Center for Ecology and Evolutionary Biology, and,.
+203	Institut ICG-2, Troposph&auml;re,.
+208	Developmental Biology Program,.
+210	Department of Pediatrics,.
+225	Department of Genome Sciences,.
+226	Cellular, Molecular, and Developmental Biology Program,.
+236	Department of Cell Biology,.These authors contributed equally to this work..
+241	Department of Molecular Biology,.
+243	Biophysics Program,.
+246	Joseph Henry Laboratories of Physics, Department of Physics,.
+247	Joseph Henry Laboratories &amp; Department of Physics,.
+254	Tumor Suppression Group,.
+259	Institute for Medical Microbiology, Immunology and Hygiene,.Center of Molecular Medicine Cologne,.
+271	Bioscience and Biotechnology Center,.
+272	The Walter and Eliza Hall Institute of Medical Research,.
+276	Geological and Planetary Sciences,.
+287	Department of Chemistry,.
+292	Research Project: The Role of Culture in The Early Expansions of Humans, Heidelberger Akademie der Wissenschaften,.
+299	Vollum Institute,.
+300	Vollum Institute,.
+306	Bioengineering,.
+312	Howard Hughes Medical Institute, Department of Oncological Sciences, and Huntsman Cancer Institute,.IVF and Andrology Laboratories, Departments of Surgery, Obstetrics and Gynecology, and Physiology,.
+317	Department of Mechanical Engineering,.
+321	Department of Microbiology,.
+323	Department of Neurobiology,.
+330	Department of Chemistry,.
+337	Departamento de Anatomia y Biologia Celular, Universidad de Cantabria,.These authors contributed equally to this work..
+338	Department of Pathology and Immunology,.These authors contributed equally to this work..
+341	Department of Ophthalmology &amp; Visual Science,.These authors contributed equally to this work..
+346	Department of Chemical Engineering and,.
+353	Developmental Genetics Group, Graduate School of Frontier Biosciences, and,.
+356	Department of Medicine,.
+363	Department of Pathology and Laboratory Medicine,.
+364	Emory Vaccine Center and Department of Microbiology and Immunology,.
+370	Department of Medical Oncology,.These authors contributed equally to this work..
+395	Division of Oncology and Center for Childhood Cancer Research, Children&
+398	Department of Pediatrics,.
+403	Department of Biochemistry,.
+406	Advanced Light Source Division, Lawrence Berkeley National Laboratory,.
+424	Department of Chemistry,.
+430	Cancer Genomics Project, Department of,.Pediatrics,.
+431	Institute for Cancer Genetics and the Herbert Irving Comprehensive Cancer Center,.
+434	Life Sciences Institute,.Department of Medicinal Chemistry,.
+449	Howard Hughes Medical Institute,.
+452	Translational Medicine Branch, National Heart Lung and Blood Institute, National Institutes of Health,.These authors contributed equally to this work..
+481	Department of Civil and Environmental Engineering, and,.
+488	Department of Chemistry,.
+509	Department of Chemistry and,.
+521	Department of Bioengineering,.
+524	Division of Molecular Immunology,.
+526	Department of Molecular Genetics and Microbiology,.Center for RNA Biology,.
+529	Laboratory of Chromosome Dynamics, Institute of Molecular and Cellular Biosciences,.Promotion of Independence for Young Investigators,.
+533	Department of Chemistry,.
+552	Division of Hematology, Department of Medicine,.
+565	LabMET, Laboratory of Microbial Ecology &amp; Technology,.These authors contributed equally to this work..
+569	Divisions of Viral Immunology and,.
+585	Department of Computer Science and Applied Mathematics,.These authors contributed equally to this work..
+587	Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, and,.These authors contributed equally to this work..
+594	Division of Biology 216-76,.Howard Hughes Medical Institute,.
+607	Department of Psychology,.
+616	Vascular Biology Program, Departments of Pathology &amp; Surgery,.
+618	Institute for Chemical Research,.
+619	Materials Science Program,.
+626	Laboratory of Molecular Cell Biology, Institute of Biochemistry and Cell Biology, and Graduate School of the Chinese Academy of Sciences,.
+628	Center for Integrated Biotechnology and Department of Horticulture,.
+640	Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, and,.
+658	Department of Biochemistry and Biophysics,.
+668	Department of Molecular Biology,.
+680	Division of Molecular Immunology,.
+682	Department of Medicine,.
+683	Department of Dermatology and Comprehensive Cancer Center,.
+684	Department of Developmental Neurobiology,.
+689	Department of Physics and Jason L. Choy Laboratory of Single Molecule Biophysics,.These authors contributed equally to this work..
+696	Department of Neuroscience,.
+697	Center for Genome Sciences.
+698	Division of Basic Sciences,.
+700	Howard Hughes Medical Institute,.Department of Molecular Biology,.
+702	Solomon H. Snyder Department of Neuroscience,.
+704	Departamento F&iacute;sica de Materiales,.
+717	Department of Physics,.
+730	Structural Biology Program,.
+733	School of Chemical and Biomolecular Engineering,.
+763	Department of Molecular Virology and Microbiology,.
+784	Laboratory of Molecular Neuro-Oncology and Howard Hughes Medical Institute,.
+802	Genetic Recombination Laboratory,.These authors contributed equally to this work..
+810	811
+827	Department of Pathology and Immunology,.
+835	School of Applied and Engineering Physics,.
+838	Centre for Ecological and Evolutionary Synthesis,.
+841	Macromolecular Crystallography Group,.These authors contributed equally to this work..
+842	Department of Microbiology and Molecular Genetics,.
+843	Department of Physiology and Biophysics,.
+864	T.C. Jenkins Department of Biophysics, and,.
+866	Department of Pathology,.
+871	Department of Organic Chemistry,.
+878	Department of Medical Oncology,.These authors contributed equally to this work..
+879	Division of Molecular Life Sciences,.
+892	Department of Pediatric Oncology,.These authors contributed equally to this work..
+895	Advanced Science Institute,.
+898	Department of Microbiology and Immunology,.Institute for Genome Sciences,.
+904	Hepatobiliary Service,.
+909	Department of Molecular Cell and Developmental Biology,.
+916	Institute of Mineralogy, Petrology, and Economic Geology.
+934	Department of Archaeology, University of Sheffield.Deceased..
+937	Division of Biology 114-96 and,.
+941	IRIBHM (Institute for Interdisciplinary Research), Universit&
+970	Section of Infectious Diseases,.
+971	Mucosal Immunity Section, Laboratory of Host Defenses,.
+972	Laboratory of Chromosome Dynamics, Institute of Molecular and Cellular Biosciences,.Graduate Program in Biophysics and Biochemistry, Graduate School of Science, and,.
+973	Department of Physics,.Research Laboratory for Electronics,.
+979	Bioengineering Department,.
+1005	Department of Molecular, Cellular, and Developmental Biology,.Department of Ecology and Evolutionary Biology, and,.
+1007	Department of Astronomy,.
+1026	Department of Ecology and Evolutionary Biology,.Department of Mathematics,.
+1039	Department of Materials Science and Engineering,.These authors contributed equally to this work..
+1041	Dynamique des Fluides G&eacute;ologiques,.
+1066	Department of Chemistry,.
+1070	Department of Biology,.Department of Biology,.
+1089	Program in Neuroscience,.
+1106	Departments of Immunology,.
+1124	Department of Neuroscience and,.
+1140	Department of Chemistry and Biochemistry, UCLA-DOE Center for Genomics and Proteomics, Molecular Biology Institute,.
+1165	Department of Ecology &amp; Evolutionary Biology,.
+1171	Department of Biology,.Program in Computational Biology and Bioinformatics,.
+1183	Membrane Transport Biophysics Unit, and,.
+1202	Division of Gene Regulation and Expression, Wellcome Biocentre, University of Dundee, Dundee DD1 5EH, U.K.
+1207	Structural Biology Program,.
+1209	Department of Physics,.
+1216	Department of Molecular and Medical Pharmacology,.
+1226	Department of Materials Science &amp; Technology,.
+1227	ERATO-SORST, JST, Frontier Research Center,.
+1235	Juniorgroup Molecular Imaging, Department of Medical Physics in Radiology,.
+1238	Department of Chemistry and Chemical Biology,.These authors contributed equally to this work..
+1240	MS 169-237,.
+1250	The Kimmel Center for Biology and Medicine of the Skirball Institute, and,.
+1251	Laboratory of Bioimaging and Cell Signaling, Graduate School of Biostudies, and,.
+1265	Departments of Pathology,.
+1266	Department of Microbiology, Center for Cell Signaling,.
+1267	Department of Molecular Biophysics and Biochemistry,.
+1273	Joseph Henry Laboratories of Physics, Department of Physics,.
+1288	Department of Cellular Biochemistry, and,.
+1298	Program in Developmental Biology, and,.
+1300	Department of Molecular and Human Genetics,.
+1301	Department of Ophthalmology, Dyson Vision Research Institute, LC-300, and,.
+1314	Departments of Ophthalmology &amp; Visual Sciences, and,.These authors contributed equally to this work..
+1323	Departments of Immunology,.
+1337	Department of Radiation Oncology, School of Medicine,.
+1344	Department of Biology,.
+1346	Program for Evolutionary Dynamics,.Department of Systems Biology,.These authors contributed equally to this work..
+1348	Department of Pathology, and,.
+1350	Department of Pathology, and,.
+1354	Department of Systems Biology,.
+1357	Department of Chemistry,.
+1359	International Pacific Research Center,.
+1370	Department of Ecology and Evolutionary Biology,.These authors contributed equally to this work..
+1383	Department of Neurology and Neurological Sciences,.These authors contributed equally to this work..
+1387	SFB 574,.
+1390	Department of Molecular and Human Genetics,.
+1406	Howard Hughes Medical Institute,.Gene Expression Laboratory, and,.
+1410	Department of Molecular and Cell Biology and the Center for Integrative Genomics,.These authors contributed equally to this work..
+1422	Department of Immunobiology,.
+1425	Center for Infectious Disease Dynamics,.
+1440	X-Ray Science Division, Argonne National Laboratory.
+1441	Center for Functional Nanomaterials,.These authors contributed equally to this work..
+1446	Center for Sleep and Respiratory Neurobiology,.Department of Neurology,.
+1447	Department of Microbiology-Immunology,.Lineberger Comprehensive Cancer Center,.
+1454	Laboratory of Biochemistry and Molecular Biology, National Cancer Institute,.
+1458	Coastal Ecology Institute,.
+1471	Department of Bioengineering,.Department of Computer Science,.
+1477	Department of Pathology and,.
+1480	1482
+1481	Department of Pathology, Brigham and Women&
+1482	Cancer Biology and Genetics Program,.Department of Medicine,.
+1485	Department of Chemistry,.These authors contributed equally to this work..
+1500	Nanoscale Physics Research Laboratory, School of Physics and Astronomy,.
+1509	Genetic Recombination and,.These authors contributed equally to this work..
+1510	Department of Chemical and Biomolecular Engineering,.
+1518	1521
+1519	1525
+1521	Wellcome Trust Centre for Stem Cell Research,.Department of Biochemistry, and,.
+1526	Department of Immunology,.
+1532	Division of Basic Sciences,.
+1546	Department of Molecular Genetics and Microbiology,.
+1554	Department of Biochemistry and Howard Hughes Medical Institute,.
+1561	Laboratory of Aquatic Ecology and Evolutionary Biology,.
+1564	Department of Molecular Biology,.
+1567	Department of Cell Biology,.These authors contributed equally to this work..
+1572	Departments of Neuroscience and,.Molecular Genetics, and,.
+1573	Laboratory of Cellular and Structural Biology, and,.
+1574	Laboratory of Cellular and Structural Biology, and,.
+1577	1586
+1580	Division of Tumor Biology, and,.
+1589	Department of Biological Sciences,.
+1601	Department of Immunology,.
+1618	Department of Cell Biology,.Carter Immunology Center,.
+1622	Department of Developmental Biology, and,.These authors contributed equally to this work..
+1631	Departments of Internal Medicine,.
+1635	Department of Physics, 104 Davey Laboratory,.
+1636	The Solomon H. Snyder Department of Neuroscience,.
+1643	Department of Physics,.
+1648	Immune Disease Institute and Department of Pathology, Harvard Medical School,.
+1651	Department of Biological Sciences,.Graduate Program in Neurobiology and Behavior,.
+1656	National Superconducting Cyclotron Laboratory,.
+1666	Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases,.These authors contributed equally to this work..
+1671	Department of Medical Microbiology, and,.
+1674	Department of Physics, Ben Gurion University,.
+1676	Department of Chemistry and Chemical Biology,.These authors contributed equally to this work..
+1681	Institute of Human Origins,.
+1684	Department of Molecular Biology,.
+1697	1707
+1698	Center for Molecular Recognition and,.
+1702	Department of Chemistry, and,.
+1704	Department of Immunology, and,.
+1705	Structural Biology Program and,.
+1713	Program in Neurobiology and Behavior,.
+1719	Departments of Pharmacology and Molecular Sciences and,.
+1727	Department of Molecular Genetics and Microbiology, and,.These authors contributed equally to this work..
+1737	Vollum Institute and,.
+1760	Howard Hughes Medical Institute, Department of Cellular and Molecular Pharmacology,.
+1761	Howard Hughes Medical Institute, Life Sciences Institute, Department of Internal Medicine, and Centre for Stem Cell Biology,.
+1771	Department of Civil and Environmental Engineering,.
+1782	Met Office, Joint Centre for Hydro-Meteorological Research.
+1788	Department of Biological Information, Graduate School of Bioscience and Biotechnology,.
+1790	Department of Neurobiology,.These authors contributed equally to this work..
+1800	Division of Molecular Genetics and Centre for Biomedical Genetics,.These authors contributed equally to this work..
+1802	The Vollum Institute and,.
+1807	Met Office, Hadley Centre for Climate Prediction and Research (JCHMR), Maclean Building.
+1817	Departamento de Gen&
+1825	Department of Anesthesiology,.
+1830	Department of Neurology, Children&
+1833	Physics of Nanodevices,.
+1835	Department of Earth and Space Science,.
+1845	Cancer Discovery Research,.
+1848	Department of Mechanical Engineering,.
+1855	ZMBP, Entwicklungsgenetik, and.
+1860	Whitehead Institute for Biomedical Research and,.These authors contributed equally to this work..
+1862	Center for Space Physics,.
+1864	Biomedical Engineering Department,.
+1868	Department of Neurology,.
+1876	Department of Biomolecular Chemistry,.
+1891	INAF-IASF Istituto di Astrofisica Spaziale e Fisica Cosmica,.
+1895	Department of Human Genetics,.
+1904	CR<span class="mb">&
+1906	Department of Physics, and,.Physical Biosciences Division and,.These authors contributed equally to this work..
+1919	Department of Geology and Geochemistry,.
+1930	The Wistar Institute, 3601 Spruce Street, and.
+1935	Long Hao Institute of Geology and Paleontology,.
+1946	Planetary Systems Laboratory, Code 693.
+1964	Department of Earth and Atmospheric Sciences,.
+1973	Department of Pharmacology and Experimental Therapeutics,.
+1980	Life Sciences Institute and Department of Cell &amp; Developmental Biology.
+1984	Department of Molecular, Cellular and Developmental Biology;.These authors contributed equally to this work..
+1988	Materials Science &amp; Engineering Department,.
+1994	Molecular Microbiology,.
+2006	Department of Mathematics, Campus Box 1146.
+2010	Molecular Biology and Genetics, Sloan-Kettering Institute, and.
+2015	Center for Nanoscale Materials,.
+2028	Department of Biological Engineering,.These authors contributed equally to this work..
+2043	Genomics Research Center,.Institute of Chemistry,.
+2052	Departments of Pathology,.These authors contributed equally to this work..
+2053	Cancer Biology and Genetics Program,.These authors contributed equally to this work..
+2065	Department of Cell Biology,.
+2067	Department f&
+2068	Institute of Biochemistry, and,.
+2073	Department of Earth and Environmental Sciences,.
+2084	Physics Department,.These authors contributed equally to this work..
+2086	2097
+2087	Biomathematics Unit, Department of Zoology, Faculty of Life Science.These authors contributed equally to this work..
+2090	Division of Molecular Immunology,.
+2091	Department of Pathobiology and,.
+2093	Graduate School of Life and Environmental Sciences, and,.
+2095	Center for Comparative Genomics and Bioinformatics,.
+2100	School of Chemical Sciences,.
+2107	Department of Physics,.
+2108	Department of Chemistry and Chemical Biology,.
+2116	Department of Clinical Genetics,.These authors contributed equally to the work..
+2117	Department of Molecular, Cell and Developmental Biology, Molecular Biology Institute.
+2119	Center for Cancer Research, Department of Biology and.
+2125	Department of Physics,.
+2132	Plant Biology Laboratory,.
+2137	Department of Biomedical Engineering and Whitaker Institute of Biomedical Engineering, and,.
+2146	Laboratory of Molecular Immunology, and,.
+2152	Exoplanets and Stellar Astrophysics Laboratory, Mail Code 667.
+2164	Howard Hughes Medical Institute and the,.
+2166	Vaccine Research Center, and,.
+2175	Departments of Immunology and,.
+2178	Program in Developmental Biology,.
+2187	Department of Immunology and,.
+2193	Department of Biology and,.
+2197	Department of Biomedical Engineering,.
+2202	Department of Cell Biology,.
+2218	Department of Pharmacology and Molecular Sciences,.
+2219	Department of Medicine,.
+2232	Respiratory Viruses, and,.
+2263	Center for Genome Sciences, and,.
+2265	Center for Biomedical Genetics Medical Genetic Center Department of Cell Biology and Genetics, and,.
+2266	USRA, NSSTC,.
+2267	Dark Cosmology Centre,.
+2277	Tumor Biology &amp; Angiogenesis,.These authors contributed equally to this work..
+2279	Institut f&
+2280	Howard Hughes Medical Institute and Department of Physiology, 1300 University Avenue.Howard Hughes Medical Institute and Department of Physiology, 1300 University Avenue.These authors contributed equally to this work..
+2282	Department of Medical Genetics, and,.These authors contributed equally to this work..
+2295	Cell Biology,.
+2306	Department of Botany and Plant Pathology, 2082 Cordley Hall, and,.
+2307	Department of Surgery,.Preston Robert Tisch Brain Tumor Center,.
+2322	Department of Cell Biology,.These authors contributed equally to this work..
+2331	Laboratoire d&
+2343	Laboratory of Experimental Gerontology,.These authors contributed equally to this work..
+2350	Division of Hematology&
+2353	National Institute of Hygiene and Epidemiology, Hanoi, Vietnam.
+2363	Department of Environmental Sciences, University Ca'' Foscari of Venice,.
+2368	Department of Protein Engineering,.
+2380	Department of Developmental Neurobiology,.These authors contributed equally to this work..
+2387	School of Botany and Zoology, and,.
+2405	Departments of Ophthalmology &amp; Visual Sciences,.
+2449	Department of Pharmaceutical Sciences and.<span class="mb">&
+2472	Department of Oceanography,.Department of Oceanography,.
+2477	Department of Developmental Biology,.
+2480	Howard Hughes Medical Institute, Department of Molecular Biology and Genetics,.
+2486	Laboratory for Physical Sciences,.Department of Electrical and Computer Engineering,.
+2508	Department of Microbiology and.
+2517	Caltech Optical Observatories 105-24,.
+2522	Department of Zoology,.
+2525	Field of Biochemistry, Molecular and Cell Biology,.School of Applied and Engineering Physics and.
+2528	Division of Biology and.
+2534	Department of Chemistry,.
+2542	Department of Laboratory Medicine,.
+2555	Division of Hematology/Oncology, Children''s Hospital,.
+2581	Department of Electrical and Computer Engineering,.
+2600	Laboratory of Molecular Genetics, and.
+2601	Department of Pathology and Immunology, and.
+2603	Department of Pathology and Immunology and.
+2610	Department of Mechanical Engineering,.*These authors contributed equally to this work.
+2612	The Geophysical Observatory,.
+2631	Department of Biophysics and Biochemistry, Graduate School of Science, and.
+2639	School of Molecular and Microbial Sciences, and.
+2641	Laboratory of Chromatin Biology,.
+2664	School of Applied and Engineering Physics,.
+2679	Howard Hughes Medical Institute,.Department of Cellular and Molecular Pharmacology, and.
+2681	Institute for Experimental Physics,.
+2708	Center for Sleep and Respiratory Neurobiology and.
+2711	Unit&
+2714	Department of Pathology,.<span class="mb">&
+2720	Department of Chemistry and.
+2725	Howard Hughes Medical Institute and Department of Biochemistry,.
+2732	Program for Evolutionary Dynamics, Department of Organismic and Evolutionary Biology, Department of Mathematics,.
+2735	Center for Neuroscience and Aging, and.
+2737	Cancer Biology and Genetics Program,.Department of Pathology,.
+2740	Department of Microbiology and Immunology, and.
+2754	Departments of Biological Chemistry and.
+2778	Laboratory of Chromosome Dynamics, Institute of Molecular and Cellular Biosciences,.
+2791	Metabolism Branch, Center for Cancer Research, National Cancer Institute, and.<span class="mb">&
+2798	Laboratoire de Biochimie et Biophysique des Macromol&
+2808	Institute of Human Genetics and.These authors contributed equally to this work.
+2813	Department of Radiation Oncology,.
+2817	Universit&auml;t Hamburg, Institut f&
+2831	Human Evolution Research Center, Museum of Vertebrate Zoology, 3101 Valley Life Sciences Building, and.
+2838	Department of Microbiology, and.
+2839	Department of Forest Resources,.
+2842	Departments of NanoBiophotonics and.<span class="mb">&
+2843	Department of Chemical Engineering,.<span class="mb">&
+2845	Laboratory for Host Defense and.
+2857	Department of Biological Science and Technology, and.
+2864	Department of Medical Biophysics,.<span class="mb">&
+2881	Tumor Suppression Group,.
+2892	Centro de Sensoriamento Remoto, and.
+2898	Carolina Cardiovascular Biology Center and.
+2901	Department of Molecular and Cell Biology,.
+2907	Division of Engineering and Applied Sciences,.
+2931	Molecular Neurobiology Laboratory and.<span class="mb">&
+2934	Molecular Oncology Department,.
+2947	ARC Centre of Excellence for Coral Reef Studies and.
+2968	School of Biology and Psychology,.
+2970	Department of Psychology,.Center for the Neural Basis of Cognition and.
+2973	Terry Fox Laboratory, and.
+2991	Physiological Genomics and Medicine Group, MRC Clinical Sciences Centre, and Sections of.
+2992	Department of Statistics and Operations Research,.<span class="mb">&
+2994	Center for Neurobiology and Behavior,.<span class="mb">&
+3017	Structural and Computational Biology Group and.
+3018	Department of Virology and.
+3032	Center for Regenerative Medicine and.
+3034	Molecular-Scale Engineering and Nanoscale Technologies Group, and.
+3035	National Center for Macromolecular Imaging, Verna and Marrs McLean Department of Biochemistry and Molecular Biology,.
+3036	Waksman Institute,.
+3049	Wellcome Department of Imaging Neuroscience and.
+3051	Department of Genetics,.
+3071	McKusick-Nathans Institute of Genetic Medicine,.
+3077	Department of Surgery,.
+3081	Department of Chemistry and Chemical Biology, and.<span class="mb">&
+3098	Department of Chemistry,.<span class="mb">&
+3100	National Resource for Automated Molecular Microscopy, Departments of.Cell,.<span class="mb">&
+3101	Department of Neurobiology, Pharmacology and Physiology, Committees on.*These authors contributed equally to this work.
+3104	Department of Earth, Atmospheric, and Planetary Sciences,.
+3108	e-Science Research Institute,.
+3109	Biology Department, and.
+3113	The Walter and Eliza Hall Institute of Medical Research, 1G Royal Parade, Parkville, Victoria 3050,.Bone Marrow Research Laboratories, Royal Melbourne Hospital, Parkville, Victoria 3050,.
+3114	CBR Institute for Biomedical Research,.Department of Pediatrics,.
+3115	Department of Genetics and Tumor Cell Biology, and.<span class="mb">&
+3117	Biophysics Graduate Group,.<span class="mb">&
+3140	Department of Biochemistry and Molecular Genetics,.
+3143	Space Radiation Laboratory 220-47,.
+3150	Department of Cell and Developmental Biology, and.
+3165	Graduate Program in Neurobiology &amp; Behavior,.
+3173	Department of Cell Biology and.
+3184	Department of Molecular Biophysics and Biochemistry, and.<span class="mb">&
+3191	Department of Applied Physics,.These authors contributed equally to this work.
+3193	Institute for Quantum Computing,.
+3205	Department of Molecular Biophysics and Biochemistry,.
+3207	Department of Genetics,.
+3215	Howard Hughes Medical Institute and Divisions of Hematology and.
+3225	Department of Physics,.
+3235	Receptor Biology Laboratory, Department of Physiology and Biomedical Engineering, and.
+3237	Observational Cosmology Laboratory,.SSAI,.
+3245	Department of Microbiology,.
+3256	<span class="mb">&
+3267	Department of Molecular Genetics and Microbiology,.Howard Hughes Medical Institute,.
+3274	Department of Biology,.
+3277	Consolidated Research Institute for Advanced Science and Medical Care (ASMeW),.
+3293	Division of Biology, and.<span class="mb">&
+3301	Developmental and Stem Cell Biology Program,.Diabetes Center, and.
+3304	Lists of participants and affiliations appear at the <a href="
+3306	Department of Pediatric Oncology and.<span class="mb">&
+3307	Chemical Biology, Independent Research Group,.<span class="mb">&
+3328	Department of Pathology,.
+3346	Department of Developmental Biology, Howard Hughes Medical Institute, Beckman Center and.
+3348	Department of Genetics and.
+3350	Departments of Pathology &amp; Immunology,.
+3353	Howard Hughes Medical Institute and Departments of.Pharmacology and.<span class="mb">&
+3365	Departamento de Bioqu&
+3367	Howard Hughes Medical Institute, Vollum Institute and.
+3370	Division of Signal Transduction and Growth Control and.
+3380	Sloan-Swartz Center for Theoretical Neurobiology, W. M. Keck Foundation Center for Integrative Neuroscience, Department of Physiology, and.
+3386	Department of Cell Biology and Genetics and.
+3388	Department of Biochemistry and Molecular Biophysics and.
+3391	Howard Hughes Medical Institute,.
+3395	Department of Geology and Geophysics,.
+3397	Laboratory of Persistent Viral Diseases and.
+3400	Departments of Pediatrics,.
+3402	Mammalian Genetics Laboratory,.
+3407	<span class="mb">&
+3421	Cancer Biology and Genetics Program, Department of Pathology,.
+3422	Laboratory of Molecular Biology and.
+3434	Department of Microbiology,.
+3437	Department of Biochemistry and McGill Cancer Center,.
+3438	Department of Pediatrics,.
+3450	Department of Physics,.
+3456	Division of Biology and.
+3458	Departments of Molecular and Integrative Physiology and.<span class="mb">&
+3459	Department of Pathology and Immunology,.
+3461	Institute for Integrative Genome Biology and Department of Plant Pathology,.<span class="mb">&
+3462	Departments of Microbiology and Immunology and.
+3463	Department of Medicine, Division of Hematology,.Department of Genetics and.
+3464	Molecular Biology Programs, Memorial Sloan-Kettering Cancer Center and.
+3465	List of participants and affiliations appear at the <a href="
+3478	Molecular Physiology and Biophysics Section, and.<span class="mb">&
+3482	Ludwig Institute for Cancer Research and.<span class="mb">&
+3500	Howard Hughes Medical Institute, Rheumatology Division, Departments of Medicine,.
+3502	Division of Molecular Genetics and.<span class="mb">&
+3503	Cancer Biology and Genetics Program,.Department of Pathology, and.
+3517	Department of Psychiatry,.
+3521	Biological Engineering Division and.<span class="mb">&
+3522	Sections of Rheumatology and.
+3526	Program in Molecular Medicine, and.<span class="mb">&
+3528	Wolfson Institute for Biomedical Research,.Laboratory of Functional Genomics,.<span class="mb">&
+3538	Department of Microbiology, Immunology and Molecular Genetics,.
+3539	Immunology Program, Sloan-Kettering Institute, and.
+3552	Max-Planck-Institut f&
+3554	Department of Chemistry,.
+3560	Neuroimmunology Unit&
+3567	Max Planck Institut f&
+3596	Department of Medicine, and.
+3602	Department of Physiology, .
+3608	Faculty of Geosciences, Department of Earth Sciences, and.
+3609	Center for Earthquake Research and Information,.
+3612	Department of Microbiology and.
+3616	Laboratory of Malaria and Vector Research,.
+3629	Department of Genetics, and.<span class="mb">&
+3652	Department of Cell and Developmental Biology and.<span class="mb">&
+3654	Program in Human Genetics and Molecular Biology,.The Institute of Genetic Medicine,.
+3691	Department of Medicine, Division of Endocrinology, Metabolism &amp; Lipid Research,.<span class="mb">&
+3709	VERA (Vienna Environmental Research Accelerator) Laboratory, Institut f&
+3713	Division of Mammalian Development, National Institute of Genetics, and.
+3714	Department of Genetics and.
+3886	Department of Chemical Engineering and.
+3950	Department of Bioengineering and the Whitaker Institute of Biomedical Engineering,.
+4067	Department of Geology and Geophysics, Woods Hole Oceanographic Institution, and.
+4087	Committee on Immunology and.
+4088	Department of Biophysics and Biochemistry, Graduate School of Science, and.
+4118	Department of Organismal Biology and Anatomy and.
+4122	The Department of Microbiology and Immunology, and.
+4166	Laboratory of Cardiac/Membrane Physiology,.
+4333	Department of Biochemistry and Molecular Biology and.
+4409	Space Radiation Laboratory 220-47,.
+4416	Department of Cell and Developmental Biology, and.
+4441	4051
+4555	Division of Medical Oncology, Departments of Medicine and Pathology,.
+4567	Department of Computer and Information Science and.
+4590	These authors contributed equally to this work.
+4596	Department of Biochemistry and Molecular Biophysics and Center for Neurobiology and Behavior,.
+4609	Department of Molecular Biology and Genetics and the Howard Hughes Medical Institute,.Departments of Pathology,.
+4717	Department of Pediatrics, Harvard Medical School, and the Laboratory of Molecular Medicine, Children''s Hospital, and.
+4834	Jard&
+4836	Department of Virology, National Institute of Veterinary Research, Ministry of Agriculture and Rural Development, Hanoi, Vietnam.
+4838	Department of Molecular and Cellular Biochemistry, Graduate School of Medical Sciences,.
+4853	Department of Biological Sciences, Howard Hughes Medical Institute,.
+4895	Laboratory of Genomic Diversity, Basic Research Program, SAIC-Frederick and.These authors contributed equally to this work.
+4959	These authors contributed equally to this work.
+4960	Department of Molecular and Cell Biology and Department of Chemistry, and.
+5078	Smithsonian Tropical Research Institute, Apartado 2072, Balboa, Republic of Panam&
+5084	Department of Medical Oncology, Dana&
+5131	Research Group Developmental Biology, Department of Molecular Cell Biology, and.
+5213	Unidad Occidente, Instituto de Biolog&
+5303	Partners AIDS Research Center, Brigham and Women''s Hospital, Department of Medicine (Microbiology and Molecular Genetics),.
+5500	School of Physics and Astronomy,.
+5503	Department of Civil and Environmental Engineering,.
+5504	MIT/Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, and.
+5506	Department of Botany,.
+5510	Department of Cell Biology and Neuroscience,.
+5512	Genome Structure and Function Team, Human Genome Research Group, RIKEN Genomic Science Center, 1-7-22 Suehiro-cho, and.
+5513	Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, and.
+5577	Center for Blood Research and Department of Genetics, Harvard Medical School, and.
+5581	These authors contributed equally to this work.
+5599	These authors contributed equally to this work.
+5651	Department of Genetics and Microbiology,.Department of Medicine, and.
+5660	These authors contributed equally to this work.
+5667	These authors contributed equally to this paper.
+5682	These authors contributed equally to this work.
+5691	These authors contributed equally to this work.
+5734	These authors contributed equally to this work.
+5745	These authors contributed equally to this work.
+5765	These authors contributed equally to the work.
+5776	These authors contributed equally to this work.
+5778	These authors contributed equally to this work.
+5810	These authors contributed equally to this work.
+5824	These authors contributed equally to this study.
+5835	These authors contributed equally to this work.
+5839	These authors contributed equally to this work.
+5848	These authors contributed equally to this work.
+5861	These authors contributed equally to this work.
+5863	These authors contributed equally to this work.
+5887	These authors contributed equally to this work.
+5902	These authors contributed equally to this work.
+5924	These authors contributed equally to this work.
+5967	These authors contributed equally to this work.
+5969	These authors contributed equally to this work.
+6012	These authors contributed equally to this work.
+6017	Deceased.
+6022	These authors contributed equally to this work.
+6024	These authors contributed equally to this work.
+6037	Department of Physics, Sofia University, Sofia 1164, Bulgaria.
+6041	These authors contributed equally to this work.
+6043	These authors contributed equally to this work.
+6053	These authors contributed equally to this work.
+6056	These authors contributed equally to this work.
+6065	These authors contributed equally to this work.
+6071	These authors contributed equally to this work.
+6103	These authors contributed equally to this work.
+6119	These authors contributed equally to this work.
+6164	These authors contributed equally to this work.
+6169	These authors contributed equally to this work.
+6172	These authors contributed equally to this work.
+6173	These authors contributed equally to this work.
+6201	These authors contributed equally to this work..
+6216	These authors contributed equally to this work.
+6217	These authors contributed equally to this work.
+6218	These authors contributed equally to this work.
+6232	These authors contributed equally to this work.
+6240	These authors contributed equally to this work.
+6241	These authors contributed equally to this work.
+6269	These authors contributed equally to this work.
+6292	These authors contributed equally to this work.
+6295	These authors contributed equally to this work.
+6343	These authors contributed equally to this work.
+6385	These authors contributed equally to this work.
+6390	These authors contributed equally to this work.
+6403	Universit&eacute; de N''Djam&eacute;na, BP 1117, N''Djam&eacute;na, Tchad.
+6413	These authors contributed equally to
+
+6419	These authors contributed equally to this work.
+6426	These authors contributed equally to this work.
+6440	These authors contributed equally to this work.
+6453	These authors contributed equally to this work.
+6458	6059
+6508	These authors contributed equally to this work.
+6515	These authors contributed equally to this work.
+6520	These authors contributed equally to this work.
+6531	These authors contributed equally to this work.
+6612	These authors contributed equally to this work.
+6617	These authors contributed equally to this work.
+6651	These authors contributed equally to this work.
+6693	These authors contributed equally to this work.
+6702	These authors contributed equally to this work.
+6704	These authors contributed equally to this work.
+6721	These authors contributed equally to this work.
+6768	6370
+6796	These authors contributed equally to this work.
+6806	These authors contributed equally to this work.
+6895	These authors contributed equally to this work.
+6897	These authors contributed equally to this work.
+6923	These authors contributed equally to the work.
+6924	These authors contributed equally to this work.
+6930	These authors contributed equally to the work.
+6939	Dipartimento di Scienze di Sanit&agrave; Pubblica, Sezione di Parassitologia, WHO Collaborating Centre for Malaria Epidemiology and Control; and.
+6947	These authors contributed equally to this work.
+6972	6575
+6989	The Centre for Tropical Diseases, 190 Ben Ham Thu, Quan 5, Ho Chi Minh City, Vietnam.
+7024	These authors contributed equally to this work.
+7034	These authors contributed equally to this work.
+7035	These authors contributed equally to this work.
+7063	6667
+7068	These authors contributed equally to this work.
+7090	These authors contributed equally to the work.
+7095	These authors contributed equally to this work.
+7097	Department of Molecular Oncology,.
+7106	These authors contributed equally to this work.
+7138	Cellular Biochemistry and Biophysics Program and.These authors contributed equally to this work..
+7156	Department of Physics; and.
+7164	Donald Bren School of Environmental Science and Management; and.
+7170	These authors have contributed equally to this work..
+7202	These authors contributed equally to this work.
+7204	These authors contributed equally to this work.
+7205	These authors contributed equally to this work.
+7206	These authors contributed equally to this work.
+7212	6817
+7218	Cancer Biology Program, Division of Hematology and Oncology; and.
+7236	Department of Biophysics and Biophysical Chemistry,.
+7245	Department of Materials Science and Engineering,.Center for Materials Science and Engineering, and.
+7251	Department of Neurobiology,.
+7255	Department of Biochemistry and Biophysics; and.
+7275	These authors contributed equally to this work..
+7281	These authors contributed equally to this work.
+7295	Departments of Biochemistry and Molecular Biology, and.
+7300	Department of Materials Science and Engineering, 1509 University Avenue; and.
+7311	These authors contributed equally to this work.
+7312	These authors contributed equally to this work..
+7314	Department of Statistics, and.
+7321	These authors contributed equally to this work.
+7334	Reproductive Neurosciences Unit, Department of Obstetrics and Gynecology and.
+7337	Department of Cellular Biochemistry; and.
+7353	These authors contributed equally to this work.
+7355	These authors contributed equally to this work.
+7366	Department of Molecular Biology and.
+7371	UNC Neuroscience Center,.Department of Microbiology and Immunology,.
+7373	These authors contributed equally to this work.
+7376	Department of Chemistry and Princeton Materials Institute;.
+7388	Division of Newborn Medicine, Department of Pediatrics, Children''s Hospital and.
+7389	Division of Basic Science and.
+7407	Departments of Pediatrics, and Molecular Biology and Pharmacology, and.
+7444	Howard Hughes Medical Institute and.
+7465	Department of Microbiology and Immunology,.Department of Cell Biology, and.
+7480	These authors contributed equally to this work.
+7484	Howard Hughes Medical Institute,.Department of Medicine, Pulmonary and Cardiology Divisions, and.
+7502	These authors contributed equally to this work..
+7505	These authors contributed equally to this work.
+7507	Department of Physics,.
+7510	School of Electronic Engineering, Information Technology &amp; Mathematics;.
+7514	Present address: 38 Sydenham Road, Bristol BS6 5SJ, U.K..
+7515	Diabetes Branch, and.
+7521	These authors contributed equally to this work.
+7534	These authors contributed equally to this work.
+7537	Departments of Pediatrics (Cardiology) and.
+7538	Department of Microbiology, and.
+7541	These authors contributed equally to this work.
+7542	These authors contributed equally to this work.
+7565	Department of Aeronautical and Astronautical Engineering,.
+7578	Departments of Neurology,.
+7593	These authors contributed equally to this work.
+7605	These authors contributed equally to this
+
+7611	Department of Genetics, Rutgers University
+
+7614	Laboratory of Molecular Neurobiology,
+
+7621	Laboratory of Genetics,.
+7622	These authors contributed equally to this
+
+7637	These authors contributed equally to
+
+7640	These authors contributed equally to this
+
+7642	These authors contributed equally to this
+
+7644	These authors contributed equally to this
+
+7648	Cold Spring Harbor Laboratory,.
+7651	Microbiology and of.Molecular and Cellular Biology and.
+7660	Geophysical Fluid Dynamics Laboratory
+
+7670	Department of Medical Biochemistry,
+
+7676	Department of Biochemistry and Molecular
+
+7679	Department of Biochemistry, Howard
+
+7687	Division of Geological and Planetary
+
+7692	Department of Chemistry and Chemical
+
+7711	Howard Hughes Medical Institute,
+
+7726	Cellular and Molecular Pharmacology,.Physiology, and.
+7735	Institute of Cell and Molecular Biology,
+
+7743	Alzheimer Research Laboratory, Department of Pharmacology,.
+7745	These authors contributed equally to this
+
+7748	Biologic &amp; Materials Sciences,.Chemical Engineering,.Biomedical Engineering, and.
+7751	These authors contributed equally to this
+
+7756	Afdeling Kwantumchemie, Celestijnenlaan
+
+7774	Department of Pharmacology,.
+7784	These authors contributed equally to
+
+7788	These authors contributed equally to this
+
+7790	These authors contributed equally to this
+
+7816	These authors contributed equally to this work.
+7832	Vertebrate Development Laboratory
+
+7837	These authors contributed equally to this
+
+7839	Division of Endocrinology, Department of Internal Medicine;.
+7840	These authors contributed equally to this work.
+7841	Laboratory of Pharmacology and Toxicology
+
+7852	These authors contributed equally to this
+
+7856	Department of Chemistry,.Department of Physics,.
+7861	7391
+7863	Departments of Molecular Biology
+
+7868	These authors contributed equally to
+
+7871	These two authors contributed equally
+
+7874	Cellular Biochemistry and Biophysics
+
+7890	Southampton Oceanography Centre, 
+
+7901	Laboratory of Biochemistry/Institute
+
+7912	Functional Cloning,.
+7919	These authors contributed equally to this
+
+7930	Department of Molecular and Human
+
+7946	These authors contributed euqally to this
+
+7950	Structural Biology and.Structural Biology and.
+7960	Internal Medicine,.Anesthesia,.
+7964	Department of Biology and.
+7986	Laboratory of Molecular Genetics,
+
+7992	Immunology and .
+8000	Genetics and Biochemistry Branch
+
+8017	These authors contributed equally to this
+
+8019	Institute of Biological Chemistry,
+
+8026	Department of Neurology,.Department of Developmental and Molecular
+
+8028	These authors contributed equally to this
+
+8049	Palomar Observatory 105-24,.
+8053	Department of Computer Science, Duke
+
+8065	Institutes of Zoology,.Molecular Genetics, Biosafety Research
+
+8070	These authors contributed equally to this
+
+8075	Cardiovascular and.
+8076	These authors contributed equally to
+
+8094	Department of Experimental Therapeutics,
+
+8101	Department of Chemistry, Princeton
+
+8104	These authors contributed equally to this
+
+8108	Adolf Butenandt-Institut, Molekularbiologie,
+
+8115	These authors contributed equally to this
+
+8127	Department of Neurobiology and.
+8133	These authors contributed equally to this
+
+8145	University of Glasgow, Department
+
+8160	Debye Institute, Department of Metal-Mediated
+
+8174	Human Motor Control Section,
+
+8180	The Laboratory of Parasitic Diseases,
+
+8184	Department of Molecular Biology
+
+8203	CREST fellow,.
+8205	These authors contributed equally to
+
+8209	These authors contributed equally to this
+
+8211	7611
+8218	Research School of Earth Sciences,.Department of Geology,.
+8223	These authors contributed equally to this
+
+8228	Oncology,.Pathology,.
+8238	British Institutions Reflection Profiling
+
+8255	Center for Microgravity and Materials
+
+8265	Department of Immunology and.Department of Immunology and.
+8267	These authors contributed equally to this
+
+8274	Code 691&amp;.Code 691&amp;.
+8287	Department of Biochemistry and Molecular
+
+8295	Department of Physics, Sofia University
+
+8307	Departments of Molecular and Medical
+
+8312	Biological/Pharmacological Research
+
+8322	7708
+8328	Department of Metabolic Disorders
+
+8337	Department of Genetics and Development
+
+8340	Departments of Molecular Neurobiology
+
+8347	These authors contributed equally to
+
+8353	Department of Molecular Biology,
+
+8360	Department of Materials Science
+
+8369	7733
+8370	Research Imaging Center and.
+8375	These authors contributed equally to this
+
+8377	Departamento de F&iacute;sica y Matem&aacute;ticas,
+
+8388	These authors contributed equally to this
+
+8393	These authors contributed equally to this
+
+8407	Department of Obstetrics and Gynaecology,
+
+8411	Laboratories of Molecular Cardiology
+
+8421	Department of Chemistry and Biochemistry,
+
+8436	These authors contributed equally to this
+
+8452	These authors contributed equally to this work.
+8458	These authors contributed equally to this work.
+8471	These authors contributed equally to this
+
+8473	Departments of Genetics and Medicine,
+
+8485	These authors contributed equally to
+
+8500	These authors contributed equally to
+
+8517	Statistical Sciences,.Statistical Sciences,.
+8522	These authors contributed equally to
+
+8527	Department of Geology and Geophysics,
+
+8549	Department of Physics, Queen Mary and Westfield College
+
+8556	Department of Applied Physics,.Materials Science Center,.
+8562	Functional Cloning,.Functional Cloning,.Functional Cloning,.
+8563	Divisions of Protein Metabolism
+
+8567	These authors contributed equally to
+
+8570	Laboratory of Molecular Genetics
+
+8596	These authors contributed equally to this
+
+8608	Department of Electronics and Computer
+
+8614	Department of Chemistry.
+8618	Cardiovascular Magnetic Resonance
+
+8647	Cardiovascular Research Institute
+
+8655	These authors contributed equally to this
+
+8667	Bell Laboratories, Lucent Technologies
+
+8680	Cavendish Laboratory, 
+
+8693	7958
+8697	These authors contributed equally to this
+
+8712	Department of Chemical Engineering
+
+8717	Department of Pathology, Division
+
+8728	Bell Laboratories, Lucent Technologies
+
+8749	Department of Materials and Interfaces, 
+
+8761	These authors contributed equally to
+
+8763	These authors contributed equally to this
+
+8778	The John B. Pierce Laboratory and 
+
+8781	These authors contributed equally to
+
+8788	Laboratory of Mammalian Genes and
+
+8800	Howard Hughes Medical Institute,
+
+8813	Department of Geological and Environmental Sciences, .
+8817	These authors contributed equally to
+
+8822	These authors contributed equally to this
+
+8829	These authors contributed equally to this
+
+8833	Present address: Facultad de Medicina,
+
+8841	Departments of Genetics and Medicine
+
+8865	The Sanger Centre, The Wellcome
+
+8897	Department of Genetics and .Department of Genetics and .Department of Genetics and .
+8899	Departments of Biochemistry, .Genetics, .
+8907	Department of Earth Sciences, Dartmouth
+
+8915	Department of Biomedical Engineering
+
+8923	8090
+8924	These authors contributed equally to this work.
+8938	These authors contributed equally to
+
+8944	The Program in Molecular Biology,
+
+8952	Department of Experimental Physics, 
+
+8956	Departments of Chemistry, .
+8961	Committee on Genetics and
+
+8963	Neuropsychology/Cognitive Neuroscience
+
+8968	Neuroscience Section, Division of
+
+8975	Departments of Pharmacology and
+
+8987	Department of Biomedical Engineering,.Center for BioDynamics and.
+8992	8136
+9010	Interdepartmental Program in Vascular Biology and Transplantation, Boyer Center for Molecular Medicine, and the Departments of .Surgery, .
+9012	These authors contributed equally to this work.
+9015	Division of Biology 156-29, .
+9027	Department of Cell Physiology &amp; Pharmacology, Medical Sciences Building, .
+9029	These authors contributed equally to this work.
+9040	These authors contributed equally to this work.
+9048	These authors contributed equally
+
+9052	These authors contributed equally to
+
+9055	Department of Pharmacology, .Pathology, and .
+9066	These authors contributed equally to this work.
+9068	The Howard Hughes Medical Institute, and the .
+9071	Department of Chemistry, .Department of Chemistry, .
+9074	Department of Ecology, Evolution and Marine Biology and Marine Science Institute, .
+9080	Institute for Neurodegenerative Diseases, .Neurology, .
+9101	Department of Medicine and .
+9122	These authors contributed equally to
+
+9126	These authors contributed equally to this work.
+9131	Department of Astronomy, .
+9151	Bell Laboratories, Lucent Technologies
+
+9163	Department of Pharmacology, .Pathology, and .
+9164	These authors contributed equally to this work.
+9169	GSF-Forschungszentrum f&uuml;r Umwelt und Gesundheit, Munich Information Center for Protein Sequences, and .
+9172	8293
+9193	The authors contributed equally to this work.The authors contributed equally to this work.
+9197	These authors contributed equally to this work.
+9207	Department of Physics and .
+9229	Bell Laboratories, Lucent Technologies
+
+9234	Biotechnology Laboratory and .
+9237	These authors contributed equally to this work.
+9239	These authors contributed equally to this work.
+9252	Department of Pathology and Department of Developmental Biology, Howard Hughes Medical Institute, and .
+9256	These authors contributed equally to this work.
+9293	Department of Medicine and .
+9307	Pharmacology, .Neurology, .
+9315	Department of Molecular and Human Genetics, .Howard Hughes Medical Institute, and .
+9316	Renal and .
+9318	Division of Genetics, .
+9336	Pulmonary and Cardiovascular Pharmacology, 
+
+9345	These authors contributed equally to this work.
+9348	These authors contributed equally to this
+
+9351	These authors contributed equally to this work..
+9359	These authors contributed equally to this work..
+9366	Cellular Biochemistry and Biophsyics Program and .
+9370	Department of Physics and Astronomy, .Department of Physics and Astronomy, .Department of Physics and Astronomy, .
+9377	Department of Molecular Genetics, .
+9379	These authors contributed equally to this work..
+9382	Department of Genetics and .
+9383	The Wistar Institute, .Department of Chemistry, and .
+9410	These authors contributed equally to this work..
+9414	Department of Cell and Molecular Biology, Box 596,.
+9421	Department of Geosciences, Princeton
+
+9444	Department of Physical Chemistry and the Farkas Center for Light Induced Processes,.
+9452	Department of Biomedical Engineering and.
+9459	MRC Laboratory of Molecular Biology
+
+9470	Max-Planck-Institut f&
+9498	These authors contributed equally to this work.
+9520	These authors contributed equally to this work.
+9544	Department of Physics,.These authors contributed equally to this work.
+9572	Department of Biochemistry, and.Deceased.
+9577	Department of Chemistry and.
+9580	Department of Mechanical Engineering,.
+9586	Institutes for Medical Psychology and.
+9591	Molecular Cardiology, Department of Internal Medicine IV, and.
+9605	Instituto de Fisiolog&
+9611	Department of Chemistry and.
+9624	The G. W. Hooper Foundation, Department of Microbiology and Immunology, Departments of Biopharmaceutical Sciences and Pharmaceutical Chemistry.
+9641	Institute of Molecular Medicine,
+
+9653	Department of Atomic and Laser Physics, Clarendon Laboratory
+
+9705	Physique des Milieux Condenss UMR 7602.
+9708	Max-Planck-Institut fr Meteorologie.
+9714	Departments of Cell Biology.
+9716	Howard Hughes Medical Institute and Department of Biochemsitry.
+9728	These authors contributed equally to this work..
+9730	These authors contributed equally to this work..
+9749	National Science Foundation;.
+9783	Departments of Chemistry and.
+9785	Department of Genetics, Rutgers University
+
+9804	Departments of Pharmacology and.
+9806	These authors contributed equally to the work.
+9820	Departments of Biological Chemistry and Molecular Pharmacology and Cancer Biology.
+9844	Department of Biological Sciences,
+
+9882	Departments of Computer Science.
+9888	Department of Biosciences, Division
+
+9897	These authors contributed equally to this work.
+9914	These authors contributed equally to this work.
+9953	These authors contributed equally to this work.
+9985	These authors contributed equally to this work..
+10049	These authors contributed equally to this work.
+10061	These authors contributed equally to this work.
+10062	9132
+10112	Department of Geosciences,.
+10161	Cellular Biochemistry and Biophysics Program and.
+10193	These authors contributed equally to this work.
+10198	These authors contributed equally to this work..
+10208	9279
+10239	Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, Guangdong.
+10252	9324
+10262	These authors contributed equally to this work.
+10269	9342
+10282	These authors contributed equally to this work.
+10297	These authors contributed equally to this work..
+10326	These authors contributed equally to the work.
+10394	These authors contributed equally to
+
+10415	9478
+10420	These authors contributed equally to this work..
+10422	These authors contributed equally to this work..
+10543	Departments of Macromolecular Science.
+10557	This paper is dedicated to the memory of our friend and colleague Vladimir M. Shulmeister, a key member on the project until his untimely death on 27 September 1995..
+10603	Institute of Archaeology and Ethnology, Polish Academy of Sciences, 00-140 Warsaw.
+10610	Department of Human Nutrition and Metabolism, Faculty of Medicine, Hebrew University, PO Box 12272, Jerusalem.
+10623	Instituto de Fisiolog&iacute;a Celular, Universidad Nacional Aut&oacute;noma de M&eacute;xico, 04510 M&eacute;xico DF, M&eacute;xico.Instituto de Fisiolog&iacute;a Celular, Universidad Nacional Aut&oacute;noma de M&eacute;xico, 04510 M&eacute;xico DF, M&eacute;xico.
+10624	Departments of Anatomy, Physiology and W. M. Keck Foundation Center for Integrative Neuroscience,.
+10628	Departments of Medicine and Molecular Genetics and Cell Biology, and.
+10633	Dipartimento di Astronomia e Scienza dello Spazio, Universit&aacute; di Firenze, Italia.Dipartimento di Astronomia e Scienza dello Spazio, Universit&aacute; di Firenze, Italia.
+10646	These authors contributed equally to this study..
+10719	These authors contributed equally to this work..
+10737	Institute of Human Genetics and Department of Biochemistry.
+10744	These authors contributed equallys to this work..
+10749	These authors contributed equally to this work..
+10794	These authors contributed equally to this work..
+10805	9866
+10828	These authors contributed equally to this
+
+10833	Departments of Medical Genetics and.
+10847	NERC Centre for Population Biology,
+
+10877	Division of Engineering and Applied Sciences.
+10907	Department of Molecular and Cellular Neurobiology,.
+10932	9986
+10945	These authors contributed equally to this work..
+10948	These authors contributed equally to this work..
+10956	School of Oceanography, Box 357940, and.
+10962	Departments of Molecular and Human Genetics,.Pediatrics,.
+10963	Departments of Pathology, Harvard Medical School and.
+10964	Departments of Molecular Biology,.
+10965	Departments of Molecular Genetics and.
+10975	Department of Geological and Environmental Sciences, and.
+10994	10049
+10998	Departments of Laboratory Medicine and Pathology and.
+10999	These authors contributed equally to this work..
+11000	These authors contributed equally to this work..
+11007	These authors contributed equally to this study..
+11043	These authors contributed equally to this work..
+11047	Department of Physics and Astronomy,.
+11048	These authors contributed equally to this work.
+11064	These authors contributed equally to this work..
+11115	These authors contributed equally to this work..
+11152	Howard Hughes Medical Institute and Departments of.Cellular Molecular Pharmacology.
+11154	These authors contributed equally to this work..
+11186	These authors contributed equally to this work..
+11187	Howard Hughes Medical Institute.Department of Genetics, School of Medicine.
+11192	Retired.
+11205	These authors contributed equally to this work..
+11259	These authors contributed equally to this work..
+11274	These authors contributed equally to this work..
+11275	These authors contributed equally to this work..
+11301	Instituto de Fisica, UNAM, Apartado Postal 20-364, 01000 M&eacute;xico DF, M&eacute;xico.
+11319	Department of Geology,.Department of Geology,.
+11320	Developmental Biology Program, Memorial Sloan Kettering Cancer Centre, 1275 York Avenue.
+11321	Helen Diller Family Comprehensive Cancer Center,.
+11324	Section of Cell and Developmental Biology, Division of Biological Sciences, Natural Science Building, Room 6311, 9500 Gilman Drive, MC 0380.
+11343	Molecular Biology Section, Division of Biological Sciences,.
+11376	Cell and Molecular Biology Program;.Department of Molecular Virology and Microbiology.
+11399	Institute of Cell and Molecular Biology.
+11402	Center for Neurobiology and Behavior;.
+11404	These authors contributed equally to this work.
+11418	These authors contributed equally to this work.
+11421	Department of Immunology,.
+11437	These authors contributed equally to
+
+11448	The Medical Research Council Human
+
+11452	These authors contributed equally to
+
+11456	10485
+11506	Department of Physiology,.These authors contributed equally to this work..
+11514	Department of Dermatology,.These authors contributed equally to this work..
+11516	Department of Antibody Engineering,.These authors contributed equally to this work..
+11517	Department of Head and Neck Surgery,.These authors contributed equally to this work..
+11519	Jonsson Comprehensive Cancer Center,.Department of Pathology, David Geffen School of Medicine,.
+11520	Howard Hughes Medical Institute and Program in Epithelial Biology,.
+11525	Developmental Genomics and Aging Section, Laboratory of Genetics,.
+11535	Computation and Neural Systems and Division of Biology,.
+11542	Department of Microbiology,.
+11546	Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.
+11554	Department of Psychiatry,.
+11555	Department of Human Genetics,.
+11558	Department of Cell Biology,.
+11560	Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.
+11575	Cancer Biology and Genetics Program,.
+11579	Division of Developmental Biology and,.These authors contributed equally to this work..
+11580	Max Planck Institute for Molecular Cell Biology and Genetics,.
+11586	Department of Atmospheric Sciences,.
+11599	Research Laboratory for Surface Science,.
+11610	Institute for Stem Cell Biology and Regenerative Medicine, Department of Pathology,.Program in Cancer Biology,.
+11615	Department of Biological Sciences,.
+11618	Developmental Biology Unit,.
+11621	Stem Cell and Developmental Biology,.
+11625	Structural Biology and,.
+11662	Department of Biochemistry,.
+11673	Department of Human Evolutionary Biology, 11 Divinity Avenue,.
+11684	Department of Bioengineering,.These authors contributed equally to this work..
+11688	Department of Biology,.
+11690	Laboratory of Computational Biology,.
+11692	Development, Genetics &amp; Molecular Physiology Unit,.
+11698	Institute of Particle Physics,.
+11701	Division of Biology 216-76,.
+11706	Department of Genetics and,.These authors contributed equally to this work..
+11708	Center for Neural Science,.
+11709	Department of Microbiology and Cell Science,.These authors contributed equally to this work..
+11717	Metabolism Branch,.These authors contributed equally to this work..
+11718	Terry Fox Laboratory,.
+11720	Department of Physiological Chemistry,.These authors contributed equally to this work..
+11723	CEA Genoscope,.
+11724	Department of Biochemistry and Howard Hughes Medical Institute,.
+11735	Department of Cell Biology,.Howard Hughes Medical Institute,.
+11736	Center of Regenerative Medicine in Barcelona,.

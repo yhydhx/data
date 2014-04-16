@@ -1,0 +1,220 @@
+3	4
+4	19
+7	34
+9	49
+11	64
+12	79
+13	Deceased.
+16	97
+19	115
+22	129
+25	145
+26	152
+30	162
+31	164
+32	176
+35	180
+37	197
+38	199
+39	218
+42	237
+45	254
+46	262
+47	270
+49	Section of Structural Biology, Institute of Cancer Research, Chester Beatty Laboratories, 237 Fulham Road, London, SW3 6JB, UK
+50	288
+52	302
+56	319
+57	325
+60	348
+64	365
+66	379
+67	381
+68	Tumour Immunology Unit, Department of Medicine, Imperial College London, W12 0NN London, UK
+71	396
+72	403
+74	411
+75	Department of Medical Genetics, Cambridge Institute for Medical Research, Wellcome/MRC Building, Addenbrooke&
+77	425
+79	439
+80	441
+83	455
+86	469
+89	482
+90	Wellcome Trust Centre for Cell Biology, University of Edinburgh, Edinburgh EH9 3JR, UK
+91	497
+94	513
+95	517
+96	528
+98	542
+101	558
+105	574
+106	577
+110	590
+114	621
+117	635
+120	650
+122	Diamond Light Source, Harwell Science and Innovation Campus, Chilton, Didcot, Oxfordshire OX11 0DE, UK
+123	666
+125	678
+127	694
+128	Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, UK
+129	709
+132	725
+134	739
+136	754
+138	769
+141	788
+142	799
+145	820
+147	836
+148	EMBL-EBI, Wellcome Trust Genome Campus, Hinxton CB10 1SD, UK
+150	853
+154	870
+156	885
+158	901
+159	917
+162	934
+164	947
+166	963
+167	995
+168	997
+169	1007
+171	1023
+172	1036
+175	1041
+178	1073
+181	1090
+185	1106
+186	1113
+189	1134
+190	1147
+193	1164
+194	1172
+195	Department of Earth Sciences, South Parks Road, Oxford OX1 3AN, UK
+196	1180
+197	1187
+199	Division of Structural Biology, Institute of Cancer Research, Chester Beatty Laboratories, 237 Fulham Road, London, SW3 6JB, UK
+201	1215
+204	1229
+206	1243
+207	1246
+210	1262
+213	1278
+216	1294
+217	1310
+218	1312
+222	1329
+223	1333
+224	1343
+228	Institute of Molecular Plant Sciences, University of Edinburgh, Edinburgh EH9 3JR, UK
+229	1364
+234	1380
+237	1394
+240	1410
+243	1421
+247	1438
+248	1452
+249	1466
+251	1470
+254	1485
+255	1499
+256	Illumina Cambridge Ltd, Chesterford Research Park, Little Chesterford, Essex CB10 1XL, UK
+257	1517
+258	1521
+260	1536
+262	1539
+263	1560
+265	1572
+267	Genes to Cognition Programme, Edinburgh University, Edinburgh EH16 4SB, UK
+269	1589
+272	1605
+273	1615
+276	1622
+278	1630
+281	1648
+283	MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 0QH, UK
+284	1666
+285	1676
+286	1681
+290	1702
+294	1719
+299	MRC Laboratory of Molecular Biology, Cambridge CB2 0QH, UK
+300	1739
+302	John Innes Centre, Norwich NR4 7UH, UK
+307	1760
+309	1789
+310	1791
+313	1810
+315	1827
+317	1839
+318	1856
+319	1861
+322	1875
+323	1890
+325	MRC Laboratory of Molecular Biology, Francis Crick Avenue, Cambridge CB2 0QH, UK
+326	1896
+328	1926
+329	1941
+330	1956
+331	1972
+334	1988
+337	2005
+341	2021
+343	2036
+345	2050
+347	2066
+352	2084
+353	2090
+355	2099
+359	2120
+362	2135
+364	2149
+366	2166
+369	2183
+371	2193
+373	MRC Protein Phosphorylation Unit, School of Life Sciences, University of Dundee, Dundee DD1 5EH, UK
+375	2211
+377	2226
+380	2243
+383	2256
+385	Department of Cell Biology, UCL Institute of Ophthalmology, London EC1V 9EL, UK
+386	2272
+391	2290
+392	2302
+395	2319
+398	2335
+401	2351
+402	2358
+404	2385
+406	Diamond Light Source Ltd, Oxfordshire OX11 0DE, UK
+407	2403
+408	2417
+409	2419
+410	2421
+412	2436
+415	2453
+419	2469
+423	2485
+424	2488
+429	2504
+431	2536
+435	2554
+438	2569
+442	2586
+445	2592
+449	2609
+452	2625
+454	MRC National Institute for Medical Research, The Ridgeway, Mill Hill, London NW7 1AA, UK
+455	2645
+459	2662
+460	2675
+465	2681
+466	2692
+469	2698
+470	Proteomic Mass Spectrometry, The Wellcome Trust Sanger Institute, Cambridge CB10 1SA, UK
+472	2726
+474	2741
+475	2743
+478	2758
+480	2773

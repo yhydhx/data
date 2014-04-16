@@ -1,0 +1,2076 @@
+32	Neural Development Group, Division of Cell and Developmental Biology, College of Life Sciences, University of Dundee, Dundee DD1 5EH, UK
+147	Oromia Regional Health Bureau, Post Office Box 24341, Addis Ababa, Ethiopia.
+425	University Department of Pediatrics (DPUO), Bambino Gesù Children’s Hospital and Tor Vergata University, School of Medicine, 00165 Rome.
+1035	Universidad Nacional Autónoma de México, México 0510 DF, México.
+1191	United Nations Food and Agriculture Organization, Addis Ababa, Ethiopia.
+1354	Citizen Science.
+1381	Departamento de Microbiología Molecular, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos 62210, México.
+1433	Departamento de Ciências Biológicas, Universidade Estadual de Feira de Santana, Avenida Transnordestina Sin Número, Bairro Novo Horizonte, Feira de Santana, Brasil.
+1649	Géosciences du Pacifique Sud, Université de la Polynésie Française, BP 6570, 98702 Faa’a, Tahiti, Polynésie Francaise.
+1799	School of Physics and Astronomy (SUPA), University of Glasgow, Glasgow G12 8QQ, Scotland.
+1815	Instituto de Astronomía, Universidad Nacional Autonoma de México, Apartado Postal 70-264, Ciudad Universitaria, México DF 04510.
+1899	The Beatson Institute for Cancer Research, Switchback Road, Bearsden, Glasgow G61 1BD, Scotland, UK
+1929	Instituto del Mar del Perú, Esquina Gamarra y General Valle s/n, Callao, Perú.
+1976	Howard Hughes Medical Institute.
+2205	Howard Hughes Medical Institute Exceptional Research Opportunities Program (HHMI-EXROP).
+2449	Institute of Evolutionary Biology, University of Edinburgh, Edinburgh EH9 3JT, Scotland.;Institute of Immunology and Infection Research, University of Edinburgh, Edinburgh EH9 3JT, Scotland.
+2616	Smithsonian Tropical Research Institute, Post Office Box 0843-03092, Balboa Ancón, Republic of Panamá.
+2848	Laboratorio de Herpetología, Instituto de Biología, Universidad Nacional Autónoma de México, D.F., 04510, México.
+3063	Programa de Geología de Exploracíon y Explotacíon, Dirección de Investigación y Posgrado, Instituto Mexicano del Petróleo, Eje Lázaro Cárdenas No. 152, C.P. 07730, México City, México.
+3147	Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, 100044 Beijing, PRC.
+3285	Division of Molecular Microbiology, College of Life Sciences, University of Dundee, Dundee DD1 5EH, Scotland.;MRC Protein Phosphorylation Unit, College of Life Sciences, University of Dundee, Dundee DD1 5EH, Scotland.
+3499	Manchester Centre for Integrative Systems Biology, School of Chemistry, and Manchester Interdisciplinary Biocentre, University of Manchester, 131 Princess Street, Manchester, M1 7DN.
+3529	Instituto de Geofísica, Universidad Nacional Autónoma de México, Circuito de la Investigación Científica s/n, Ciudad Universitaria, D.F. 04510 Distrito Federal, México.
+3646	World Health Organization.
+3674	Department of Chemistry and Chemical Biology,
+3678	Department of Genetics and
+3680	Department of Genetics and
+3682	Howard Hughes Medical Institute,;Departments of Genetics, Internal Medicine (Nephrology) and
+3684	Department of Developmental Biology and
+3688	Water Systems Analysis Group,;Ocean Processes Analytical Laboratory,;Institute for the Study of Earth, Oceans, and Space,
+3690	Department of Botany,
+3693	Department of Biochemistry and
+3694	Center for Neuronal Survival,
+3697	Department of Psychiatry and
+3702	Laboratory for Hydrospheric Processes, NASA Goddard Space Flight Center and
+3714	Department of Cellular and Molecular Pharmacology and
+3728	Department of Ophthalmology,;Department of Pharmacology,;Department of Chemistry,
+3743	Department of Molecular Biophysics & Biochemistry, and
+3744	Department of Molecular Biophysics and Biochemistry and
+3748	Department of Chemistry and
+3752	Department of Physiology,
+3762	Department of Pediatrics,
+3764	Biophysics Research Division,
+3766	Johns Hopkins Oncology Center,
+3767	Department of Biochemistry and Molecular Biology,
+3769	Department of Molecular Genetics and Cell Biology,
+3786	Howard Hughes Medical Institute and Department of Pharmacology,
+3810	Department of Chemistry,
+3812	Trypanosomiasis and Land-use in Africa Research Group,
+3814	Department of Neurology,
+3821	Department of Geological Sciences,
+3828	Laboratories of Molecular Biophysics and
+3829	Department of Obstetrics and Gynecology,
+3856	John Curtin School of Medical Research,;Centre for Visual Sciences,
+3858	Department of Biology and
+3861	Lineberger Comprehensive Cancer Center,
+3868	Department of Earth and Environmental Sciences,
+3874	Molecular Biology Institute,
+3877	Department of Mechanical and Aerospace Engineering,
+3878	Department of Cellular and Molecular Pharmacology,
+3887	Department of Neurology,
+3891	Department of Neurobiology and Physiology,
+3892	Department of Physics and Astronomy and
+3897	Department of Molecular Biology and Skaggs Institute for Chemical Biology,
+3902	Department of Psychology,
+3912	INSERM Unit 429,
+3914	Howard Hughes Medical Institute, Department of Medicine, National Jewish Medical and Research Center and Departments of;Immunology,
+3915	Genetics Section, Schizophrenia Research Program, Centre for Addiction and Mental Health, Queen Street Division, and
+3927	Department of Physiology, Institute of Basic Medical Sciences, and
+3944	Department of Pathology,
+3953	Department of Meteorology, University of Edinburgh, Mayfield Road, Edinburgh, EH9 3JZ Scotland.
+3977	Department of Cell and Molecular Biology, Medical Nobel Institute, and
+3980	Chemical Engineering Department and
+3986	Department of Structural Chemistry,
+4013	Institut de Génétique et Microbiologie,
+4015	Section of Immunobiology and
+4017	Department of Biochemistry,;Department of Internal Medicine, Molecular Cardiology Division,
+4028	Plant Biology Laboratory,
+4029	Laboratories of Molecular Plant Biology and
+4031	Molecular Pathogenesis Program, Skirball Institute of Biomolecular Medicine and
+4034	Department of Biological Chemistry,
+4043	Department of Physics,
+4048	Biology of Aging Laboratory, Department of Geriatrics,
+4049	Department of Pharmacology,
+4058	Physiologisches Institut der Universität Freiburg,
+4064	Program in Immunology,
+4072	Department of Chemistry,
+4076	Department of Biology and
+4077	Departments of Molecular Biophysics and Biochemistry
+4079	Department of Veterinary Science and Microbiology, and
+4080	Department of Pediatrics,;Institute of Molecular Cardiobiology, and
+4087	Department of Chemistry,
+4109	Department of Human Genetics,
+4111	Department of Zoology,
+4113	Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute;;Department of Medicine
+4115	Department of Biology,;Center for Ligand and Transcription and
+4126	Department of Cellular and Molecular Pharmacology and
+4127	Ontario Cancer Institute and the Departments of Medical Biophysics and Immunology
+4134	Department of Molecular Biophysics and Biochemistry,
+4141	First Department of Surgery and
+4143	Department of Neurosciences,
+4145	Program in Neuroscience,;Department of Molecular and Cellular Biology, and
+4146	School of Botany,
+4149	Department of Molecular Medicine and
+4151	State Key Laboratory for Rapidly Solidified Non-equilibrium Alloys,
+4153	Department of Physics,
+4160	Molecular Neurobiology,
+4192	Department of Microbiology,
+4205	Department of Ophthalmology, and
+4206	Department of Otolaryngology–Head and Neck Surgery, Head and Neck Cancer Research Division,
+4208	Molecular Biology and
+4214	Departments of Biology and Neurosciences and
+4215	Department of Materials and Nuclear Engineering,
+4216	Materials Sciences Division,
+4234	Department of Zoology,
+4241	Department of Molecular and Cell Biology and
+4242	Department of Pediatrics,
+4247	Department of Physics,
+4248	Materials Department,
+4252	Department of Pathology and
+4254	Electronics Engineering Technologies Division,
+4262	Institute for Quaternary Studies,
+4265	Verna and Marrs Mclean Department of Biochemistry,
+4266	Division of Biology 156-29,
+4272	Center for Immunology and Department of Pathology,
+4282	Laboratory of Molecular Immunoregulation, Division of Basic Sciences,
+4285	Harvard-MIT Division of Health Sciences and Technology,
+4287	Department of Physiology and Biophysics,
+4300	Life Sciences Division, Lawrence Berkeley National Laboratory, and
+4305	Center for Cancer Research,
+4321	Department of Cell Biology, and
+4328	Physics Division, and
+4329	Department of Biochemistry, Molecular Biology, and Biophysics
+4332	Departments of Genetics and Medicine,
+4335	Verna and Mars McLean Department of Biochemistry and Molecular Biology,;Howard Hughes Medical Institute,
+4336	Howard Hughes Medical Institute,;Verna and Marrs McLean Department of Biochemistry, and
+4341	Cellular Biochemistry and Biophysics Program,
+4345	Center for Solid State Science,
+4346	Department of Chemistry and Biochemistry,
+4362	Department of Physics and Center for Materials Science and Engineering,
+4369	Departments of Medicine and Microbiology,
+4370	Departments of;Physiological Science and
+4391	Laboratory of Immunobiology, Dana-Farber Cancer Institute,;Department of Medicine,
+4400	Department of Medicine,
+4401	Center for Immunology;;Division of Rheumatology, Department of Medicine
+4402	Department of Immunology,
+4406	Section of Immunobiology,
+4408	Structural Biology Program, Department of Physiology and Biophysics,
+4412	Département des Sciences de la Terre, Facultédes Sciences, Université de Bruxelles, B-1050, Bruxelles, Belgique.
+4413	Department of Biological Sciences,
+4415	Division of Engineering and Applied Sciences,
+4417	Howard Hughes Medical Institute,
+4423	Department of Biology and Center for Cancer Research and
+4424	Center for Developmental Biology and
+4426	Department of Biology and
+4427	Department of Molecular Biophysics and Biochemistry,
+4435	Receptor Biology Section, Laboratory of Reproductive and Developmental Toxicology,
+4436	Department of Entomology,
+4455	Howard Hughes Medical Institute Laboratories, Departments of Cell Biology and Medicine,
+4456	Departments of Anesthesiology,
+4462	Laboratory of Genetics,
+4465	Brain Mapping Center, Neuropsychiatric Institute,;Departments of Psychiatry and Biobehavioral Sciences,
+4470	Dipartimento di Studi di Chimica e Tecnologia delle Sostanze Biologicamente Attive, Università degli Studi di Roma “La Sapienza,” Piazzale Aldo Moro, 5, 00185 Roma, Italia.
+4478	Department of Molecular Microbiology and Immunology and
+4486	Marine Physical Laboratory and
+4488	Department of Molecular Oncology,
+4489	Department of Emergency Medicine and
+4498	Centre for the Study of Excited States of Molecules,
+4499	Department of Anatomy and Program in Developmental Biology, School of Medicine, and
+4501	Department of Physical Medicine and Rehabilitation
+4502	Department of Medicine, Hematology and Oncology Division,
+4505	Department of Zoology and
+4528	Department of Microbiology and Immunology, and the;Molecular Biology Institute, Divisions of;Dermatology and
+4529	Department of Molecular Biology and
+4554	Department of Physics and Center for Materials Science and Engineering,
+4561	Department of Molecular Microbiology,
+4566	Departments of Molecular Biophysics and Biochemistry and
+4579	Departamento de Zoologı́a, Instituto de Biologı́a, Universidad Nacional Autónoma de México, México, D.F. 04510, México.
+4589	Institute on Aging,
+4593	Lineberger Comprehensive Cancer Center,;Department of Microbiology and Immunology,
+4611	Department of Epileptology,
+4626	Department of Molecular and Cell Biology and
+4631	Faculty of Physics,
+4637	Departments of
+4640	Department of Molecular Genetics and Microbiology,
+4641	Department of Immunology and
+4642	Department of Surgery, Children''s Hospital, Departments of Surgery and Cellular Biology,
+4647	Department of Physics,
+4651	Department of Human Genetics–Molecular Biology Program,
+4655	Research Service (151S), Veterans Affairs Medical Center
+4682	Laboratory of Gene Regulation and Signal Transduction, Department of Pharmacology, and
+4695	Department of Molecular Cell Biology,
+4696	Department of Chemical Engineering,
+4698	Department of Surgery,
+4708	Laboratory for Human Evolutionary Studies, Museum of Vertebrate Zoology, and Department of Integrative Biology
+4709	Rift Valley Research Service, Post Office Box 5717, Addis Ababa, Ethiopia.
+4711	National Human Genome Research Institute,
+4715	Department of Medicine, Divisions of Respiratory and Cardiovascular Medicine and Department of Cell Biology, and
+4717	Verna and Marrs McLean Department of Biochemistry,
+4718	Verna and Marrs McLean Department of Biochemistry,
+4730	Department of Chemistry and
+4732	Department of Cellular and Molecular Pharmacology and Department of Biochemistry and Biophysics,
+4744	Department of Pathology (Josephine Nefkens Institute) and
+4749	Department of Natural Product Drug Discovery,
+4753	Department of Geology,
+4755	Laboratory of Mammalian Genes and Development,
+4759	Department of Pathology,
+4760	Department of Chemistry and
+4762	Department of Botany,
+4765	Department of Cancer Immunology and AIDS;;Department of Pathology
+4766	Department of Physics and Astronomy,
+4772	Department of Radiation Oncology,
+4776	Molecular Sciences,
+4777	School of Pharmacy,
+4778	Applied Tumor Virology Program,
+4786	Channing Laboratory, Department of Medicine, Brigham and Women''s Hospital,
+4789	Program in Human Molecular Biology and Genetics,;Department of Oncological Sciences,;Department of Medicine,
+4790	Department of Environmental Science and Policy,
+4791	Plant Biology Laboratory,
+4800	Department of Applied Biotechnology,
+4801	Division of Matrix Biology, Department of Medical Biochemistry and Biophysics and
+4810	National Laboratory of Solid State Microstructures,
+4816	Howard Hughes Medical Institute,;Department of Molecular and Human Genetics,
+4830	Cutaneous Biology Research Center,
+4836	Department of Metabolic Disorders,
+4926	Department of Immunology and
+4931	Department of Chemistry,;Central Laboratory of Mineralogy and Crystallography, Bulgarian Academy of Sciences, 92 Rakovski Street, 1000 Sofia, Bulgaria.
+4939	Department of Physiology
+4954	Departments of Pediatrics, Division of Cardiology, and
+4959	The Scripps Research Institute, Department of Cell Biology, 10550 North Torrey Pines Road,
+4960	Department of Physiology,
+4976	Amgen Institute, Ontario Cancer Institute,
+4979	Department of Biochemistry and
+4989	Department of Medical Microbiology and Immunology, College of Medicine and Public Health,
+5007	Committee on Immunology,
+5022	Division of Biology 156-29 and
+5040	Protein Phosphorylation Laboratory and
+5041	Department of Oncological Sciences, Huntsman Cancer Institute, and
+6124	The TSC1 Consortium:
+6383	Departamento de Ingenierı́a Genética, Centro de Investigacion y Estudios Avanzados, Unidad Irapuato, Apdo, Postal 629 (36500) Irapuato, Guanajuato, México.
+6760	W. G. Scott and A. Klug, MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH, England.
+6789	M. José-Yacamán and L. Rendón, Instituto de Física, Universidad Nacional Autónoma de México, Apdo. Postal 20-364, Delegación Alvaro Obregón, 01000 México, D.F., México.
+6824	A. A. Khan and D. M. Sabatini, Department of Neuroscience; M. J. Soloski, Department of Medicine
+7022	The EROS (Expérience de Recherche d''Objets Sombres) collaboration:
+7891	Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill 27599.
+7904	Department of Virus Research, John Innes Centre, Norwich Research Park, Colney, Norwich NR4 7UH, UK
+7948	Department of Pathology, University of North Carolina, Chapel Hill 27599.
+8056	Lineberger Comprehensive Cancer Center, Department of Biochemistry and Biophysics, University of North Carolina Medical School, Chapel Hill 27599.
+8086	Department of Medicine, University of North Carolina, Chapel Hill 27599.
+8111	Mental Health Clinical Research Center, College of Medicine.
+8159	Department of Biological Sciences, Rutgers, State University of New Jersey, Newark 07102.
+8243	U.S. Geological Survey, Flagstaff, AZ
+8354	Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill 27599.
+8383	Department of Biochemistry and Biophysics, University of North Carolina, Chapel Hill 27599.
+8472	Department of Chemistry, North Dakota State University, Fargo 58105.
+8634	Department of Carcinogenesis, Swiss Institute for Experimental Cancer Research, Lausanne.
+8648	Institute of Plant Sciences, Swiss Federal Institute of Technology, Zurich.
+8703	National Solar Observatory, National Optical Astronomy Observatories, Tucson, AZ
+8706	National Oceanic and Atmospheric Administration, Aeronomy Laboratory, 325 Broadway, Boulder, CO
+8716	National Climatic Data Center, Federal Building, 37 Battery Park Avenue, Asheville, NC
+8720	CYTEC Research and Development, 1937 West Main Street, P.O. Box 60, Stamford, CT
+8722	Institute de Geofisica, Universidad Nacional Autónoma de México, Apartado Postal 70-172, México D.F., 04510 México
+8724	McPhee Research Company, 450 Clover Springs Road, Naches, WA
+8734	Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA
+8735	U.S. Geological Survey, 431 National Center, Reston, VA
+8736	IBM Research Division, Almaden Research Center, 650 Harry Road, San Jose, CA
+8750	Hydrological Sciences Branch, National Aeronautics and Space Administration/Goddard Space Flight Center, Greenbelt, MD
+8763	Bureau of Land Management, 1150 University Avenue, Fairbanks, AK
+8765	U.S. Geological Survey, 3215 Marine Street, Boulder, CO
+8806	Department of Molecular and Medical Pharmacology, UCLA School of Medicine 90024.
+8884	National Institute of Standards and Technology, Gaithersburg, MD
+8888	Lamont-Doherty Earth Observatory, Palisades, NY
+8903	Ames Research Center, National Aeronautics and Space Administration, Moffett Field, CA
+8904	Electronics Research Group, Los Alamos National Laboratory, Los Alamos, NM
+8921	U. S. Geological Survey, Mail Stop 937, 345 Middlefield Road, Menlo Park, CA
+8931	Purdue University, West Lafayette, IN
+8936	AT&T Bell Laboratories, Murray Hill, NJ
+8946	Central Research Department, E. I. du Pont de Nemours, Wilmington, DE
+8950	U.S. Geological Survey, Reston, VA
+8962	Electron Physics Group, National Institute of Standards and Technology, Gaithersburg, MD
+8966	U. S. Geological Survey, Menlo Park, CA
+8978	IBM Thomas J. Watson Research Center, P.O. Box 218, Yorktown Heights, NY
+8980	Laboratory for Extraterrestrial Physics, NASA Goddard Space Flight Center, Green-belt, MD
+8995	IBM Research Division, Almaden Research Center, San Jose, CA
+8997	IBM Research Division, T. J. Watson Research Center, Post office Box 218, Yorktown Heights, NY
+8998	Lawrence Livermore National Laboratory, Livermore, CA
+9009	National Radio Astronomy Observatory, Charlottesville, VA
+9012	AT&T Bell Laboratories, 600 Mountain Avenue, Murray Hill, NJ
+9037	IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY
+9058	SN4, NASA Johnson Space Center, Houston, TX
+9059	Woods Hole Oceanographic Institution, Woods Hole, MA
+9066	Waksman Institute, Rutgers, State University of New Jersey, Piscataway 08855.
+9076	National Institute of Standards and Technology, Gaithersburg, MD
+9079	U.S. Geological Survey, Reston, VA
+9081	National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory, Hatfield Marine Science Center, Newport, OR
+9097	National Aeronautics and Space Administration, Goddard Space Flight Center, Greenbelt, MD
+9100	Department of Biological Sciences, University of North Carolina at Wilmington, Wilmington, NC
+9114	Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, NM
+9116	Glacier Research Group, Institute for the Study of Earth, Oceans, and Space, University of New Hampshire, Durham, NH
+9144	Institute of Geophysics and Planetary Physics, Earth Sciences Division, L-202, Lawrence Livermore National Laboratory, Livermore, CA
+9151	Glycobiology Program, UCSD Cancer Center.
+9156	Exxon Research and Engineering Company, Annandale, NJ
+9170	Joint Astronomy Center, 660 North Aohoku Place, University Park, Hilo, HI
+9171	Jet Propulsion Laboratory, Pasadena, CA
+9174	Agricultural Biotechnology Research Unit, Ciba-Geigy Corporation, Post Office Box 12257, Research Triangle Park, NC
+9181	IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY
+9187	Institute of Human Origins, Geochronology, Center, Berkeley, CA
+9195	SN3, NASA Johnson Space Center, Houston, TX
+9196	Corporate Research Science Laboratory, Exxon Research and Engineering Co., Annandale, NJ
+9197	IBM ADSTAR, San Jose, CA
+9200	Department of Chemistry, Clark University, Worcester, MA
+9212	Solar System Exploration Division, NASA Johnson Space Center, Houston, TX
+9225	Earth and Environmental Science Division and Institute of Geophysics and Planetary Physics, Los Alamos National Laboratory, Los Alamos, NM
+9228	Lawrence Berkeley Laboratory, Berkeley, CA
+9238	Scripps Institution of Oceanography, La Jolla, CA
+9239	Lunar and Planetary Institute, 3600 Bay Area Boulevard, Houston, TX
+9253	Space Sciences Department, Southwest Research Institute, 6220 Culebra Road, San Antonio, TX
+9263	Department of Biochemistry and Biophysics, University of North Carolina School of Medicine, Chapel Hill 27599.
+9266	Containerless Research Incorporated, 735 Carriage Way, Deerfield, IL
+9284	Los Alamos National Laboratory, Los Alamos, NM
+9313	Ontario Cancer Institute, Toronto.
+9318	Jet Propulsion Laboratory, Pasadena, CA
+9319	Texaco Research Center, Texaco, Inc., P.O. Box 509, Beacon, NY
+9323	Hughes-STX Corporation, Lanham, MD
+9338	Earth and Environmental Sciences Division and the Institute of Geophysics and Planetary Physics, Los Alamos National Laboratory, Los Alamos, NM
+9340	Institute of Human Origins, Geochronology Center, Berkeley, CA
+9353	Lawrence Livermore National Laboratory, Livermore, CA
+9355	Geochronology Center, Institute of Human Origins, Berkeley, CA
+9367	Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA
+9394	Crystallume, 125 Constitution Drive, Menlo Park, CA
+9419	U. S. Geological Survey, Menlo Park, CA
+9421	Paleontological Research Institution, Ithaca, NY
+9464	Department of Materials Science and Engineering
+9468	Center for Chemical and Environmental Physics, Aerodyne Research, Inc., Billerica, MA
+9475	INSERM, Paris.
+9478	U.S. Geological Survey, Menlo Park, CA
+9494	Catalytica, Inc., 430 Ferguson Drive, Mountain View, CA
+9496	Molecular Physics Laboratory, SRI International, Menlo Park, CA
+9513	Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA
+9534	Department of Biology, University of North Carolina, Chapel Hill, NC
+9565	Woods Hole Oceanographic Institution, Woods Hole, MA
+9592	Aeronomy Laboratory, National Oceanic and Atmospheric Administration, 325 Broadway, Boulder, CO
+9602	IBM Research Division, Almaden Research Center, 650 Harry Road, San Jose, CA
+9605	NEC Research Institute, 4 Independence Way, Princeton, NJ
+9632	Surface Science Department, Sandia National Laboratories, Albuquerque, NM
+9633	Department 1811, Sandia National Laboratories, Albuquerque, NM
+9634	AT&T Bell Laboratories, Murray Hill, NJ
+9645	U.S. Geological Survey, Menlo Park, CA
+9646	SN-2, National Aeronautics and Space Administration, Johnson Space Center, Houston, TX
+9657	AT&T Bell Laboratories, Murray Hill, NJ
+9660	U.S. Geological Survey, National Center, Mail Stop 432, Reston, VA
+9661	Monsanto Company, 700 Chesterfield Village Parkway, St. Louis, MO
+9670	Goddard Space Flight Center, Greenbelt, MD
+9675	Institute of Human Origins Geochronology Center, 2453 Ridge Road, Berkeley, CA
+9681	Department of Pathology, University of North Carolina, Chapel Hill 27599-7525.
+9689	National Astronomy and Ionosphere Center, Arecibo, PR
+9691	Bigelow Laboratory for Ocean Sciences, McKown Point, West Boothbay Harbor, ME
+9698	Department of Chemistry, Cambridge, MA
+9702	Ni-Tec Division, Varo Inc., Garland, TX
+9718	Institute of Human Origins Geochronology Center, 2453 Ridge Road, Berkeley, CA
+9719	U.S. Geological Survey, Flagstaff, AZ
+9732	Exxon Research and Engineering Corporation, Annandale, NJ
+9734	IBM T. J. Watson Research Laboratories, Yorktown Heights, NY
+9735	U. S. Geological Survey, Reston, VA
+9746	U.S. Geological Survey, Mail Stop 977, Menlo Park, CA
+9765	Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA
+9778	Department of Biology, Woods Hole Oceanographic Institution, Woods Hole, MA
+9779	Department of Geography and Environmental Engineering, Johns Hopkins University, Baltimore, MD
+9780	U.S. Geological Survey, 345 Middlefield Road, Menlo Park, CA
+9781	IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY
+9782	AT&T Bell Laboratories, Murray Hill, NJ
+9800	U.S. Geological Survey, Menlo Park, CA
+9801	Department of Geology, University of North Carolina, Chapel Hill, NC
+9816	Chemistry Division, Argonne National Laboratory, Argonne, IL
+9835	Anayical Chemistry Division, Oak Ridge National Laboratory, Oak Ridge, TN
+9837	Xerox Webster Research Center, Xerox Corporation, Webster, NY
+9840	Climate and Diagnostic Laboratory, National Oceanic and Atmospheric Administration, Boulder, CO
+9841	Department of Biology, Woods Hole Oceanographic Institution, Woods Hole, MA
+9843	Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, Scotland.
+9855	Marine Life Research Group, Scripps Institution of Oceanography, La Jolla, CA
+9867	AT&T Bell Laboratories, Murray Hill, NJ
+9872	Department of Biological Sciences, Rutgers University, Piscataway, NJ
+9901	Lowell Observatory, Flagstaff, AZ
+9922	Department of Chemical Engineering, Prague Institute of Chemical Technology, Technicka 5, 166 28 Prague 6, Czechoslovakia
+9923	Geochronology Center, Institute of Human Origins, 2453 Ridge Road, Berkeley, CA
+9932	Cold Spring Harbor Laboratory, Cold Spring Harbor, NY
+9933	C23, Lockheed Engineering and Sciences Company, 2400 Nasa Road 1, Houston, TX
+9939	Molecular and Cellular Endocrinology Branch, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD
+9941	The Institute for Cancer Research, Fox Chase Cancer Center, Philadelphia, PA
+9942	Division of Pulmonary Diseases, Department of Medicine, University of North Carolina, Chapel Hill, NC
+9944	Laboratory of Cellular and Molecular Immunology, National Institute of Allergy and Infectious Disease, National Institutes of Health, Bethesda, MD
+9945	Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD
+9950	National Center for Atmospheric Research, Post Office Box 3000, Boulder, CO
+9951	Moss Landing Marine Laboratories, Post Office Box 450, Moss Landing, CA
+9982	AT&T Bell Laboratories, Murray Hill, NJ
+9986	Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD
+10019	Chemical Research Development and Engineering Center, Research Directorate, Physics Division, Chemometric and Biometric Modeling Branch, Aberdeen Proving Ground, MD
+10024	Department of Microbiology and Molecular Genetics, Graduate School of Biomedical Sciences, University of Medicine and Dentistry of New Jersey-New Jersey Medical School, Newark 07103.
+10032	Air Force Technical Applications Center, Patrick Air Force Base, FL
+10035	Department of Bioorganic Chemistry, Affymax Research Institute, Palo Alto, CA
+10036	Department of Molecular Genetics, Hoffmann-La Roche, Inc., Nutley, NJ
+10039	Laboratory of Intracellular Parasites, Host-Parasite Interaction Unit, National Institute of Allergy and Infectious Diseases, Rocky Mountain Laboratories, Hamilton, MT
+10040	Molecular Biology Research Program, Henry Ford Hospital, Detroit, Ml
+10042	Departments of Medicine and Cell Biology/Anatomy, Johns Hopkins University School of Medicine, Baltimore, MD
+10045	Woods Hole Oceanographic Institution, Woods Hole, MA
+10058	Argonne National Laboratory, 9700 South Cass Avenue, Argonne, IL
+10059	Laboratory for Extraterrestrial Physics, National Aeronautics and Space Administration (NASA) Goddard Space Flight Center, Code 693, Greenbelt, MD
+10071	Physics Division, Los Alamos National Laboratory, Los Alamos, NM
+10073	Rhone-Poulenc Rorer, Centre de Recherche de Vitry-Alfortville, Vitry Sur Seine.
+10087	Lawrence Berkeley Laboratory, Berkeley, CA
+10088	Applied Physics Laboratory, Johns Hopkins University, Laurel, MD
+10099	Aeronomy Laboratory, Environmental Research Laboratories, National Oceanic and Atmospheric Administration, 325 Broadway, Boulder, CO
+10106	Departments of Protein Chemistry, Molecular Biology and Cell Biology, Genentech, Inc., South San Francisco, CA
+10112	IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY
+10115	Oceanographic and Atmospheric Sciences Division, Brookhaven National Laboratory, Upton, NY
+10126	National Center for Electron Microscopy, Lawrence Berkeley Laboratory, Berkeley, CA
+10129	Lawrence Livermore National Laboratory, Livermore, CA
+10140	Dow Corning Corporation, Midland, MI
+10170	Department of Geology, University of North Carolina, Chapel Hill, NC
+10179	AT&T Bell Laboratories, Murray Hill, NJ
+10180	IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY
+10181	Branch of Pacific Marine Geology, U.S. Geological Survey, 345 Middlefield Road, Mail Stop 999, Menlo Park, CA
+10191	AT&T Bell Laboratories, Holmdel, NJ
+10194	Robert Hooke Institute, The Observatory, Clarendon Laboratory, Parks Road, Oxford OX1 3PU, England, U.K.
+10204	Department of Geology, Carleton College, Northfield, MN
+10205	AT&T Bell Laboratories, Murray Hill, NJ
+10216	RAND Corporation, Santa Monica, CA
+10221	Insect Neurobiology and Hormone Laboratory, U.S. Department of Agriculture, Agricultural Research Service, Beltsville Agricultural Research Center, Beltsville, MD
+10227	Physics Division, Los Alamos National Laboratory, Los Alamos, NM
+10228	Applied Research Corporation, 305 Arguello Drive, College Station, TX
+10242	Stanford Synchrotron Radiation Laboratory, Stanford Linear Accelerator Center Bin 99, Post Office Box 4349, Stanford, CA
+10254	Chemistry and Materials Research Science Department, Lawrence Livermore National Laboratory (LLNL), Livermore, CA
+10255	NERC Centre for Population Biology, Imperial College at Silwood Park, Ascot, Berkshire SL5 7PY England
+10265	IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY
+10266	U.S. Geological Survey, Mailstop 981, Reston, VA
+10276	Dow Corning Corporation, Midland, MI
+10277	IBM Research Division, IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+10292	Webster Research Center, Xerox Corporation, Webster, NY
+10293	Department of Physics, Brookhaven National Laboratory, Upton, NY
+10297	Lineberger Comprehensive Cancer Center, Department of Pathology and Curriculum in Genetics, School of Medicine, University of North Carolina, Chapel Hill 27599.
+10300	UCLA AIDS Center 90024.
+10304	National Radio Astronomy Observatory, P.O. Box 0, Socorro, NM
+10306	Jet Propulsion Laboratory, Pasadena, CA
+10315	Department of Microbiology and Immunology, University of North Carolina, Chapel Hill 27599.
+10321	U.S. Geological Survey, Mail Stop 977, 345 Middlefield Road, Menlo Park, CA
+10352	Division of Dermatology, UCLA School of Medicine 90024.
+10359	U.S. Geological Survey, Menlo Park, CA
+10389	Department of Physiology, UCLA School of Medicine 90024.
+10391	AT&T Bell Laboratories, 600 Mountain Avenue, Murray Hill, NJ
+10392	Department of Geological Sciences, Old Dominion University, Norfolk, VA
+10407	Allied-Signal Inc., Research and Technology, Morristown, NJ
+10409	SQM Technology, Inc., Post Office Box 2225, La Jolla, CA
+10411	Center for Earthquake Research and Information, Memphis, TN
+10426	AT&T Bell Laboratories, Murray Hill, NJ
+10427	Department of Geography and Environmental Engineering, Johns Hopkins University, Baltimore, MD
+10429	Plant Hormone Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, Department of Agriculture, Beltsville, MD
+10440	Dynamics of Computation Group, Xerox Palo Alto Research Center, Palo Alto, CA
+10445	Agricultural Products Department, E. I. du Pont de Nemours, Wilmington, DE
+10452	Departments of Botany and Genetics, Athens, GA
+10455	Physics Department, Brookhaven National Laboratory, Upton, NY
+10457	SEA Education Association, Woods Hole, MA
+10470	AT& T Bell Laboratories, Murray Hill, NJ
+10485	AT&T Bell Laboratories, Murray Hill, NJ
+10487	Department of Anthropology, Field Museum of Natural History, Chicago, 60605-
+10488	AT&T Bell Laboratories, Murray Hill, New Jersey
+10491	Department of Biology, University of North Carolina, Chapel Hill 27599-3280.
+10503	Aeronomy Laboratory, National Oceanic and Atmospheric Administration, Boulder, CO
+10531	Jet Propulsion Laboratory, Pasadena, CA
+10532	IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY
+10533	Institute of Human Origins, Geochronology Center, 2453 Ridge Road, Berkeley, CA
+10545	Laboratory for Terrestrial Physics, National Aeronautics and Space Administration Goddard Space Flight Center, Greenbelt, MD
+10546	Los Alamos National Laboratory, Los Alamos, NM
+10549	USDA Agricultural Research Service, Honey Bee Breeding, Genetics and Physiology Research Laboratory, 1157 Ben Hur Road, Baton Rouge, LA
+10561	AT&T Bell Laboratories, Murray Hill, NJ
+10570	Exxon Research and Engineering Company, Route 22 East, Annandale, NJ
+10583	Branch of Seismology, Mail Stop 977, U.S. Geological Survey, 345 Middlefield Road, Menlo Park, CA
+10584	U.S. Geological Survey, 345 Middlefield Road, Menlo Park, CA
+10595	Dow Corning Corporation, Midland, MI
+10606	AT&T Bell Laboratories, 600 Mountain Avenue, Murray Hill, NJ
+10619	Atmospheric and Environmental Research, Inc., Cambridge, MA
+10643	Tree-Ring Laboratory, Lamont-Doherty Geological Observatory, Palisades, NY
+10665	Jet Propulsion Laboratory, Pasadena, CA
+10667	Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA
+10668	AT&T Bell Laboratories, Murray Hill, NJ
+10670	United States Geological Survey, Menlo Park, CA
+10672	Kitt Peak National Observatory, Tucson, AZ
+10673	National Aeronautics and Space Administration (NASA) Ames Research Center Moffett Field, CA
+10681	U.S. Geological Survey, 345 Middlefield Road, Mail Stop 977, Menlo Park, CA
+10688	Department of Molecular Biology, Genentech, Inc., South San Francisco 94080.
+10692	National Aeronautics and Space Administration, Goddard Space Flight Center, Code 971, Greenbelt, MD
+10693	Solid State Division, Oak Ridge National Laboratory, Oak Ridge, TN
+10694	IBM Research Division, Almaden Research Center, San Jose, CA
+10704	TRW, 1 Space Park, Redondo Beach, CA
+10721	Exxon Research and Engineering Company, Clinton Township, Route 22 East, Annandale, NJ
+10725	Mail Code C23, Lockheed Engineering and Sciences Company, Houston, TX
+10739	Department of Geology, Stockton State College, Pomona, NJ
+10751	Bellcore, Red Bank, NJ
+10757	Laboratoire de Retrovirologie Moleculaire, Institut Pasteur, Paris.
+10759	Department of Biochemistry, Robert Wood Johnson Medical School, University of Medicine and Dentistry of New Jersey at Rutgers, Piscataway 08854.
+10775	Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
+10776	Department of Applied Science, Brookhaven National Laboratory, Upton, NY
+10781	AT&T Bell Laboratories, Murray Hill, NJ
+10812	Los Alamos National Laboratory, Los Alamos, NM
+10834	Digital Instruments, 6780 Cortona Drive, Santa Barbara, CA
+10845	Ecosystems Center, Marine Biological Laboratory, Woods Hole, MA
+10856	Applied Ocean Physics and Engineering Department, Woods Hole Oceanographic Institution, Woods Hole, MA
+10879	Ebasco Services Incorporated, 2211 West Meadowview Road, Greensboro, NC
+10888	Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ
+10889	Jamieson Science and Engineering, Inc., 5321 Scotts Valley Drive, Scotts Valley, CA
+10890	Hewlett-Packard Co., Palo Alto, CA
+10902	AT&T Bell Laboratories, Murray Hill, NJ
+10917	Global Climate Laboratory, National Climatic Data Center, National Environmental Satellite, Data, and Information Service, National Oceanic and Atmospheric Administration, Department of Commerce, Federal Building, Asheville, NC
+10918	U.S. Geological Survey, Reston, VA
+10920	Environmental Research Laboratory, 2601 East Airport Drive, Tucson, AZ
+10927	Physicists in the Electron and Optical Physics Division at the National Institute of Standards and Technology, Gaithersburg, MD
+10929	IBM T. J. Watson Research Center, Yorktown Heights, NY
+10942	AT&T Bell Laboratories, Murray Hill, NJ
+10953	Space Sciences Laboratory, Aerospace Corporation, Los Angeles, CA
+10954	AT&T Bell Laboratories, 600 Mountain Avenue, Murray Hill, NJ
+10956	Chemistry Department, Woods Hole Oceanographic Institution, Woods Hole, MA
+10964	Los Alamos National Laboratory, Los Alamos, NM
+10972	University of North Carolina, Department of Physiology, Chapel Hill 27599.
+10989	Department of Biology, University of North Carolina, Chapel Hill 27599-3280.
+11002	National Radio Astronomy Observatory, P.O. Box O, Socorro, NM
+11004	Department of Chemistry, Rutgers, State University of New Jersey, Piscataway 08855.
+11010	Department of Medicine, UCLA School of Medicine 90024-1760.
+11015	Department of Geology, University of Manchester, Manchester, M13 9PL, U.K.
+11049	Department of Molecular Biology, Cleveland Clinic Foundation 44195.
+11056	Waksman Institute, Rutgers, The State University of New Jersey, Piscataway, NJ
+11057	Agricultural Biotechnology Research Unit, CIBA-GEIGY Corporation, Research Triangle Park, NC
+11061	Department of Molecular Biology, Research Institute of Scripps Clinic, La Jolla, CA
+11074	U.S. Geological Survey, Menlo Park, CA
+11077	Insect Attractants, Behavior and Basic Biology Research Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Gainesville, FL
+11090	Pacific Marine Environmental Laboratory, National Oceanic and Atmospheric Administration, 7600 Sand Point Way Northeast, Seattle, WA
+11166	Chemistry Division, Argonne National Laboratory, Argonne, IL
+11192	Department of Biological Chemistry, UCLA School of Medicine.
+11216	Department of Pharmacology, University of North Carolina, Chapel Hill 27599.
+11219	Berkeley Geochronology Center, 2453 Ridge Road, Berkeley CA
+11225	Biology Division, Oak Ridge National Laboratory, Oak Ridge, TN
+11247	Department of Biological Sciences, Rutgers, State University of New Jersey, Piscataway 08855.
+11252	U.S. Geological Survey, 1675 West Anklam Road, Tucson, AZ
+11255	Insect Attractants, Behavior, and Basic Biology Research Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Gainesville, FL
+11289	Department of Mathematics, Atmospheric, and Planetary Sciences, Massachsetts Institute of Technology, Cambridge, MA
+11306	Hewlett-Packard, Palo Alto, CA
+11341	U.S. Geological Survey, 922 National Center, Reston, VA
+11342	Exxon Research and Engineering, Annandale, NJ
+11352	Materials and Chemical Sciences Division, Lawrence Berkeley Laboratory, Berkeley, CA
+11353	Department of Geology, Appalachian State University, Boone, NC
+11377	Geodynamics Branch, Code 621, Laboratory for Terrestrial Physics, National Acronautics and Space Administration Goddard Space Flight Center, Greenbelt, MD
+11387	Code SN3, National Aeronautics and Space Administration, Johnson Space Center, Houston, TX
+11388	IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY
+11389	Department of Chemistry, Beloit College, Beloit, WI
+11403	Jet Propulsion Laboratory, Mail Stop 300/233, Pasadena, CA
+11405	Institute of Molecular Genetics, U.S.S.R. Academy of Sciences, Moscow.
+11412	Ensearch Exploration Inc., 1601 Elm Street, Suite 1200, Dallas, TX
+11413	Department of Botany, Field Museum of Natural History, Chicago, IL
+11428	Geology Department, Leiscester University, Leicester LE1, 7RH England
+11433	Department of Pathology, University of North Carolina, Chapel Hill 27599-7525.
+11437	Electronics Research, Isotope and Structural Chemistry, and Condensed Matter and Statistical Physics Groups, Los Alamos National Laboratory, Los Alamos, NM
+11438	Department of Geology, Campus Box 3315, University of North Carolina, Chapel Hill, NC
+11448	National Astronomy and Ionosphere Center, Box 995, Arecibo, PR
+11449	Physics Department, Purdue University, West Lafayette, IN
+11464	Department of Botany and Plant Pathology, Purdue University, West Lafayette, IN
+11466	Department of Immunology, Research Institute of Scripps Clinic, La Jolla 92037.
+11474	Bellcore, Red Bank, NJ
+11489	Pacific Fisheries Environmental Group, Southwest Fisheries Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, P.O. Box 831, Monterey, CA
+11497	Chevron Oil Field Research Company, Post Office Box 446, La Habra, CA
+11509	Central Research and Development Department, E. I. Du Pont de Nemours and Company, Experimental Station, Wilmington, DE
+11511	Harvard-Smnithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA
+11512	Pioneer Hi-Bred Intenational, Departmnent of Biotechnology Research, Johnston, IA
+11522	Central Research and Development Department, E. I. DuPont de Nemours Inc., Experimental Station, Wilmington DE
+11523	Cambridge Research and Instrumentation, Inc., Cambridge, MA
+11544	National Institute of Standards and Technology, Gaithersburg, MD
+11561	Department of Biochemistry, Robert Wood Johnson Medical School, University of Medicine and Dentistry of New Jersey, Piscataway 08854.
+11566	National Optical Astronomy Observatories, 950 North Cherry Avenue, Tucson, AZ
+11567	Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
+11569	Department of Chemistry, Brookhaven National Laboratory, Upton, NY
+11580	National Optical Astronomy Observatories, Post Office Box 26732, Tucson, AZ
+11588	Department of Cell Biology and Anatomy, University of North Carolina, Chapel Hill 27599.
+11592	Research Department, Mobil Research and Development Corporation, Paulsboro, NJ
+11596	Digital Instruments, Inc., Goleta, CA
+11607	Exxon Corporate Research Laboratory, Annandale, NJ
+11616	IBM Research Division, Almaden Research Center, San Jose, CA
+11675	National Aeronautics and Space Administration Johnson Space Center, Space Science Branch, Houston, TX
+11677	U.S. Geological Survey, Cascades Volcano Observatory, 5400 MacArthur Boulevard, Vancouver, WA
+11729	Department of Genetics, Hospital for Sick Children, Toronto, Ontario.
+11774	Institute for Immunology and Genetics, German Cancer Research Center, Heidelberg.
+11795	European Centre for Medium-Range Weather Forecasts, Reading, Berkshire RG2 9AX, England.
+11803	Planetary Science Institute, SAIC, Tucson, AZ
+11817	Department of Geology, University of Alberta, Edmonton, Alberta T6G 2E3.
+11870	Universität, Witten/Herdecke, Naturwissen-schaftliche Fakultät, Institut für Experimentalphysik, Stockumer Strasse 10,
+11878	Department of Biochemistry, University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, Piscataway 08854.
+11880	Department of Biological Chemistry, UCLA School of Medicine 90024.
+11881	NASA/Ames Research Center, Moffet Field, CA
+11882	IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY
+11904	Merck Sharp & Dohme Research Laboratories, Neuroscience Research Center, Terlings Park, Harlow, Essex, England.
+11980	Department of Medicine, U.C.L.A. School of Medicine 90024.
+11992	Earth and Space Sciences Division, Los Alamos National Laboratory, Los Alamos, NM
+12103	Department of Neurology, University of Medicine and Dentistry of New Jersey--Robert Wood Johnson Medical School, Piscataway 08854.
+12141	Geodynamics Branch, Goddard Space Flight Center, Greenbelt, MD
+12142	Harvard—Smithsonian Center for Astrophysics, Cambridge, MA
+12150	Department of Biochemistry, Robert Wood Johnson Medical School, University of Medicine and Dentistry of New Jersey, Piscataway 08854.
+12177	Electronics Research and Isotope and Structural Chemistry Groups, Los Alamos National Laboratory, Los Alamos, NM
+12180	Sandoz Crop Protection, Palo Alto, CA
+12187	U.S. Geological Survey, Menlo Park, CA
+12196	Zoecon Research Institute, Sandoz Crop Protection Corporation, P.O. Box 10975, Palo Alto, CA
+12207	Department of Biochemistry, University of North Carolina, Chapel Hill 27514.
+12245	Instituto de Antropología, Universidad Veracruzana, Jalapa, Veracruz, México
+12247	Central Research and Development Department, E. I. du Pont de Nemours and Company, Experimental Station, Wilmington, DE
+12271	Space Research Institute, Academy of Sciences, 117810 Moscow, U.S.S.R.
+12305	Arecibo Observatory, P.O. Box 995, Arecibo, PR
+12342	Exxon Research and Engineering Company, Corporate Research Science Laboratories, Route 22 East, Annandale, NJ
+12357	Chemical Technology Division, Argonne National Laboratory, Argonne, IL
+12364	Chester Beatty Laboratories, Institute of Cancer Research, London, U.K.
+12385	Department of Genetics, Hospital for Sick Children, Toronto, Ontario.
+12393	Laboratory of Molecular Carcinogenesis, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina 27709.
+12405	Department of Biological Chemistry, UCLA School of Medicine 90024.
+12409	Department of Medicine, UCLA School of Medicine 90024.
+12456	Space Science Branch, Solar System Division, NASA Johnson Space Center, Houston, TX
+12477	Department of Pharmacology, University of North Carolina, Chapel Hill 27599-7365.
+12515	Department of Biological Sciences, University of Calgary, Alberta, T2N 1N4.
+12559	Department of Microbiology and Immunology, UCLA School of Medicine 90024.
+12605	Department of Pediatrics, University of North Carolina, Chapel Hill 27599.
+12650	Department of Medicine, UCLA School of Medicine.
+12655	U.S. Department of Agriculture, Forest Service, Northeastern Forest Experiment Station, Forestry Sciences Laboratory, Durham, NH
+12656	Department of Chemical Kinetics, Chemical Physics Laboratory, SRI International, Menlo Park, CA
+12659	Division of Hematology-Oncology, UCLA School of Medicine 90024.
+12725	Department of Medicine, UCLA School of Medicine 90024.
+12806	Department of Pharmacology and Neurobiology Curriculum, University of North Carolina, Chapel Hill 27514.
+12867	Department of Physiology, UCLA School of Medicine 90024.
+12989	School of Biological and Earth Sciences, Liverpool John Moores University, Liverpool, L3 3AF, UK
+13006	Kokshetau University, 020000 Kokshetau, Akmolinsk Oblast, Kazakhstan.
+13009	Departamento de Silvicultura Tropical, Manejo Florestal, Instituto Nacional de Pesquisas da Amazônia, Av. André Araújo, 2936 Petrópolis, Manaus AM, Brasil.
+13047	Laboratory for Nanoscience and Nanotechnology Research (LINAN) and Advanced Materials Department, Instituto Potosino de Investigación Científica y Tecnológica, Camino a la Presa San José 2055, Col. Lomas 4a. sección, San Luis Potosí 78216, México.
+13074	Instituto de Ecología, Universidad Nacional Autónoma de México, Apartado Postal 70-275, 04510 Ciudad Universitaria, D.F., México.
+13103	Institut d''Astrophysique et de Géophysique Université de Liège, Allée du 6 Août 17, B-4000 Liège, Belgique.
+13495	Developmental Neurobiology, Université Catholique de Louvain, 1200 Bruxelles, Belgique.
+13527	Kandilli Observatory and Earthquake Research Institute, Bogaziçi University, Istanbul Kandilli Observatory, 81220 Cengelköy, Istanbul.
+13549	Department für Physik, Ludwig-Maximilians-Universität, Am Coulombwall 1, D-85748 Garching.
+13658	13659
+14022	Instituto del Bien Común, Avenida Petit Thouars 4377, Miraflores, Lima 18 Perú.
+14123	14125
+14165	14168
+14431	14436
+14492	Oxford University Clinical Research Unit, Hospital for Tropical Diseases, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam.
+14539	Centre for Reproductive Biology, University of Edinburgh, The Queen''s Medical Research Institute, Edinburgh, Scotland.
+14592	Projet Prevention du Sida au Cameroun (PRESICA), Boite Postale 1857, Yaoundé, Cameroun.
+14825	Advanced Materials Department, Instituto Potosino de Investigación Científica y Tecnológica, Camino a la Presa San José 2055, Col. Lomas 4a. sección, 78216 San Luis Potosí, México.
+14844	Department of Earth Science and Bjerknes Centre for Climate Research,
+14845	Biology Department, Woods Hole Oceanographic Institution
+14870	Institute for Nuclear Research and Nuclear Energy, BG-1784 Sofia, Bulgaria.
+14913	Department of Mechanical and Industrial Engineering
+15033	15039
+15060	Institute for Nanotechnology,;NUANCE Center,
+15062	Institute of Experimental Psychology, Slovak Academy of Sciences, Dubravska cesta 9, Bratislava, Slovak Republic, 813 64.
+15076	15083
+15080	BioTechnology Institute
+15125	Department of Stress and Developmental Biology.
+15132	Department of Chemistry and Chemical Biology,
+15242	Instituto de Ecología, UNAM, Apdo. Postal 70-275, México D.F. 04510, México.
+15546	15554
+15547	Department of Biological Sciences,
+15584	15593
+15637	Instituto de Fisiología Celular, Universidad Nacional Autónoma de México, 04510 México, D.F., México.
+15675	Department of Molecular Biophysics and Biochemistry
+15687	Laboratory of Developmental Biology,
+15689	Department of Anatomy, Cell Biology, and Physiology,
+15708	Faculty of Applied Sciences, Department of Chemical Technology, Physical Chemistry and Molecular Thermodynamics
+15740	Département de Géologie, B18, Université de Liège, Sart Tilman, Liège 1, Belgique.
+15795	Department of Molecular Biology and Biochemistry,
+15820	15830
+15827	Department of Chemistry and Biochemistry,
+15841	Ocean Drilling Program Leg 201 Shipboard Scientific Party.
+15942	15953
+15971	Howard Hughes Medical Institute,
+16080	M. Aikimbaev''s Kazakh Scientific Center for Quarantine and Zoonotic Diseases, 14 Kapalskaya Street, Almaty 480074, Republic of Kazakhstan.
+16374	Department of Physics, Sofia University, Sofia, Bulgaria.
+16379	Skirball Institute of Biomolecular Medicine
+16422	16434
+16499	Center for Cardiovascular Genetics, Department of Cardiovascular Medicine, and Center for Molecular Genetics, Department of Molecular Cardiology, Lerner Research Institute, Cleveland Clinic Foundation;Department of Molecular Medicine
+16537	Proyecto Conservando Castañales, Asociación para la Conservación de la Cuenca Amazónica (ACCA), Cusco 499, Puerto Maldonado, Madre de Dios, Perú.
+16585	16598
+16750	Center for Neurodegenerative Disease Research, Department of Pathology and Laboratory Medicine
+16813	Departamento de Ecología Evolutiva, Instituto de Ecología, Universidad Nacional Autónoma de México, Apartado Postal 70-275, México D.F. 04510, México.
+16818	16832
+16872	Unités de Formation et de Recherche Sciences de la Nature, (UFR SN), Université d''Abobo-Adjamé 02 Boite Postale 801, Abidjan 02, Côte d''Ivoire.
+16877	Laboratory for Computational Physics and Fluid Dynamics, Naval Research Laboratory (NRL),
+16886	Biochemistry and Molecular Biology, School of Molecular and Microbial Sciences,;School of Land and Food Sciences,
+16890	School of Oceanography, Box 357940,
+16892	Department of Polymer Science and Engineering,
+16903	Department of Biology,
+16918	Thomas E. Starzl Transplantation Institute,;Department of Surgery,
+16930	Department of Biological Sciences,
+16935	Laboratory of Neuroimaging, Department of Neurology, and
+16938	Applied and Engineering Physics,
+16940	16955
+16945	Department of Medicine,
+16946	Department of Pediatrics, Department of Genetics, Howard Hughes Medical Institute,
+16948	Department of Molecular, Cell, and Developmental Biology,
+16962	Committee on Microbiology,;Department of Molecular Genetics and Cell Biology,
+16965	Department of Microbiology and Center for Biocatalysis and Bioprocessing,
+16990	Department of Psychiatry and Mental Health Research Institute,;Department of Radiology,
+16998	Department of Statistics,
+17017	Jones Laboratory,
+17019	Department of Immunology,
+17025	Department of Earth Sciences,
+17031	Department of Medicine,
+17033	Materials Research Laboratory,
+17039	Department of Physics and Department of Molecular and Cell Biology and Howard Hughes Medical Institute,
+17048	Department of Biology,
+17064	Department of Physiology and
+17066	Department of Molecular and Cellular Biology,
+17073	Biochemistry and Molecular Biophysics Option,
+17074	Lehrstuhl Biochemie I,
+17076	Byrd Polar Research Center,;Department of Geological Sciences,
+17097	Division of Endocrinology and Metabolism, Department of Internal Medicine, and Center for Osteoporosis and Metabolic Bone Diseases
+17098	National Eye Institute
+17109	Center for Microbial Ecology,
+17110	Intramural Research Support Program and
+17112	Department of Veterinary Parasitology, University of Glasgow, Glasgow G61-1QH Scotland.
+17114	Department of Biochemistry and Biophysics, Lineberger Comprehensive Cancer Center,
+17119	Department of Marine Chemistry and Geochemistry,
+17128	Department of Molecular Biophysics and Biochemistry,
+17137	Department of Medical Chemistry,
+17140	Verna and Mars McLean Department of Biochemistry and Molecular Biology,
+17141	Division of Chemistry and Chemical Engineering,
+17150	Howard Hughes Medical Institute,
+17153	Laboratory of Molecular Immunology,
+17155	Howard Hughes Medical Institute (HHMI),
+17157	Center for Studies in Physics and Biology,
+17158	School of Chemistry, Post Office Box 23,
+17159	Department of Earth and Environmental Sciences,;Lamont-Doherty Earth Observatory,
+17164	Howard Hughes Medical Institute,
+17178	Howard Hughes Medical Institute and Department of Biochemistry, Division of Nucleic Acids Enzymology,
+17179	Institute of Applied Biochemistry,
+17180	Department of Pharmaceutical Chemistry,
+17185	Department of Psychological and Brain Sciences,;Center for Cognitive Neuroscience,
+17200	Department of Biochemistry,
+17201	KYOKUGEN,
+17206	Department of Molecular Biology,
+17210	Department of Molecular Biology and Genetics, and
+17217	Department of Physics,
+17237	Laboratory of Molecular Genetics,
+17238	Department of Cell and Developmental Biology, John Innes Centre, Colney Lane, Norwich NR4 7UH, UK
+17243	Departments of Neurology,
+17247	Polymers Division and
+17248	Department of Physics, Sofia University, Sofia, Bulgaria.
+17255	Plant Biology Laboratory,;Howard Hughes Medical Institute,
+17263	Department of Chemistry, Rice Quantum Institute, and Center for Nanoscale Science and Technology,
+17278	Raytheon Information Technology and Scientific Services (ITSS),
+17281	Department of Physiology,
+17294	Department of Biology,
+17310	Division of Pharmaceutical Sciences and
+17314	Laboratory of Cancer Biology,
+17315	Center for Neuroscience and Aging,
+17325	Division of Pharmaceutical Sciences and
+17327	Department of General Practice and Primary Care,
+17337	Center for Basic Neuroscience, Departments of
+17339	Abteilung Festkörperphysik,
+17360	Cold Spring Harbor Laboratory,
+17361	Cellular Biochemistry and Biophysics Program and
+17377	Department of Physics,
+17381	Department of Molecular Genetics, Biochemistry, and Microbiology;;Howard Hughes Medical Institute
+17386	Department of Laboratory Medicine,
+17388	Cold Spring Harbor Laboratory,
+17397	Department of Neurology,
+17400	Department of Biological Sciences,
+17401	Department of Chemical Engineering,
+17410	Department of Fisheries and Wildlife,
+17412	Interdepartmental Program in Cell and Molecular Biology,
+17414	Department of Target Research,
+17416	Department of Molecular Genetics and Cell Biology, Howard Hughes Medical Institute,
+17422	International Livestock Research Institute, Post Office Box 5689, Addis Ababa, Ethiopia.
+17425	Departments of
+17426	Departments of Internal Medicine and Molecular Biology,
+17427	Division of Chemistry and Chemical Engineering, Mail Code 147–75CH
+17431	National Center for Microscopy and Imaging Research, Department of Neurosciences, 0608,
+17433	Department of Materials Science and Engineering,
+17444	Division of Molecular Carcinogenesis,
+17454	Department of Entomology,
+17464	Department of Physics and Astronomy,
+17470	Department of Pharmacology,
+17472	Center for Developmental Biology,
+17480	Department of Chemistry,
+17484	Department of Developmental Biology,;Department of Medicine (Oncology Division),
+17491	Medical Genetics Center, Department of Cell Biology and Genetics, Center for Biomedical Genetics,
+17495	Department of Chemistry and Biochemistry,
+17513	Departments of Biochemistry and Chemistry, and
+17514	Howard Hughes Medical Institute, Department of Molecular Biology,
+17517	Department of Neurology,
+17536	Biophysics Graduate Group,
+17548	Department of Physiology and Biophysics,
+17549	Lymphocyte Biology Section, Laboratory of Immunology, National Institute of Allergy and Infectious Diseases, National Institutes of Health,
+17552	E. L. Steele Laboratory, Department of Radiation Oncology,
+17553	Dana-Farber Cancer Institute and
+17563	Department of Medical Chemistry and Molecular Biology, Graduate School of Medicine; and
+17565	Laboratory of Cellular and Molecular Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health,
+17594	Department of Anesthesiology, and
+17595	Department of Anesthesiology,;Center for Free Radical Biology,
+17601	BMT and Gene Therapy Program, Scientific Institute H. S. Raffaele
+17609	Glycobiology Program and
+17612	Department of Ecology and Evolution,
+17614	Joslin Diabetes Center and Harvard Medical School,
+17621	Department of the Geophysical Sciences,
+17627	Critical Care and Pulmonary Division,
+17628	Department of Immunology and Infectious Diseases, Harvard School of Public Health and
+17651	Department of Biochemistry and Molecular Biology,
+17658	Computational Neurobiology Laboratory and;Institute for Neural Computation
+17662	Department of Materials Science and Engineering,
+17667	Biophysics and Structural Biology Program,
+17669	Department of Molecular Microbiology and Microbial Pathogenesis, Box 8230,
+17673	Department of Neuroscience,
+17680	Howard Hughes Medical Institute and
+17681	Department of Biological Sciences,
+17682	Howard Hughes Medical Institute and Departments of;Neuroscience and
+17684	Department of Microbiology and Immunology,;Program in Immunology,
+17686	Department of Histology and Medical Embryology,
+17687	Department of Cell Biology and
+17689	Department of Animal Science,
+17690	Advanced Photon Source and
+17703	CNRS UMR 5539, CP 107,
+17718	Department of Physiology,
+17722	Department of Physics,
+17724	Exotic Materials Institute and Department of Chemistry and Biochemistry,
+17726	Institute of Isotope Geology and Mineral Resources,
+17735	Division of Biomedical Sciences and
+17744	Division of Geographic Medicine,
+17746	Infectious Diseases,
+17762	Department of Molecular Biophysics and Biochemistry and
+17770	Department of Physics and
+17773	Institute for Genetic Medicine,
+17775	Center for the Study of Nervous System Injury,;Alzheimer''s Disease Research Center,;Department of Neurology,
+17777	Institute of Molecular BioSciences,
+17798	Department of Genetics,
+17800	Department of Physics and
+17812	Department of Biochemistry and Molecular Biology,
+17813	Institute of Neuropathology,
+17821	Department of Chemistry,
+17824	Department of Molecular Biology,
+17826	Department of Chemistry,
+17830	School of Physics,
+17840	Department of Dermatology and Yale Skin Diseases Research Core Center,
+17850	Unité des Interactions Bactéries-Cellules,
+17865	Gladstone Institute of Virology and Immunology,
+17869	Center for Basic Neuroscience, Departments of
+17871	Department of Chemistry and Chemical Biology,
+17881	Department of Cognitive Science,
+17882	Synapse Group and
+17883	Tropical Disease Research Unit, Department of Pathology, Veterans Affairs Medical Center,
+17894	Department of Pediatrics and Adolescent Medicine,
+17908	Verna and Mars McLean Department of Biochemistry and Molecular Biology,;Howard Hughes Medical Institute,
+17911	Department of Physiology,
+17920	Laboratoire des Sciences du Climat et de l''Environnement (LSCE),
+17926	Department of Cellular and Molecular Medicine,;Department of Pathology,
+17931	Accelerator Mass Spectrometry
+17937	Department of Pediatrics and Program in Developmental Biology,
+17942	Howard Hughes Medical Institute,;Department of Molecular Biology and Genetics,
+17944	Department of Biochemistry,
+17946	Howard Hughes Medical Institute,;Department of Molecular and Medical Pharmacology,;Department of Pathology and Laboratory Medicine,
+17947	Bioinformatics Laboratory, Institute of Computing,
+17961	Gene Expression Laboratory,
+17968	Heidelberger Akademie der Wissenschaften,
+17970	Department of Genetics and Development,
+17972	Department of Developmental Biology and
+17978	The Derald H. Ruttenberg Cancer Center,;Division of Medical Oncology, Department of Medicine, and
+17986	Whitehead Institute for Biomedical Research,
+17990	Division of Molecular Neurobiology, National Institute for Basic Biology,
+17995	Center for Neurologic Diseases,;Department of Neurology,
+18004	Laboratory of Signal Transduction and
+18009	Department of Psychiatry and Mental Health Research Institute,;Department of Radiology,
+18013	Materials Research Laboratory,
+18016	The Harvard-Oxford Malaria Genome Diversity Project.
+18020	Department of Biochemistry,
+18025	Department of Organic Chemistry,
+18026	Institut für Festkörperphysik,
+18030	Department of Biochemistry and
+18031	Department of Microbiology, Immunology, and Molecular Genetics
+18037	Department of Biochemistry and Molecular Pharmacology
+18044	Institute of Human Genetics;;Department of Genetics, Cell Biology, and Development; and
+18047	Department of Medicine,
+18055	Astrobiology Research Center and Department of Biology,
+18062	Department of Molecular Biology,
+18064	Neurodegenerative Disorders Centre,
+18065	Lehrstuhl für Mikrobiologie and
+18079	Department of Molecular and Cellular Biology and
+18080	Department of Chemistry and Chemical Biology,
+18094	Departments of Developmental Biology and Genetics, Howard Hughes Medical Institute, Beckman Center B300,
+18101	Gladstone Institute of Virology and Immunology,
+18115	Plant Biochemistry Laboratory, Department of Plant Biology,;Centre for Molecular Plant Physiology,
+18128	Department of Molecular and Cell Biology,
+18132	Department of Molecular, Cellular, and Developmental Biology and
+18133	Center for the Study of Brain, Mind, and Behavior,;Department of Philosophy, 1879 Hall,
+18143	Department of Agricultural and Environmental Science,
+18145	Howard Hughes Medical Institute,;Center for Sleep and Respiratory Neurobiology,
+18146	Departments of Molecular and Human Genetics,
+18148	The Abramson Family Cancer Research Institute, Departments of;Pathology and Laboratory Medicine, School of Medicine, and the
+18149	Department of Microbiology,
+18151	Departments of Neurology and
+18182	Chemistry Division and
+18183	National Oceanographic Data Center/National Oceanic and Atmospheric Administration (NODC/NOAA),
+18191	Department of Physiology,
+18194	Dana-Farber Cancer Institute and Brigham and Women''s Hospital,
+18205	Genetik and
+18209	Department of Chemistry and Chemical Biology,
+18223	Faculty of Science, University of Sarajevo, 71000 Sarajevo, Bosnia and Hercegovina.
+18228	Department of Biochemistry,
+18231	Computer Science, and
+18241	Laboratory of Biochemistry and Molecular Biology,
+18243	Department of Biochemistry,
+18247	Department of Neuroscience,
+18264	Department of Biology,
+18265	Department of Medicine,
+18266	Laboratory of Molecular Biology, National Institute of Neurological Disorders and Stroke, National Institutes of Health,
+18267	McDermott Center for Human Growth and Development and Department of Internal Medicine and
+18268	Instituto de Astronomı́a, Universidad Nacional Autónoma de México, Apartado Postal 70-264, C.P. 04510 México D.F., México.
+18276	Center for Cell Signaling,;Department of Microbiology,
+18277	Department of Physiology and
+18292	Department of Molecular Pharmacology and
+18293	Unité des Interactions Bactéries-Cellules,
+18294	Department of Biochemistry and Molecular Genetics,
+18295	Department of Medicine,;Howard Hughes Medical Institute and the
+18299	Environmental Energy Technology Division,
+18307	Ruttenberg Cancer Center,
+18308	Prc-Mrc 2nd Floor/R9950,
+18312	Department of Organic Chemistry,
+18318	Department of Molecular Cell Biology,
+18321	Department of Comparative Medicine,
+18325	Department of Ecology and Evolutionary Biology,
+18329	Department of Biochemistry and Biophysics, School of Medicine,
+18330	Howard Hughes Medical Institute,;Department of Biochemistry and Molecular Biology,
+18341	Department of Molecular Genetics and Cell Biology,
+18342	Cardiovascular Division, Brigham and Women''s Hospital, and
+18343	Department of Chemistry and
+18345	Ribosomal Database Project,;Center for Microbial Ecology,
+18347	Departments of
+18349	Department of Chemistry and Chemical Biology and
+18360	Department of Structural Chemistry,
+18362	Department of Pathology,
+18364	Department of Physics,
+18369	Department of Biological Sciences,
+18376	Department of Medical Chemistry,
+18404	Department of Physics, School of Science and Engineering
+18406	Department of Chemistry and Chemical Biology and
+18424	Aeronomy Laboratory,
+18427	Department of Human Genetics,
+18442	Laboratory of Molecular Immunology,
+18449	Department of Clinical Biochemistry,
+18458	Department of Chemical Engineering,
+18468	School of Materials Science and Engineering,
+18479	Medical Scientist Training Program
+18484	Department of Meteorology and
+18489	Department of Cell Biology,
+18492	Laboratory of Molecular Genetics and
+18508	The Program in Cellular and Molecular Medicine,;Department of Neurology,;Department of Neuroscience,
+18522	Verna and Marrs McLean Department of Biochemistry and Molecular Biology and
+18533	Department of Pathology and Laboratory Medicine,;Division of Endocrinology and Metabolism,
+18537	Protein Studies Program and
+18541	Departments of
+18543	Department of Cellular and Molecular Pharmacology and
+18559	Department of Molecular Oncology,
+18563	Department of Medical Physics and
+18564	Department of Electrical Engineering and Computer Science and
+18568	Department of Biology,
+18572	Department of Cellular and Molecular Pharmacology, and
+18576	Department of Microbiology and Immunology,;Department of Biochemistry,
+18580	Department of Computational Science,
+18582	Department of Earth System Science,
+18588	Center for Neurodegenerative Disease Research and Department of Pathology and Laboratory Medicine,
+18590	Department of Molecular and Cell Biology,
+18592	Howard Hughes Medical Institute
+18596	Research Center for Advanced Waste and Emission Management
+18614	Department of Microbiology and
+18617	Department of Physiology,
+18620	Department of Chemistry and Chemical Biology, and
+18622	Nanobiotechnology Center,;Department of Agricultural and Biological Engineering,
+18627	Whitehead Institute for Biomedical Research and
+18630	Department of Chemistry and
+18634	Department of Physics and Astronomy,
+18643	Department of Molecular Genetics and McDermott Center for Human Growth and Development and
+18645	Basic Neuroscience Program,
+18666	Polymer Science and Engineering Department,
+18670	Department of Medical Chemistry and
+18676	Laboratoire de Physique des Solides (CNRS UMR 8502),
+18677	Department of Electrical and Computer Engineering,
+18682	Center for Advanced Biotechnology and Medicine,
+18683	Genetics and Aging Unit, Department of Neurology,
+18690	Department of Psychology and
+18698	Department of Preventive Medicine, New Jersey Medical School, Newark 07103.
+18744	AT&T Bell Laboratories, Murray Hill, NJ
+18750	Department of Microbiology, UCLA 90024.
+18811	Medical Research Council Laboratory of Molecular Biology, Cambridge, England.
+19045	Department of Cell and Structural Biology, University of Manchester, Manchester M13 9PL, U.K.
+19240	The Eppley Laboratory, Inc., Newport, RI 02840.
+19357	Instituto Nacional de Pesquisas da Amazonia (INPA/Conselho Nacional de Desenvolvimento para Pesquisa), Divisão de Biologia e Evolucão de Peixes, Departamento de Biologia e Limnologia, CP-478, 69083 Manaus, Am. Brasil.
+19365	Institute of Geology and Geophysics, U.S.S.R. Academy of Sciences, Siberian Branch, Novosibirsk-90,
+19372	State Center for the Study of Natural Resources, State Meteorological Committee, 123376 Moscow, U.S.S.R.
+19439	National Center for Atmospheric Research
+19441	Desert Ecological Research Unit, Post Office Box 953, Walvis Bay, 9190, South West Africa
+19442	Scripps Institution of Oceanography, La Jolla
+19452	Fachbereich Biologie, J. W. Goethe Universität Frankfurt
+19484	U.S. Geological Survey, Flagstaff
+19488	Martin Marietta Aerospace
+19489	Viking Project Office, NASA Langley Research Center
+19577	Instituto de Geofisica, Ciudad Universitaria, Universidad Nacional Autónoma de México, 04510 México, DF.
+19780	Marine Sciences Program and Department of Geology, University of North Carolina, Chapel Hill
+19799	Corporate Research Laboratories, Exxon Research and Engineering Company, Linden, New Jersey
+19888	Fossil Amphibians, Reptiles and Birds Section, British Museum (Natural History), London SW7 5BD, England.
+19918	Department of Oceanography, The University, Southampton, S09 5NH England.
+20020	Route 15, Box 269, Tucson
+20078	Exxon Research and Engineering Company, Linden, NewJersey
+20092	Geology Department, Rutgers University, Newark, New Jersey
+20107	Atomic Weapons Research Establishment, Aldermaston, Reading, England RG7 4PR
+20383	Department of Microbiology, School of Medicine, University of South Dakota, Vermillion 57069.
+20397	Central Research Institute of Geodesy, Aerosurvey, and Cartography, Moscow 125413.
+20449	INSCON, Ringwood, Hants, England
+20461	Department of Physics, Carnegie-Mellon University
+20480	Aeronomy Laboratory, National Oceanic and Atmospheric Administration, Boulder
+20503	West Indies Laboratory, P.O. Annex 4010, C''sted, St. Croix, Virgin Islands
+20519	Space Science Division, Ames Research Center
+20628	Lehrstuhl für Pharmazeutische Biologie, Universität München
+20637	Department of Biochemistry, University of Manchester, Manchester M13 9PL, Great Britain
+20715	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+20772	National Aeronautics and Space Administration, Johnson Space Center
+20792	Department of Zoology, University of North Carolina, Chapel Hill
+20825	Bell Telephone Laboratories, Holmdel, New Jersey
+20827	Environmental Sciences and Engineering, School of Public Health, University of North Carolina, Chapel Hill
+20828	Savannah River Ecology Laboratory, Aiken, South Carolina
+20848	Exxon Research and Engineering Company, Linden, New Jersey
+20866	Bell Laboratories, Murray Hill, New Jersey
+20890	Department of Geology, Rangoon Arts and Sciences University, Rangoon, Burma
+20905	Radiocarbon Accelerator Unit, Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QJ, England
+21054	Institute for the History of Material Culture, Polish Academy of Sciences, Warsaw
+21122	Bell Laboratories, Holmdel, New Jersey
+21142	Department of Botany, Miami University
+21161	Medical Research Council Laboratory of Molecular Biology, Cambridge, CB2 2QH, England
+21176	Department of Earth Sciences, Bullard Laboratories, Cambridge University, Cambridge CB3 OEZ, England
+21186	Systametic Entomology Laboratory, U.S. Department of Agriculture, Beltsville
+21263	Hungarian Geological Survey, Budapest
+21265	Department of Clinical Biochemistry, Faculty of Pharmaceutical Science, Meijo University, Nagoya
+21268	Department of Pathology, Veterans Administration Hospital, East Orange, New Jersey
+21269	Bell Laboratories, Murray Hill, New Jersey
+21277	Department of Immunology and microbiology, Wayne State Uniiversity School of Medicine
+21278	Department of Geophysics, University of Edinburgh, Edinburgh, Scotland
+21303	Department of Botany, National Museum of Natural History
+21337	Educational Testing Service, Princeton, New Jersey
+21348	Merck Sharp & Dohme Research Laboratories, Rahway, New Jersey
+21362	Bell Laboratories, Murray Hill, New Jersey
+21384	Rega Institute for Medical Research
+21402	Bell Laboratories, Murray Hill, New Jersey
+21415	Rochedale. Queensland
+21421	Bell Laboratories, Murray Hill, New Jersey
+21429	Institute of Marine Sciences, University of North Carolina, Morehead City
+21442	Hospital for Sick Children, Toronto
+21447	Medical Research Council Transplantation Group, Department of Clinical Pathology, University of Alberta, Edmnonton
+21462	Division of Endocrinology, Corncll University Medical College
+21489	Lamont-Doherty Geological Observatory
+21502	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+21555	Laboratory for Planetary Atmospheres, NASA Goddard Space Flight Center
+21560	Jet Propulsion Laboratory
+21571	Department of Earth and Space Sciences and Institute of Geophysics and Planetary Physics
+21575	Corporate Research and Development, General Electric Company
+21598	NERC Institute of Marine Biochemistry, A berdeen, Scotland
+21599	National Astromony and Ionosphere Center, Arecibo Observatory
+21602	Laboratory of Clinical Science, National Institute of Mental Health, Bethesda. Marvland
+21616	University of Windsor, Windsor, Ontario N9B 3P
+21642	Department of Pathology, Medical School, University of Zagreb, Zagreb
+21648	Veterans Administration Hospital, San Francisco
+21659	Department of Biochemistry and Drug Metabolism, Hoffmann-La Roche Inc., Nutley, New Jersey
+21691	Department of Geology, Appalachian State University, Boone, North Carolina
+21697	Laboratory of Microbiology and Immunology, National Institute of Dental Research
+21710	Coweeta Hydrologic Laboratory, Southeastern Forest Experiment Station, Franklin, North Carolina
+21745	National Institute of Allergy and Infectious Diseases
+21752	Roche Institute of Molecular Biology, Nutley, New Jersey
+21754	Scripps Institution of Oceanography
+21770	Department of Geology and Curriculum in Marine Sciences, University of North Carolina, Chapel Hill
+21825	NASA Goddard Institute for Space Studies
+21837	Biology Department and Center for Environmental Studies, Williams College, Williamstown, Massachutsetts
+21845	Electron Optics Laboratory, Roswell Park Memorial Institute, Buffalo, New, York
+21862	Department of Chemistry, University of Californiia. San Diego, La Jolla
+21868	Istituto di Geologia, Universite di Palermo, Corso Tukory 131, Italia
+21874	Department of Mineral Sciences, Smithsonian Institution
+21898	Scripps Institution of Oceanography
+21926	Roche Institute of Molecular Biology, Nutley, New Jersey
+21937	College of Science and Engineering, Aoyama Gakuin University, 6-16-1 Chitosedai, Setagaya-Ku,
+21943	Agricultural Research Council Insect Physiology Group, Department of Zoology and Applied Entomology, Imperial College Field Station, Silwood Park, Ascot, Berks, England
+21959	Department of Anthropology, Trent University
+21967	Environmental Mutagenesis Branch, National Institute of Environmental Health Science, Research Triangle Park, North Carolina
+21980	Bell Telephone Laboratories, Inc., Holmdel, New Jersey
+21993	Laboratory of Oral Medicine, National Institute of Dental Research
+22001	Department of Psychology and Biological Sciences Research Center of the Child Development Institute, University of North Carolina, Chapel Hill
+22134	Albert Einstein College of Medicine, Division of Gastroenterology-Liver Disease
+22159	Friends Medical Science Research Center, Inc.
+22162	Ames Research Center
+22174	Department of Pharmacology, Hoffmann—La Roche, Inc., Nutley, New Jersey
+22175	Department of Pharmacology, Hoffmann-La Roche, Inc., Nutley, New Jersey
+22229	Department of Entomology, National Institute of Health, Kamiosaki, Shinagawa, Tokyo
+22274	University of Santa Clara
+22302	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+22305	National Aeronautics and Space Administration, Johnson Space Center
+22325	Northern Great Plains Research Center, Agricultural Research Service, U.S. Department of Agriculture, Mandan, North Dakota
+22332	AT&T Bell Laboratories, Murray Hill, New Jersey
+22348	NASA Ames Research Center
+22356	Departments of Pathology and Neurology, Johns Hopkins University School of Medicine
+22357	Roche Institute of Molecular Biology, Nutley, New Jersey
+22358	Cholera Research Laboratory, Institute of Public Health, Dacca-12, Bangladesh
+22369	Laboratory for Planetary Atmospheres, Goddard Space Flight Center
+22371	Jet Propulsion Laboratory
+22375	Bullard Laboratories, Department of Earth Science, Cambridge University, Cambridge, England CB3 OEZ
+22376	Rand Corporation, Santa Monica, Californtia
+22395	U.S. Salinity Laboratory
+22437	Department of Zoology, University of New Hampshire, Durham
+22463	Royal Greenwich Observatory, Hailsham, Sussex, England
+22471	Dartmouth/Hitchcock Medical Center, Hanover, New Hampshire
+22498	National Institute of Dental Research
+22528	Medical Division, Oak Ridge Associated Universities, Oak Ridge
+22536	Laboratory of Viral Diseases, National Institute of Allergy and Infectious Diseases. National Institutes of Health
+22549	West Indies Laboratory, Fairleigh Dickinson University, Box 4010, Christiansted, St. Croix, U.S. Virgin Islands
+22557	Lung Cancer Branch
+22559	Squibb Institute for Medical Research, Princeton, New Jersey
+22563	U.S. Department of Agriculture, Forest Service, Southeastern Forest Experiment Station, Coweeta, Hydrologic Laboratory, Route 1, Box 216, Otto, North Carolina
+22574	Department of Physiology, Queen Elizabeth College, London, W.8 England
+22576	Department of Biochemistry, Rutgers Medical School, College of Medicine and Dentistry of New Jersey, Piscataway
+22607	Department of Medicine, College of Physicians and Surgeons
+22661	Department of Biochemistry and Chemistry, Royal Free Hospital Medical School
+22684	Pharma Research Ltd., Pointe Claire, Quebec
+22702	Laboratories for Reproductive Biology, Departments of Anatomy and Pharmacology, University of North Carolina, Chapel Hill
+22710	Biometry Branch, National Institute of Mental Health
+22716	Institute of Chemical Physics, U.S.S.R. Academy of Sciences, Vorobjevskoje Shausse, 2-B, Moscow, B-
+22792	Department of Molecular Biology, Peninsylvania Hospital, Eighth and Spruce Streets, Philadelphia
+22820	Great Lakes Environmental Research Laboratory, National Oceanic and Atmospheric Administration, Ann Arbor
+22822	Lamont-Doherty Geological Observatory
+22825	Department of Otolaryngology, Pritzker School of Medicine
+22826	Scripps Institution of Oceanography
+22833	Bell Laboratories, Murray Hill, New Jersey
+22844	Section on Physiological Controls, Laboratory of Biomedical Sciences, National Institute of Child Health and Human Development
+22858	NASA Manned Spacecraft Center
+22860	Combeinteignhead, Newton Abbot, South Devon TQ12 4RT, England
+22869	Summer Institute of Linguistics, University of North Dakota, Grand Forks
+22871	Department of Zoology, University of Edinburgh, West Mains Road, Edinburgh EH9 3JT, Scotland
+22880	Divsion of Diabetes, Institute of Medicine, University of Liège
+22883	Institute of Molecular Virology, St. Louis University School of Medicine
+22924	Metabolism and Radiation Research Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Fargo, North Dakota
+22926	Department of Chemistry, University of Sheffield, Sheffield S3 7HF, England
+22934	School of Plant Biology, University College of North Wales, Bangor, Caernarvonshire, North Wales
+22947	Department of Biology, Open University, Bletchley, Buckinghamshire, England
+22951	Department of Geography-Geology, Appalachian State University, Boone, North Carolina
+22958	Bell Telephone Laboratories, Murray Hill, New Jersey
+22963	Institute of Archaeology, University of London, 31-34 Gordon Square, London, WC1H OPY England
+22965	Woods Hole Oceanographic Institution
+22985	Psychiatry Department, University Hospital of South Manchester, Manchester, England M20 8LR
+23027	Wistar Institute of Anatomy and Biology
+23030	Department of Communication, University of Keele, Keele, Staffordshire ST5 5BG, England
+23033	Department of Medical Statistics and Epidemiology, Mayo Clinic
+23048	Division of Ocean Engineering, Rosenstiel School of Marine and Atmospheric Science
+23050	Departments of Genetics and Psychology, University of Sheffield, Sheffield S10 2TN, England
+23064	Human Nutrition Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Grand Forks, North Dakota
+23065	Department of Physiology and Pharmacology, University of South Dakota Medical School, Vermillion
+23072	Institute of Endocrinology, Bucharest, Rumania
+23078	State Scientific Research Center for the Study of Natural Resources, Moscow
+23094	U.S. Geological Survey
+23113	National Vegetable Research Station, Wellesbourne, CV35 9EF, England
+23155	Laboratory of General and Comparative Biochemistry, National Institute of Mental Health
+23156	Bell Laboratories, Murray Hill, New Jersey
+23165	Physics Department, University of Queensland
+23182	Department of Geology and Geophysics, University of Calgary
+23183	National Oceanic and Atmospheric Administration, Environmental Data Services, Boulder
+23209	National Astronomy and Ionosphere Center, Arecibo Observatory
+23224	Laboratory of Preclinical Pharomacology, National Institute of Mental Health
+23231	Department of Pediatrics, University of North Carolina School of Medicine, Chapel Hill
+23272	Smithsonian Tropical Research Institute, Balboa, Canal Zone
+23278	Department of Psychology, Mental Retardation Center, Toronto
+23315	DNA Plant Technology Corporation, Cinnaminson, New Jersey
+23328	Central Geological Survey, Prague, Czechoslovakia
+23346	University of North Carolina, Wilmington
+23356	Atlantic Oceanographic and Meteorological Laboratories, Sea-Air Interaction Laboratory
+23427	Science Division, North Carolina Wesleyan College, Rocky Mount
+23429	Bell Laboratories, Murray Hill, New Jersey
+23439	Institute of Atmospheric Sciences, South Dakota School of Mines and Technology, Rapid City
+23441	U.S. Geological Survey, Cascades Volcano Observatory
+23446	U.S. Geological Survey, Cascades Volcano Observatory
+23448	U.S. Geological Survey, Cascades Volcano Observatory
+23449	Department of Palaeontology, British Museum (Natural History), London, S.W. 7, England
+23505	Department of Chemistry, University of North Carolina, Chapel Hill
+23516	Department of Zoology, North Dakota State University, Fargo
+23549	Postgraduate School of Obstetrics and Gynaecology, University of Auckland
+23558	Lamont-Doherty Geological Observatory
+23560	Astrochemistry Branch, Laboratory for Extraterrestrial Physics, NASA/Goddard Space Flight Center
+23570	Chemical Research Department, Hoffmann-La Roche, Inc. Nutley, New Jersey
+23581	Phytotron, Department of Botany, North Carolina State University
+23585	Department of Geology, Franklin and Marshall College
+23601	Laboratories for Reproductive Biology, Departments of Anatomy and Pharmacology, University of North Carolina, Chapel Hill
+23613	Shionogi Research Laboratory, Shionogi and Co., Ltd., Osaka
+23630	Department of Bacteriology and Immunology, School of Medicine, University of North Carolina, Chapel Hill
+23642	Biochemistry Division, Unilever Research, Colworth/Welwyn Laboratory, Sharnbrook, Bedfordshire, England
+23671	Department of Nutritional Sciences
+23692	Division of Plant Industry, CSIRO
+23699	Institute of Human Nutrition Research, Bratislava, Czechoslovakia
+23726	Physics Department, Edinburgh University, Edinburgh, Scotland
+23743	Department of Chemistry, University of Tel Aviv
+23761	South Dakota School of Mines and Technology and U.S. Geological Survey, Rapid City
+23769	Medical Research Council Radiobiology Unit, Harwell, Didcot, Berkshire, England
+23782	Bell Laboratories, Murray Hill, New Jersey
+23789	Department of Pathology, Royal Children''s Hospital
+23794	Bell Laboratories, Murray Hill, New Jersey
+23816	Laboratory of Tumor Cell Biology, National Cancer Institute, Bethesda
+23830	Roche Institute of Molecular Biology, Nutley, New Jersey
+23843	Department of Molecular and Cellular Biology, National Jewish Hospital and Research Center
+23849	Department of Botany and Microbiology, University College, London, England WC1E 6BT
+23862	Reproduction Research Branch, National Institute of Child Health and Human Development, National Institutes of Health
+23880	Princeton Particle Accelerator, Princeton, New Jersey
+23907	Department of Medicine, Child Development Institute, Chapel Hill, North Carolina
+23932	Advanced Data Systems Division, Goddard Space Flight Center
+23942	Departments of Psychiatry and Pharmacology, University of North Carolina School of Medicine, Chapel Hill
+23946	Department of Biochemistry
+23952	Bell Laboratories, Murray Hill, New Jersey
+23987	Ashton, Peterborough, England
+24000	National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Atlantic Estuarine Fisheries Center, Beaufort
+24011	West Indies Laboratory, Fairleigh Dickinson University, St. Croix, Virgin Islands
+24054	Roche Institute of Molecular Biology, Nutley, New Jersey
+24096	Laboratory of Physiological Ecology, Institute of Marine Biology, Academy of Sciences of the U.S.S.R., Vladivostok
+24116	University of North Carolina, Chapel Hill
+24117	Bell Telephone Laboratories, Holmdel, New Jersey
+24139	Université de Paris 6 et
+24152	Grant Institute of Geology, University of Edinburgh, Edinburgh, Scotland
+24158	Bell Laboratories, Murray Hill, New Jersey
+24162	Pharmacology Section, Department of Physiological Chemistry, Roche Institute of Molecular Biology, Nutley, New Jersey
+24168	Institute of Animal Behavior, Rutgers-The State University of New Jersey, Newark
+24170	Department of Geology, University of North Carolina, Chapel Hill
+24177	Department of Neurology, Montefiore Hospital and Medical Center, and Albert Einstein College of Medicine
+24184	Department of Plant Pathology, Coastal Plain Experiment Station
+24220	Planetology Branch, Space Science Division, National Aeronautics and Space Administration, Ames Research Center, Moffett Field, Califoriia
+24224	Department of Geology, University of North Dakota, Grand Forks
+24231	U.S. Department of Agriculture, Agricultural Research Service
+24254	British Museum (Natural History), London, England
+24276	Bell Telephone Laboratories, Inc. Murray Hill, New Jersey
+24279	Bell Laboratories, Murray Hill, New Jersey
+24285	Division of Genetic Medicine, Albert Einstein College of Medicine
+24293	Princeton Particle Accelerator, Post Office Box 682, Princeton, New Jersey
+24312	University of North Carolina, Chapel Hill
+24326	Department of Mineralogy, Geochemistry, and Crystallography, Charles University, Prague 2, Albertov 6, Czechoslovakia
+24372	Department of Psychiatry, University of North Carolina, School of Medicine, Chapel Hill
+24376	Department of Physics, Rutgers University
+24383	Woods Hole Oceanographic Institution
+24393	Department of Biology, Open University, Walton, Bletchley, Buckinghamshire, England
+24438	Huntington Geology and Geophysics, London, England WD6 l5B
+24439	Department of Chemistry
+24449	Institute for Advanced Study, Princeton, New Jersey
+24457	Biologische Anstalt, D-2192 Helgoland
+24461	Division o] Allergy, Imnmnuinology, and Infectious Diseases, Palo AIto Medical Research Foundationi, Palo Alto, Californzia 94301, and Division of Inifectious Diseases. Department of Medicine, Stanford Uniiversity School of Medicine. Palo A Ito
+24476	Division of Drug Chemistry, Food and Drug Administration
+24478	Department of Botany, University of North Carolina, Chapel Hill
+24481	Department of Physiology, Harvard Medical School
+24486	Laboratory of Tumor Cell Biology, National Cancer Institute, Bethesda
+24493	Insect Physiology Laboratory
+24521	Department of Neurology, Montefiore Hospital and Medical Center, and Albert Einstein College of Medicine
+24530	Laboratory of Clinical Science
+24558	Chester Beatty Research Institute, Institute of Cancer Research, Royal Cancer Hospital, London SW3 6JB, England
+24583	Department of Biology, Statnford Uniiversity, Palo Alto, Californiiia
+24593	Chester Beatty Research Institute, Institute of Cancer Research, Royal Cancer Hospital, London SW3 6JB, England
+24620	Department of Biology, Statnford Uniiversity, Palo Alto, Californiiia
+24684	Department of Biochemistry and Drug Metabolism, Hoffmann-La Roche Inc., Nutley, New Jersey
+24719	Department of Biochemistry, Faculty of Arts and Sciences
+24736	Royal Holloway College, Egham, Surrey, England
+24799	Pioneer Research Unit, Northwest Fisheries Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Seattle
+24815	East Holmes Streat, Tucson, Ariaona
+24855	Department of Psychology, Mundelein College, Chicago
+24864	Laboratory of Neuropsychology, Purdue University, Lafayette, Inidiana
+24891	Entvironmental Engineering Science, 740 Boylston Street, Chestnut Hill, Massachutsetts
+24897	Laboratory of Neurophysiology, National Institute of Mental Health
+24907	Virology Department, Schering Corporation, Bloomfield, New Jersey
+24916	Department of Biochemistry and Drug Metabolism, Hoffmann-La Roche, Inc., Nutley, New Jersey
+24930	Department of Agronomy, Purdue University
+24940	Department of Psychology, University of Illihois, Champaign
+24971	Centre for Overseas Pest Research, College House, Wrights Lane, London W8 5SJ, England
+24975	Analytical Chemistry Division, Oak Ridge National Laboratory
+25033	Institute of Entomology, Czechoslovak Academy of Sciences, Prague
+25046	Laboratorium voor Prehistorie, Katholieke Universiteit te Leuven, Leuven, Belgiuim
+25103	Research Laboratory, J. T. Baker Chemical Company, Phillipsburg, New Jersey
+25120	Paterson Laboratories, Christie Hospital and Holt Radium Institute, Manchester M20 9BX, England
+25129	Clarendon Laboratory, Parks Road, Oxford, OX1 3PU, England
+25155	Oak Ridge National Laboratory
+25173	Wyle Laboratories, Hampton
+25174	Institute for Atmospheric Optics and Remote Sensing, Hampton
+25183	University of the West Indies, St. Augustine, Trinidad
+25187	Mineralogisch-Petrographisches Institut der Universität, 2300 Kiel
+25193	Institute for Medical Research, Camden, New Jersey
+25198	Bell Laboratories, Murray Hill, New Jersey
+25205	Department of Zoology
+25206	Harvard College Observatory, Cambridge
+25292	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+25310	Dental Research Center, School of Dentistry, University of North Carolina, Chapel Hill
+25331	Department of Biochemical Nutrition, Hoffmann-La Roche Inc., Nutley, New Jersey
+25346	Department of Sociology and Anthropology, University of North Carolina, Greensboro
+25347	Department of Geology, University of North Carolina, Chapel Hill
+25349	Department of Biochemistry and Drug Metabolism, Hoffman-La Roche Inc., Nutley, New Jersey
+25356	Department of Biochemistry, The University, P. O. Box 147, Liverpool L69 3BX, England
+25378	University Laboratory of Physiology, Oxford, OX1 3PT, England
+25379	École d''Optométrie, Universitéde Montréal, Montreal, Quebec
+25387	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+25397	Schering Corporation, P.O. Box 32, Lafayette, New Jersey
+25471	Laboratory for Extraterrestrial Physics, Goddard Space Flight Center
+25472	Applied Physics Laboratory, Johns Hopkins University
+25496	Chesapeake Biological Laboratory
+25527	Veterans Administration Medical Center, San Francisco
+25529	Earth Sciences Division, Lawrence Livermore National Laboratory
+25552	Max-Planck-Institut für Verhaltensphysiologie
+25553	Department of Pediatrics, University of North Carolina School of Medicine. Chapel Hill
+25585	Departments of Pharmacology, Medicine, and Biology, Albert Einstein College of Medicine
+25601	Department of Pathology, Yale Medical School
+25631	Environmental Sciences Division, Oak Ridge National Laboratory
+25635	Department of Physiological Chemistry, Roche Institute of Molecular Biology, Nutley, New Jersey
+25655	U.S. Department of Agriculture, Agriculture Research Service, Cell Culture and Nitrogen Fixation Laboratory
+25691	Departments of Laboratory Animal Medicine and Pathology, Johns Hopkins School of Medicine
+25693	Medical Neurology Branch, National Institute of Neurological Diseases and Stroke
+25700	Atlantic Oceanographic Laboratory, Bedford Institute, Dartmouth, Nova Scotia
+25735	Department of Physiological Chemistry, Pharmacology Section, Roche Institute of Molecular Biology, Nutley, New Jersey
+25747	National Cancer Center Research Institute, Chuo-ku, Tokyo
+25764	Jet Propulsion Laboratory, Californiia Inistitlute of Technology, Pasadenia
+25809	Systems and Applied Sciences Corporation
+25869	Bell Telephone Laboratories, Inc. Murray Hill, New Jersey
+25890	Clinical Research Intstituite of Montreal, 110 Pine Avenue West, Montreal 130, Quebec
+25896	Laboratory of Clinical Science, National Institute of Mental Health
+25908	Savannah River Laboratory, Aiken, South Carolina
+25914	Laboratory of Clinical Investigation, National Institute of Allergy and Infectious Diseases
+26010	Geophysical Laboratory, Carnegie Institution, washington, D.C.
+26045	Division of Immunology, Duke Medical Center, Durham, North Carolina
+26050	Department of Pediatrics, University of North Carolina School of Medicine, Chapel Hill
+26094	Microbiological Associates, Inc., Bethesda
+26119	Laboratory of Neuropathology and Neuroanatomical Sciences, National Institute of Neurological Disease and Stroke,Bethesda
+26179	Department of Physiology, Albert Einstein College of Medicine, Bronx, Nw York 10461
+26196	Botany Department, University of North Carolina, Chapel Hill 27514
+26223	Department of Botany, University of North Carolina, Chapel Hill 27514
+26296	Chemistry and Life Sciences Laboratory, Research Triangle Institute, Research Triangle Park, North Carolina
+26306	Campbell Institute for Research and Technology, Cinnaminson, New Jersey
+26329	Environmental Research Laboratories, National Oceanic and Atmospheric Administration, Boulder
+26384	Navy Medical Neuropsychiatric Research Unit, San Diego
+26422	Bell Telephone Laboratories, Murray Hill, New Jersey
+26423	Department of Psychology, Miami University
+26427	Depatrment of Botany, University of Masschusetts, Amherst
+26505	Smithsonian Tropical Research Institute, P.O. Box 2072, Balboa, Canal Zone
+26509	Donner Laboratory and Lawrence Radiation Laboratory
+26520	University College, London, W.C.1, England
+26523	Primate Behaviour Research Laboratories, Institute of Psychiatry, Bethlem Royal Hospital, Beckenham, Kent, England
+26554	Oil Palm Genetics Laboratory, Layang Layang, Malaya
+26572	Departments of Pharmacology and Medicine, School of Medicine, University of North Carolina, Chapel Hill
+26598	Laboratory of Biology of Viruses
+26699	Bell Telephone Laboratories, Murray Hill, New Jersey
+26701	Bell Telephone Laboratories, Murray Hill, New Jersey
+26702	Bell Laboratories, Murray Hill, New Jersey 07974
+26703	Department of Geology, University of North Dakota, Grand Forks
+26712	National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina
+26719	Laboratory of Molecular Biology, National Institute of Arthritis and Metabolic Diseases
+26757	Physiological Laboratory, Cambridge, England
+26794	Nuffield Institute for Medical Research, Oxford, OX3 9.DS, England
+26820	Department of Physiology, School of Medicine, Juntendo University, Tokyo
+26828	National Aeronautics and Space Administration Manned Spacecraft Center
+26835	Bell Telephone Laboratories, Murray Hill, New Jersey
+26851	Caribbean Research Institute, College of the Virgin Islands, St. Croix
+26867	Department of Chemistry
+26876	Woods Hole Oceanographic Institution
+26927	Department of Astronomy, University of Manchester, Manchester, M13 9PL, England
+26946	Forest Research Laboratory, Canadian Forestry Service, Sault Ste. Marie, Ontario
+26957	Smithsonian Tropical Research Institute, Box 2072, Balboa, Canal Zone
+26970	Roche Institute of Molecular Biology, Nutley, New Jersey
+26978	Department of Geology and Marine Laboratory, Dutke University, Durham, North Carolina
+26989	Institute of Dental Research and Department of Biochemistry
+27095	University of North Carolina Marine Science Program, Chapel Hill 27514 , and Institute of Marine Sciences, Morehead City, North Carolina 28557
+27097	Woods Hole Oceanographic Institution
+27111	Laboratory of Clinical Investigation, National Institute of Allergy and Infectious Diseases
+27117	Metabolism and Radiation Research Laboratory, Animal Science Research Division, Agricultural Research Service, Fargo, North Dakota
+27136	Institute of Organic Chemistry and Biochemistry, Czechoslovak Academy of Sciences, Prague
+27193	National Institute of Allergy and Infectious Diseases, National Institutes of Health
+27247	E. O. Hulburt Center for Space Research
+27300	Division of Natural Sciences, North Dakota State University, Fargo
+27345	Woods Hole Oceanographic Institution
+27351	AEI Scientific Apparatus, Ltd., P.O. Box 1, Harlow, Essex, England
+27380	National Environmental Satellite Service, National Oceanic and Atmospheric Administration
+27423	Environmental Sciences Division, Oak Ridge National Laboratory
+27435	Laboratoire de Géologie du Quaternaire, Centre National de la Recherche Scientifique, Faculté des Sciences, Université de Dakar, Dakar-Fann, Sénégal
+27440	National Monitoring and Residue Analysis Laboratory, U.S Department of Agriculture, Animal and Plant Health Inspection Service, Gulfport
+27473	Zoology Department, Imperial College, London University, Prince Consort Road, London, SW7, England
+27573	Laboratory of Technical Development, National Heart and Lung Institute
+27581	Canadian Forestry Service, Department of Fisheries and Forestry, Calgary, Alberta
+27602	Clínica Médica N. S. Concepción, Fundación Jiménez Díaz, Madrid
+27610	Cytogenetics Group, Department of Experimental Pathology and Toxicology, Hoffman-La Roche Inc., Nutley, New Jersey
+27624	Institute of Virology, Church Street, Glasgow, W. 1., Scotland
+27631	Smithsonian Tropical Research Institute, Balboa, Canal Zone
+27636	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+27676	Los Angeles County Health Department, Maternal and Child Health, Division, Los Angeles
+27682	Department of Pharmacology, School of Medicine, University of North Carolina, Chapel Hill
+27689	Bell Telephone Laboratories, Inc., Crawford Hill Laboratory, Holmdel, New Jersey
+27699	Department of Microbiology, Dartmouth Medical School, Hanover, New Hampshire
+27709	Biology and Mathematics Departments, Pacific Northwest Laboratories, Battelle Memorial Institute
+27763	Institute of Physiology, Czechoslovak Academy of Sciences, Prague
+27765	Institute of Oceanographic Sciences, Wormley, England GU8 5UB
+27766	Institute of Oceanographic Sciences, Wormley, England GU8 5UB
+27768	Institute of Oceanographic Sciences, Wormley, England GU8 5UB
+27770	Rosenstiel School of Marine and Atmospheric Sciences
+27779	Departments of Cell Biology and Medicine, Albert Einstein College of Medicine
+27818	Department of Microbiology, University College, Cardiff, South Wales
+27828	Merck Institute for Therapeutic Research, Rahway, New Jersey
+27858	Research Laboratory, J. T. Baker Chemical Company, Phillipsburg, New Jersey
+27881	Scott Polar Research Institute, Cambridge University, Cambridge, CB2 1ER England
+27905	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+27913	Physical Sciences Department
+27953	Connaught Medical Research Laboratories, Toronto
+27970	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+28011	Eppley Laboratory, Inc., Newport, Rhode Island
+28013	Marine Sciences Program, Venable Hall, and Department of Geology, University of North Carolina, Chapel Hill
+28027	Department of Geology, University of Dundee, Dundee, Scotland DD1 4HN
+28028	National Center for Atmospheric Research
+28030	Bell Laboratories, Murray Hill, New Jersey
+28034	Geophysical Institute of Czechoslovak Academy of Science, Prague
+28059	Department of Biology, Massachlusetts Institute of Technology, Cambridge
+28078	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+28105	Max-Planck-Institut für Kernphysik, Heidelberg
+28131	Laboratory of Biology, National Cancer Institute
+28150	Jet Propulsion Laboratory, Californlia Institute of Technology, Pasadena
+28181	Synvar Research Institute
+28183	Solid State Division, Oak Ridge Nationlal Laboratory, Oak Ridge, Tennnessee
+28184	Department of Geological Sciences Queen Mary College, University of London, London E1 4NS, England
+28208	Johns Hopkins Hospital
+28213	Department of Biochemical Nutrition, Hofflmann-La Roche Inc., Nutley, New Jersey
+28222	Applied Physics Laboratory, Johns Hopkins Univtersity, Lautrel, Marvland
+28225	Departmentment of Zoology, University of Edinburgh, Edinburgh, Scotland
+28227	Savannah River Ecology Laboratory, U.S. Atomic Energy Commission, P.O. Box A, Aiken, South Carolina
+28269	National Institute of Environmental Health Sciences, National Institutes of Health, P. O. Box 12233, Research Triangle Park, North Carolina
+28312	Wenner-Gren Institute for Experimental Biology, University of Stockholm, Norrtullsgatan 16, S 113 45 Stockholm
+28318	Academy of Sciences, Moscow, U.S.S.R.
+28341	Roche Institute of Molecular Biology, Nutley, New Jersey
+28349	Department of Pathology, Dartmouth Medical School, Hanover, New Hampshire
+28355	Caribbean Research Institute, College of the Virgin Islands, Christiansted, St. Croix, Virgin Islands
+28367	Clinical Pathology Department, Clinical Center, National Institutes of Health, Bethesda
+28370	J. T. Baker Chemical Company, Phillipsburg, New Jersey
+28394	U. S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+28402	Lamont-Doherty Geological Observatory
+28506	Smithsonian Tropical Research Institute, Box 2072, Balboa, Panamá
+28515	Geophysical Institute, University of Tokyo
+28518	Department of Entomology, North Carolina State University
+28546	Metal Science and Standards Division, National Bureau of Standards
+28564	Scripps Institution of Oceanography
+28566	Institutos de Geofísica e Ingeniería, Universidad Nacional Autónoma de México, Ciudad Universitaria, México 20, D.F.
+28592	Institute of Geography, U.S.S.R. Academy of Sciences, Staromonetny 29, Moscow 109017, U.S.S.R.
+28602	Metbolism and Radiation Research Laboratory, State University Station, Fargo. North Dakota
+28616	Bell Telephone Laboratories, Murray Hill, New Jersey
+28636	Departments of Cell Biology and Medicine, Albert Einstein College of Medicine
+28647	Department of Psychology, Amherst College
+28653	William H. Singer Menmorial Research Iitstitiute Of the Allegheny General Hospital, Pittsburgh, Pennsylania
+28672	Physiological Laboratory, Cambridge, England
+28674	Department of Psychology, Bryn Mawr College
+28682	Arthritis and Rheumatism Branch, National institute of Arthritis and Metabolic Diseases, National Institutes of Health. Bethesda. Marlland 2O
+28718	Central Research Division, Mobil Research and Development Corporation, Princeton, New Jersey
+28731	Metabolic Research Laboratory, Veterans Administration Hospital Department of Biochemistry, Bay College of Medicine, Houston, Te
+28773	Division of Science and Mathematics, Black Hills State College, Spearfish, South Dakota
+28774	Soil Science Department, North Carolina State University
+28807	Department of Geology, Field Museum of Natural History, Chicago
+28809	Institute of Marine Resources, Scripps Institution of Oceanography , and Foundation for Ocean Research
+28842	Department of Biology, South Dakota School of Mines and Technology, Rapid City
+28881	Department of Mineralogy and Petrology, Cambridge University, Cambridge, England
+28884	Bell Telephone Laboratories, Murray Hill. New Jersey
+28932	Jet Propulsion Laboratory
+28940	Applied Physics Laboratory, Johns Hopkins University
+28948	J. T. Baker Chemical Company, Phillipsburg, New Jersey
+28964	Institute of Earth Resources, Commonwealth Scientific and Industrial Research Organization, North Ryde, New South Wales
+29017	Department of Zoology, British Museum (Natural History), London, England
+29019	Merck Institute for Therapeutic Research-Merck Sharp & Dohme Research Laboratories, Rahway, New Jersey
+29020	Synthetic Chemical Department, Merck Sharp & Dohme Research Laboratories, Rahway, New Jersey
+29031	Geological Survey of Tasmania, Hobart
+29032	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+29033	Metabolism and Radiation Research Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Fargo, North Dakota
+29036	Clinique Dermatologique, Hôpital Civil, 67-Strasbourg
+29038	Department of Genetics, Stanford Medical School
+29048	Cold Region Research and Engineering Laboratory, U.S. Army Terrestrial Sciences Center, Hanover, New Hampshire
+29090	Lockheed Palo Alto Research Laboratory, Palo Alto, Califonia
+29094	NASA/Goddard Space Flight Center
+29096	Carbon-14 Dating Laboratory, National Museum, Copenhagen
+29107	Department of Pharmacology, School of Medicine, University of North Carolina, Chapel Hill
+29145	Laboratory of Kidney and Electrolyte Metabolism
+29155	Department of Botany, lndiana University, Bloomington
+29166	Exxon Research and Engineering Company, Corporate Research Laboratories, Linden, New Jersey
+29169	Department of Crystallography, Birkbeck College, University of London, London WCIE 7HX, England
+29171	Atlantic Oceaniographic Laboratory, Dartmouth, Nova Scotia
+29236	U.S. Water Conservation Laboratory
+29261	George S. Cox Medical Research Institute. Department of Medicine, University of Pennsylvaniia, Phiiladelphia
+29285	Institute of Animal Behavior, Rutgers Universitv, Newark, New Jersey
+29318	Corporate Research Laboratories, Exxon Research and Engineering Company, Linden, New Jersey
+29319	Laboratory of Immunology, National Institute of Allergy and Infectious Diseases
+29346	Monks Wood Experimental Station, Abbots Ripton, Huntingdon, England
+29351	Smithsonian Tropical Research Institute, Box 2072, Balboa, Canal Zone
+29367	Roche Institute of Molecular Biology, Nutley, New Jersey
+29380	Tata Institute of Fundamental Research
+29405	Bernhard Baron Memorial Research Laboratories and Institute of Obstetrics and Gynaecology, Queen Charlotte''s Maternity Hospital, London, England
+29462	Entomology Research Division, U.S. Agriculture Research Service, Oxford, North Carolina
+29478	National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina
+29510	Corporate Research Laboratories, Exxon Research and Engineering Company, Linden, New Jersey
+29562	Gatty Marine Laboratory and Department of Natural History, University of St. Andrews, Fife, Scotland
+29617	Department of Pathology
+29625	Laboratory of Viral Immunology, Division of Biological Standards, National Institutes of Health
+29666	South Dakota School of Mines and Technology, Rapid City
+29670	Department of Pathology (Neuropathology), Albert Einstein College of Medicine
+29674	Departments of Biophysics and Synthetic Chemistry, Merck Sharp & Dohme Research Laboratories, Rahway, New Jersey
+29676	Biology Branch, National Cancer Institute
+29678	New Jersey College of Medicine, 24 Baldwin Avenue, Jersey City
+29749	Jet Propulsion Laboratory
+29761	Facultad de Medicina, Universidad Nacional de Buenos Aires, Buenos Aires
+29768	Applied Physics Laboratory, Johns Hopkins University
+29773	Pathologic Anatomy Branch
+29809	Monks Wood Experimental Station, Nature Conservancy, Abbots Ripton, Huntingdonshire, England
+29848	NASA Langley Research Center
+29870	Chapman H. Hyams III Laboratory of Tumor Cell Biology
+29895	Jet Propulsion Laboratory
+29898	Jet Propulsion Laboratory
+29900	Jet Propulsion Laboratory
+29924	U.S. Agricultural Research Service, State University Station, Fargo, North Dakota
+29928	Smithsonian Tropical Research Institute, P.O. Box 2072, Balboa, Canal Zone
+29981	National Cancer Institute
+29993	Langley Porter Neuropsychiatric Institute
+29998	U. S. Army Terrestrial Sciences Center, Hanover, New Hampshire
+30000	Physics Department, University of Manchester Institute of Science and Technology, Manchester 1, England
+30037	Department of Botany
+30049	Theoretical and Planetary Studies Branch, NASA-Ames Research Center
+30052	Department of Entomology and Economic Zoology, Rutgers University
+30054	Savannah River Ecology Laboratory, Drawer E, Aiken, South Carolina
+30063	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+30069	The Observatories, Cambridge University, Cambridge, England
+30087	Space Science Division, NASA Ames Research Center
+30092	Lockheed Palo Alto Research Laboratory
+30095	Jet propulsion Laboratory, california Institute of Technology, Pasadena
+30113	NASA Ames Research Center
+30166	Laboratory for Peptide Biology, Institute of Organic Chemistry and Biochemistry, Academy of Sciences, Prague, and Institute of Endocrinology, Academy of Sciences, Bratislava, Czechoslovakia
+30176	Department of Zoology
+30177	Corporate Research Laboratories, Exxon Research and Engineering Company, Linden, New Jersey
+30190	Institute of Organic Chemistry and Biochemistry, Czechoslovak Academy of Sciences, Prague 6, Czechoslovakia
+30227	Division of Land Use Research, Commonwealth Scientific and Industrial Research Organization, Canberra City
+30247	Chas. Pfizer & Co., Inc., Maywood, New Jersey
+30248	Department of Microbiology, University of New Hampshire, Durham
+30272	Ophthalmology Branch, National Institute of Neurological Diseases and Stroke
+30307	Division of Medical Genetics, Department of Medicine
+30325	Yale College, New Haveni, Conniecticut
+30327	Brain Research Institute, University of Zürich, Zürich
+30343	Radiobiology Department, Institute of Biology of South Seas of Academy of Science, Ukrainian S. S. R. 2, Nahimov Street, Sevastopol, U. S. S. R.
+30395	Department of Pathobiology, Johns Hopkins University
+30396	Bell Laboratories, Murray Hill, New Jersey
+30399	Department of Botany, University of North Carolina, Chapel Hill
+30404	Institute of Marine Biomedical Research, University of North Carolina, Wilmington
+30433	U.S. Geological Survey, National Center
+30438	Arbeitsgruppe für Verhaltensforschung, Ruhr-Universität Bochum, Postfach 10 21 48, 4630 Bochum 1, German Federal Republic
+30497	New Jersey Neuropsychiatric Institute, Box 1000, Princeton
+30519	Institute of Biophysics, Faculty of General Medicine, Charles University, Prague 2, Czechoslovakia
+30565	Department of Medical Chemistry, Royal Veterinary College, Stockholm
+30579	Army Institute of Hygiene, Epidemiology and Microbiology, Prague, Czechoslovakia
+30584	Franklin Institute Research Laboratories, Philadelphia
+30595	Physical Chemistry Laboratory, Sotuth Parks Road, Oxford, England
+30598	Department of Zoology, University of North Corolina, Chapel Hill
+30608	Department of Animinal Sciences, University of New Hampshire, Durham
+30619	Gatty Marine Laboratory and Department of Natlural History, University of St. Andrews, St. Andrews, Scotland
+30624	Department of Physiology-Anatomy
+30625	Department of Pharmacology
+30626	Analytical Chemistry Division, Oak Ridge National Laboratory
+30639	Chemistry Department, Loyola University, New Orleans
+30650	Scripps Institution of Oceanography
+30666	Department of Pathology, Peter Bent Brigham Hospital
+30668	Department of Biochemistry, The University, Liverpool, England
+30669	Department of Bacteriology and Immunology, University of North Carolina Medical School, Chapel Hill
+30696	Division of Neuropathology
+30701	Virus Unit, Glaxo Laboratories Ltd., Stoke Poges, Buckinghamshire, England
+30706	National Institutes of Health
+30713	Atmospheric Chemistry Project, Products Research Division, Esso Research and Engineering Company, Linden, New Jersey
+30748	Istituto di Fisiologia Generale, Università
+30763	Department of Biochemistry
+30788	Welsh National School of Medicine, Tenovus Institute for Cancer Research, The Heath, Cardiff, Wales
+30826	Peabody Museum of Natural History
+30846	Département de Physique de la Matière Condensée, Université
+30853	Instituto de Fisica, Universidade de São Paulo, São Paulo
+30886	J. T. Baker Chemical Company, Phillipsburg, New Jersey
+30902	Curriculum in Marine Sciences, University of North Carolina, Chapel Hill
+30924	Ophthalmic Pathology Branch, Armed Forces Institute of Pathology
+30928	Regional Department of Clinical Physics and Bio-Engineering, Western Regional Hospital Board, Glasgow, Scotland
+30940	Veterans Administration Hospital and New Jersey College of Medicine, East Orange
+30950	Department of Aeronautics and Astronautics
+30955	Department of Microbiology, Johns Hopkins University School of Medicine
+30981	Carrier Clinic, Belle Meade, New Jersey
+30989	Ophthalmology Branch, National Institute of Neurological Diseases and Blindness, Bethesda
+31007	Department of Biochemistry Research, Roswell Park Memorial Institute, 666 Elm Street, Buffalo, N. Y.
+31015	Institute of Organic Chemistry and Biochemistry, Czechoslovak Academy of Sciences, Prague
+31033	Agricultural Research Service, U.S. Department of Agriculture, Fargo, North Dakota
+31049	National Institute for Medical Research, Mill Hill, N.W.7, England
+31050	Department of Medicine, University of North Carolina, School of Medicine, Chapel Hill
+31071	Geophysical Institute, University of Tokyo
+31101	Systematic Entomology Laboratory, Entomology Research Division, Agricultural Research Service
+31107	National Marine Water Quality Laboratory, West Kingston, Rhode Island
+31108	University Laboratory of Physiology, Oxford, England
+31115	Centre Nationale de la Recherche Scientifique, Paris
+31132	Institute of Organic Chemistry and Biochemistry, Czechoslovak Academy of Sciences, 166 10 Prague
+31138	Bell Laboratories, Murray Hill, New Jersey
+31139	Bell Laboratories, Murray Hill, New Jersey
+31144	Section on Mineral Metabolism, Metabolic Diseases Branch, National Institute of Arthritis and Metabolic Diseases, Bethesda
+31172	National Museum of Victoria, Melbourne
+31185	Department of Biology, Clark University
+31191	National Aeronautics and Space Administration, Manned Spacecraft Center, Houston
+31199	Pathologic Anatomny Branch, National Cancer Institute
+31201	Department of Experimental Pathology, Scripps Clinic and Research Foundation
+31243	Anti-Locust Research Centre, College House, Wright''s Lane, London, W. 8, England
+31246	Departamento de Antropologia, Instituto Venezolano de Investigaciones Cientificas, Apartado 1827, Caracas
+31273	Bell Telephone Laboratories, Murray Hill, New Jersey
+31300	Bell Telephone Laboratories, Murray Hill, New Jersey
+31314	Analytic Mechanics Associates, Inc., Jericho, New Yor.''k
+31316	Theoretical and Planetary Studies Branch, NASA Ames Research Center
+31321	Section of Biochemistry of Cell Regulation, Laboratory of Biochemical Pharmacology, National Institute of Arthritis, Metabolism, and Digestive Diseases
+31401	Division of Biologics Standards
+31460	Physikalisches Institut der Universität Heidelberg, D-6900 Heidelberg
+31499	Institute of Psychiatry, Department of Neuropathology, Maudsley Hospital, London, England
+31502	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+31503	Department of Psychology, University of Western Ontario, London, Ontario
+31510	Faculté des Sciences, Université Nationale du Zaïre, Lubumbashi, Zaïre
+31511	Savannah River Laboratory, E. I. du Pont de Nemours and Company, Aiken, South Carolina
+31515	Geologisch-Paläontologisches Institut, J. W. Goethe-Universität, D 6000 Frankfurt am Main
+31539	Division of Science and Mathematics, Black Hills State College, Spearfish, South Dakota
+31543	Department of Medicinal Chemistry and Pharmacognosy, Purdue University
+31600	Department of Obstetrics and Gynecology, University of North Carolina School of Medicine, and Carolina Population Center, University of North Carolina, Chapel Hill
+31619	Scripps Institution of Oceanography
+31624	Jules Stein Eye Institute
+31651	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+31660	Eppley Laboratory, Newport, Rhode Island
+31661	Environmental Protection Agency Laboratory, Narragansett, Rhode Island
+31693	Division of Geophysics, Department of Physics, University of Alberta, Edmonton
+31696	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+31707	Harvard College Observatory
+31722	Department of Dermatology, Royal Free Hospital, London, W.C.
+31731	Department of Biophysics and Pharmacology, Merck Sharp & Dohme Research Laboratories, Rahway, New Jersey
+31749	Anatomy Department, Guy''s Hospital Medical School, London, S. E.
+31753	Laboratoire de Pétrologie, Université des Sciences et Techniques du Languedoc
+31766	Department of Experimental Psychology, Oxford University, Oxford, England 0X1 3UD
+31772	Bell Laboratories, Murray Hill, New Jersey
+31780	RCA Laboratories, Princeton, New Jersey
+31902	Molecular Biophysics Unit, Unilever Research Laboratory, The Frythe, Welwyn, Herts, England
+31907	Department of Botany, University of Washiington, Seattle
+31911	Bell Telephone Laboratories, Murray Hill, New Jersey
+31943	Newark College of Engineering, 323 High Street, Newark, New Jersey
+31947	Molecular Biophysics Unit, Unilever Research Laboratory, The Frythe, Welwyn, Herts, England
+31978	Medical Professorial Unit, St. Bartholomew''s Hospital, London, England
+31981	Department of Anatomy
+32017	Departments of Pediatrics and Microbiology
+32059	Cornell-Sydney University Astronomy Center
+32060	Jet Propulsion Laboratory
+32071	Department of Chemical Pathology, University College Hospital Medical School, London, W.C.I, England
+32092	Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases
+32106	Lamont-Doherty Geological Observatory
+32117	Psychochemical Laboratory, Department of Psychiatry, Rigshospitalet
+32121	Veterans Administration Hospital, Durham, North Carolina
+32159	Saul R. Korey Department of Neurology
+32164	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+32171	Institute of Endocrinology, Bucharest, Rumania
+32191	Department of Pharmacology, Hoffmann-LaRoche, Inc. Nutley, New Jersey
+32194	Department of Social Sciences, Polytechnic Institute of Brooklyn
+32310	Insect Attractants, Behavior and Basic Biology Research Laboratory
+32330	Department of Geology, Memorial University, St. Johns, Newfoundland
+32347	Jet Propulsion Laboratory, Pasadena
+32494	Chester Beatty Research Institute, Institute of Cancer Reseach: Royal Cancer Hospital, London, England
+32512	Department of Bacteriology and Immunology, University of North Carolina Medical School, Chapel Hill
+32513	Northeastern Forest Experimental Station, U.S. Forest Service, Durham, New Hampshire
+32528	Division of Irrigation Research, Commonwealth Scientific and Industrial Research Organization, Griffith, New South Wales
+32532	Agricultural Research Service, U.S. Department of Agriculture, Fargo, North Dakota
+32544	Department of Chemistry, University College, Gower Street, London, W.C.
+32548	Los Angeles County Museum of Natural History, Los Angeles
+32568	Mellon Institute, Carnegie-Mellon University, Pittsburgh
+32571	National Cancer Institute
+32575	Bell Telephone Laboratories, Murray Hill, New Jersey
+32590	Pacific Southwest Forest and Range Experiment Station, U.S. Department of Agriculture, Berkeley
+32612	Anti-Locust Research Centre, College House, Wright''s Lane, London W.8, England
+32624	National Institute of Dental Research, National Institutes of Health
+32717	V. I. Vernadsky Institute of Geochemistry and Analytical Chemistry, Academy of Sciences of the U.S.S.R., Moscow, U.S.S.R.
+32765	Bell Laboratories, Murray Hill, New Jersey
+32783	Department of Chemistry, Clarkson College of Technology
+32825	Department of Zoology, University of Edinburgh, Edinburgh, Scotland
+32902	U. S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+32927	Department of Microbiology, Dartmouth Medical School, Hanover, New Hampshire
+32946	Ocean Research Institute, University of Tokyo, Nakano-ku, Tokyo
+32977	U.S. Bureau of Commercial Fisheries, Biological Laboratory, Woods Hole
+32985	Micropaleontology, Bedford Institute of Oceanography, P.O. Box 1006, Dartmouth, Nova Scotia
+33010	L. A. Tarassevich State Control Institute for Medical Biological Preparations, Moscow, U.S.S.R.
+33017	Bioproducts Department, Dow Chemical Company
+33035	Woods Hole Oceanographic Institution
+33081	Mount Zion Neurological Institute, San Francisco
+33099	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+33119	Department of Botany, Imperial College, London SW7 2BB, England
+33138	Smithsonian Tropical Research Institute, Box 2072, Balboa, Canal Zone
+33223	Martin Marietta Aerospace
+33237	NASA Ames Research Center
+33255	Institute of Animal Behavior, Rutgers-The State University, Newark, New Jersey
+33279	Analytical Chemistry Division, Oak Ridge National Laboratory
+33280	Institute of Biophysics, Charles University School of Medicine, Plzeň, Czechoslovakia
+33283	Metallurgy Department, General Motors Research Laboratories
+33330	Organic Department, Radiochemical Centre, Amersham, Buckinghamshire, England
+33352	Pediatric Research Unit, Guy''s Hospital, London, S.E.1, England
+33392	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+33409	Provincial Laboratory of Public Health, University of Alberta, Edmonton
+33419	Agricultural Research Council, Virus Research Unit, Huntingdon Road, Cambridge, England
+33461	Department of Botany, University of North Carolina, Chapel Hill
+33481	Medical Research Council Research Group on Haemolytic Mechanisms, Royal Postgraduate Medical School, London, England
+33495	Department of Otolaryngology
+33509	Instituto de Geología, Ciudad Universitaria, México 20, D.F. México
+33514	Department of Chemistry, University of Glasgow, Glasgow, W.2, Scotland
+33547	Martin-Marietta Aerospace
+33550	U.S. Geological Survey, Reston
+33554	Royal Holloway College, University of London, Egham, Surrey
+33561	Departments of Anatomy and Biochemistry, University College of South Wales and Monmouthshire, Cardiff, Wales
+33571	Jet Propulsion Laboratory
+33577	Institute of New Antibiotics, Academy of Medical Sciences, Moscow, U.S.S.R.
+33632	Laboratory of Physiology and Genetics of Animals, Czechoslovak Academy of Sciences, Liběchov, Czechoslovakia
+33648	Department of Pathology, Peter Bent Brigham Hospital
+33668	Institute of Animal Genetics, University of Edinburgh, Edinburgh, Scotland
+33672	Laboratory of Infectious Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health
+33703	Departments of Pathology, Medicine, and Animal Medicine, Johns Hopkins University, School of Medicine, Baltimore
+33705	Clinical Pathology Departmlent, Ain-Shams University Medical School, Cairo
+33716	Department of Chemistry and Geology
+33718	Worcester Foundation for Experimental Biology, Shrewsbury, Massachutsetts
+33767	Department of Biochlemizistry, School of Hygiene and Plublic Health, Johns Hopkins University, Baltimore, Macrylanzd
+33786	Smithsonian Institution Washintgton, D.C.
+33789	Bell Telephone Laboratories, Crawford Hill Laboratory, Holmdel, New Jersey
+33796	Botany Department, The University, Leeds, England
+33797	Department of Medicine, Royal Free Hospital, London
+33806	Department of Zoology. University of Edinburgh, Edinburgh, Scotland
+33819	Centro de Investigación y de Estudios Avanzados del Instituto Politénico Nacional, México, D.F.
+33821	Department of Internal Medicine
+33826	Department of Microbiology
+33850	Department of Biochemistry
+33857	U. S. Geological Survey, Menlo Park
+33869	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+33872	National Research Council, Ottawa, Ontario
+33876	Section on Gastroenterology, Metabolic Disease Branch, National Institute of Arthritis and Metabolic Diseases
+33881	Department of Viral Oncology, John L. Smith Memorial for Cancer Research, Chas. Pfizer & Co., Inc., Maywood, New Jersey
+33891	Department of Microbiology, Rutgers Medical School
+33909	Ortho Research Foundation, Raritan, New Jersey
+33911	Jane Furse Memorial Hospital, Sekhuniland, Transvaal
+33923	Ethology Laboratory, Uffculme Clinic, Birmingham 13, England
+33933	Bioproducts Department, Dow Chemical Company
+33936	Department of Microbiology, University of North Dakota School of Medicine, Grand Forks
+33937	Paediatric Research Unit, Guy''s Hospital Medical School, London, S.E.l, England
+33938	Department of Biochemistry, Dartmouth Medical School, Hanover, New Hampshire
+33941	George Stamatoyannopoulos
+33943	Mayo Clinic and Mayo Foundation
+33969	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+33985	Experimental Psychology Laboratory, Institute of Neurology, London W. C. I, England
+34018	Royal School of Mines, Imperial College of Science and Technology, London, S.W.7, England
+34033	Hoover Avenue, Bloomfield, New Jersey
+34085	Department of Zoology, University of Edinburgh, Edinburgh 9, Scotland
+34086	Geologisch-Palaeontologisches Institut, University of Göttingen
+34090	Department of Earth Sciences
+34100	Electro-Mechanical Analysis Department, Bell Telephone Laboratories, Whippany, New Jersey
+34106	Nuclear Science and Engineering Corporation, Pittsburgh
+34114	Research Division, Ethicon, Inc., Somerville, New Jersey
+34115	Department of Physiology, University of North Carolina School of Medicine, Chapel Hill
+34140	Schering Corporation, Bloomfield, New Jersey
+34154	Department of Geology and Geography, University of London, Goldsmiths'' College, New Cross, England
+34168	U.S. Public Health Service, Rocky Mountain Laboratory, Hamilton
+34210	National Institute of Oceanography, Wormley, Godalming, Surrey, England
+34222	Departments of Bacteriology and Medicine, University of North Carolina School of Medicine, Chapel Hill
+34227	Department of Chemistry
+34231	Department of Chemical Engineering, University of Windsor, Windsor, Ontario
+34238	Department of Entomology
+34264	National Cancer Institute
+34305	Wellcome Laboratories of Tropical Medicine, Beckenham, Kent, England
+34308	University of North Carolina, Chapel Hill
+34313	Department of Entomology
+34324	Department of Biochemistry, School of Medicine, University of North Carolina, Chapel Hill
+34326	Department of Pediatrics, Harvard Medical School
+34334	Metabolism and Radiation Research Laboratory, Entomology Research Division, U.S.Department of Agriculture, Fargo, North Dakota
+34343	Academy of Medical Sciences, Moscow, U.S.S.R.
+34350	Virus Research Centre, Poona
+34351	Division of Applied Chemistry, National Research Council, Ottawa
+34357	Entomology Research Division, Agricultural Research Service, Beltsville
+34359	Department of Physiology, Dartmouth Medical School, Hanover, New Hampshire
+34390	Department of Bacteriology and Immunology, University of North Carolina School of Medicine,Chapel Hill
+34409	Department of Chemistry, University of Akansas, Fayetteville
+34419	Research Triangle Institute, Research Triangle Park, North Carolina
+34425	Department of Anatomy and Cytology, Dartmouth Medical School, Hanover, New Hampshire
+34436	Instituto Venezolano de Investigaciones Científicas, Caracas
+34456	Cambridge University, Cambridge, England
+34468	Department of Chemical Crystallography, University College, Gower Street, London, England
+34571	Department of Geology, University of Wichita, Wichita
+34627	Department of Natural History, The University, St. Andrews, Fife, Scotland
+34629	Departments of Microbiology and Pathology, Dartmouth Medical School, Hanover, New Hampshire
+34634	Department of Psychology, Inidiana University, Bloomington
+34680	Gulf Research and Development Corp., Pittsburgh
+34683	Merck Sharp & Dohme Research Laboratories, Division of Merck & Co., Inc., Rahway, New Jersey
+34687	National Institute of Arthritis and Metabolic Diseases, Bethesda
+34695	Ontario Cancer Institute, Toronto, Canda
+34721	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+34725	Laboratoire de Physiologie Générale, 9, Quai Saint-Bernard, Paris 5 e
+34735	Department of Biology, Šafárik Košice, Czechoslovakia
+34740	Department of Experimental Neurology, Institute of Psychiatry, London, S.E.
+34744	National Institute of Neurological Diseases and Blindness
+34751	U. S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+34809	Bell Telephone Laboratories, Murray Hill, New Jersey
+34811	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+34831	U. S. Army Electronics Research and Development Laboratories, Fort Monmouth, New Jersey
+34847	U. S. Army Cold Regions Research and Engineering Laboratory, Hanover
+34852	Department of Biochemistry, Johns Hopkins University
+34902	Gorgas Memorial Laboratory, Post Office Box 2016, Balboa Heights, Canal Zone
+34905	Mellon Institlute, Pittsburgh
+34948	Laboratory of Biology of Viruses
+34958	Department of Chemistry, University of Glasgow, Glasgow, W.2., Scotland
+34966	Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+35004	Veterans Administration Hospital, Omaha
+35019	Current Incorporated, Philadelphia
+35027	Medical Research Council External Scientific Staff, University Chemical Laboratory, Cambridge, England
+35057	Clinical Chemical Laboratory, St. Elisabeth''s Hospital, Haarlem, Holland
+35080	Department of Biophysics, Johns Hopkins University School of Medicine
+35117	Department of Bacteriology and Immunology, School of Medicine, University of North Carolina, Chapel Hill
+35136	Laboratoire de Physiologie des Centres Nerveux, Faculté des Sciences, Université de Paris, 4, Avenue Gordon-Bennett, Paris
+35180	Department of Biology
+35189	Department of Medicine, Seton Hall College of Medicine, Jersey City, New Jersey
+35238	Department of Pharmacology, Schering Corporation, Bloomfield, New Jersey
+35248	Department of Physiology and Pharmacology, Duke Medical Center, Durham, North Carolina
+35261	Agrarmeteorologische Forschungsstelle, Deutscher Wetterdienst, Giessen (Hessen)
+35267	Department of Cytology, Dartmouth Medical School, Hanover, New Hampshire
+35271	Physics Department, Sir George Williams University, Montreal 25, Quebec
+35292	Department of Zoology, The University, Hull, England
+35297	Pesticide Research Laboratory, Department of Entomology
+35315	Medical Research Council, Radiobiological Research Unit, Harwell, Didcot, Berkshire, England
+35326	Bell Telephone Laboratories, Murray Hill, New Jersey
+35337	Department of Dental Surgery, University of Edinburgh, Edinburgh 1, Scotland
+35342	Institute of Physiology, Czechoslovak Academy of Sciences, Prague 4 - Krc
+35349	Department of Chemistry, Purdue University
+35380	John L. Smith Memorial for Cancer Research, Chas. Pfizer & Co., Inc., Maywood, New Jersey
+35412	University of Californiia, La Jolla
+35418	Departments of Zoology and Nutritional Sciences
+35427	Department of Chemistry
+35433	Laborotarvy of Immunology, National Institute of Mental Health
+35467	1 Health Physics Division, Oak Ridge National Laboratory, Oak Ridge, Tennnessee
+35471	Institut de Médecine et de Chirurgie expérimentales, Université de Montréal, Montreal, Quebec
+35472	State Hygienic Laboratory
+35476	1 Department of Experimental Pathology
+35480	Children''s Cancer Research Foundation and Harvard Medical School
+35488	Department of Anatomy, Queen''s University, Kingston, Ontario
+35512	Department of Pathology, St. Francis Hospital, Jersey City, New Jersey
+35524	Department of Chemical Crystallography, University College, London, England
+35549	Laboratory of Immunology, National Institute of Allergy and Infectious Diseases
+35556	Divisions of Medical Genetics and Endocrinology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore
+35562	Department of Pharmacology, Guy''s Hospital Medical School, London, S.E.I
+35587	Department of Enomtomology, Istitute of Food and Agricultural Sciences
+35594	Lowell Observatory
+35666	Department of Physics
+35672	Department of Medicine, College of Medicine, Los Angeles
+35680	Union Carbide Chemicals Company, Agricultural Research Station, Clayton, North Carolina
+35701	Solid State Science Division
+35710	Department of General Botany, Swiss Federal Institute of Technology, Zurich
+35718	Cancer Research Laboratory, University of Western Ontario, London
+35734	School of Public Health, University of North Carolina, Chapel Hill
+35751	Zoology Department, University of Edinburgh, Scotland
+35756	M.R.C. Research Group on Vision, Department of Physiology, University Medical School, Edinburgh, Scotland
+35775	Department of Pathology, Dartmouth Medical School, Hanover, New Hampshire
+35777	Department of Botany, University College of Wales, Aberystwyth
+35787	Institute of Physiology, Czechoslovak Academy of Sciences, Prague
+35795	Department of Geology and Mineralogy, Oxford University, Oxford, England
+35811	Department of Botany, University College of Wales, Aberystwyth, Great Britain
+35824	Scripps Institute of Oceanography
+35848	Department of Psychology, University of california, Los Angeles
+35852	Department of Mechanical Engineering
+35869	Department of Entomology, Purdue University, Lafayette, Inidiana
+35870	Ortho Research Foundation, Raritan, New Jersey
+35910	Department of Applied Chemistry, Northampton College, London, E.C.1, England
+35915	Research Department, CIBA Pharmaceutical Company, Summit, New Jersey
+35922	Microbiological Associates, Bethesda
+35975	Poulter Laboratories, Stanford Research Institute, Menlo Park
+35976	Northampton College, London, E.C.I
+35997	Department of Anatomy, University College, London, W.C.I, England
+36002	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+36007	Medical Research Council Group in Hemolytic Anemia, University College Hospital Medical School, London
+36025	Department of Experimental Therapeutics, Roswell Park Memorial institute, Buffalo 3, News York
+36050	Agricultural Research Council, Animal Breeding Research Organisation, West Mains Road, Edinburgh 9, Scotland
+36076	Department of Pathology
+36092	Department of Agronomy
+36097	Division of Medical Genetics, Department of Medicine
+36117	Laboratory of Pathology, National Cancer Institute
+36122	Department of Zoology, North Dakota State University, Fargo
+36124	Isotopes, Incorporated, Westwood, New Jersey
+36185	North Dakota State University, Fargo
+36196	Esso Research and Engineering Co. Linden, New Jersey
+36197	Department of Psychiatry, University of North Carolina, Chapel Hill
+36239	Chemicals Research Division, Esso Research and Engineering Company, Linden, New Jersey
+36241	U. S. Geological Survey, La Jolla
+36259	Institute of Biochemistry, University, Glasgow, Scotland
+36265	Department of Zoology, University of North Carolina, Chapel Hill
+36266	Institute of Neurology, London, England
+36307	Department of Microbiology, Dartmouth Medical School, Hanover, New Hampshire
+36313	Veterans Administration Hospital, Durham, North Carolina
+36314	Institute of Psychiatry, London
+36321	Department of Zoology, North Dakota State University, Fargo
+36353	Autonomics Division, National Physical Laboratory, Teddington, Middlesex, England
+36361	Bell Telephone Laboratories, Murray Hill, New Jersey
+36363	College of Pharmacy, Rutgers University, Newark, New Jersey
+36388	Medical Research Council Clinical Endocrinology Research Unit and Physiology Department, University of Edinburgh, Edinburgh, Scotland
+36415	Department of Biology, University of North Dakota, Grand Forks
+36421	Department of Pathology, Dartmouth Medical School, Hanover, New Hampshire
+36453	Istituto Superiore di Sanitá, Viale Regina Elena, 299, Rome
+36458	Seton Hall College of Medicine and Dentistry, Jersey City 4, New Jersey
+36471	Bell Telephone Laboratorie
+36477	Reactor Chemistry Division
+36483	Department of Communication, University of Keele, Keele, Staffordshire, England
+36498	Department of Biochemistry, Purdue University
+36499	Baylor University College of Medicine, Houston
+36509	Houston State Psychiatric Institute and Department of Psychiatry, Baylor University College of Medicine
+36519	Department of Psychology, Queen''s University, Kingston, Ontario
+36528	Davidson College, Davidson, North Carolina
+36540	Department of Zoology
+36543	Prairie Regional Laboratory, National Research Council, Saskatoon, Saskatchewan
+36544	Departments of Molecular Biology and Zoology, University of Edinburgh, Edinibiurgh, Scotland
+36596	Forest Entomology and Pathology Branch, Department of Forestry, Sault Ste Marie, Ontario
+36617	Institute for Research, Production, and Uses of Radioisotopes, Prague, Czechoslovakia
+36644	Department of Pathology, Dartmouth Medical School, Hanover, New Hampshire
+36663	Department of Botany, Univervity of Cailifornlia, Los Angeles
+36724	Department of Geology, San Diego State College
+36731	Union Carbide Corporation, Olefins Division, Agricultural Research Station, Clayton, North Carolina
+36739	Department of Pharmacology and Toxicology, Dartmouth Medical School, Hanover, New Hampshire
+36742	Los Angeles County Museum
+36744	Institute de Médecine et de Chirurgie Experimentales, Université de Montréal, Montreal, Quebec
+36761	Biomedical Engineering Department
+36763	Human Biochemical Genetics Research Unit, King''s College, London
+36768	Jet Propulsion Laboratory, Pasadena
+36777	U.S. Army Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire
+36795	Department of Biochemistry, University of New Hampshire, Durham
+36839	Anti-Locust Research Centre, Ministry of Overseas Development, College House, Wrights Lane, London, W.8, England
+36862	National Institute of Mental Health
+36863	Medical Division, Oak Ridge Institute of Nuclear Studies
+36878	Department of Cancer Research, London Hospital Medical College, London, E. 1, England
+36880	Department of Zoology
+36883	Hungarian National Museum, Budapest
+36898	Department of Zoology, The University, Sheffield 10, England
+36908	Department of Microbiology and Immunology
+36909	National Blood Group Reference Laboratory, Geitmyrsveien 75, Oslo
+36914	Materials Research Laboratory
+36928	Medical Research Council, Radiobiological Research Unit, Harwell, Didcot, Berkshire, England
+36990	Department of Physiology, Dartmouth Medical School, Hanover, New Hampshire
+37083	Public Health Laboratory, Taunton, England
+37117	Department of Biochemistry, School of Medicine, University of North Carolina, Chapel Hill
+37138	Coryndon Museum Centre for Prehistory and Palaeontology, Nairobi
+37154	Research Division, Cleveland Clinic, Cleveland
+37155	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+37166	Departments of Microbiology and Pathology, Dartmouth Medical School, Hanover, New Hampshire
+37182	Department of Medicine
+37184	Bell Telephone Laboratories, Murray Hill, New Jersey
+37188	Department of Pathology, Dartmouth Medical School, Hanover, New Hampshire
+37194	National Institutes of Health
+37199	Department of Nuclear Medicine, Roswell Park Memorial Institute, Buffalo
+37242	Department of Psychiatry, University of North Carolina School of Medicine, Chapel Hill
+37243	Institute of Psychiatry, Maudsley Hospital, London, England
+37261	University Chemistry Department and Christie Hospital, Manchester, England
+37262	Department of Virology, State Agricultural University, Wageningen, Holland
+37277	Department of Psychology
+37353	Instituto "Jaime Ferrán" de Microbiologia, Consejo Superior de Investigaciones Cientificas, Madrid
+37373	Division of Neurology
+37385	Department of Chemistry, Imperial College of Science and Technology, London, S.W.
+37417	Laboratory of Psychology, National Institute of Mental Health
+37436	Department of Microbiology
+37438	Department of Cytology, Dartmouth Medical School, Hanover, New Hampshire
+37444	Laboratory of Pathology, National Cancer Institute
+37459	South Jersey Medical Research Foundation, Camden, New Jersey
+37479	Department of Obstetrics and Gynecology
+37504	Forest Entomology and Pathology Branch, Department of Forestry, Sault Ste. Marie, Ontario
+37517	Medical Research Council Unit for Experimental Virus Research, Institute of Virology, University of Glasgow, Glasgow, Scotland
+37522	Department of Biochemistry
+37538	Department of Anatomy, University of Alberta, Edmonton
+37597	Laboratory of Infectious Diseases, National Institute of Allergy and Infectious Diseases, Bethesda, Md.
+37633	Shell Oil Company, Edmonton, Alberta
+37634	Rank Cintel Ltd., Lower Sydenham, London, England
+37645	School of Medicine, Western Reserve University
+37687	United States Rubber Company Research Center, Wayne, New Jersey
+37694	Autonomics Division, National Physical Laboratory, Teddington, England
+37700	Harrison Department of Surgical Research
+37747	Diagnostic Research Branch, National Cancer Institute, Bethesda
+37755	Department of Medicine, University of North Carolina, School of Medicine, Chapel Hill
+37758	Department of Zoology
+37770	Department of Pharmacology
+37803	Department of Geology
+37804	Chemstrand Research Center, Inc., Durham, North Carolina
+37815	Bell Telephone Laboratories, Inc. Murray Hill, New Jersey
+37822	Spinal Cord Section, National Institute of Neurological Diseases and Blindness
+37833	Department of Bacteriology
+37834	Medical Professorial Unit, St. Bartholomew''s Hospital, London
+37871	Institute for Medical Research, Kuala Lumpur, Federation of Malaya
+37912	Wolfville, Nova Scotia
+37922	Institute of Psychiatry, Maudsley Hospital, London, England
+37924	International Cooperation Administration, Philippine Islands, Manila
+37967	Division of Physiology and Endocrinology, Imperial Cancer Research Fund, London, England
+38017	RCA Major Systems Division, Moorestown, New Jersey
+38030	Department of Pediatrics, University of North Carolina School of Medicine, Chapel Hill
+38041	Department of Psychology, Woman''s College of the University of North Carolina, Greensboro
+38082	Institut de Médecine et de Chirurgie expérimentales, Université de Montréal, Montreal, Quebec
+38103	Department of Microbiology, Yale School of Medicine, New Haven, Conn.
+38105	Division of Infectious Diseases, Department of Medicine, Seton Hall College of Medicine, Jersey City, New Jersey
+38109	Department of Pharmacology and Toxicology, Dartmouth Medical School, Hanover, New Hampshire
+38121	Department of Natural Science
+38167	Laboratory of Cancer Research, Albert Einstein Medical Center, Philadelphia
+38206	Department of Biochemistry and Nutrition, Medical School, University of North Carolina, Chapel Hill
+38207	Instituto Venezolano de Investigaciones Cientificas, Caracas
+38215	National Institute of Arthritis and Metabolic Diseases
+38222	Department of Physiology and Division of Neurological Medicine, Johns Hopkins School of Medicine
+38248	Soil Survey Laboratory, Soil Conservation Service, U.S. Department of Agriculture, Beltsville
+38259	Poultry Research Centre, Edinburgh, Scotland
+38269	Chester Beatty Research Institute, Institute of Cancer Research, and Royal Cancer Hospital, Fulham Road, London, S.W.
+38300	Department of Anatomy, Harvard Medical School
+38313	Bell Telephone Laboratories, Inc., Murray Hill, New Jersey
+38319	Institute of Brain Research, School of Medicine, University of Tokyo
+38321	Perception Laboratory, Veterans Administration Hospital, Durham, North Carolina
+38345	Animal Behavior Laboratory, Birkbeck College, University of London, London, England
+38357	Ortho Research Foundation, Raritan, New Jersey
+38387	Department of Microbiology, Seton Hall College of Medicine and Dentistry, Jersey City, New Jersey
+38396	Geological Institute, Academy of Sciences, Prague, Czechoslovakia
+38478	Sebastopol Biological Station of the Academy of Sciences of the U.S.S.R., Sebastopol, Krimea
+38482	Laboratoire de Neurophysiologie, Hôpital Henri-Rousselle, and Laboratoire de Psychophysiologie, Sorbonne, Paris
+38485	Department of Zoology, Cambridge University, Madingley, Cambridge, England
+38505	Department of Pharmacology, Albert Einstein College of Medicine
+38529	Laboratoire des Sciences Neurologiques, Université de Montréal, Montréal, Quebec
+38535	Department of Theoretical Chemistry, University Chemical Laboratory, Cambridge, England
+38541	International Committee on Ancient Glass, Dublin, New Hampshire
+38583	Forest Entomology and Pathology Laboratory, Sillery, Quebec
+38589	U.S. Public Health Service Summer Student Program
+38614	Department of Biology, University of Alberta, Calgary
+38619	Esso Research and Engineering Company, Linden, New Jersey
+38630	Department of Biochemistry
+38636	Department of Radiology
+38643	Department of Anthropology
+38668	McCollum-Pratt Institute, Johns Hopkins University
+38678	Departments of Pathology and Microbiology, Dartmouth Medical School, Hanover, New Hampshire
+38684	Department of Biochemistry, Dartmouth Medical School, Hanover, New Hampshire
+38730	Laboratory of Experimental Pathology, National Institute of Arthritis and Metabolic Diseases, Bethesda
+38740	Paterson Laboratories, Christie Hospital and Holt Radium Institute, Manchester 20, England
+38752	Laboratory of Experimental Pathology, Department of Pathology, University, of Montreal, Montreal, Quebec
+38779	Birkbeck College, Malet Street, London, W.C.
+38808	Bell Telephone Laboratories, Murray Hill, New Jersey
+38824	Bell Telephone Laboratories, Murray Hill, New Jersey
+38827	Department of Biochemistry and Nutrition, Medical School, University of North Carolina, Chapel Hill
+38829	Laboratory of Neurobiology, National Institutes of Health, Bethesda, Marylatnd
+38863	Institute of Family and Community Health, Durban
+38870	Institute of Animal Genetics, University of Edinburgh, Scotland
+38877	Yerkes Regional Primate Research Center
+38900	Royal Air Force Institute of Aviation Medicine, Farnborough, Hampshire, England
+38956	Bell Telephone Laboratories, Murray Hill, New Jersey
+39000	Institute of Animal Behavior, Rutgers University, Newark, New Jersey
+39116	School of Mechanical Engineering, Purdue University
+39162	Institute of Animal Genetics, Edinburgh 9, Scotland
+39188	Department of Pathology, School of Medicine, University of North Carolina, Chapel Hill
+39258	Research Department, Liggett and Myers Tobacco Company, Durham, North Carolina
+39264	Research Division, Abbott Laboratories
+39267	Division of Immunochemistry and Allergy Research, Royal Victoria Hospital, Montreal, Quebec
+39302	Merck Institute for Therapeutic Research, Rahway, New Jersey
+39312	Johns Hopkins University, Baltimiiore, Marylvand
+39328	Gorgas Hospital, Canal Zone
+39373	The Polytechnic, Regent Street, London, England
+39405	Institute of Physiology, Czechoslovak Academy of Sciences, Prague, Czechoslovakia
+39409	Department of Pharmacology, Guy''s Hospital Medical School, London, England
+39414	Department of Genetics, Sheffield University, Sheffield, England
+39428	Monadnock Research Institute, Antrim, New Hampshire
+39432	Bell Telephone Laboratories, Murray Hill, New Jersey
+39459	Bell Telephone Laboratories, Murray Hill, New Jersey
+39462	Institute for Advanced Study, Princeton, New Jersey
+39479	Entomology Research Division, U.S. Agricildttral Research Service, Baton Rouge, Loutisiantia
+39492	Laboratory of Parasite Chemotherapy, National Institute of Allergy and Infectious Diseases, National Institutes of Health
+39565	Institute for Cancer Research, Fox Chase, Philadelphia
+39575	Veterans Administration Research Laboratories in Neuropsychiatry, Leech Farm Road, Pittsburgh, Pa.
+39604	Medical Research Laboratory, Veterans Administration Hospital, East Orange, New Jersey
+39618	Bell Telephone Laboratories, Murray Hill, New Jersey
+39627	Institute of Physiology, Academy of Sciences, Prague, Czechoslovakia
+39647	Glastonbury, Somerset, England
+39649	Epidemic Intelligence Service, Communicable Disease Center, U.S. Public Health Service
+39668	Princeton, New Jersey
+39674	Department of Field Crops, North Carolina State College
+39756	Department of Microbiology
+39759	Research Institute of Pharmacy and Biochemistry, Prague, Czechoslovakia
+39802	Department of Plant Science, University of Alberta, Edmonton
+39814	Bell Telephone Laboratories, Murray Hill, New Jersey
+39855	Central Institute for Nutrition Research, Utrecht
+39898	Agricultural Research Department, Campbell Soup Company, Riverton, New Jersey
+40048	Department of Physiology, Dartmouth Medical School, Hanover, New Hampshire
