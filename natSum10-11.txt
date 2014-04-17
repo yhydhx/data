@@ -1,0 +1,211 @@
+1	America#Germany#Germany#Germany#America#America#Germany#Germany#Germany#Georgia#Germany#America#Spain#America#Germany#America#America#Germany#America#Germany#Germany#Germany#Russia#Russia#Germany#Germany#America#Germany#	2010-12-22
+2	America#France#Finland#America#Finland#Finland#America#Finland#France#France#France#America#Italy#Finland#America#India#Finland#America#	2010-12-22
+3	United Kingdom#America#United Kingdom#India#America#United Kingdom#America#United Kingdom#America#United Kingdom#United Kingdom#United Kingdom#America#America#America#America#America#America#United Kingdom#United Kingdom#America#India#America#United Kingdom#America#	2010-09-24
+4	America#America#	2010-12-22
+5	Canada#America#America#America#America#	2010-12-08
+6	Netherlands#Netherlands#Netherlands#Netherlands#	2010-12-22
+7	Japan#Japan#	2010-12-15
+8	Japan#Japan#Japan#Japan#	2010-12-22
+9	America#America#America#America#America#America#America#America#America#America#America#America#Canada#America#America#America#America#America#America#America#America#United Kingdom#Japan#America#America#America#United Kingdom#America#America#America#America#America#America#	2010-12-08
+10	America#America#America#America#America#	2010-12-22
+11	America#America#America#America#Canada#America#Canada#America#America#America#Canada#Canada#America#Canada#America#	2010-12-22
+12	Germany#France#France#	2010-11-10
+13	America#America#America#America#America#America#America#America#America#	2010-12-22
+14	France#America#America#Singapore#America#Singapore#America#America#Singapore#France#Singapore#France#America#Singapore#Singapore#Singapore#America#	2010-11-10
+15	Spain#Spain#Spain#Spain#Spain#Spain#Japan#Germany#Japan#Spain#	2010-12-22
+16	America#America#America#	2010-12-22
+17	America#America#Canada#America#America#America#	2010-11-10
+18	America#America#America#America#America#Germany#America#America#Germany#America#America#America#Germany#Taiwan#America#America#	2010-12-15
+19	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-12-15
+20	America#America#	2010-12-01
+21	America#	2010-12-12
+22	Canada#Netherlands#Canada#	2010-12-15
+23	America#	2010-12-15
+24	America#America#America#America#America#America#America#	2010-12-15
+25	America#America#America#	2010-12-15
+26	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Switzerland#America#America#America#America#America#America#	2010-11-24
+27	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#America#America#Switzerland#America#America#America#America#Australia#America#Switzerland#Switzerland#	2010-11-24
+28	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-12-01
+29	America#America#America#America#America#America#America#	2010-12-05
+30	United Kingdom#Georgia#China#Georgia#United Kingdom#United Kingdom#Georgia#Georgia#United Kingdom#	2010-11-17
+31	America#America#America#America#America#America#	2010-11-14
+32	America#America#America#America#America#America#America#America#America#America#	2010-11-17
+33	America#America#	2010-12-08
+34	Germany#Germany#Germany#Germany#Germany#Switzerland#Germany#Germany#Germany#	2010-11-24
+35	Canada#	2010-12-08
+36	Japan#Japan#	2010-12-08
+37	Germany#Germany#United Kingdom#Germany#America#Germany#America#United Kingdom#Germany#	2010-12-08
+38	America#America#America#America#America#America#	2010-11-14
+39	Italy#France#Italy#Italy#Iran#France#France#Iran#Italy#France#Italy#	2010-11-21
+40	America#America#America#America#Netherlands#America#America#America#America#America#	2010-11-21
+41	Japan#Japan#America#Japan#	2010-11-24
+42	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-11-07
+43	America#America#America#	2010-11-03
+44	America#America#America#	2010-12-01
+45	America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-12-01
+46	America#America#America#America#America#America#America#	2010-09-29
+47	Germany#America#Germany#	2010-12-01
+48	Denmark#Canada#America#United Kingdom#Denmark#United Kingdom#Brazil#America#United Kingdom#United Kingdom#United Kingdom#America#Canada#Canada#Canada#Canada#Denmark#Canada#Canada#United Kingdom#Canada#United Kingdom#Sweden#United Kingdom#Canada#United Kingdom#Canada#United Kingdom#Canada#Canada#America#United Kingdom#America#Israel#Canada#Japan#America#Canada#Canada#United Kingdom#America#Japan#	2010-11-17
+49	America#America#America#America#Japan#America#America#America#America#	2010-12-01
+50	America#America#America#America#France#America#	2010-12-01
+51	America#Portugal#Portugal#America#America#America#	2010-12-01
+52	Canada#Canada#France#France#Switzerland#Switzerland#Canada#	2010-11-17
+53	America#America#America#America#America#America#America#	2010-11-10
+54	America#America#America#America#America#America#America#America#America#America#America#	2010-12-01
+55	India#India#India#India#India#	2010-12-01
+56	France#France#France#United Kingdom#France#France#France#United Kingdom#France#	2010-12-01
+57	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Mexico#America#America#Mexico#Germany#America#Germany#Germany#	2010-12-01
+58	America#China#China#	2010-10-24
+59	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#	2010-11-07
+60	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-11-24
+61	America#America#America#America#America#America#America#America#America#America#	2010-11-24
+62	France#France#	2010-11-24
+63	America#Chile#Chile#Italy#Poland#Chile#Poland#	2010-11-24
+64	America#America#America#America#America#America#	2010-11-10
+65	Germany#Germany#Germany#Switzerland#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Switzerland#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Estonia#Germany#Germany#Germany#Russia#United Kingdom#Germany#Germany#Canada#Germany#Germany#Germany#Germany#Germany#Germany#Germany#	2010-10-27
+66	Sweden#Sweden#Sweden#Sweden#Denmark#Sweden#Denmark#Sweden#Sweden#Denmark#Sweden#Sweden#	2010-10-13
+67	Canada#America#America#United Kingdom#America#America#America#America#America#Canada#Canada#	2010-11-24
+68	America#America#America#America#America#America#America#America#America#America#America#	2010-11-24
+69	America#America#America#America#America#America#America#America#America#America#	2010-11-24
+70	America#America#America#America#America#America#America#	2010-11-24
+71	Canada#Canada#Canada#Canada#	2010-11-03
+72	America#America#America#	2010-10-24
+73	America#America#America#America#Israel#America#Japan#America#Israel#America#America#America#America#America#	2010-10-06
+74	America#America#America#America#America#	2010-10-03
+75	Italy#Italy#Italy#Italy#Italy#France#France#France#France#France#Italy#Italy#	2010-10-27
+76	Canada#Canada#Canada#Canada#	2010-11-17
+77	Iceland#Iceland#Netherlands#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Sweden#Iceland#America#	2010-11-17
+78	America#Canada#Australia#United Kingdom#America#Canada#Canada#Australia#	2010-11-17
+79	Netherlands#United Kingdom#Germany#Netherlands#Australia#Australia#	2010-10-27
+80	America#America#America#America#America#America#America#America#America#America#America#	2010-11-17
+81	America#America#America#America#America#Japan#America#	2010-11-17
+82	Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#	2010-10-31
+83	America#America#America#America#America#America#America#America#Switzerland#America#Switzerland#America#America#America#America#America#America#America#America#	2010-11-17
+84	France#France#France#France#France#Spain#France#France#	2010-11-17
+85	America#China#America#	2010-11-03
+86	America#America#America#Germany#America#America#America#America#America#America#Canada#America#America#Germany#America#	2010-11-10
+87	America#America#America#Switzerland#America#America#America#America#America#America#America#Switzerland#America#	2010-11-10
+88	Switzerland#Germany#Switzerland#Switzerland#Switzerland#Germany#Germany#Germany#America#Switzerland#Switzerland#Switzerland#	2010-11-10
+89	Germany#France#America#Germany#Germany#France#France#China#France#America#	2010-11-10
+90	South Korea#America#America#America#America#America#America#Mexico#Mexico#Taiwan#America#America#Taiwan#Mexico#America#America#	2010-11-10
+91	United Kingdom#United Kingdom#United Kingdom#	2010-11-10
+92	Spain#	2010-11-03
+93	New Zealand#America#America#America#America#	2010-11-03
+94	Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#Singapore#	2010-10-17
+95	America#America#America#America#America#America#America#America#America#	2010-10-20
+96		2010-11-10
+97	America#America#America#America#America#America#America#China#America#America#	2010-11-10
+98	America#America#United Kingdom#	2010-11-03
+99	United Kingdom#	2010-11-03
+100	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-11-03
+101	Canada#Canada#Canada#America#America#France#France#France#Canada#Canada#	2010-11-03
+102	Japan#Japan#Japan#Japan#	2010-10-10
+103	America#Canada#America#America#America#America#China#America#	2010-10-20
+104	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-11-03
+105	Spain#Spain#United Kingdom#Spain#United Kingdom#Germany#United Kingdom#Spain#	2010-11-03
+106	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Italy#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Italy#United Kingdom#United Kingdom#	2010-10-20
+107	Austria#Austria#Austria#Austria#Austria#Australia#Austria#Canada#America#America#Germany#Canada#Australia#United Kingdom#Germany#Austria#	2010-09-29
+108	Spain#America#America#America#America#America#Spain#America#America#	2010-09-29
+109	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	2010-10-06
+110	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-10-17
+111		2010-10-27
+112	America#America#Germany#America#America#America#Germany#America#America#America#	2010-10-27
+113	America#America#America#America#Netherlands#	2010-10-27
+114	Germany#Germany#Germany#Germany#Germany#Germany#	2010-10-27
+115	France#America#Thailand#Libya#France#Libya#France#Libya#France#France#France#France#France#France#Libya#France#	2010-10-27
+116	Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#Iceland#	2010-10-27
+117	Canada#America#Germany#America#United Kingdom#Korea#Israel#	2010-10-27
+118	United Kingdom#America#America#America#United Kingdom#America#	2010-10-27
+119	America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-10-27
+120	United Kingdom#United Kingdom#Ireland#United Kingdom#Ireland#United Kingdom#United Kingdom#	2010-09-26
+121	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-09-29
+122	France#France#France#France#France#America#America#France#France#	2010-10-17
+123	America#America#America#America#	2010-10-13
+124	France#France#France#United Kingdom#France#France#	2010-10-20
+125	America#America#America#United Kingdom#	2010-10-20
+126	America#America#America#	2010-10-20
+127	Germany#Germany#France#Switzerland#America#America#America#Italy#America#Netherlands#Netherlands#Switzerland#Germany#Italy#Italy#Germany#America#America#Italy#America#Switzerland#America#Italy#America#France#America#Germany#France#Germany#America#America#Germany#America#	2010-10-10
+128	America#America#America#America#	2010-10-20
+129	America#America#	2010-10-20
+130	Australia#Australia#Australia#Australia#Australia#Australia#	2010-10-20
+131	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#France#America#America#America#America#America#	2010-10-20
+132	America#America#America#America#America#America#America#America#America#	2010-10-03
+133	America#Germany#Korea#America#America#America#America#America#America#America#America#Germany#America#America#	2010-10-20
+134	America#	2010-10-13
+135	America#America#America#America#America#America#America#America#America#America#America#America#	2010-10-20
+136	America#America#America#America#America#America#America#	2010-09-22
+137	Japan#New Zealand#New Zealand#Japan#United Kingdom#	2010-10-13
+138	America#America#Italy#America#America#Italy#America#	2010-10-13
+139	Germany#Italy#Italy#Italy#Italy#Italy#	2010-10-13
+140	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Italy#Netherlands#France#Poland#Spain#France#America#America#America#Italy#	2010-10-13
+141	America#America#Netherlands#America#America#	2010-10-13
+142	America#America#America#	2010-09-19
+143	Finland#Finland#Germany#Finland#Finland#Finland#Finland#Finland#Germany#Finland#Finland#Finland#	2010-10-13
+144	America#America#America#	2010-10-03
+145	United Kingdom#Netherlands#Canada#America#United Kingdom#Netherlands#America#America#America#America#United Kingdom#United Kingdom#America#America#America#United Kingdom#Sweden#America#Australia#Iceland#America#United Kingdom#America#Iceland#United Kingdom#Canada#America#Germany#United Kingdom#Iceland#Germany#Australia#Canada#America#America#Netherlands#Norway#Netherlands#America#Estonia#Switzerland#America#America#Sweden#United Kingdom#America#Germany#Germany#America#United Kingdom#Netherlands#America#America#Switzerland#America#Croatia#Germany#United Kingdom#United Kingdom#Iceland#United Kingdom#America#Sweden#America#United Kingdom#Australia#Finland#Finland#United Kingdom#Finland#Estonia#America#Netherlands#Iceland#America#Canada#America#America#United Kingdom#Australia#United Kingdom#America#Canada#America#Finland#America#Finland#Germany#Canada#Australia#America#Sweden#America#United Kingdom#Germany#America#America#United Kingdom#America#Italy#Italy#America#United Kingdom#United Kingdom#America#Sweden#Canada#United Kingdom#America#Germany#Sweden#United Kingdom#United Kingdom#Italy#Germany#United Kingdom#America#United Kingdom#Spain#Finland#America#Netherlands#Italy#America#Finland#Finland#Germany#Australia#Sweden#Germany#Finland#Finland#United Kingdom#Finland#Croatia#Finland#Germany#Finland#Singapore#Finland#Croatia#Italy#Germany#Italy#Canada#America#United Kingdom#Germany#Germany#Finland#Finland#Sweden#America#United Kingdom#America#Germany#Finland#Netherlands#America#Iceland#Finland#United Kingdom#Netherlands#Italy#Croatia#Finland#Estonia#United Kingdom#United Kingdom#Estonia#Netherlands#Finland#Netherlands#Netherlands#America#Switzerland#Australia#America#Switzerland#America#Italy#Netherlands#Iceland#America#United Kingdom#Sweden#Finland#America#Finland#Finland#America#Netherlands#Germany#America#Finland#Sweden#America#Australia#Finland#America#Sweden#Netherlands#Australia#Finland#America#Canada#Finland#Switzerland#Germany#America#America#Germany#Germany#Finland#Netherlands#Finland#America#Australia#Australia#America#Netherlands#America#America#America#America#United Kingdom#Germany#Sweden#Sweden#United Kingdom#Germany#Germany#France#Finland#Germany#Italy#America#United Kingdom#America#United Kingdom#Netherlands#America#Netherlands#United Kingdom#America#Germany#America#Iceland#Sweden#America#Canada#Finland#America#United Kingdom#United Kingdom#Netherlands#Germany#America#Croatia#United Kingdom#Sweden#Germany#United Kingdom#United Kingdom#Sweden#America#America#America#Estonia#America#America#United Kingdom#America#America#United Kingdom#Germany#America#Netherlands#America#Iceland#Finland#Netherlands#Australia#America#United Kingdom#America#United Kingdom#Sweden#United Kingdom#America#Iceland#United Kingdom#America#	2010-09-29
+146	America#Canada#Canada#America#	2010-10-13
+147	Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#	2010-10-13
+148	America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-10-03
+149	America#America#America#America#America#America#	2010-10-13
+150	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-10-13
+151	America#America#America#America#America#America#America#Canada#Canada#America#America#America#America#	2010-10-13
+152	Canada#Canada#Germany#Germany#Canada#	2010-10-13
+153	America#America#America#America#America#America#America#Poland#America#America#America#	2010-10-06
+154	America#America#America#	2010-08-22
+155	Australia#Australia#Australia#Canada#Australia#Canada#America#Australia#Australia#	2010-10-06
+156	Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#	2010-09-26
+157	Switzerland#Switzerland#Switzerland#Switzerland#	2010-10-06
+158		2010-10-06
+159	America#Germany#America#	2010-10-06
+160	America#America#America#America#America#America#America#America#	2010-09-22
+161	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	2010-09-15
+162	United Kingdom#United Kingdom#United Kingdom#United Kingdom#Portugal#Italy#Portugal#Portugal#Italy#United Kingdom#	2010-09-19
+163	Japan#Japan#Japan#	2010-08-25
+164	Japan#Japan#Japan#Japan#	2010-09-15
+165	America#America#China#America#America#America#America#	2010-09-22
+166	China#China#China#China#China#China#China#China#	2010-09-26
+167	America#America#	2010-09-29
+168	America#America#Germany#Hong Kong#America#America#America#Australia#Australia#America#Australia#	2010-09-29
+169	India#India#America#America#	2010-08-25
+170	America#America#America#Singapore#France#America#America#America#	2010-09-29
+171	America#America#America#America#America#Canada#America#America#America#America#	2010-09-29
+172	America#America#America#America#	2010-09-29
+173	America#America#America#America#America#America#	2010-09-15
+174	America#Germany#Germany#Canada#America#America#America#Germany#America#America#America#America#America#Israel#America#America#America#America#Germany#America#	None
+175	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Australia#America#America#America#America#America#America#	2010-09-07
+176	America#America#America#America#America#America#	2010-09-01
+177	Netherlands#America#	2010-09-15
+178	America#America#America#America#America#America#	2010-08-29
+179	Japan#Japan#	2010-09-29
+180	Germany#Germany#Germany#Germany#Germany#	2010-09-19
+181	America#America#America#America#America#America#Congo#Congo#Congo#America#America#America#America#France#America#Mexico#America#France#America#America#	None
+182	America#Thailand#America#America#America#America#America#America#America#America#America#America#	None
+183	America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-08-18
+184	Germany#Switzerland#Germany#Switzerland#France#Switzerland#Switzerland#Germany#	None
+185	Italy#Italy#Germany#America#Italy#Italy#Italy#Italy#United Kingdom#America#Italy#Italy#	None
+186	America#America#United Kingdom#	None
+187	Australia#Australia#Australia#Australia#	None
+188	America#America#	None
+189	Georgia#America#	2010-09-08
+190	Germany#United Kingdom#United Kingdom#United Kingdom#France#Germany#Germany#Germany#Germany#Germany#Germany#United Kingdom#America#America#Germany#Germany#France#United Kingdom#United Kingdom#Germany#United Kingdom#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#France#United Kingdom#Czech Republic#France#United Kingdom#United Kingdom#Germany#United Kingdom#	2010-09-08
+191	Germany#Germany#	2010-09-05
+192	America#America#	2010-09-12
+193	United Kingdom#United Kingdom#	2010-09-12
+194	America#America#Iceland#America#America#America#	None
+195	America#America#America#America#America#America#America#	None
+196	America#America#America#	2010-11-24
+197	Germany#Germany#	2010-12-08
+198		2010-11-24
+199	America#America#America#America#	2010-10-13
+200	Germany#Germany#Germany#Germany#Germany#	2010-11-10
+201	America#America#America#America#America#America#America#America#America#America#Japan#America#America#	2010-11-10
+202	America#France#Finland#America#Finland#Finland#America#Finland#France#France#France#America#Italy#Finland#America#India#Finland#America#	2010-12-22
+203	Germany#Canada#	2010-10-13
+204	Argentina#Argentina#Argentina#America#Argentina#Argentina#Spain#Argentina#Argentina#America#United Kingdom#Argentina#America#Spain#Argentina#Argentina#Argentina#	2010-10-20
+205	America#France#Canada#Canada#Canada#America#America#	2010-10-27
+206	United Kingdom#United Kingdom#United Kingdom#	2010-10-27
+207	America#	2010-10-06
+208	America#America#America#America#America#America#America#America#America#America#America#Japan#America#America#	2010-09-29
+209	America#America#Japan#	2010-09-29
+210	America#America#	2010-12-05
+211	America#America#America#America#America#	2010-11-17

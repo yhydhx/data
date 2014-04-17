@@ -1,0 +1,333 @@
+1	America#America#America#America#America#America#America#	2010-08-08
+2	Belgium#Belgium#Austria#	None
+3	America#America#America#America#America#America#America#America#America#America#	2010-09-01
+4	Germany#Germany#	None
+5	America#America#America#America#Chile#America#	None
+6	France#France#France#America#America#France#America#America#America#America#America#France#France#Italy#France#France#France#America#America#America#America#France#France#France#France#France#France#France#France#France#France#India#France#France#France#America#France#	None
+7	America#America#America#	None
+8	America#America#America#China#America#	None
+9	America#America#America#America#America#America#America#America#America#America#	None
+10	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-08-15
+11	America#America#America#America#America#America#America#America#	2010-09-05
+12	America#America#America#America#	2010-08-25
+13	United Kingdom#United Kingdom#America#	None
+14	America#America#America#Korea#America#America#India#America#India#America#America#America#America#	None
+15	America#America#South Korea#Georgia#Georgia#Georgia#Georgia#America#America#America#America#America#	None
+16	America#America#America#America#America#America#	2010-08-18
+17	America#America#America#New Zealand#New Zealand#America#Norway#France#America#New Zealand#	None
+18	Germany#Germany#Germany#	None
+19	Spain#Spain#Spain#	None
+20	America#America#America#America#America#Turkey#Turkey#Turkey#America#America#America#America#America#Turkey#America#America#Turkey#Turkey#America#Turkey#Turkey#Turkey#America#America#America#America#	2010-08-22
+21	America#China#America#America#America#	2010-08-11
+22	Georgia#Georgia#Georgia#Georgia#America#America#Georgia#Georgia#Georgia#	None
+23	United Kingdom#United Kingdom#America#United Kingdom#United Kingdom#	None
+24	Portugal#America#Portugal#Portugal#America#America#Portugal#	None
+25	Germany#Germany#Germany#Germany#Germany#	None
+26		None
+27	Switzerland#Germany#Spain#Switzerland#Germany#Switzerland#Switzerland#Switzerland#	None
+28	Belgium#France#United Kingdom#Canada#Canada#Belgium#Belgium#Belgium#Belgium#United Kingdom#Canada#Belgium#Belgium#Belgium#Germany#United Kingdom#United Kingdom#Belgium#France#United Kingdom#Belgium#Canada#United Kingdom#Belgium#France#Austria#United Kingdom#United Kingdom#United Kingdom#Sweden#Austria#Belgium#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Belgium#	None
+29	Denmark#Germany#Germany#Germany#Germany#Germany#	2010-08-18
+30	Germany#Germany#Germany#Germany#Germany#	None
+31	Spain#Germany#America#Germany#	None
+32	America#America#America#America#	None
+33	America#America#America#	2010-08-08
+34	America#America#America#	None
+35	America#America#America#America#America#America#America#America#America#America#America#	None
+36	Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#Denmark#	2010-08-15
+37	Israel#America#Israel#America#America#America#Israel#	None
+38	America#America#America#America#America#America#America#America#America#America#America#America#	None
+39	America#America#America#America#America#America#America#	None
+40	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Germany#Germany#America#America#America#America#America#	None
+41	Switzerland#America#Chile#Switzerland#	None
+42	Costa Rica#Czech Republic#Israel#America#Canada#Costa Rica#Spain#Chile#Chile#Chile#France#France#America#America#America#America#America#America#Costa Rica#Costa Rica#America#America#America#Ukraine#Ukraine#France#	None
+43	America#America#	None
+44	America#Canada#America#New Zealand#America#Spain#America#	None
+45	Canada#Canada#America#Canada#Canada#Canada#Canada#	2010-07-28
+46	United Kingdom#	2010-08-11
+47	China#America#America#America#America#America#America#America#America#America#	2010-07-11
+48	America#America#America#America#America#America#	2010-08-04
+49	America#America#America#America#America#America#America#America#America#America#America#	None
+50	America#China#America#America#America#America#America#	2010-08-01
+51	America#America#America#America#America#America#America#America#America#	2010-07-28
+52	America#America#America#America#America#America#	2010-07-18
+53	Singapore#America#Belgium#United Kingdom#America#Belgium#Singapore#Singapore#Singapore#United Kingdom#America#United Kingdom#United Kingdom#America#United Kingdom#Belgium#Singapore#Singapore#Singapore#America#United Kingdom#United Kingdom#Belgium#America#America#	2010-08-04
+54	Netherlands#Spain#Spain#	None
+55	China#America#America#America#Germany#America#America#	None
+56	America#America#America#America#America#America#America#America#America#Germany#Czech Republic#Germany#Germany#America#America#Czech Republic#Germany#America#America#America#America#America#America#America#	None
+57	New Zealand#New Zealand#New Zealand#New Zealand#New Zealand#New Zealand#America#Tonga#	None
+58	America#America#America#France#America#America#	None
+59	United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+60	United Kingdom#United Kingdom#United Kingdom#America#United Kingdom#South Africa#South Africa#America#America#South Africa#America#America#United Kingdom#America#America#America#United Kingdom#America#America#America#United Kingdom#	None
+61	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	None
+62	India#America#India#America#India#America#India#Spain#India#America#	2010-07-14
+63	Australia#Australia#United Kingdom#Australia#Australia#	2010-08-01
+64	Spain#America#America#America#Spain#America#America#America#America#America#	None
+65	America#America#America#America#	None
+66	Italy#Italy#Italy#Italy#France#United Kingdom#Italy#	None
+67	America#America#America#America#America#America#America#America#	None
+68	America#Israel#America#China#America#	None
+69	America#America#America#United Kingdom#Canada#America#	None
+70	Germany#America#America#America#America#France#Georgia#America#	None
+71	Austria#Austria#Germany#Canada#	2010-07-14
+72	America#America#America#America#America#America#America#America#America#America#	None
+73	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-07-28
+74	America#America#America#	2010-07-25
+75	America#America#America#America#America#	2010-07-14
+76	America#America#America#	None
+77	America#America#America#America#America#America#America#	2010-07-25
+78	America#America#Iceland#America#America#America#America#Finland#America#America#Canada#Netherlands#Netherlands#America#America#United Kingdom#America#Netherlands#Iceland#America#United Kingdom#Sweden#Sweden#United Kingdom#America#America#America#Korea#Korea#Korea#Korea#Korea#Korea#Singapore#Singapore#America#America#America#America#United Kingdom#America#United Kingdom#Austria#Germany#United Kingdom#America#United Kingdom#Netherlands#United Kingdom#Netherlands#Germany#Australia#America#United Kingdom#Switzerland#Switzerland#America#United Kingdom#Netherlands#Italy#Finland#United Kingdom#America#Finland#America#Sweden#Sweden#Netherlands#Finland#Finland#Netherlands#Italy#United Kingdom#America#Italy#Finland#Finland#America#Finland#United Kingdom#America#Canada#America#America#Germany#Germany#Finland#Netherlands#Sweden#Germany#America#Canada#Netherlands#America#Finland#America#Australia#Germany#Canada#United Kingdom#United Kingdom#America#Australia#Italy#Sweden#Sweden#Spain#United Kingdom#United Kingdom#Finland#Canada#United Kingdom#America#America#Finland#Denmark#Austria#Germany#United Kingdom#Finland#America#Sweden#Finland#Netherlands#Sweden#Sweden#Netherlands#Netherlands#Netherlands#Germany#Germany#Germany#United Kingdom#Finland#United Kingdom#America#America#United Kingdom#Sweden#America#Finland#America#Germany#America#America#Germany#United Kingdom#America#Germany#United Kingdom#America#United Kingdom#Netherlands#Sweden#America#America#America#United Kingdom#United Kingdom#America#America#Netherlands#Netherlands#America#United Kingdom#Italy#America#America#America#America#Singapore#Singapore#Singapore#Philippines#America#America#America#America#America#America#Iceland#Iceland#Iceland#America#America#Spain#United Kingdom#United Kingdom#America#Canada#Netherlands#America#America#America#United Kingdom#America#Iceland#America#United Kingdom#Germany#America#United Kingdom#America#America#Netherlands#America#America#America#	None
+79	Germany#Germany#America#Australia#Australia#America#Australia#America#America#America#Australia#America#Germany#Australia#America#Australia#America#America#America#Australia#Australia#Australia#America#Australia#Australia#Canada#America#Australia#France#America#America#Australia#America#	None
+80	America#America#America#America#America#America#America#America#	None
+81	India#India#India#India#India#India#India#	None
+82	Germany#America#Germany#America#America#Germany#Germany#Germany#Saudi Arabia#Germany#America#Germany#	None
+83	America#America#America#Australia#America#America#South Africa#America#Tanzania#Tanzania#	None
+84	America#America#America#India#America#America#India#	2010-06-25
+85	America#America#America#America#America#America#America#America#	None
+86	America#America#America#	2010-06-20
+87	America#America#America#America#America#America#America#America#United Kingdom#United Kingdom#United Kingdom#Korea#Korea#Korea#Singapore#America#America#America#America#	2010-07-18
+88	Spain#Spain#America#America#Spain#America#America#America#America#Spain#America#	None
+89	America#America#America#America#America#America#America#	None
+90	Georgia#Georgia#Georgia#Georgia#Georgia#Georgia#Georgia#Georgia#Georgia#Georgia#America#America#America#America#America#America#Georgia#	2010-07-18
+91	Israel#Israel#Israel#Israel#America#Israel#Israel#	None
+92	Canada#Canada#Canada#	None
+93	Canada#Canada#Australia#Austria#Canada#Canada#	None
+94	India#India#America#America#	None
+95	America#America#America#America#America#America#	2010-07-04
+96	America#America#America#America#America#America#America#	2010-07-07
+97	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-06-18
+98	America#America#America#America#America#America#Australia#America#America#America#America#Canada#Canada#America#America#United Kingdom#America#America#America#America#Canada#America#America#America#America#America#Canada#United Kingdom#America#	2010-07-18
+99	America#Japan#India#America#	None
+100	America#America#America#Spain#America#America#America#Switzerland#Switzerland#America#America#America#	None
+101	America#America#America#	2010-07-07
+102	America#America#America#America#America#America#America#America#America#Germany#America#America#	None
+103	America#Portugal#	None
+104	Canada#Canada#America#America#	None
+105	America#America#America#America#America#America#America#	None
+106	Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#Switzerland#France#Germany#Germany#Germany#Switzerland#	None
+107	America#America#America#America#America#	None
+108	Sweden#Sweden#Sweden#Sweden#Sweden#Sweden#	None
+109	United Kingdom#United Kingdom#America#America#America#America#America#United Kingdom#	None
+110	Sweden#Germany#Sweden#Sweden#Germany#Sweden#Sweden#Germany#Sweden#	2010-06-30
+111	America#America#America#America#France#America#	2010-05-30
+112	Germany#Germany#Germany#	2010-06-30
+113	America#America#America#America#	2010-07-07
+114	America#Israel#America#America#America#America#America#Israel#America#Israel#Israel#America#America#America#America#America#America#	2010-07-11
+115	America#America#America#America#America#America#America#America#America#America#America#America#America#America#	2010-07-11
+116	America#America#	2010-07-07
+117	Germany#Germany#Germany#Germany#Germany#	None
+118	America#Germany#Germany#Germany#Germany#Germany#Germany#France#France#France#Germany#Italy#	None
+119	South Africa#South Africa#Germany#South Africa#South Africa#	None
+120	Japan#	None
+121	America#America#America#America#Saudi Arabia#Saudi Arabia#Saudi Arabia#Saudi Arabia#Saudi Arabia#Saudi Arabia#Saudi Arabia#America#America#	None
+122	Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#Australia#	2010-06-30
+123	Canada#United Kingdom#America#Ireland#Canada#Ireland#Ireland#Portugal#Portugal#America#Portugal#Italy#Canada#United Kingdom#Sweden#Italy#Australia#Ireland#Germany#Sweden#France#Ireland#Canada#Canada#Canada#Canada#Ireland#Canada#Ireland#America#America#America#Canada#America#Netherlands#France#Canada#Germany#Portugal#America#United Kingdom#Canada#America#Canada#Germany#America#Sweden#America#Canada#Ireland#United Kingdom#America#America#Ireland#Ireland#United Kingdom#Canada#Ireland#America#Italy#America#Germany#America#America#America#America#United Kingdom#United Kingdom#France#Australia#Canada#Canada#Canada#America#America#America#Italy#Canada#France#Canada#Australia#India#Ireland#America#Ireland#Canada#America#United Kingdom#America#America#Canada#Canada#Sweden#Portugal#Greece#United Kingdom#Italy#Canada#United Kingdom#France#America#United Kingdom#India#Germany#Germany#Canada#United Kingdom#United Kingdom#Canada#Canada#America#France#Sweden#America#America#America#Canada#Canada#Ireland#Portugal#Canada#Ireland#America#America#United Kingdom#America#United Kingdom#Italy#Canada#Italy#Ireland#Canada#Canada#America#America#Greece#Netherlands#Canada#America#United Kingdom#America#Canada#America#United Kingdom#Canada#United Kingdom#France#America#America#America#America#Canada#America#America#America#America#America#America#Ireland#Ireland#America#Ireland#America#America#America#United Kingdom#India#Canada#America#America#Canada#Portugal#America#America#Canada#America#France#	2010-06-09
+124	America#America#America#America#America#America#America#	2010-06-20
+125	America#America#America#America#America#America#America#America#America#America#	2010-06-16
+126	America#America#China#America#	2010-06-23
+127	America#America#America#America#America#America#America#America#America#America#	None
+128	India#India#India#America#	None
+129	France#United Kingdom#France#	None
+130	Germany#Germany#France#Portugal#France#Portugal#Portugal#America#America#Portugal#Austria#Germany#Germany#France#France#Taiwan#Switzerland#France#Taiwan#Portugal#Switzerland#Portugal#Austria#Germany#America#Portugal#Switzerland#Germany#France#Switzerland#Portugal#Switzerland#	None
+131	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Netherlands#United Kingdom#Australia#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+132	Canada#Canada#Canada#United Kingdom#Canada#Singapore#Germany#Canada#	2010-06-23
+133	Estonia#Estonia#Estonia#Estonia#Israel#Estonia#Estonia#Estonia#Estonia#Israel#Russia#Russia#Italy#Portugal#Spain#Israel#Israel#United Kingdom#America#Israel#Estonia#	2010-06-09
+134	Switzerland#America#Canada#America#Canada#America#America#America#Canada#Canada#Canada#Canada#Canada#Canada#Switzerland#America#America#America#America#America#Canada#America#Canada#Canada#America#America#	None
+135	America#America#America#America#America#America#	None
+136	America#America#America#America#Sweden#America#America#America#America#America#America#	None
+137	America#America#Poland#America#America#	2010-06-27
+138	India#India#India#India#America#America#America#America#America#America#	None
+139	America#America#America#Taiwan#America#America#America#America#	None
+140	America#America#America#America#	2010-06-20
+141	America#America#America#America#America#America#America#	2010-06-20
+142	America#America#America#America#	None
+143	America#America#	None
+144	France#Sweden#Denmark#Canada#France#France#Denmark#France#France#France#Germany#France#France#Belgium#France#France#France#France#France#Sweden#France#	None
+145	Belgium#Italy#Netherlands#France#Peru#Peru#Netherlands#	None
+146	America#America#Georgia#America#	None
+147	America#America#America#America#America#America#America#America#America#America#Germany#Germany#United Kingdom#America#America#America#	None
+148	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	None
+149	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+150	America#France#America#America#America#France#France#United Kingdom#United Kingdom#America#	None
+151	America#America#America#America#India#America#America#America#America#America#America#America#	None
+152	Canada#Canada#Canada#America#America#America#Canada#Canada#	None
+153	America#America#America#	None
+154	Canada#Israel#America#America#Israel#Israel#	None
+155	America#America#America#America#America#America#	None
+156	America#China#Japan#Korea#America#Korea#Japan#United Kingdom#Japan#America#	None
+157	Netherlands#Netherlands#Netherlands#Netherlands#	None
+158	Australia#New Zealand#China#Australia#	None
+159	United Kingdom#United Kingdom#Belgium#United Kingdom#United Kingdom#Belgium#Belgium#United Kingdom#	None
+160	Sweden#Sweden#	2010-06-13
+161	Japan#	2010-06-13
+162	Italy#America#America#America#Switzerland#America#America#Italy#America#	None
+163	Argentina#America#America#America#America#America#America#China#China#America#America#America#	None
+164	Germany#Denmark#Sweden#Czech Republic#Germany#Germany#Germany#	None
+165	America#America#America#America#	None
+166	America#America#America#America#America#America#	2010-06-13
+167	America#America#America#	2010-05-19
+168	America#America#America#America#America#America#America#America#America#America#America#	None
+169	America#America#America#America#America#America#South Africa#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Australia#Australia#America#Mexico#Australia#America#America#America#Mexico#Mexico#America#America#Australia#America#Nicaragua#New Zealand#	None
+170	Japan#Japan#Japan#Korea#Korea#Japan#Japan#Japan#	None
+171	Spain#Argentina#Spain#Spain#Spain#Germany#Germany#Spain#	None
+172	America#America#America#	None
+173	Spain#Spain#Spain#	2010-06-02
+174	Spain#Spain#	2010-05-19
+175	America#America#America#America#America#China#America#America#	None
+176	Germany#America#America#America#Canada#	None
+177	America#America#America#America#America#America#America#America#America#America#France#America#America#America#America#	None
+178	China#America#America#Chile#China#China#China#China#America#America#America#Netherlands#Netherlands#America#America#	2010-06-06
+179	United Kingdom#United Kingdom#United Kingdom#	2010-05-09
+180	France#America#France#America#America#France#	None
+181	Canada#Canada#	2010-05-26
+182	America#America#America#America#America#America#	None
+183	Germany#Germany#Germany#Germany#Germany#Germany#Brazil#Germany#	2010-05-12
+184	America#America#France#America#	None
+185	Australia#United Kingdom#	None
+186	America#America#America#	2010-05-23
+187	Spain#Spain#America#America#Spain#Spain#Spain#Canada#America#Spain#	2010-05-16
+188	America#America#America#America#America#America#	2010-05-26
+189	America#America#America#America#America#Korea#America#America#America#	2010-05-16
+190	America#America#America#America#America#	None
+191	Australia#Australia#Australia#Australia#Australia#Australia#Japan#Australia#Australia#Australia#Australia#	2010-04-11
+192	Spain#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Netherlands#Italy#America#America#	None
+193	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Switzerland#Spain#Spain#France#United Kingdom#Italy#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Switzerland#Germany#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+194	Canada#Canada#Canada#	2010-05-26
+195	America#America#Germany#America#Mexico#Canada#Canada#Canada#Canada#	None
+196	Switzerland#Switzerland#Switzerland#America#Switzerland#	None
+197	America#America#Australia#America#	2010-04-27
+198	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+199	America#America#America#	None
+200	Turkey#America#	None
+201	Switzerland#Germany#Germany#Germany#Switzerland#	None
+202	America#America#America#America#America#America#America#	None
+203	America#America#	2010-05-09
+204	France#Belgium#Belgium#France#America#Belgium#France#France#France#America#Germany#Belgium#Belgium#Poland#France#France#Poland#America#France#France#France#France#France#France#France#Germany#France#France#Czech Republic#Poland#United Kingdom#France#France#France#France#Japan#Japan#France#United Kingdom#Germany#France#France#France#Germany#France#Belgium#France#France#France#France#France#Japan#Japan#America#America#France#France#France#France#France#France#America#Germany#France#France#America#France#Poland#France#United Kingdom#France#France#Germany#France#Japan#Belgium#France#	None
+205	America#America#America#	None
+206	Germany#Australia#Australia#America#America#America#Germany#Australia#America#Germany#Germany#America#America#Germany#America#America#America#Austria#Germany#	None
+207	Italy#Italy#America#America#America#	2010-05-23
+208	America#America#America#America#America#	2010-05-19
+209	Italy#Italy#Italy#Italy#Estonia#Estonia#	2010-05-12
+210	America#America#America#America#America#America#America#America#America#America#	None
+211	America#America#	None
+212	Canada#America#America#America#America#America#Canada#America#United Kingdom#Canada#America#America#America#America#America#America#America#America#Canada#United Kingdom#America#America#America#Canada#United Kingdom#	None
+213	France#France#France#France#Belgium#Belgium#Belgium#France#	None
+214	Germany#America#	None
+215	Canada#Canada#	None
+216	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	None
+217	America#America#America#America#America#	None
+218	United Kingdom#Germany#Germany#United Kingdom#Germany#United Kingdom#Germany#France#Switzerland#Switzerland#Switzerland#Israel#United Kingdom#United Kingdom#Germany#	2010-05-05
+219	Germany#Germany#Germany#America#Germany#Germany#Germany#	2010-05-05
+220	Japan#America#America#Japan#Japan#Japan#America#America#America#America#Japan#	None
+221	Germany#Germany#Germany#Germany#Germany#Germany#Germany#	2010-04-28
+222	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#	2010-04-04
+223	Spain#Spain#Spain#Spain#Spain#Spain#America#Singapore#America#America#America#America#America#Spain#	None
+224	America#America#America#Australia#America#America#America#America#America#America#Spain#Spain#America#America#America#America#Switzerland#America#America#America#America#America#Spain#Spain#America#America#America#America#America#America#America#America#America#Australia#America#	None
+225	Finland#America#Sweden#Finland#Finland#America#Estonia#America#Finland#Finland#Finland#America#Australia#Finland#America#	2010-04-21
+226	Israel#Israel#Germany#America#America#America#America#Israel#America#America#America#Canada#America#America#Switzerland#Switzerland#America#America#America#America#Netherlands#America#America#America#America#America#Israel#America#	None
+227	Japan#Japan#Japan#Germany#Japan#Canada#Italy#Japan#Japan#	None
+228	America#South Korea#America#America#America#America#America#America#America#South Korea#America#	None
+229	America#United Kingdom#Germany#Japan#America#United Kingdom#United Kingdom#America#	None
+230	Australia#America#	None
+231	United Kingdom#America#United Kingdom#America#Kenya#United Kingdom#	None
+232	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	None
+233	America#America#America#America#America#America#America#America#America#America#	2010-05-05
+234	United Kingdom#Australia#United Kingdom#United Kingdom#United Kingdom#Sweden#France#France#France#United Kingdom#	2010-05-02
+235	America#America#America#America#Canada#America#	None
+236	America#America#America#America#America#America#America#America#America#America#	2010-05-02
+237	America#America#Switzerland#Korea#America#Switzerland#Switzerland#Switzerland#	None
+238	Canada#America#America#America#America#Canada#America#Canada#Canada#America#	None
+239	America#America#Japan#Japan#America#America#Japan#America#America#	2010-04-25
+240	America#America#America#America#America#America#America#America#America#America#America#Germany#Japan#America#America#America#	2010-04-14
+241	Spain#Spain#Argentina#Spain#Spain#Argentina#Argentina#Switzerland#Ukraine#	None
+242	Germany#Germany#Germany#Germany#Germany#Germany#	None
+243	Canada#China#China#Canada#	None
+244	Ireland#Ireland#United Kingdom#United Kingdom#America#France#America#	None
+245	America#	None
+246	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#America#Japan#Japan#Japan#Japan#Japan#	2010-04-28
+247	America#America#America#America#	None
+248	Germany#Switzerland#Germany#Czech Republic#Switzerland#Germany#Germany#Germany#Germany#Switzerland#Switzerland#Switzerland#Switzerland#Czech Republic#Germany#Switzerland#Germany#Germany#Switzerland#	2010-04-18
+249	Norway#Sweden#Sweden#Spain#Spain#Sweden#Sweden#Sweden#	None
+250	Germany#Germany#Germany#Germany#America#Germany#Germany#America#Germany#	2010-05-02
+251	Switzerland#Switzerland#	2010-04-14
+252	Canada#Canada#Canada#Canada#Canada#Canada#Canada#Canada#	None
+253	America#	None
+254	France#America#America#America#America#America#America#America#America#America#	None
+255	Canada#Canada#Canada#Canada#Canada#Canada#	None
+256	France#France#France#France#	None
+257	France#America#Peru#America#France#France#France#America#France#America#France#	None
+258	United Kingdom#United Kingdom#United Kingdom#	2010-04-14
+259	America#America#America#America#America#America#Spain#America#	2010-04-25
+260	America#	2010-04-04
+261	America#America#America#America#America#America#America#America#America#America#America#	2010-04-21
+262	America#China#Austria#America#Saudi Arabia#America#America#America#Austria#Saudi Arabia#America#Saudi Arabia#France#France#America#Austria#Austria#India#Saudi Arabia#	2010-04-21
+263	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-04-18
+264	America#America#America#America#America#America#	2010-04-21
+265	Germany#Germany#Germany#Germany#	None
+266	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#	2010-03-31
+267	America#America#America#Puerto Rico#America#Spain#Brazil#America#America#	None
+268	America#Germany#America#America#America#America#America#America#America#	None
+269	Australia#Australia#	None
+270	China#China#China#	None
+271	America#America#America#America#America#	None
+272	America#Mexico#Mexico#America#America#Mexico#America#Mexico#Mexico#Mexico#Mexico#Mexico#America#America#America#America#Mexico#Mexico#Mexico#Mexico#America#America#America#America#America#America#America#America#Mexico#	None
+273	Germany#America#Canada#America#America#America#Germany#Norway#America#Canada#Australia#America#Germany#	None
+274	America#America#America#America#America#America#America#	2010-03-03
+275	United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#United Kingdom#America#America#Ireland#United Kingdom#United Kingdom#United Kingdom#	2010-03-03
+276	United Kingdom#United Kingdom#Germany#Canada#Canada#United Kingdom#United Kingdom#	2010-04-14
+277	Spain#Spain#Spain#Spain#Spain#America#Spain#Spain#Spain#	2010-04-14
+278	Japan#Japan#Japan#Japan#Japan#Japan#Japan#America#Japan#Japan#Japan#	2010-04-11
+279	America#Germany#Spain#Switzerland#America#Spain#Germany#	2010-04-11
+280	America#America#America#America#America#America#America#America#America#Korea#America#America#America#America#America#America#Korea#America#America#America#America#America#America#America#America#America#America#America#	2010-07-19
+281	Korea#Korea#Korea#Korea#Korea#Japan#Russia#Russia#Russia#Korea#Korea#Korea#Japan#Japan#Russia#Korea#Korea#	None
+282	France#Canada#Canada#Canada#Canada#Canada#	None
+283	America#America#	None
+284	Japan#Japan#Canada#Canada#Japan#Canada#Canada#Japan#Canada#Canada#Canada#Japan#Japan#Canada#	None
+285	Belgium#France#France#United Kingdom#United Kingdom#France#	None
+286	America#America#America#America#	None
+287	America#America#America#America#America#America#	None
+288	America#America#America#America#Germany#America#America#America#America#America#America#America#America#America#America#Canada#America#America#America#America#America#America#Sweden#Sweden#America#America#America#America#America#America#	None
+289	America#America#America#America#America#America#America#Denmark#America#America#America#	None
+290	France#France#France#	None
+291	Austria#Austria#Austria#Austria#Austria#Austria#Austria#Austria#Austria#	None
+292	America#America#America#America#America#America#America#America#America#America#America#	2010-07-11
+293	America#America#America#Australia#America#America#America#	None
+294	America#America#America#America#America#America#	None
+295	America#Japan#Korea#America#Japan#America#Japan#Japan#America#America#America#	None
+296	America#America#America#America#America#Georgia#America#America#America#America#America#Germany#Germany#America#Germany#America#Georgia#America#America#	2010-05-30
+297	France#France#France#France#France#France#France#France#	None
+298	Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#Germany#	None
+299	France#America#United Kingdom#France#America#France#	None
+300	America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#	None
+301	Japan#Italy#Denmark#Germany#Chile#Denmark#Germany#Japan#Denmark#Chile#Japan#Germany#America#	None
+302	America#America#America#	None
+303	Poland#Poland#Poland#Poland#America#America#America#Switzerland#Ireland#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Poland#Poland#Poland#	2010-06-09
+304	United Kingdom#United Kingdom#United Kingdom#	None
+305	France#France#France#	None
+306	Italy#Netherlands#Spain#Spain#Germany#Netherlands#Netherlands#Netherlands#Sweden#Italy#Italy#France#Colombia#Germany#Germany#Sweden#United Kingdom#Italy#Spain#Germany#	None
+307	United Kingdom#United Kingdom#United Kingdom#Sweden#Sweden#United Kingdom#Sweden#Sweden#	2010-04-20
+308	Canada#Canada#Canada#Canada#Australia#Australia#United Kingdom#Canada#Canada#	2010-05-05
+309	America#America#America#America#America#America#America#America#America#	None
+310	America#America#America#America#France#America#United Kingdom#Germany#Germany#America#France#America#United Kingdom#America#United Kingdom#France#India#Germany#America#Germany#America#America#America#Austria#	2010-03-24
+311	America#America#America#America#America#	2010-04-28
+312	United Kingdom#United Kingdom#United Kingdom#	None
+313	United Kingdom#United Kingdom#United Kingdom#United Kingdom#	None
+314	Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Japan#Australia#Australia#Japan#Japan#Japan#Japan#Japan#	2010-05-12
+315	America#America#America#America#America#America#	None
+316	America#America#America#America#America#America#America#America#America#America#America#America#	None
+317	Germany#Germany#	None
+318	Germany#Germany#Germany#Germany#Germany#Germany#Germany#	None
+319	America#America#America#America#America#America#America#	2010-04-25
+320	United Kingdom#Canada#Canada#	2010-04-18
+321	Switzerland#France#Switzerland#Switzerland#	None
+322	America#America#America#	None
+323	Japan#Japan#Switzerland#Japan#Germany#Switzerland#Japan#Japan#Japan#Switzerland#	2010-04-18
+324	United Kingdom#United Kingdom#United Kingdom#Germany#Sweden#America#United Kingdom#	None
+325	America#America#America#America#	None
+326	Canada#Canada#Austria#Canada#Canada#	None
+327	America#America#America#America#America#America#America#America#	2010-06-23
+328	America#America#America#America#America#America#America#America#America#America#	None
+329	Sweden#Sweden#Sweden#	2010-05-30
+330		None
+331	America#America#	None
+332	United Kingdom#United Kingdom#United Kingdom#Japan#United Kingdom#United Kingdom#United Kingdom#United Kingdom#Japan#United Kingdom#United Kingdom#	2010-05-19
+333	America#America#America#America#America#America#America#Germany#America#Germany#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#America#Germany#America#America#America#America#America#America#	2010-06-16
