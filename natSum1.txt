@@ -32,7 +32,7 @@
 33	Norway@America@America@America@	1996-12-05
 34	America@India@Russia@Russia@Russia@Kyrgyzstan@	1996-12-05
 35	America@Canada@	1996-12-05
-36	America@United Kingdom@France@Japan@United Kingdom@Japan@Denmark@United Kingdom@India@France@	1996-12-05
+36	America@United Kingdom@France@Japan@United Kingdom@Japan@Denmark@United Kingdom@America@France@	1996-12-05
 37	America@America@America@	1996-12-05
 38	America@	1996-12-05
 39	Germany@	1996-12-05
@@ -92,7 +92,7 @@
 93	America@America@	1996-11-14
 94	America@Israel@America@Italy@Mali@America@	1996-11-14
 95	America@America@America@America@	1996-11-14
-96	America@Colombia@Argentina@America@India@America@Switzerland@	1996-11-14
+96	America@America@Argentina@America@India@America@Switzerland@	1996-11-14
 97	Switzerland@America@Switzerland@Spain@	1996-11-07
 98	America@America@America@America@	1996-11-07
 99	Norway@Switzerland@America@Russia@	1996-11-07
@@ -117,7 +117,7 @@
 118	Australia@Lithuania@Sweden@	1996-10-31
 119	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1996-10-31
 120	America@America@	1996-10-31
-121	Spain@France@India@France@United Kingdom@France@India@France@	1996-10-31
+121	Spain@France@China@France@United Kingdom@France@America@France@	1996-10-31
 122	United Kingdom@United Kingdom@United Kingdom@	1996-10-31
 123	America@	1996-10-31
 124	America@	1996-10-31
@@ -242,7 +242,7 @@
 246	America@Australia@America@America@America@	1996-09-05
 247	China@France@China@France@	1996-09-05
 248	America@America@America@America@	1996-09-05
-249	Belgium@Canada@Germany@France@Belgium@Germany@	1996-09-05
+249	Belgium@America@Germany@France@Belgium@Germany@	1996-09-05
 250	Germany@Germany@	1996-09-05
 251	America@America@	1996-09-05
 252	America@America@	1996-09-05
@@ -281,7 +281,7 @@
 285	America@America@America@America@America@Netherlands@	1996-08-22
 286	America@	1996-08-22
 287	France@America@	1996-08-22
-288	Iran@Belgium@America@France@India@France@Belgium@Japan@America@	1996-08-22
+288	Iran@Belgium@America@France@America@France@Belgium@Japan@America@	1996-08-22
 289	Switzerland@Switzerland@	1996-08-22
 290	America@	1996-08-22
 291	America@	1996-08-22
@@ -404,7 +404,7 @@
 408	America@Spain@	1996-07-04
 409	America@America@Australia@Finland@Finland@	1996-07-04
 410	America@America@	1996-07-04
-411	America@India@France@United Kingdom@Japan@	1996-07-04
+411	America@America@France@United Kingdom@Japan@	1996-07-04
 412	America@	1996-07-04
 413	United Kingdom@United Kingdom@United Kingdom@France@	1996-07-04
 414	Germany@United Kingdom@	1996-07-04
@@ -665,7 +665,7 @@
 670	Switzerland@America@America@	1996-03-07
 671	America@	1996-03-07
 672	Hungary@	1996-03-07
-673	India@Norway@America@America@	1996-03-07
+673	America@Norway@America@America@	1996-03-07
 674	America@France@America@	1996-03-07
 675	United Kingdom@America@	1996-03-07
 676	America@	1996-03-07
@@ -678,10 +678,10 @@
 683	America@America@	1996-03-07
 684	America@America@	1996-03-07
 685	America@America@Switzerland@	1996-03-07
-686	America@Morocco@Morocco@	1996-02-29
+686	America@	1996-02-29
 687	United Kingdom@Canada@	1996-02-29
 688	America@Spain@Netherlands@America@America@	1996-02-29
-689	India@United Kingdom@Spain@United Kingdom@	1996-02-29
+689	United Kingdom@United Kingdom@Spain@United Kingdom@	1996-02-29
 690	America@Israel@America@	1996-02-29
 691	Germany@	1996-02-29
 692	Denmark@Denmark@Denmark@Denmark@Iceland@	1996-02-29
@@ -714,7 +714,7 @@
 720	America@	1996-02-22
 721	Germany@Switzerland@	1996-02-22
 722	America@	1996-02-15
-723	America@America@India@France@	1996-02-15
+723	America@America@America@France@	1996-02-15
 724	America@America@America@	1996-02-15
 725	America@United Kingdom@United Kingdom@	1996-02-15
 726	America@	1996-02-15
@@ -795,7 +795,7 @@
 803	France@	1996-01-18
 804	America@	1996-01-18
 805	Australia@United Kingdom@	1996-01-11
-806	Sweden@Germany@	1996-01-11
+806	Sweden@France@	1996-01-11
 807	Russia@Russia@Russia@Russia@Germany@	1996-01-11
 808	France@	1996-01-11
 809	America@America@	1996-01-11
@@ -832,7 +832,7 @@
 840	Japan@	1995-12-28
 841	America@America@America@America@	1995-12-28
 842	America@	1995-12-28
-843	America@America@Mongolia@	1995-12-28
+843	America@America@	1995-12-28
 844	America@	1995-12-28
 845	United Kingdom@United Kingdom@United Kingdom@Sweden@	1995-12-28
 846	America@	1995-12-28
@@ -912,7 +912,7 @@
 922	America@Germany@America@	1995-11-23
 923	America@America@America@	1995-11-23
 924	America@	1995-11-23
-925	India@France@France@	1995-11-23
+925	China@France@France@	1995-11-23
 926	America@America@America@	1995-11-23
 927	America@America@	1995-11-23
 928	America@America@	1995-11-23
@@ -981,7 +981,7 @@
 993	America@Germany@America@America@America@America@Spain@Germany@Japan@France@Australia@America@Canada@Sweden@France@America@Japan@India@Canada@America@America@America@America@	1995-10-26
 994	America@America@	1995-10-26
 995	China@Poland@Australia@Sweden@	1995-10-26
-996	America@Panama@	1995-10-26
+996	America@	1995-10-26
 997	America@America@America@	1995-10-26
 998	America@America@	1995-10-26
 999	America@Brazil@	1995-10-26
@@ -1040,7 +1040,7 @@
 1052	Australia@Australia@Australia@	1995-10-05
 1053	Japan@United Kingdom@	1995-10-05
 1054	United Kingdom@	1995-10-05
-1055	France@India@France@	1995-10-05
+1055	France@America@France@	1995-10-05
 1056	United Kingdom@	1995-10-05
 1057	Switzerland@	1995-10-05
 1058	America@Israel@	1995-10-05
@@ -1397,7 +1397,7 @@
 1413	America@	1995-03-30
 1414	Mexico@Mexico@	1995-03-30
 1415	Norway@United Kingdom@Denmark@Iceland@	1995-03-30
-1416	Mongolia@America@America@Mongolia@	1995-03-30
+1416	America@America@	1995-03-30
 1417	America@America@	1995-03-30
 1418	Canada@Japan@	1995-03-30
 1419	America@	1995-03-30
@@ -1721,7 +1721,7 @@
 1739	Netherlands@	1994-10-13
 1740	United Kingdom@	1994-10-13
 1741	United Kingdom@	1994-10-13
-1742	India@France@Italy@America@	1994-10-13
+1742	America@France@Italy@America@	1994-10-13
 1743	America@Japan@	1994-10-13
 1744	Sweden@	1994-10-13
 1745	America@America@United Kingdom@	1994-10-13
@@ -1783,7 +1783,7 @@
 1802	America@	1994-09-15
 1803	America@Italy@	1994-09-15
 1804	America@	1994-09-15
-1805	India@France@	1994-09-15
+1805	China@France@	1994-09-15
 1806	America@Switzerland@Switzerland@Switzerland@	1994-09-15
 1807	America@	1994-09-15
 1808	United Kingdom@United Kingdom@	1994-09-15
@@ -1922,7 +1922,7 @@
 1942	America@America@	1994-07-07
 1943	Japan@Japan@	1994-07-07
 1944	United Kingdom@New Zealand@	1994-07-07
-1945	Japan@Japan@Japan@Japan@Canada@Japan@Japan@	1994-07-07
+1945	Japan@Japan@Japan@Japan@America@Japan@Japan@	1994-07-07
 1946	America@America@	1994-07-07
 1947	America@America@America@	1994-07-07
 1948	Canada@Canada@	1994-06-30
@@ -1944,7 +1944,7 @@
 1964	America@	1994-06-23
 1965	America@Norway@	1994-06-23
 1966	Austria@America@	1994-06-23
-1967	America@Argentina@	1994-06-23
+1967	America@America@	1994-06-23
 1968	Canada@	1994-06-23
 1969	United Kingdom@Netherlands@	1994-06-23
 1970	America@	1994-06-23
@@ -1968,7 +1968,7 @@
 1988	America@America@America@Switzerland@	1994-06-16
 1989	America@America@	1994-06-16
 1990	America@America@	1994-06-16
-1991	France@America@India@France@	1994-06-16
+1991	France@America@America@France@	1994-06-16
 1992	America@	1994-06-16
 1993	America@	1994-06-16
 1994	Australia@Georgia@Australia@	1994-06-16
@@ -2115,7 +2115,7 @@
 2135	America@America@	1994-03-31
 2136	America@America@America@	1994-03-31
 2137	Australia@	1994-03-31
-2138	India@France@France@China@France@	1994-03-31
+2138	America@France@France@China@France@	1994-03-31
 2139	Finland@	1994-03-31
 2140	America@	1994-03-31
 2141	Israel@America@	1994-03-31
@@ -2333,7 +2333,7 @@
 2355	America@Denmark@America@America@Germany@Finland@United Kingdom@America@	1993-12-09
 2356	America@America@Denmark@Iceland@France@	1993-12-09
 2357	America@United Kingdom@	1993-12-09
-2358	China@America@India@China@America@America@America@	1993-12-09
+2358	China@America@America@China@America@America@America@	1993-12-09
 2359	United Kingdom@	1993-12-09
 2360	America@America@	1993-12-09
 2361	America@	1993-12-09
@@ -2383,7 +2383,7 @@
 2405	America@Mexico@America@	1993-11-18
 2406	South Africa@United Kingdom@	1993-11-18
 2407	America@America@America@	1993-11-18
-2408	America@Japan@America@America@Estonia@Belgium@America@America@	1993-11-18
+2408	America@Japan@America@America@Estonia@Belgium@America@Egypt@	1993-11-18
 2409	United Kingdom@United Kingdom@Singapore@	1993-11-18
 2410	America@	1993-11-18
 2411	France@America@America@	1993-11-18
@@ -2444,7 +2444,7 @@
 2466	America@Brazil@	1993-10-21
 2467	America@Iceland@	1993-10-21
 2468	America@	1993-10-21
-2469	Germany@Canada@United Kingdom@America@	1993-10-21
+2469	Germany@United Kingdom@United Kingdom@America@	1993-10-21
 2470	Peru@	1993-10-21
 2471	America@	1993-10-21
 2472	Germany@	1993-10-21
@@ -2509,7 +2509,7 @@
 2531	Netherlands@America@	1993-09-23
 2532	America@America@	1993-09-23
 2533	United Kingdom@Peru@United Kingdom@	1993-09-23
-2534	America@Argentina@	1993-09-23
+2534	America@America@	1993-09-23
 2535	Switzerland@Switzerland@United Kingdom@Japan@America@	1993-09-23
 2536	America@America@	1993-09-23
 2537	America@	1993-09-23
@@ -2659,7 +2659,7 @@
 2681	Canada@Canada@America@	1993-07-22
 2682	America@Germany@Netherlands@Japan@	1993-07-22
 2683	America@America@America@	1993-07-22
-2684	America@America@Canada@America@	1993-07-22
+2684	America@America@America@America@	1993-07-22
 2685	Canada@	1993-07-22
 2686	United Kingdom@	1993-07-22
 2687	America@America@Germany@	1993-07-22
@@ -2867,7 +2867,7 @@
 2890	Australia@	1993-04-15
 2891	America@America@	1993-04-15
 2892	America@China@France@France@	1993-04-15
-2893	Mongolia@America@	1993-04-15
+2893	America@	1993-04-15
 2894	Canada@America@United Kingdom@	1993-04-15
 2895	United Kingdom@	1993-04-15
 2896	United Kingdom@	1993-04-15
@@ -2994,7 +2994,7 @@
 3017	United Kingdom@	1993-02-25
 3018	America@Germany@	1993-02-25
 3019	America@	1993-02-25
-3020	India@France@France@Germany@America@United Kingdom@	1993-02-25
+3020	China@France@France@Germany@America@United Kingdom@	1993-02-25
 3021	Sweden@Sweden@	1993-02-25
 3022	America@America@America@	1993-02-25
 3023	Germany@	1993-02-25
@@ -3014,7 +3014,7 @@
 3037	America@	1993-02-18
 3038	Germany@Germany@America@	1993-02-18
 3039	Sweden@Greece@Germany@	1993-02-18
-3040	France@India@France@India@France@France@	1993-02-18
+3040	France@America@France@America@France@France@	1993-02-18
 3041	America@America@	1993-02-18
 3042	America@	1993-02-18
 3043	Switzerland@Switzerland@America@Switzerland@Switzerland@	1993-02-18
@@ -3095,7 +3095,7 @@
 3121	America@America@Canada@	1993-01-14
 3122	America@America@	1993-01-14
 3123	Germany@Germany@Germany@Germany@	1993-01-14
-3124	India@France@France@Israel@	1993-01-14
+3124	America@France@France@Israel@	1993-01-14
 3125	Germany@	1993-01-14
 3126	America@	1993-01-14
 3127	America@America@	1993-01-14
@@ -3130,7 +3130,7 @@
 3157	United Kingdom@United Kingdom@	1992-12-31
 3158	United Kingdom@	1992-12-31
 3159	America@	1992-12-31
-3160	Japan@America@America@Estonia@America@	1992-12-31
+3160	Egypt@Japan@America@America@Estonia@America@	1992-12-31
 3161	America@Germany@	1992-12-31
 3162	United Kingdom@Sweden@	1992-12-31
 3163	Austria@Germany@Germany@	1992-12-31
@@ -3239,7 +3239,7 @@
 3267	America@	1992-11-12
 3268	America@	1992-11-12
 3269	America@Canada@America@America@	1992-11-12
-3270	United Kingdom@Switzerland@Panama@United Kingdom@	1992-11-12
+3270	United Kingdom@Switzerland@United Kingdom@	1992-11-12
 3271	America@America@	1992-11-12
 3272	America@America@Canada@	1992-11-12
 3273	Spain@	1992-11-12
@@ -3313,7 +3313,7 @@
 3343	America@	1992-10-15
 3344	Canada@Canada@Canada@Canada@	1992-10-15
 3345	America@America@	1992-10-15
-3346	India@France@France@United Kingdom@France@France@France@France@France@India@France@France@	1992-10-15
+3346	America@France@France@United Kingdom@France@France@France@France@France@America@France@France@	1992-10-15
 3347	United Kingdom@	1992-10-15
 3348	Germany@America@Japan@	1992-10-15
 3349	Canada@	1992-10-15
@@ -3336,7 +3336,7 @@
 3366	United Kingdom@	1992-10-08
 3367	America@	1992-10-01
 3368	United Kingdom@	1992-10-01
-3369	Finland@Vatican@Vatican@Finland@Finland@	1992-10-01
+3369	Finland@Finland@Finland@	1992-10-01
 3370	America@America@	1992-10-01
 3371	America@America@America@	1992-10-01
 3372	France@	1992-10-01
@@ -3516,7 +3516,7 @@
 3546	Brazil@United Kingdom@	1992-07-09
 3547	America@America@	1992-07-09
 3548	Germany@Germany@	1992-07-09
-3549	India@France@	1992-07-09
+3549	America@France@	1992-07-09
 3550	Germany@Germany@	1992-07-09
 3551	America@	1992-07-02
 3552	America@Israel@	1992-07-02
@@ -3791,7 +3791,7 @@
 3824	Germany@	1992-03-05
 3825	Germany@	1992-03-05
 3826	America@Spain@America@	1992-03-05
-3827	India@France@	1992-03-05
+3827	America@France@	1992-03-05
 3828	America@	1992-03-05
 3829	Canada@America@Mexico@Germany@America@	1992-03-05
 3830	Japan@	1992-03-05
@@ -3896,11 +3896,11 @@
 3929	United Kingdom@United Kingdom@	1992-01-16
 3930	United Kingdom@	1992-01-16
 3931	America@Lithuania@	1992-01-16
-3932	France@France@Colombia@Argentina@	1992-01-16
+3932	France@France@China@Argentina@	1992-01-16
 3933	America@	1992-01-16
 3934	Israel@	1992-01-16
 3935	Japan@	1992-01-16
-3936	India@Canada@	1992-01-16
+3936	America@Canada@	1992-01-16
 3937	America@America@America@America@Norway@	1992-01-16
 3938	United Kingdom@	1992-01-16
 3939	United Kingdom@Austria@	1992-01-16
@@ -4015,10 +4015,10 @@
 4049	Belgium@Philippines@	1991-11-14
 4050	America@	1991-11-14
 4051	Australia@America@	1991-11-14
-4052	America@India@America@	1991-11-14
+4052	America@America@America@	1991-11-14
 4053	America@	1991-11-14
 4054	Japan@	1991-11-14
-4055	France@United Kingdom@France@France@India@France@America@	1991-11-14
+4055	France@United Kingdom@France@France@America@France@America@	1991-11-14
 4056	America@	1991-11-14
 4057	America@	1991-11-14
 4058	America@	1991-11-14
@@ -4387,7 +4387,7 @@
 4426	America@America@America@	1991-06-13
 4427	America@	1991-06-13
 4428	America@America@	1991-06-13
-4429	Georgia@India@France@America@	1991-06-13
+4429	Georgia@America@France@America@	1991-06-13
 4430	America@	1991-06-13
 4431	America@America@America@America@	1991-06-13
 4432	America@America@	1991-06-13
@@ -4468,7 +4468,7 @@
 4508	United Kingdom@United Kingdom@	1991-05-09
 4509	America@America@	1991-05-02
 4510	America@America@	1991-05-02
-4511	India@France@America@France@Austria@France@France@Mexico@	1991-05-02
+4511	America@France@America@France@Austria@France@France@Mexico@	1991-05-02
 4512	America@	1991-05-02
 4513	America@	1991-05-02
 4514	Japan@	1991-05-02
@@ -4494,7 +4494,7 @@
 4534	America@Mexico@	1991-04-25
 4535	France@	1991-04-25
 4536	America@America@	1991-04-25
-4537	France@France@India@France@America@	1991-04-25
+4537	France@France@America@France@America@	1991-04-25
 4538	America@America@America@America@	1991-04-25
 4539	America@Japan@Japan@	1991-04-18
 4540	Japan@Netherlands@Mexico@Japan@	1991-04-18
@@ -4600,14 +4600,14 @@
 4640	America@	1991-03-07
 4641	Austria@America@America@	1991-03-07
 4642	United Kingdom@United Kingdom@	1991-03-07
-4643	Poland@Colombia@United Kingdom@	1991-03-07
+4643	Poland@United Kingdom@United Kingdom@	1991-03-07
 4644	America@	1991-03-07
 4645	France@	1991-03-07
 4646	Australia@	1991-03-07
 4647	America@America@America@	1991-03-07
 4648	Canada@Canada@America@	1991-03-07
 4649	America@America@	1991-03-07
-4650	Argentina@America@India@	1991-03-07
+4650	America@America@India@	1991-03-07
 4651	America@	1991-03-07
 4652	Japan@	1991-03-07
 4653	America@America@America@	1991-03-07
@@ -4884,7 +4884,7 @@
 4928	America@America@Uganda@	1990-10-11
 4929	United Kingdom@	1990-10-11
 4930	Sweden@Sweden@Sweden@	1990-10-11
-4931	India@France@India@India@India@France@	1990-10-11
+4931	China@France@America@America@America@France@	1990-10-11
 4932	America@America@	1990-10-11
 4933	Japan@	1990-10-11
 4934	Japan@Japan@	1990-10-11
@@ -5060,7 +5060,7 @@
 5105	America@America@America@	1990-08-09
 5106	Netherlands@	1990-08-09
 5107	United Kingdom@	1990-08-02
-5108	India@France@	1990-08-02
+5108	America@France@	1990-08-02
 5109	America@America@	1990-08-02
 5110	Belgium@	1990-08-02
 5111	America@France@France@	1990-08-02
@@ -5130,7 +5130,7 @@
 5175	America@	1990-07-12
 5176	America@	1990-07-12
 5177	America@	1990-07-12
-5178	China@France@India@France@	1990-07-12
+5178	China@France@China@France@	1990-07-12
 5179	United Kingdom@United Kingdom@America@	1990-07-12
 5180	America@	1990-07-12
 5181	Switzerland@	1990-07-12
@@ -5289,7 +5289,7 @@
 5336	America@	1990-05-10
 5337	Australia@Australia@	1990-05-10
 5338	America@	1990-05-10
-5339	India@France@France@	1990-05-10
+5339	America@France@France@	1990-05-10
 5340	America@America@America@	1990-05-10
 5341	America@	1990-05-10
 5342	America@America@America@	1990-05-10
@@ -5431,7 +5431,7 @@
 5480	Sweden@	1990-03-22
 5481	America@America@America@	1990-03-22
 5482	Japan@Japan@America@	1990-03-22
-5483	India@France@China@France@China@France@	1990-03-22
+5483	America@France@China@France@China@France@	1990-03-22
 5484	France@	1990-03-22
 5485	America@America@	1990-03-22
 5487	America@	1990-03-15
@@ -5555,7 +5555,7 @@
 5609	America@America@France@	1990-01-25
 5610	Slovakia@	1990-01-25
 5611	France@France@France@France@France@Italy@France@	1990-01-25
-5612	America@America@Israel@Israel@Vatican@America@	1990-01-25
+5612	America@America@Israel@Israel@America@	1990-01-25
 5613	France@America@	1990-01-25
 5614	United Kingdom@United Kingdom@	1990-01-25
 5615	United Kingdom@	1990-01-25
@@ -5577,7 +5577,7 @@
 5631	America@	1990-01-18
 5632		1990-01-18
 5633	France@France@	1990-01-18
-5634	America@Armenia@	1990-01-18
+5634	America@America@Armenia@	1990-01-18
 5635	Australia@Australia@	1990-01-18
 5636	America@America@America@	1990-01-18
 5637	South Africa@Mexico@America@	1990-01-18
@@ -5622,11 +5622,11 @@
 5676	America@	1990-01-04
 5677	America@America@America@	1990-01-04
 5678	Norway@America@America@	1990-01-04
-5679	France@France@America@	1990-01-04
+5679	France@France@America@America@	1990-01-04
 5680	Canada@	1990-01-04
 5681	America@America@America@	1990-01-04
 5682	America@America@	1990-01-04
-5683	America@Panama@	1990-01-04
+5683	America@	1990-01-04
 5684	America@	1990-01-04
 5685	America@America@	1990-01-04
 5686	America@America@	1990-01-04
@@ -5658,7 +5658,7 @@
 5713	France@France@	1989-12-28
 5714	America@	1989-12-28
 5715	France@	1989-12-28
-5716	America@America@India@France@China@France@	1989-12-28
+5716	America@America@China@France@China@France@	1989-12-28
 5717	France@France@	1989-12-28
 5718	Australia@Australia@Japan@	1989-12-28
 5719	Japan@Japan@Japan@Japan@	1989-11-30
@@ -5877,7 +5877,7 @@
 5933	United Kingdom@United Kingdom@	1989-09-07
 5934	America@America@	1989-09-07
 5935	America@	1989-09-07
-5936	Sweden@India@France@	1989-09-07
+5936	Sweden@China@France@	1989-09-07
 5937	America@	1989-09-07
 5938	America@America@America@	1989-09-07
 5940	America@America@America@	1989-09-07
@@ -5958,8 +5958,8 @@
 6015	United Kingdom@	1989-07-27
 6016	America@America@America@United Kingdom@	1989-07-27
 6017	United Kingdom@	1989-07-27
-6018	America@America@America@America@	1989-07-27
-6019	America@Panama@	1989-07-27
+6018	America@America@America@America@America@	1989-07-27
+6019	America@	1989-07-27
 6020	United Kingdom@United Kingdom@	1989-07-27
 6021	United Kingdom@	1989-07-27
 6022	America@	1989-07-27
@@ -6084,7 +6084,7 @@
 6142	United Kingdom@United Kingdom@United Kingdom@Costa Rica@Costa Rica@	1989-06-01
 6143	Italy@America@	1989-06-01
 6144	India@India@	1989-06-01
-6145	Puerto Rico@India@France@	1989-06-01
+6145	Puerto Rico@America@France@	1989-06-01
 6146	United Kingdom@Switzerland@Italy@	1989-06-01
 6147	America@America@	1989-06-01
 6148	United Kingdom@United Kingdom@United Kingdom@	1989-06-01
@@ -6166,7 +6166,7 @@
 6225	United Kingdom@Singapore@	1989-04-27
 6226	Sweden@America@Sweden@Thailand@	1989-04-27
 6227	America@America@America@	1989-04-27
-6228	India@France@France@France@	1989-04-27
+6228	America@France@France@France@	1989-04-27
 6229	Norway@Sweden@	1989-04-27
 6230	United Kingdom@	1989-04-27
 6231	United Kingdom@	1989-04-27
@@ -6754,7 +6754,7 @@
 6824	United Kingdom@United Kingdom@	1988-08-04
 6825	Canada@	1988-08-04
 6826	America@	1988-08-04
-6827	Canada@Canada@Canada@	1988-08-04
+6827	America@America@America@	1988-08-04
 6828	Spain@France@	1988-08-04
 6829	America@America@	1988-08-04
 6830	America@America@America@United Kingdom@	1988-08-04
@@ -6769,12 +6769,12 @@
 6839	Sweden@	1988-07-28
 6840	America@America@America@	1988-07-28
 6841	America@	1988-07-28
-6842	India@France@America@	1988-07-28
+6842	America@France@America@	1988-07-28
 6843	Finland@Denmark@	1988-07-28
 6844	America@America@	1988-07-28
-6845	Canada@Canada@	1988-07-28
+6845	America@America@	1988-07-28
 6846	America@	1988-07-28
-6847	Germany@	1988-07-28
+6847	France@	1988-07-28
 6848	America@	1988-07-28
 6849	America@	1988-07-28
 6850	America@	1988-07-21
@@ -6843,7 +6843,7 @@
 6914	Netherlands@	1988-06-30
 6915	United Kingdom@United Kingdom@	1988-06-30
 6916	America@	1988-06-30
-6917	India@France@	1988-06-30
+6917	America@France@	1988-06-30
 6918	Japan@Japan@Japan@	1988-06-30
 6919	America@America@America@	1988-06-30
 6920	Netherlands@	1988-06-30
@@ -7100,10 +7100,10 @@
 7171	America@	1988-03-24
 7172	America@Belgium@India@America@	1988-03-24
 7173	America@America@America@	1988-03-24
-7174	United Kingdom@Germany@	1988-03-24
+7174	United Kingdom@United Kingdom@	1988-03-24
 7175	America@France@	1988-03-24
 7176	America@	1988-03-24
-7177	India@	1988-03-24
+7177	United Kingdom@	1988-03-24
 7178	Australia@Australia@	1988-03-24
 7179	Australia@	1988-03-24
 7181	Canada@Canada@	1988-03-24
@@ -7264,7 +7264,7 @@
 7338	America@	1988-01-21
 7339	South Africa@	1988-01-21
 7340	Australia@Australia@	1988-01-21
-7341	America@Argentina@	1988-01-21
+7341	America@Georgia@	1988-01-21
 7342	America@America@America@	1988-01-21
 7343	France@	1988-01-21
 7344	United Kingdom@	1988-01-21
@@ -7272,7 +7272,7 @@
 7346	Japan@	1988-01-21
 7347	United Kingdom@	1988-01-21
 7348	Japan@Japan@Japan@Japan@	1988-01-21
-7349	India@France@India@France@	1988-01-21
+7349	America@France@America@France@	1988-01-21
 7350	America@America@America@	1988-01-21
 7351	America@	1988-01-21
 7352	America@America@America@	1988-01-14
@@ -7318,7 +7318,7 @@
 7393	Taiwan@America@United Kingdom@America@	1988-01-07
 7394	America@America@America@	1987-12-31
 7395	America@America@Switzerland@	1987-12-31
-7396	United Kingdom@Germany@	1987-12-31
+7396	United Kingdom@France@	1987-12-31
 7397	America@	1987-12-31
 7398	America@America@	1987-12-31
 7399	United Kingdom@United Kingdom@	1987-12-31
@@ -7338,7 +7338,7 @@
 7413	United Kingdom@	1987-12-31
 7414	America@America@America@	1987-12-31
 7415	America@America@Switzerland@	1987-12-31
-7416	United Kingdom@Germany@	1987-12-31
+7416	United Kingdom@France@	1987-12-31
 7417	America@	1987-12-31
 7418	America@America@	1987-12-31
 7419	United Kingdom@United Kingdom@	1987-12-31
@@ -7386,7 +7386,7 @@
 7461	France@	1987-12-10
 7462	Australia@	1987-12-10
 7463	Ireland@	1987-12-10
-7464	France@India@France@France@	1987-12-10
+7464	France@America@France@France@	1987-12-10
 7465	Italy@	1987-12-10
 7466	America@America@America@	1987-12-10
 7467	America@America@America@	1987-12-10
@@ -7524,7 +7524,7 @@
 7599	United Kingdom@United Kingdom@	1987-10-29
 7600	Italy@America@	1987-10-29
 7601	America@America@	1987-10-29
-7602	United Kingdom@India@France@America@Georgia@America@America@Japan@Japan@	1987-10-29
+7602	United Kingdom@America@France@America@Georgia@America@America@Japan@Japan@	1987-10-29
 7603	Belgium@Chile@France@France@America@America@France@	1987-10-22
 7604	India@	1987-10-22
 7605	Germany@	1987-10-22
@@ -7558,7 +7558,7 @@
 7633	America@Georgia@	1987-10-21
 7634	America@	1987-10-21
 7635	America@	1987-10-21
-7636	Panama@	1987-10-21
+7636	America@	1987-10-21
 7637	America@America@	1987-10-21
 7638	America@America@	1987-10-21
 7639	Japan@	1987-10-21
@@ -7635,7 +7635,7 @@
 7710	France@France@	1987-09-10
 7711	America@America@America@	1987-09-10
 7712	America@	1987-09-10
-7713	Canada@Colombia@	1987-09-10
+7713	Canada@United Kingdom@	1987-09-10
 7714	France@Norway@	1987-09-10
 7715	America@	1987-09-10
 7716	America@America@	1987-09-10
@@ -7666,7 +7666,7 @@
 7741	America@America@America@America@	1987-09-03
 7742	America@America@	1987-09-03
 7743	America@America@	1987-09-03
-7744	France@India@France@	1987-09-03
+7744	France@America@France@	1987-09-03
 7745	United Kingdom@	1987-09-03
 7747	America@America@	1987-09-03
 7748	Israel@America@	1987-08-27
@@ -7750,7 +7750,7 @@
 7826	America@America@Switzerland@America@Canada@America@	1987-07-16
 7827	America@	1987-07-16
 7828	America@America@	1987-07-16
-7829	France@India@France@France@Ukraine@France@	1987-07-16
+7829	France@America@France@France@Ukraine@France@	1987-07-16
 7830	United Kingdom@America@Italy@	1987-07-16
 7831	United Kingdom@	1987-07-16
 7832	America@Slovakia@United Kingdom@	1987-07-16
@@ -7783,7 +7783,7 @@
 7859	Israel@Israel@Denmark@	1987-07-02
 7860	Canada@United Kingdom@	1987-07-02
 7861	United Kingdom@	1987-07-02
-7862	India@France@France@	1987-07-02
+7862	America@France@France@	1987-07-02
 7863	United Kingdom@Spain@United Kingdom@	1987-07-02
 7864	America@America@	1987-07-02
 7865	America@	1987-07-02
@@ -7861,7 +7861,7 @@
 7937	America@France@Liberia@Togo@Brazil@Burkina Faso@France@	1987-06-04
 7938	United Kingdom@	1987-06-04
 7939	United Kingdom@	1987-06-04
-7940	India@France@	1987-06-04
+7940	America@France@	1987-06-04
 7941	America@	1987-06-04
 7942	Japan@Japan@Japan@	1987-06-04
 7943	Japan@Japan@Japan@	1987-06-04
@@ -7985,7 +7985,7 @@
 8063	Israel@	1987-04-23
 8064	United Kingdom@	1987-04-23
 8065	America@America@Mexico@America@	1987-04-22
-8066	Colombia@	1987-04-22
+8066	United Kingdom@	1987-04-22
 8067	United Kingdom@United Kingdom@United Kingdom@	1987-04-22
 8068	America@America@United Kingdom@	1987-04-22
 8069	America@America@	1987-04-22
@@ -8016,7 +8016,7 @@
 8094	America@	1987-04-09
 8095	Australia@America@America@America@	1987-04-09
 8096	America@	1987-04-09
-8097	India@America@United Kingdom@Norway@Canada@United Kingdom@	1987-04-09
+8097	America@America@United Kingdom@Norway@Canada@United Kingdom@	1987-04-09
 8098	France@France@	1987-04-09
 8099	Yugoslavia@Yugoslavia@	1987-04-09
 8100	America@	1987-04-09
@@ -8066,7 +8066,7 @@
 8145	America@America@	1987-03-26
 8146	United Kingdom@	1987-03-26
 8147	America@America@America@America@	1987-03-26
-8148	India@China@France@	1987-03-26
+8148	America@China@France@	1987-03-26
 8149	America@America@America@	1987-03-26
 8150	America@America@	1987-03-26
 8151	United Kingdom@	1987-03-26
@@ -8192,7 +8192,7 @@
 8271	United Kingdom@	1987-02-05
 8272	France@	1987-02-05
 8273	Japan@	1987-02-05
-8274	India@France@France@India@France@Belgium@France@Belgium@	1987-02-05
+8274	America@France@France@America@France@Belgium@France@Belgium@	1987-02-05
 8275	France@France@	1987-02-05
 8276	America@	1987-02-05
 8277	United Kingdom@United Kingdom@	1987-02-05
@@ -8352,7 +8352,7 @@
 8433	America@Canada@America@Canada@	1986-12-04
 8434	Papua New Guinea@Australia@Australia@	1986-12-04
 8435	Netherlands@	1986-12-04
-8436	India@France@	1986-12-04
+8436	America@France@	1986-12-04
 8437	America@America@Brazil@	1986-12-04
 8438	Germany@France@	1986-12-04
 8439	United Kingdom@United Kingdom@	1986-12-04
@@ -8489,7 +8489,7 @@
 8570	Canada@Netherlands@	1986-10-16
 8571	America@United Kingdom@United Kingdom@	1986-10-16
 8572	France@	1986-10-16
-8573	United Kingdom@Colombia@Australia@	1986-10-16
+8573	United Kingdom@United Kingdom@Australia@	1986-10-16
 8574	France@	1986-10-16
 8575	Spain@Argentina@	1986-10-16
 8576	United Kingdom@America@	1986-10-16
@@ -8579,7 +8579,7 @@
 8661	America@	1986-09-18
 8662	America@	1986-09-18
 8663	America@Japan@	1986-09-18
-8664	India@France@Georgia@	1986-09-18
+8664	America@France@Georgia@	1986-09-18
 8665	France@America@	1986-09-18
 8666	America@America@	1986-09-18
 8667	America@Poland@	1986-09-11
@@ -8759,7 +8759,7 @@
 8843	United Kingdom@Italy@	1986-07-17
 8844	United Kingdom@	1986-07-17
 8845	United Kingdom@	1986-07-17
-8846	India@France@France@Switzerland@America@	1986-07-17
+8846	America@France@France@Switzerland@America@	1986-07-17
 8847	France@	1986-07-17
 8848	America@	1986-07-17
 8849	United Kingdom@	1986-07-17
@@ -8903,7 +8903,7 @@
 8987	Australia@	1986-05-15
 8988	America@Brazil@	1986-05-15
 8989	America@	1986-05-15
-8990	India@France@Poland@	1986-05-15
+8990	America@France@Poland@	1986-05-15
 8991	China@France@	1986-05-15
 8992	United Kingdom@	1986-05-15
 8993	France@	1986-05-15
@@ -8951,7 +8951,7 @@
 9035	America@	1986-04-24
 9036	America@	1986-04-24
 9037	Poland@	1986-04-24
-9038	India@France@	1986-04-24
+9038	America@France@	1986-04-24
 9039	America@	1986-04-24
 9040	America@	1986-04-24
 9041	America@	1986-04-24
@@ -9041,7 +9041,7 @@
 9125	America@France@France@France@Norway@	1986-03-13
 9126	France@	1986-03-13
 9127	United Kingdom@	1986-03-13
-9128	Niger@United Kingdom@	1986-03-13
+9128	Nigeria@United Kingdom@	1986-03-13
 9129	United Kingdom@	1986-03-13
 9130	India@	1986-03-13
 9131	Sweden@	1986-03-13
@@ -9122,7 +9122,7 @@
 9206	France@	1986-02-13
 9207	Australia@Australia@	1986-02-13
 9208	New Zealand@New Zealand@New Zealand@America@	1986-02-13
-9209	Niger@Canada@Netherlands@	1986-02-13
+9209	Nigeria@Canada@Netherlands@	1986-02-13
 9210	Australia@Japan@	1986-02-13
 9211	Canada@	1986-02-13
 9212	Sweden@America@	1986-02-13
@@ -9143,7 +9143,7 @@
 9227	France@France@	1986-02-06
 9228	United Kingdom@	1986-02-06
 9229	America@	1986-02-06
-9230	United Kingdom@United Kingdom@Niger@	1986-02-06
+9230	United Kingdom@United Kingdom@Nigeria@	1986-02-06
 9232	Japan@	1986-02-06
 9233	United Kingdom@France@	1986-02-06
 9234	United Kingdom@	1986-02-06
@@ -9178,7 +9178,7 @@
 9263	Netherlands@Netherlands@Netherlands@Belgium@Netherlands@	1986-01-23
 9264	America@	1986-01-23
 9265	America@America@	1986-01-23
-9266	America@Panama@Japan@Japan@	1986-01-23
+9266	America@America@Japan@Japan@	1986-01-23
 9267	America@	1986-01-23
 9268	America@America@Italy@	1986-01-23
 9269	America@America@	1986-01-23
@@ -9307,7 +9307,7 @@
 9392	America@France@	1985-11-21
 9393	Italy@	1985-11-21
 9394	America@America@	1985-11-21
-9395	Switzerland@India@France@	1985-11-21
+9395	Switzerland@America@France@	1985-11-21
 9396	America@America@	1985-11-21
 9397	America@	1985-11-21
 9398	United Kingdom@Chile@Canada@	1985-11-14
@@ -9579,7 +9579,7 @@
 9664	America@America@America@	1985-08-15
 9665	Belgium@	1985-08-15
 9666	America@	1985-08-15
-9667	France@America@France@India@France@	1985-08-15
+9667	France@America@France@China@France@	1985-08-15
 9668	United Kingdom@	1985-08-15
 9669	Spain@France@France@	1985-08-08
 9670	America@America@	1985-08-08
@@ -9597,7 +9597,7 @@
 9682	America@America@America@	1985-08-08
 9683	America@America@	1985-08-08
 9684	Italy@Italy@	1985-08-08
-9685	France@France@India@France@	1985-08-08
+9685	France@France@America@France@	1985-08-08
 9686	Belgium@Belgium@	1985-08-08
 9687	America@	1985-08-01
 9688	France@	1985-08-01
@@ -9646,7 +9646,7 @@
 9731	America@	1985-07-18
 9732	America@	1985-07-18
 9733	America@America@America@	1985-07-18
-9734	France@India@France@France@	1985-07-18
+9734	France@America@France@France@	1985-07-18
 9735	America@America@	1985-07-18
 9736	America@	1985-07-18
 9737	Australia@America@	1985-07-18
@@ -9700,7 +9700,7 @@
 9785	United Kingdom@America@	1985-06-27
 9786	America@	1985-06-27
 9787	America@	1985-06-27
-9788	America@India@France@	1985-06-27
+9788	America@America@France@	1985-06-27
 9789	United Kingdom@	1985-06-27
 9790	Poland@	1985-06-27
 9791	America@America@	1985-06-27
@@ -9863,7 +9863,7 @@
 9948	Japan@America@	1985-05-02
 9949	America@	1985-05-02
 9950	America@America@	1985-05-02
-9951	India@France@France@	1985-05-02
+9951	America@France@France@	1985-05-02
 9952	America@United Kingdom@	1985-05-02
 9953	Switzerland@	1985-05-02
 9954	America@Hungary@	1985-04-25
@@ -9977,7 +9977,7 @@
 10062	Switzerland@Switzerland@America@	1985-03-21
 10063	United Kingdom@United Kingdom@America@	1985-03-21
 10064	United Kingdom@	1985-03-21
-10065	India@France@	1985-03-21
+10065	America@France@	1985-03-21
 10066	America@America@America@	1985-03-21
 10067	United Kingdom@	1985-03-21
 10068	Israel@	1985-03-21
@@ -10229,7 +10229,7 @@
 10315	America@America@	1984-12-13
 10316	Canada@Canada@	1984-12-13
 10317	Thailand@France@	1984-12-13
-10318	United Kingdom@Argentina@	1984-12-13
+10318	United Kingdom@United Kingdom@	1984-12-13
 10319	United Kingdom@United Kingdom@	1984-12-13
 10320	Switzerland@Italy@Switzerland@America@	1984-12-13
 10321	Canada@Canada@Canada@	1984-12-13
@@ -10328,7 +10328,7 @@
 10414	Switzerland@France@	1984-11-08
 10415	America@	1984-11-08
 10416	United Kingdom@Australia@United Kingdom@United Kingdom@	1984-11-08
-10417	France@India@France@America@United Kingdom@	1984-11-08
+10417	France@America@France@America@United Kingdom@	1984-11-08
 10418	America@	1984-11-08
 10419	United Kingdom@United Kingdom@	1984-11-08
 10420	America@	1984-11-08
@@ -10464,10 +10464,10 @@
 10550	America@Canada@America@Canada@	1984-09-13
 10551	United Kingdom@	1984-09-13
 10552	America@	1984-09-13
-10553	Germany@India@France@	1984-09-13
+10553	Germany@America@France@	1984-09-13
 10554	America@America@	1984-09-13
-10555	America@America@United Kingdom@Argentina@	1984-09-13
-10556	America@America@Argentina@United Kingdom@	1984-09-13
+10555	America@America@United Kingdom@United Kingdom@	1984-09-13
+10556	America@America@United Kingdom@United Kingdom@	1984-09-13
 10557	France@France@	1984-09-13
 10558	Israel@	1984-09-13
 10559	America@United Kingdom@	1984-09-13
@@ -10540,7 +10540,7 @@
 10626	United Kingdom@America@	1984-08-16
 10627	Australia@	1984-08-16
 10628	America@America@	1984-08-16
-10629	India@France@France@	1984-08-16
+10629	America@France@France@	1984-08-16
 10630	Denmark@Denmark@Denmark@America@	1984-08-16
 10631	United Kingdom@	1984-08-16
 10632	America@America@	1984-08-16
@@ -10794,7 +10794,7 @@
 10880	America@America@America@Italy@	1984-05-03
 10881	Sweden@	1984-05-03
 10882	America@America@	1984-05-03
-10883	America@United Kingdom@Argentina@	1984-05-03
+10883	America@United Kingdom@United Kingdom@	1984-05-03
 10884	United Kingdom@	1984-05-03
 10885	Spain@Spain@	1984-05-03
 10886	America@America@	1984-05-03
@@ -10853,7 +10853,7 @@
 10939	United Kingdom@Argentina@	1984-04-12
 10940	America@	1984-04-12
 10941	United Kingdom@	1984-04-12
-10942	India@France@	1984-04-12
+10942	America@France@	1984-04-12
 10943	Finland@	1984-04-12
 10944	America@America@	1984-04-12
 10945	America@	1984-04-12
@@ -10864,7 +10864,7 @@
 10950	America@America@America@	1984-04-12
 10951	United Kingdom@Israel@	1984-04-05
 10952	United Kingdom@	1984-04-05
-10953	United Kingdom@Germany@	1984-04-05
+10953	United Kingdom@France@	1984-04-05
 10954	United Kingdom@	1984-04-05
 10955	Netherlands@United Kingdom@	1984-04-05
 10956	France@France@France@Spain@	1984-04-05
@@ -10912,7 +10912,7 @@
 10998	America@America@	1984-03-22
 10999	America@	1984-03-22
 11000	America@	1984-03-22
-11001	India@France@France@	1984-03-22
+11001	China@France@France@	1984-03-22
 11002	India@	1984-03-15
 11003	America@	1984-03-15
 11004	France@	1984-03-15
@@ -11007,12 +11007,12 @@
 11094	America@	1984-02-16
 11095	America@Australia@	1984-02-16
 11096	Canada@India@	1984-02-16
-11097	America@France@India@France@United Kingdom@	1984-02-16
+11097	America@France@China@France@United Kingdom@	1984-02-16
 11098	America@	1984-02-16
 11099	United Kingdom@	1984-02-16
 11100	France@France@	1984-02-16
 11101	Australia@Australia@	1984-02-16
-11102	India@France@Italy@	1984-02-16
+11102	America@France@Italy@	1984-02-16
 11103	America@America@	1984-02-16
 11104	United Kingdom@	1984-02-16
 11105	France@France@	1984-02-16
@@ -11050,7 +11050,7 @@
 11137	Australia@Canada@	1984-01-26
 11138	America@	1984-01-26
 11139	France@France@China@France@	1984-01-26
-11140	France@China@France@India@France@France@	1984-01-26
+11140	France@China@France@America@France@France@	1984-01-26
 11141	Israel@	1984-01-26
 11142	America@America@	1984-01-26
 11143	Japan@	1984-01-26
@@ -11091,7 +11091,7 @@
 11178	France@	1984-01-12
 11179	America@	1984-01-12
 11180	Finland@United Kingdom@Finland@America@	1984-01-12
-11181	India@France@France@	1984-01-12
+11181	China@France@France@	1984-01-12
 11182	Australia@Australia@	1984-01-12
 11183	Switzerland@	1984-01-12
 11184	America@	1984-01-12
@@ -11155,7 +11155,7 @@
 11242	United Kingdom@United Kingdom@America@	1983-12-15
 11243	America@America@	1983-12-15
 11244	United Kingdom@	1983-12-15
-11245	China@France@India@France@France@	1983-12-15
+11245	China@France@America@France@France@	1983-12-15
 11246	France@France@	1983-12-15
 11247	America@America@	1983-12-15
 11248	United Kingdom@	1983-12-15
@@ -11217,7 +11217,7 @@
 11304	Netherlands@	1983-11-24
 11305	America@America@	1983-11-24
 11306	Kenya@Kenya@Kenya@	1983-11-24
-11307	America@Argentina@	1983-11-24
+11307	America@America@	1983-11-24
 11308	America@	1983-11-24
 11309	America@America@	1983-11-24
 11310	Canada@America@America@	1983-11-24
@@ -11228,7 +11228,7 @@
 11315	France@	1983-11-24
 11316	United Kingdom@United Kingdom@	1983-11-24
 11317	America@America@America@	1983-11-24
-11318	India@France@	1983-11-24
+11318	America@France@	1983-11-24
 11319	United Kingdom@United Kingdom@	1983-11-24
 11320	America@	1983-11-24
 11321	Canada@	1983-11-17
@@ -11284,7 +11284,7 @@
 11371	America@	1983-11-03
 11372	France@	1983-11-03
 11373	United Kingdom@	1983-11-03
-11374	France@Argentina@United Kingdom@	1983-11-03
+11374	France@United Kingdom@United Kingdom@	1983-11-03
 11375	United Kingdom@Argentina@	1983-11-03
 11376	America@	1983-11-03
 11377	United Kingdom@Sweden@United Kingdom@	1983-11-03
@@ -11303,7 +11303,7 @@
 11390	Netherlands@	1983-10-27
 11391	Sweden@	1983-10-27
 11392	Canada@	1983-10-27
-11393	America@India@France@	1983-10-27
+11393	America@America@France@	1983-10-27
 11394	France@	1983-10-27
 11395	Switzerland@	1983-10-27
 11396	United Kingdom@America@	1983-10-27
@@ -11325,7 +11325,7 @@
 11413	America@America@America@Sweden@	1983-10-20
 11414	America@	1983-10-20
 11415	United Kingdom@America@	1983-10-20
-11416	United Kingdom@India@France@United Kingdom@	1983-10-20
+11416	United Kingdom@America@France@United Kingdom@	1983-10-20
 11417	New Zealand@	1983-10-20
 11418	America@	1983-10-20
 11419	Japan@	1983-10-20
@@ -11397,7 +11397,7 @@
 11485	America@	1983-09-29
 11486	America@	1983-09-22
 11487	Japan@Japan@	1983-09-22
-11488	Colombia@United Kingdom@United Kingdom@	1983-09-22
+11488	United Kingdom@United Kingdom@United Kingdom@	1983-09-22
 11489	America@	1983-09-22
 11490	Australia@	1983-09-22
 11491	United Kingdom@	1983-09-22
@@ -11448,7 +11448,7 @@
 11536	America@	1983-09-08
 11537	Canada@	1983-09-08
 11538	United Kingdom@	1983-09-08
-11539	India@France@France@	1983-09-08
+11539	America@France@France@	1983-09-08
 11540	United Kingdom@	1983-09-08
 11541	Japan@	1983-09-08
 11542	Japan@	1983-09-08
@@ -11513,7 +11513,7 @@
 11601	America@	1983-08-18
 11602	Netherlands@America@	1983-08-18
 11603	United Kingdom@	1983-08-18
-11604	Canada@America@America@Argentina@	1983-08-18
+11604	Canada@America@America@America@	1983-08-18
 11605	America@America@	1983-08-18
 11606	America@	1983-08-11
 11607	United Kingdom@Japan@America@	1983-08-11
@@ -11573,9 +11573,9 @@
 11661	Macau@Australia@	1983-07-28
 11662	Venezuela@	1983-07-28
 11663	America@	1983-07-28
-11664	India@France@	1983-07-28
+11664	America@France@	1983-07-28
 11665	America@America@	1983-07-28
-11666	India@France@	1983-07-28
+11666	America@France@	1983-07-28
 11667	America@United Kingdom@	1983-07-28
 11668	America@America@America@	1983-07-28
 11669	Germany@France@	1983-07-28
@@ -11668,7 +11668,7 @@
 11757	America@	1983-06-30
 11758	America@	1983-06-30
 11759	America@Switzerland@	1983-06-30
-11760	India@France@Israel@	1983-06-30
+11760	China@France@Israel@	1983-06-30
 11761	Switzerland@	1983-06-23
 11762	Mexico@	1983-06-23
 11763	America@	1983-06-23
@@ -11717,7 +11717,7 @@
 11807	Australia@	1983-06-09
 11808	Australia@Australia@	1983-06-09
 11809	America@	1983-06-09
-11810	Niger@	1983-06-09
+11810	Nigeria@	1983-06-09
 11811	United Kingdom@United Kingdom@	1983-06-09
 11812	America@France@	1983-06-09
 11813	America@	1983-06-09
@@ -11768,7 +11768,7 @@
 11858	United Kingdom@	1983-05-26
 11859	America@	1983-05-26
 11860	America@	1983-05-26
-11861	Norway@	1983-05-26
+11861	Egypt@Norway@Egypt@	1983-05-26
 11862	America@	1983-05-26
 11863	America@	1983-05-26
 11864	America@America@America@	1983-05-26
@@ -11784,7 +11784,7 @@
 11874	Netherlands@Australia@	1983-05-19
 11875	Brazil@Canada@	1983-05-19
 11876	United Kingdom@United Kingdom@United Kingdom@	1983-05-19
-11877	United Kingdom@Canada@	1983-05-19
+11877	United Kingdom@United Kingdom@	1983-05-19
 11878	Canada@	1983-05-19
 11879	United Kingdom@	1983-05-19
 11880	United Kingdom@	1983-05-19
@@ -11856,7 +11856,7 @@
 11946	Israel@America@America@	1983-04-21
 11947	America@India@	1983-04-21
 11948	America@	1983-04-21
-11949	United Kingdom@Colombia@	1983-04-21
+11949	United Kingdom@United Kingdom@	1983-04-21
 11950	America@France@	1983-04-21
 11951	United Kingdom@	1983-04-21
 11952	United Kingdom@Poland@Italy@	1983-04-14
@@ -11868,7 +11868,7 @@
 11958	China@France@	1983-04-14
 11959	America@America@America@France@	1983-04-14
 11960	America@	1983-04-14
-11961	India@France@China@France@France@	1983-04-14
+11961	America@France@China@France@France@	1983-04-14
 11962	United Kingdom@	1983-04-14
 11963	America@	1983-04-14
 11964	America@	1983-04-14
@@ -11934,7 +11934,7 @@
 12025	United Kingdom@	1983-03-24
 12026	Canada@Canada@	1983-03-24
 12027	France@France@America@America@	1983-03-24
-12028	India@France@	1983-03-24
+12028	America@France@	1983-03-24
 12029	United Kingdom@France@United Kingdom@United Kingdom@Israel@	1983-03-24
 12030	United Kingdom@	1983-03-24
 12031	America@America@Australia@	1983-03-17
@@ -12178,7 +12178,7 @@
 12270	Belgium@Belgium@France@	1982-12-23
 12271	America@America@	1982-12-23
 12272	America@America@America@	1982-12-23
-12273	United Kingdom@France@Tunisia@	1982-12-23
+12273	United Kingdom@France@	1982-12-23
 12274	America@	1982-12-23
 12275	Netherlands@Netherlands@United Kingdom@America@	1982-12-23
 12276	America@America@	1982-12-23
@@ -12614,7 +12614,7 @@
 12706	Netherlands@America@	1982-08-05
 12707	America@America@America@	1982-08-05
 12708	Canada@America@Canada@	1982-08-05
-12709	India@France@	1982-08-05
+12709	China@France@	1982-08-05
 12710	France@France@	1982-08-05
 12711	United Kingdom@	1982-08-05
 12712	America@America@	1982-08-05
@@ -12626,12 +12626,12 @@
 12718	United Kingdom@New Zealand@United Kingdom@New Zealand@	1982-07-29
 12719	America@	1982-07-29
 12720	United Kingdom@America@	1982-07-29
-12721	America@Argentina@America@Canada@	1982-07-29
+12721	America@America@America@Canada@	1982-07-29
 12722	America@France@	1982-07-29
 12723	America@	1982-07-29
 12724	United Kingdom@	1982-07-29
 12725	America@	1982-07-29
-12726	France@India@France@France@France@	1982-07-29
+12726	France@America@France@France@France@	1982-07-29
 12727	America@America@	1982-07-29
 12728	United Kingdom@America@America@	1982-07-29
 12729	Japan@Japan@	1982-07-29
@@ -12676,7 +12676,7 @@
 12768	America@America@	1982-07-15
 12769	America@America@America@	1982-07-15
 12770	America@	1982-07-15
-12771	India@France@	1982-07-15
+12771	America@France@	1982-07-15
 12772	France@	1982-07-15
 12773	Israel@America@America@	1982-07-15
 12774	America@America@	1982-07-15
@@ -12799,7 +12799,7 @@
 12891	Canada@	1982-06-03
 12892	Israel@United Kingdom@	1982-06-03
 12893	America@	1982-06-03
-12894		1982-06-03
+12894	Egypt@	1982-06-03
 12895	France@	1982-06-03
 12896	United Kingdom@	1982-06-03
 12897	Australia@	1982-06-03
@@ -12893,7 +12893,7 @@
 12986	Australia@	1982-04-29
 12987	Mexico@	1982-04-29
 12988	America@America@	1982-04-29
-12989	Niger@America@Fiji@America@	1982-04-29
+12989	Nigeria@America@Fiji@America@	1982-04-29
 12990	United Kingdom@America@	1982-04-29
 12991	America@	1982-04-29
 12992	America@France@	1982-04-29
@@ -12961,7 +12961,7 @@
 13054	America@America@	1982-04-08
 13055	Mexico@	1982-04-08
 13056	Netherlands@	1982-04-08
-13057	Australia@Indonesia@Indonesia@	1982-04-08
+13057	Australia@	1982-04-08
 13058	United Kingdom@United Kingdom@	1982-04-08
 13059	Poland@Poland@	1982-04-08
 13060	America@	1982-04-08
@@ -13032,7 +13032,7 @@
 13125	United Kingdom@United Kingdom@	1982-03-18
 13126	United Kingdom@	1982-03-18
 13127	France@Belgium@	1982-03-18
-13128	India@France@	1982-03-18
+13128	China@France@	1982-03-18
 13129	France@	1982-03-18
 13130	France@	1982-03-18
 13131	United Kingdom@France@Canada@	1982-03-18
@@ -13096,7 +13096,7 @@
 13189	United Kingdom@	1982-02-25
 13190	United Kingdom@Switzerland@Israel@	1982-02-25
 13191	America@	1982-02-25
-13192	India@France@France@	1982-02-25
+13192	America@France@France@	1982-02-25
 13193	America@	1982-02-25
 13194	America@	1982-02-25
 13195	America@	1982-02-25
@@ -13104,7 +13104,7 @@
 13197	Sweden@France@	1982-02-25
 13198	America@	1982-02-25
 13199	France@France@	1982-02-25
-13200	United Kingdom@Argentina@	1982-02-25
+13200	United Kingdom@United Kingdom@	1982-02-25
 13201	Switzerland@United Kingdom@	1982-02-25
 13202	United Kingdom@	1982-02-18
 13203	America@	1982-02-18
@@ -13166,7 +13166,7 @@
 13259	United Kingdom@	1981-10-22
 13260	United Kingdom@	1981-10-22
 13261	Iran@America@	1981-10-22
-13262	India@France@	1981-10-22
+13262	America@France@	1981-10-22
 13263	Austria@	1981-10-22
 13264	America@Australia@United Kingdom@	1981-10-22
 13265	America@	1981-10-22
@@ -13186,7 +13186,7 @@
 13279	Australia@Australia@	1981-10-15
 13280	Japan@	1981-10-15
 13281	America@America@America@	1981-10-15
-13282	India@France@France@	1981-10-15
+13282	America@France@France@	1981-10-15
 13283	Switzerland@	1981-10-15
 13284	America@	1981-10-15
 13285	America@America@America@	1981-10-15
@@ -13268,7 +13268,7 @@
 13361	Japan@	1981-09-17
 13362	Sweden@Sweden@America@	1981-09-17
 13363	Canada@	1981-09-17
-13364	India@France@	1981-09-17
+13364	America@France@	1981-09-17
 13365	America@	1981-09-17
 13366	Belgium@Belgium@	1981-09-17
 13367	America@	1981-09-17
@@ -13334,16 +13334,16 @@
 13427	America@Canada@	1981-08-27
 13428	America@	1981-08-27
 13429	France@	1981-08-27
-13430	Argentina@	1981-08-27
+13430	United Kingdom@	1981-08-27
 13431	America@	1981-08-27
-13432	India@France@France@	1981-08-27
+13432	China@France@France@	1981-08-27
 13433	Japan@	1981-08-27
 13434	Sweden@America@Sweden@Sweden@	1981-08-27
 13435	United Kingdom@	1981-08-27
 13436	United Kingdom@France@	1981-08-27
 13437	America@America@	1981-08-27
 13438	America@America@	1981-08-27
-13439	India@France@	1981-08-27
+13439	America@France@	1981-08-27
 13440	Israel@	1981-08-27
 13441	United Kingdom@United Kingdom@United Kingdom@	1981-08-27
 13442	America@	1981-08-20
@@ -13405,7 +13405,7 @@
 13498	United Kingdom@	1981-07-30
 13499	United Kingdom@United Kingdom@Canada@	1981-07-30
 13500	United Kingdom@	1981-07-30
-13501	Iran@France@Morocco@	1981-07-30
+13501	Iran@France@	1981-07-30
 13502	France@	1981-07-30
 13503	America@	1981-07-30
 13504	United Kingdom@	1981-07-30
@@ -13522,7 +13522,7 @@
 13615	France@	1981-07-02
 13616	United Kingdom@United Kingdom@	1981-07-02
 13617	France@	1981-07-02
-13618	India@France@France@Sweden@Sweden@	1981-07-02
+13618	China@France@France@Sweden@Sweden@	1981-07-02
 13619	United Kingdom@America@	1981-07-02
 13620	America@	1981-07-02
 13621	America@America@	1981-07-02
@@ -13545,7 +13545,7 @@
 13638	France@	1981-06-25
 13639	America@France@	1981-06-25
 13640	America@	1981-06-25
-13641	India@France@	1981-06-25
+13641	China@France@	1981-06-25
 13642	America@America@	1981-06-25
 13643	Denmark@Denmark@	1981-06-25
 13644	America@Japan@America@	1981-06-25
@@ -13561,7 +13561,7 @@
 13654	United Kingdom@	1981-06-18
 13655	United Kingdom@	1981-06-18
 13656	United Kingdom@United Kingdom@	1981-06-18
-13657	India@France@United Kingdom@	1981-06-18
+13657	America@France@United Kingdom@	1981-06-18
 13658	Belgium@	1981-06-18
 13659	America@	1981-06-18
 13660	United Kingdom@	1981-06-18
@@ -13618,7 +13618,7 @@
 13711	United Kingdom@United Kingdom@United Kingdom@	1981-05-28
 13712	United Kingdom@	1981-05-28
 13713	United Kingdom@United Kingdom@	1981-05-28
-13714	India@France@	1981-05-28
+13714	America@France@	1981-05-28
 13715	Israel@	1981-05-28
 13716	United Kingdom@	1981-05-28
 13717	America@	1981-05-28
@@ -13872,7 +13872,7 @@
 13965	United Kingdom@Belgium@	1980-03-20
 13966	United Kingdom@Poland@	1980-03-13
 13967	Switzerland@	1980-03-13
-13968	United Kingdom@Germany@America@	1980-03-13
+13968	United Kingdom@France@America@	1980-03-13
 13969	United Kingdom@France@	1980-03-13
 13970	America@America@	1980-03-06
 13971	America@America@	1980-03-06
@@ -13992,7 +13992,7 @@
 14085		1979-08-09
 14086	Switzerland@America@	1979-08-02
 14087	America@	1979-08-02
-14088	United Kingdom@United Kingdom@Ireland@	1979-07-26
+14088	Egypt@United Kingdom@United Kingdom@Ireland@	1979-07-26
 14089	Switzerland@	1979-07-26
 14090	America@	1979-07-26
 14091	America@	1979-07-19
@@ -14196,10 +14196,10 @@
 14290	Switzerland@	1978-11-02
 14291	United Kingdom@	1978-11-02
 14292	United Kingdom@	1978-11-02
-14293	America@America@	1978-11-02
+14293	America@America@America@	1978-11-02
 14294	America@America@	1978-11-02
 14295	United Kingdom@	1978-11-02
-14296	America@Canada@Canada@	1978-11-02
+14296	America@Canada@Canada@Egypt@	1978-11-02
 14297	America@America@	1978-11-02
 14298	America@South Africa@	1978-11-02
 14299	Malawi@	1978-11-02
@@ -14358,7 +14358,7 @@
 14452	America@	1978-09-14
 14453	Belgium@	1978-09-14
 14454	America@	1978-09-14
-14455		1978-09-14
+14455	America@	1978-09-14
 14456	Switzerland@Switzerland@	1978-09-14
 14457	India@	1978-09-14
 14458	United Kingdom@	1978-09-07
@@ -14639,7 +14639,7 @@
 14733	America@America@	1978-07-06
 14734	United Kingdom@	1978-07-06
 14735	Sierra Leone@	1978-07-06
-14736	United Kingdom@United Kingdom@Argentina@	1978-07-06
+14736	United Kingdom@United Kingdom@United Kingdom@	1978-07-06
 14737	United Kingdom@	1978-07-06
 14738	America@America@	1978-07-06
 14739	Canada@	1978-07-06
@@ -14748,7 +14748,7 @@
 14842	Denmark@Denmark@	1978-06-08
 14843	Belgium@	1978-06-08
 14844	Canada@	1978-06-08
-14845	Niger@Canada@	1978-06-08
+14845	Nigeria@Canada@	1978-06-08
 14846	Australia@	1978-06-08
 14847	United Kingdom@France@France@	1978-06-08
 14848	America@	1978-06-08
@@ -14853,7 +14853,7 @@
 14947	United Kingdom@United Kingdom@	1978-05-11
 14948	Sweden@	1978-05-11
 14949	United Kingdom@	1978-05-11
-14950	United Kingdom@United Kingdom@Argentina@	1978-05-11
+14950	United Kingdom@United Kingdom@United Kingdom@	1978-05-11
 14951	America@America@Australia@	1978-05-04
 14952	South Africa@	1978-05-04
 14953	United Kingdom@United Kingdom@	1978-05-04
@@ -14879,7 +14879,7 @@
 14973	America@France@	1978-04-27
 14974	America@America@Australia@	1978-04-27
 14975	United Kingdom@	1978-04-27
-14976	Niger@	1978-04-27
+14976	Nigeria@	1978-04-27
 14977	Australia@Australia@	1978-04-27
 14978	United Kingdom@	1978-04-27
 14979	United Kingdom@United Kingdom@America@	1978-04-27
@@ -14894,7 +14894,7 @@
 14988	America@	1978-04-27
 14989	America@America@	1978-04-27
 14990	America@	1978-04-27
-14991		1978-04-27
+14991	America@	1978-04-27
 14992	America@	1978-04-27
 14993	America@	1978-04-27
 14994	Canada@	1978-04-27
@@ -15150,7 +15150,7 @@
 15244	United Kingdom@	1978-02-16
 15245	America@America@	1978-02-16
 15246	United Kingdom@United Kingdom@United Kingdom@	1978-02-16
-15247	Chile@Vatican@	1978-02-16
+15247	Chile@	1978-02-16
 15248	United Kingdom@	1978-02-16
 15249	America@	1978-02-16
 15250	Belgium@	1978-02-16
@@ -15200,7 +15200,7 @@
 15294	America@Japan@	1978-02-02
 15295	America@	1978-02-02
 15296	America@	1978-02-02
-15297	America@Argentina@America@	1978-02-02
+15297	America@America@America@	1978-02-02
 15298	United Kingdom@	1978-02-02
 15299	United Kingdom@United Kingdom@	1978-02-02
 15300	United Kingdom@United Kingdom@United Kingdom@United Kingdom@	1978-02-02
@@ -15208,7 +15208,7 @@
 15302	America@America@	1978-02-02
 15303	Switzerland@Switzerland@	1978-02-02
 15304	America@America@	1978-02-02
-15305	America@America@	1978-02-02
+15305	America@America@America@	1978-02-02
 15306	Russia@	1978-02-02
 15307	America@	1978-02-02
 15308	Netherlands@Belgium@	1978-02-02
@@ -15256,7 +15256,7 @@
 15350	America@America@America@	1978-01-19
 15351	United Kingdom@	1978-01-19
 15352	America@	1978-01-19
-15353		1978-01-19
+15353	America@	1978-01-19
 15354	Israel@Israel@Israel@Netherlands@	1978-01-19
 15355	Canada@	1978-01-19
 15356	United Kingdom@	1978-01-19
@@ -15322,7 +15322,7 @@
 15416	Canada@	1978-01-05
 15417	United Kingdom@United Kingdom@	1978-01-05
 15418	Finland@Finland@	1978-01-05
-15419	Sudan@	1978-01-05
+15419		1978-01-05
 15420	United Kingdom@United Kingdom@	1978-01-05
 15421	America@	1978-01-05
 15422	United Kingdom@	1978-01-05
@@ -15363,7 +15363,7 @@
 15457	America@United Kingdom@United Kingdom@	1977-12-22
 15458	Germany@	1977-12-22
 15459	America@	1977-12-22
-15460	India@France@	1977-12-22
+15460	America@France@	1977-12-22
 15461	America@Japan@	1977-12-22
 15462	United Kingdom@	1977-12-22
 15463	Hungary@Hungary@	1977-12-22
@@ -15616,7 +15616,7 @@
 15710	Switzerland@Switzerland@	1977-10-13
 15711	Sweden@Sweden@	1977-10-13
 15712	France@	1977-10-13
-15713	India@France@	1977-10-13
+15713	America@France@	1977-10-13
 15714	France@America@	1977-10-13
 15715	America@	1977-10-13
 15716	Georgia@America@	1977-10-13
@@ -15707,7 +15707,7 @@
 15801	America@America@Italy@	1977-09-22
 15802	Denmark@	1977-09-22
 15803	United Kingdom@United Kingdom@	1977-09-22
-15804	India@France@	1977-09-22
+15804	America@France@	1977-09-22
 15805	America@	1977-09-22
 15806	United Kingdom@	1977-09-22
 15807	America@	1977-09-22
@@ -15727,7 +15727,7 @@
 15821	United Kingdom@Germany@United Kingdom@	1977-09-15
 15822	America@United Kingdom@	1977-09-15
 15823	America@	1977-09-15
-15824		1977-09-15
+15824	America@	1977-09-15
 15825	America@	1977-09-15
 15826	America@	1977-09-15
 15827	America@	1977-09-15
@@ -15755,7 +15755,7 @@
 15849	Ireland@	1977-09-08
 15850	United Kingdom@United Kingdom@	1977-09-08
 15851		1977-09-08
-15852	America@	1977-09-08
+15852	America@Egypt@	1977-09-08
 15853	America@	1977-09-08
 15854	United Kingdom@	1977-09-08
 15855	United Kingdom@	1977-09-08
@@ -16127,7 +16127,7 @@
 16221	America@	1977-06-16
 16222	Poland@	1977-06-16
 16223	America@	1977-06-16
-16224	America@	1977-06-16
+16224	America@America@	1977-06-16
 16225	Israel@	1977-06-16
 16226	France@	1977-06-16
 16227	United Kingdom@	1977-06-16
@@ -16168,7 +16168,7 @@
 16262	United Kingdom@	1977-06-09
 16263	America@	1977-06-09
 16264	Canada@	1977-06-09
-16265	France@France@Colombia@America@	1977-06-09
+16265	France@France@United Kingdom@America@	1977-06-09
 16266	United Kingdom@	1977-06-02
 16267	United Kingdom@	1977-06-02
 16268	United Kingdom@	1977-06-02
@@ -16371,7 +16371,7 @@
 16465	India@	1977-04-21
 16466	South Africa@	1977-04-21
 16467	France@Australia@	1977-04-21
-16468		1977-04-21
+16468	America@	1977-04-21
 16469	America@	1977-04-21
 16470	Canada@America@	1977-04-21
 16471	America@	1977-04-21
@@ -16433,7 +16433,7 @@
 16527	United Kingdom@	1977-04-07
 16528	United Kingdom@	1977-04-07
 16529	Netherlands@	1977-04-07
-16530	Panama@	1977-04-07
+16530	America@	1977-04-07
 16531	Canada@	1977-04-07
 16532	United Kingdom@	1977-04-07
 16533	France@America@	1977-04-07
@@ -16507,7 +16507,7 @@
 16601	Japan@Japan@	1977-03-24
 16602	America@	1977-03-24
 16603	America@America@	1977-03-24
-16604	India@France@	1977-03-24
+16604	America@France@	1977-03-24
 16605	Denmark@Denmark@Norway@	1977-03-24
 16606	America@	1977-03-24
 16607	Japan@Japan@United Kingdom@	1977-03-17
@@ -16563,7 +16563,7 @@
 16657	France@	1977-03-10
 16658	America@	1977-03-10
 16659	America@	1977-03-10
-16660	America@Germany@	1977-03-10
+16660	America@Germany@America@	1977-03-10
 16661	United Kingdom@	1977-03-03
 16662	United Kingdom@	1977-03-03
 16663	India@India@	1977-03-03
@@ -16575,7 +16575,7 @@
 16669	South Africa@South Africa@	1977-03-03
 16670	United Kingdom@	1977-03-03
 16671	Australia@	1977-03-03
-16672	India@France@United Kingdom@United Kingdom@	1977-03-03
+16672	America@France@United Kingdom@United Kingdom@	1977-03-03
 16673	America@	1977-03-03
 16674	France@France@	1977-03-03
 16675	America@	1977-03-03
@@ -16661,7 +16661,7 @@
 16755	Japan@	1977-02-10
 16756	America@	1977-02-10
 16757	America@America@	1977-02-10
-16758	Canada@	1977-02-10
+16758	America@	1977-02-10
 16759	America@	1977-02-10
 16760	Australia@United Kingdom@Australia@Papua New Guinea@	1977-02-10
 16761	United Kingdom@United Kingdom@Australia@	1977-02-10
@@ -16701,7 +16701,7 @@
 16795	United Kingdom@	1977-02-03
 16796	America@	1977-02-03
 16797	France@	1977-02-03
-16798	India@France@	1977-02-03
+16798	America@France@	1977-02-03
 16799	United Kingdom@	1977-02-03
 16800	United Kingdom@	1977-02-03
 16801	Canada@	1977-02-03
@@ -16805,7 +16805,7 @@
 16900	Australia@Australia@Australia@	1977-01-13
 16901	America@	1977-01-13
 16902	Belgium@	1977-01-13
-16903	India@France@	1977-01-13
+16903	America@France@	1977-01-13
 16904	Norway@Norway@Norway@	1977-01-13
 16905	America@	1977-01-13
 16906	Israel@	1977-01-13
@@ -16837,7 +16837,7 @@
 16932	America@	1977-01-06
 16933	America@	1977-01-06
 16934	America@America@	1977-01-06
-16935	Georgia@America@Malta@America@Hungary@	1977-01-06
+16935	Georgia@America@America@Hungary@	1977-01-06
 16936	Italy@France@France@Italy@Italy@	1977-01-06
 16937	America@	1977-01-06
 16938	Italy@	1977-01-06
@@ -16881,7 +16881,7 @@
 16976	America@	1976-12-23
 16977	Switzerland@	1976-12-23
 16978	Sweden@Switzerland@	1976-12-23
-16979	Brazil@United Kingdom@India@France@	1976-12-23
+16979	Brazil@United Kingdom@America@France@	1976-12-23
 16980	America@America@	1976-12-23
 16981	America@America@	1976-12-23
 16982	America@	1976-12-23
@@ -16911,7 +16911,7 @@
 17006	Sweden@Belgium@	1976-12-16
 17007	Switzerland@	1976-12-16
 17008	United Kingdom@	1976-12-16
-17009	France@India@France@	1976-12-16
+17009	France@America@France@	1976-12-16
 17010	Australia@Australia@	1976-12-16
 17011	America@America@	1976-12-16
 17012	America@	1976-12-16
@@ -17049,7 +17049,7 @@
 17144	Sweden@United Kingdom@	1976-11-18
 17145	Japan@	1976-11-18
 17146	Sweden@United Kingdom@United Kingdom@	1976-11-18
-17147	Argentina@	1976-11-18
+17147	United Kingdom@	1976-11-18
 17148	United Kingdom@	1976-11-18
 17149	Israel@America@	1976-11-18
 17150	United Kingdom@	1976-11-18
@@ -17076,7 +17076,7 @@
 17171	Israel@	1976-11-04
 17172	America@	1976-11-04
 17173	United Kingdom@	1976-11-04
-17174	Canada@United Kingdom@	1976-11-04
+17174	United Kingdom@United Kingdom@	1976-11-04
 17175	America@	1976-11-04
 17176	South Africa@	1976-11-04
 17177	South Africa@	1976-11-04
@@ -17123,11 +17123,11 @@
 17218	America@America@	1976-10-28
 17219	America@	1976-10-28
 17220	Norway@	1976-10-28
-17221		1976-10-28
+17221	America@	1976-10-28
 17222	United Kingdom@United Kingdom@	1976-10-28
 17223	United Kingdom@	1976-10-28
 17224	United Kingdom@	1976-10-28
-17225		1976-10-28
+17225	America@	1976-10-28
 17226	Hungary@	1976-10-28
 17227	America@	1976-10-28
 17228	United Kingdom@France@	1976-10-28
@@ -17224,14 +17224,14 @@
 17319	America@America@	1976-09-30
 17320	America@	1976-09-30
 17321	America@America@	1976-09-30
-17322	Sudan@	1976-09-30
+17322		1976-09-30
 17323	Australia@	1976-09-30
 17324	Japan@	1976-09-30
 17325	America@	1976-09-30
 17326	America@America@	1976-09-30
 17327	America@	1976-09-30
 17328	America@	1976-09-30
-17329	France@India@France@	1976-09-30
+17329	France@America@France@	1976-09-30
 17330	America@United Kingdom@America@	1976-09-30
 17331	America@	1976-09-30
 17332	America@America@	1976-09-30
@@ -17322,7 +17322,7 @@
 17417	United Kingdom@France@America@	1976-09-09
 17418	United Kingdom@	1976-09-09
 17419	America@America@America@	1976-09-09
-17420		1976-09-09
+17420	America@	1976-09-09
 17421	America@	1976-09-09
 17422	United Kingdom@United Kingdom@	1976-09-09
 17423	America@	1976-09-09
@@ -17463,7 +17463,7 @@
 17559	United Kingdom@	1976-08-12
 17560	Italy@	1976-08-12
 17561	United Kingdom@	1976-08-12
-17562		1976-08-12
+17562	America@	1976-08-12
 17563	Denmark@	1976-08-12
 17564	France@	1976-08-12
 17565	Germany@United Kingdom@Germany@	1976-08-12
@@ -17645,7 +17645,7 @@
 17741	America@	1976-07-01
 17742	America@	1976-07-01
 17743	America@	1976-07-01
-17744	India@France@	1976-07-01
+17744	America@France@	1976-07-01
 17745	China@France@	1976-07-01
 17746	Italy@	1976-07-01
 17747	America@	1976-07-01
@@ -17689,7 +17689,7 @@
 17785	United Kingdom@	1976-06-17
 17786	America@	1976-06-17
 17787	United Kingdom@	1976-06-17
-17788		1976-06-17
+17788	Egypt@	1976-06-17
 17789	France@	1976-06-17
 17790	Kenya@America@	1976-06-17
 17791	Kenya@	1976-06-17
@@ -18052,7 +18052,7 @@
 18148	United Kingdom@	1976-03-25
 18149	Kenya@	1976-03-25
 18150	Germany@	1976-03-25
-18151	America@America@America@	1976-03-25
+18151	America@America@America@America@	1976-03-25
 18152	Japan@	1976-03-25
 18153	America@	1976-03-25
 18154	United Kingdom@Finland@	1976-03-25
@@ -18125,7 +18125,7 @@
 18221	America@	1976-03-11
 18222	America@	1976-03-11
 18223	Israel@	1976-03-11
-18224		1976-03-11
+18224	Egypt@	1976-03-11
 18225	America@	1976-03-11
 18226	America@America@	1976-03-11
 18227	United Kingdom@	1976-03-11
@@ -18161,7 +18161,7 @@
 18257	China@Italy@	1976-03-04
 18258	America@	1976-03-04
 18259	United Kingdom@	1976-03-04
-18260	India@France@	1976-03-04
+18260	America@France@	1976-03-04
 18261	Australia@	1976-03-04
 18262	America@	1976-03-04
 18263	America@	1976-03-04
@@ -18258,7 +18258,7 @@
 18354	United Kingdom@	1976-02-12
 18355	America@America@	1976-02-12
 18356	America@	1976-02-12
-18357	America@America@Italy@	1976-02-12
+18357	America@America@Italy@America@	1976-02-12
 18358	America@Japan@	1976-02-12
 18359	America@America@	1976-02-12
 18360	Hungary@	1976-02-12
@@ -18299,7 +18299,7 @@
 18395	Switzerland@America@	1976-01-29
 18396	America@	1976-01-29
 18397	America@	1976-01-29
-18398	United Kingdom@United Kingdom@Niger@	1976-01-29
+18398	United Kingdom@United Kingdom@Nigeria@	1976-01-29
 18399	United Kingdom@United Kingdom@	1976-01-29
 18400	United Kingdom@France@	1976-01-29
 18401	America@America@	1976-01-29
@@ -18426,7 +18426,7 @@
 18522	America@America@	1975-12-25
 18523	America@	1975-12-25
 18524	America@	1975-12-25
-18525	Niger@America@America@	1975-12-25
+18525	Nigeria@America@America@	1975-12-25
 18526	United Kingdom@	1975-12-25
 18527	Sweden@	1975-12-25
 18528	United Kingdom@	1975-12-25
@@ -18572,7 +18572,7 @@
 18668	America@America@	1975-11-20
 18669	America@	1975-11-20
 18670	America@	1975-11-20
-18671	Norway@Sweden@	1975-11-20
+18671	Norway@America@Sweden@	1975-11-20
 18672	Belgium@	1975-11-20
 18673	America@	1975-11-20
 18674	America@	1975-11-20
@@ -18660,7 +18660,7 @@
 18756	United Kingdom@India@	1975-10-16
 18757	France@	1975-10-16
 18758	Australia@	1975-10-16
-18759	Niger@	1975-10-16
+18759	Nigeria@	1975-10-16
 18760	Australia@	1975-10-16
 18761	Germany@	1975-10-16
 18762	United Kingdom@	1975-10-16
@@ -18800,7 +18800,7 @@
 18897	Netherlands@	1975-08-28
 18898	United Kingdom@	1975-08-28
 18899	United Kingdom@	1975-08-28
-18900	Colombia@United Kingdom@	1975-08-28
+18900	United Kingdom@United Kingdom@	1975-08-28
 18901	America@	1975-08-28
 18902	America@	1975-08-28
 18903	America@	1975-08-28
@@ -18869,7 +18869,7 @@
 18966	America@Netherlands@	1975-08-14
 18967	United Kingdom@	1975-08-14
 18968	United Kingdom@	1975-08-14
-18969	Colombia@Italy@	1975-08-14
+18969	United Kingdom@Italy@	1975-08-14
 18970	United Kingdom@	1975-08-14
 18971	United Kingdom@	1975-08-14
 18972	Sweden@United Kingdom@	1975-08-14
@@ -18928,7 +18928,7 @@
 19025	United Kingdom@	1975-07-31
 19026	Canada@	1975-07-31
 19027	United Kingdom@	1975-07-31
-19028	Mongolia@	1975-07-31
+19028		1975-07-31
 19029	Israel@America@	1975-07-31
 19030	America@	1975-07-31
 19031	Australia@	1975-07-31
@@ -19051,13 +19051,13 @@
 19148	United Kingdom@	1975-06-26
 19149	Sweden@	1975-06-26
 19150	United Kingdom@	1975-06-26
-19151	United Kingdom@United Kingdom@Niger@	1975-06-26
+19151	United Kingdom@United Kingdom@Nigeria@	1975-06-26
 19152	United Kingdom@United Kingdom@	1975-06-26
 19153	United Kingdom@	1975-06-26
 19154	United Kingdom@	1975-06-26
 19155	United Kingdom@	1975-06-26
 19156	America@	1975-06-26
-19157	Kenya@Argentina@United Kingdom@	1975-06-26
+19157	Kenya@United Kingdom@United Kingdom@	1975-06-26
 19158	France@	1975-06-26
 19159	Finland@Sweden@	1975-06-26
 19160	Canada@Canada@Canada@	1975-06-26
@@ -19430,7 +19430,7 @@
 19530	United Kingdom@	1975-03-20
 19531	Australia@	1975-03-20
 19532	America@	1975-03-20
-19533	Australia@Australia@	1975-03-20
+19533	Australia@Egypt@Australia@	1975-03-20
 19534	America@America@	1975-03-20
 19535	United Kingdom@United Kingdom@	1975-03-20
 19536	Netherlands@	1975-03-20
@@ -19463,7 +19463,7 @@
 19563	United Kingdom@	1975-03-06
 19564	America@	1975-03-06
 19565	Malaysia@	1975-03-06
-19566	United Kingdom@Argentina@	1975-03-06
+19566	United Kingdom@America@	1975-03-06
 19567	America@	1975-03-06
 19568	America@	1975-03-06
 19569	America@	1975-03-06
@@ -19579,7 +19579,7 @@
 19679	America@	1975-02-13
 19680		1975-02-13
 19681	America@	1975-02-13
-19682	Kenya@Argentina@United Kingdom@	1975-02-13
+19682	Kenya@United Kingdom@United Kingdom@	1975-02-13
 19683	America@America@America@	1975-02-13
 19684	America@America@Canada@	1975-02-13
 19685		1975-02-13
@@ -19712,7 +19712,7 @@
 19812	America@	1974-12-20
 19813	United Kingdom@	1974-12-20
 19814	Australia@	1974-12-20
-19815	Netherlands@Argentina@Canada@Germany@	1974-12-20
+19815	Netherlands@Canada@Canada@Germany@	1974-12-20
 19816	United Kingdom@United Kingdom@	1974-12-20
 19817	Japan@	1974-12-20
 19818	America@	1974-12-20
@@ -19803,7 +19803,7 @@
 19903	America@America@	1974-12-06
 19904	America@	1974-12-06
 19905	Switzerland@France@	1974-12-06
-19906	United Kingdom@Argentina@	1974-12-06
+19906	United Kingdom@United Kingdom@	1974-12-06
 19907	United Kingdom@	1974-12-06
 19908	America@America@America@	1974-12-06
 19909	United Kingdom@	1974-12-06
@@ -19928,7 +19928,7 @@
 20028	America@	1974-11-08
 20029	Georgia@America@America@	1974-11-08
 20030	America@	1974-11-08
-20031	Argentina@Australia@United Kingdom@	1974-11-08
+20031	United Kingdom@Australia@United Kingdom@	1974-11-08
 20032	America@Canada@	1974-11-08
 20033	America@America@	1974-11-08
 20034	Netherlands@	1974-11-08
@@ -20001,7 +20001,7 @@
 20101	America@	1974-10-25
 20102	America@	1974-10-25
 20103	Sweden@	1974-10-25
-20104		1974-10-25
+20104	America@	1974-10-25
 20105	America@	1974-10-25
 20106	America@	1974-10-25
 20107	United Kingdom@	1974-10-25
@@ -20010,12 +20010,12 @@
 20110	America@	1974-10-25
 20111	Finland@	1974-10-25
 20112	America@	1974-10-25
-20113	America@	1974-10-25
+20113	America@America@	1974-10-25
 20114	America@America@	1974-10-18
 20115	India@India@	1974-10-18
 20116	United Kingdom@United Kingdom@Spain@	1974-10-18
 20117	United Kingdom@	1974-10-18
-20118		1974-10-18
+20118	Egypt@	1974-10-18
 20119	America@America@	1974-10-18
 20120	United Kingdom@	1974-10-18
 20121	United Kingdom@	1974-10-18
@@ -20069,7 +20069,7 @@
 20169	America@	1974-10-11
 20170	United Kingdom@	1974-10-11
 20171	United Kingdom@	1974-10-11
-20172	Niger@	1974-10-11
+20172	Nigeria@	1974-10-11
 20173	America@	1974-10-11
 20174	Argentina@America@	1974-10-11
 20175	Germany@	1974-10-11
@@ -20083,7 +20083,7 @@
 20183	India@	1974-10-11
 20184	Sweden@	1974-10-11
 20185	India@	1974-10-11
-20186		1974-10-11
+20186	America@	1974-10-11
 20187	Germany@	1974-10-11
 20188	America@	1974-10-11
 20189	America@	1974-10-11
@@ -20257,7 +20257,7 @@
 20359	America@	1974-08-30
 20360	America@	1974-08-30
 20361	America@America@	1974-08-30
-20362	India@France@India@France@	1974-08-30
+20362	America@France@America@France@	1974-08-30
 20363	America@America@	1974-08-30
 20364	United Kingdom@	1974-08-30
 20365	America@	1974-08-30
@@ -20334,7 +20334,7 @@
 20436	United Kingdom@	1974-08-09
 20437	Belgium@	1974-08-09
 20438	United Kingdom@	1974-08-09
-20439		1974-08-09
+20439	America@	1974-08-09
 20440	France@	1974-08-09
 20441	United Kingdom@United Kingdom@	1974-08-09
 20442	Spain@	1974-08-09
@@ -20407,7 +20407,7 @@
 20509	America@Israel@	1974-07-19
 20510	America@America@	1974-07-19
 20511	America@	1974-07-19
-20512	Colombia@	1974-07-19
+20512	United Kingdom@	1974-07-19
 20513	United Kingdom@	1974-07-19
 20514	United Kingdom@	1974-07-19
 20515	Canada@	1974-07-19
@@ -20517,7 +20517,7 @@
 20619	United Kingdom@	1974-06-28
 20620	Canada@	1974-06-28
 20621	Canada@	1974-06-28
-20622	Niger@	1974-06-28
+20622	Nigeria@	1974-06-28
 20623	Canada@Germany@Brazil@Puerto Rico@	1974-06-21
 20624	United Kingdom@	1974-06-21
 20625	United Kingdom@	1974-06-21
@@ -20774,7 +20774,7 @@
 20877		1974-05-03
 20878	France@France@	1974-05-03
 20879	America@	1974-05-03
-20880		1974-05-03
+20880	America@	1974-05-03
 20881	Japan@	1974-05-03
 20882	United Kingdom@America@	1974-05-03
 20883	America@America@	1974-05-03
@@ -20877,7 +20877,7 @@
 20980	America@New Zealand@	1974-04-05
 20981		1974-04-05
 20982	France@France@	1974-04-05
-20983		1974-04-05
+20983	Egypt@Egypt@	1974-04-05
 20984	United Kingdom@	1974-04-05
 20985	South Africa@	1974-04-05
 20986	Australia@	1974-04-05
@@ -20967,7 +20967,7 @@
 21070		1974-03-22
 21071	America@	1974-03-22
 21072	Australia@	1974-03-22
-21073	Netherlands@Indonesia@	1974-03-15
+21073	Netherlands@	1974-03-15
 21074		1974-03-15
 21075		1974-03-15
 21076	America@America@	1974-03-15
@@ -21003,11 +21003,11 @@
 21106	America@	1974-03-08
 21107	Jamaica@	1974-03-08
 21108		1974-03-08
-21109		1974-03-08
+21109	Egypt@	1974-03-08
 21110	America@	1974-03-08
 21111	Japan@	1974-03-08
 21112	Australia@	1974-03-08
-21113	Sudan@	1974-03-08
+21113		1974-03-08
 21114	America@America@	1974-03-08
 21115		1974-03-08
 21116	America@America@	1974-03-08
@@ -21051,7 +21051,7 @@
 21154		1974-03-01
 21155	China@	1974-03-01
 21156	Switzerland@	1974-03-01
-21157		1974-03-01
+21157	America@	1974-03-01
 21158	America@	1974-03-01
 21159		1974-03-01
 21160		1974-03-01
@@ -21298,7 +21298,7 @@
 21401	America@America@America@	1973-12-21
 21402	America@	1973-12-21
 21403	America@	1973-12-21
-21404	Indonesia@	1973-12-21
+21404		1973-12-21
 21405		1973-12-21
 21406	America@	1973-12-21
 21407	Canada@	1973-12-21
@@ -21334,7 +21334,7 @@
 21437	America@	1973-12-14
 21438		1973-12-14
 21439		1973-12-14
-21440	Niger@	1973-12-14
+21440	Nigeria@	1973-12-14
 21441	America@America@	1973-12-14
 21442		1973-12-14
 21443		1973-12-14
@@ -21392,7 +21392,7 @@
 21495		1973-11-16
 21496	Sweden@	1973-11-16
 21497	United Kingdom@America@	1973-11-16
-21498	Sudan@	1973-11-16
+21498		1973-11-16
 21499	America@	1973-11-16
 21500	Mexico@	1973-11-09
 21501		1973-11-09
@@ -21529,7 +21529,7 @@
 21632	Sweden@	1973-09-14
 21633		1973-09-14
 21634	America@	1973-09-14
-21635	America@Argentina@	1973-09-14
+21635	America@America@	1973-09-14
 21636	America@	1973-09-14
 21637		1973-09-14
 21638		1973-09-14
@@ -21574,7 +21574,7 @@
 21677		1973-08-24
 21678		1973-08-24
 21679		1973-08-24
-21680		1973-08-24
+21680	America@	1973-08-24
 21681		1973-08-24
 21682	Switzerland@	1973-08-24
 21683	America@America@Switzerland@	1973-08-24
@@ -21711,7 +21711,7 @@
 21814	America@	1973-07-20
 21815	United Kingdom@	1973-07-20
 21816	America@	1973-07-20
-21817	Niger@	1973-07-20
+21817	Nigeria@	1973-07-20
 21818	America@America@	1973-07-13
 21819	America@	1973-07-13
 21820		1973-07-13
@@ -21729,7 +21729,7 @@
 21832		1973-07-13
 21833	America@	1973-07-13
 21834	America@	1973-07-13
-21835		1973-07-13
+21835	America@	1973-07-13
 21836	America@America@	1973-07-13
 21837		1973-07-13
 21838	South Africa@	1973-07-13
@@ -21853,7 +21853,7 @@
 21956	United Kingdom@	1973-06-01
 21957	America@	1973-06-01
 21958		1973-06-01
-21959	Argentina@	1973-06-01
+21959	Norway@	1973-06-01
 21960		1973-06-01
 21961	Iceland@	1973-05-25
 21962		1973-05-25
@@ -22030,7 +22030,7 @@
 22133	America@	1973-03-23
 22134	America@	1973-03-23
 22135	America@	1973-03-23
-22136	Canada@Canada@	1973-03-23
+22136	America@America@	1973-03-23
 22137	America@	1973-03-23
 22138		1973-03-23
 22139	America@	1973-03-23
@@ -22070,7 +22070,7 @@
 22173		1973-03-09
 22174	America@	1973-03-09
 22175	America@	1973-03-09
-22176	Argentina@America@	1973-03-09
+22176	America@America@	1973-03-09
 22177		1973-03-09
 22178		1973-03-09
 22179	America@	1973-03-09
@@ -22089,7 +22089,7 @@
 22192	Sweden@	1973-03-02
 22193	United Kingdom@	1973-03-02
 22194	America@Israel@	1973-03-02
-22195		1973-03-02
+22195	America@	1973-03-02
 22196	America@America@	1973-03-02
 22197		1973-03-02
 22198	America@	1973-03-02
@@ -22160,7 +22160,7 @@
 22263	Australia@	1973-02-09
 22264		1973-02-09
 22265	America@	1973-02-09
-22266	Niger@	1973-02-09
+22266	Nigeria@	1973-02-09
 22267	America@America@America@	1973-02-09
 22268	United Kingdom@	1973-02-09
 22269	Israel@	1973-02-09
@@ -22386,7 +22386,7 @@
 22489	United Kingdom@United Kingdom@	1972-11-17
 22490		1972-11-17
 22491	22492		1972-11-17
-22493		1972-11-17
+22493	America@	1972-11-17
 22494		1972-11-17
 22495	America@	1972-11-17
 22496	America@Denmark@America@	1972-11-17
@@ -22753,7 +22753,7 @@
 22857	America@Canada@	1972-06-16
 22858		1972-06-16
 22859	United Kingdom@	1972-06-16
-22860	Argentina@	1972-06-16
+22860	America@	1972-06-16
 22861		1972-06-09
 22862	Italy@	1972-06-09
 22863	America@America@Israel@	1972-06-09
@@ -22797,7 +22797,7 @@
 22901		1972-05-19
 22902		1972-05-19
 22903		1972-05-19
-22904		1972-05-19
+22904	Egypt@	1972-05-19
 22905		1972-05-19
 22906	America@	1972-05-19
 22907	America@	1972-05-19
@@ -22842,7 +22842,7 @@
 22946	Canada@Canada@America@	1972-05-05
 22947	South Africa@	1972-05-05
 22948		1972-05-05
-22949	America@Argentina@	1972-05-05
+22949	America@America@	1972-05-05
 22950	America@	1972-05-05
 22951		1972-05-05
 22952	America@America@America@	1972-05-05
@@ -22857,7 +22857,7 @@
 22961		1972-04-28
 22962		1972-04-28
 22963	Canada@America@	1972-04-28
-22964	Argentina@	1972-04-28
+22964	America@	1972-04-28
 22965		1972-04-28
 22966	Hungary@	1972-04-28
 22967	Canada@	1972-04-28
@@ -22988,7 +22988,7 @@
 23092	United Kingdom@	1972-01-28
 23093		1972-01-28
 23094	America@America@	1972-01-28
-23095	Argentina@	1972-01-28
+23095	Norway@	1972-01-28
 23096	America@America@America@	1972-01-28
 23097	America@	1972-01-28
 23098	America@	1972-01-28
@@ -23017,7 +23017,7 @@
 23121		1972-01-14
 23122	America@	1972-01-14
 23123		1972-01-14
-23124	America@America@America@	1972-01-14
+23124	America@America@America@America@	1972-01-14
 23125	America@	1972-01-14
 23126	America@	1972-01-14
 23127	America@America@	1972-01-14
@@ -23286,7 +23286,7 @@
 23391	United Kingdom@	1971-10-01
 23392	India@	1971-10-01
 23393	America@	1971-10-01
-23394		1971-10-01
+23394	America@	1971-10-01
 23395	Australia@	1971-10-01
 23396		1971-10-01
 23397		1971-10-01
@@ -23494,7 +23494,7 @@
 23599	Sweden@	1971-07-30
 23600	United Kingdom@	1971-07-30
 23601	America@	1971-07-30
-23602	Argentina@	1971-07-30
+23602	America@	1971-07-30
 23603	America@	1971-07-30
 23604	America@	1971-07-30
 23605	America@America@	1971-07-30
@@ -23761,7 +23761,7 @@
 23867		1971-04-30
 23868	America@	1971-04-30
 23869	United Kingdom@United Kingdom@	1971-04-30
-23870	Niger@	1971-04-30
+23870	Nigeria@	1971-04-30
 23871	America@America@	1971-04-23
 23872	America@	1971-04-23
 23873	America@	1971-04-23
@@ -23833,7 +23833,7 @@
 23939	America@	1971-04-02
 23940	United Kingdom@	1971-04-02
 23941		1971-04-02
-23942	Germany@	1971-03-26
+23942	America@	1971-03-26
 23943		1971-03-26
 23944		1971-03-26
 23945	Australia@	1971-03-26
@@ -24547,7 +24547,7 @@
 24654	America@	1970-09-05
 24655		1970-09-05
 24656	United Kingdom@India@	1970-09-05
-24657	America@America@	1970-09-05
+24657	America@America@America@	1970-09-05
 24658	Canada@America@	1970-09-05
 24659	Canada@America@	1970-09-05
 24660	India@	1970-09-05
@@ -24560,7 +24560,7 @@
 24667		1970-08-29
 24668	United Kingdom@	1970-08-29
 24669		1970-08-29
-24670	Argentina@	1970-08-29
+24670	America@	1970-08-29
 24671		1970-08-29
 24672	Germany@	1970-08-29
 24673	America@	1970-08-29
@@ -24705,7 +24705,7 @@
 24812	America@America@	1970-08-01
 24813	America@	1970-08-01
 24814		1970-08-01
-24815		1970-08-01
+24815	America@	1970-08-01
 24816	Yugoslavia@	1970-08-01
 24817		1970-08-01
 24818		1970-08-01
@@ -24869,7 +24869,7 @@
 24976		1970-07-04
 24977	Macau@	1970-07-04
 24978	India@	1970-07-04
-24979	Niger@	1970-07-04
+24979	Nigeria@	1970-07-04
 24980	Georgia@	1970-07-04
 24981	Canada@	1970-07-04
 24982		1970-07-04
@@ -24906,7 +24906,7 @@
 25013	America@	1970-06-27
 25014	Argentina@	1970-06-27
 25015	America@	1970-06-27
-25016	America@	1970-06-27
+25016	America@America@	1970-06-27
 25017	United Kingdom@United Kingdom@United Kingdom@	1970-06-27
 25018	America@	1970-06-27
 25019		1970-06-20
@@ -25192,7 +25192,7 @@
 25301	America@	1970-04-18
 25302	America@America@	1970-04-18
 25303	Canada@Canada@	1970-04-18
-25304	Niger@	1970-04-18
+25304	Nigeria@	1970-04-18
 25305	America@	1970-04-18
 25306	America@America@	1970-04-18
 25307	America@	1970-04-18
@@ -25303,7 +25303,7 @@
 25412	America@	1970-03-21
 25413	Sweden@	1970-03-21
 25414	America@America@	1970-03-21
-25415	India@	1970-03-21
+25415	America@	1970-03-21
 25416	America@	1970-03-21
 25417	Japan@	1970-03-21
 25418	America@America@	1970-03-21
@@ -25394,7 +25394,7 @@
 25503	United Kingdom@	1970-03-07
 25504	Greece@	1970-03-07
 25505	Italy@	1970-03-07
-25506	America@America@	1970-03-07
+25506	America@America@America@	1970-03-07
 25507		1970-03-07
 25508		1970-03-07
 25509		1970-03-07
@@ -25679,7 +25679,7 @@
 25788	United Kingdom@	1970-01-03
 25789	India@	1970-01-03
 25790	Norway@	1970-01-03
-25791	Niger@	1970-01-03
+25791	Nigeria@	1970-01-03
 25792	America@	1970-01-03
 25793	America@	1970-01-03
 25794	United Kingdom@	1970-01-03
@@ -26072,7 +26072,7 @@
 26181	Australia@	1969-10-11
 26182		1969-10-11
 26183	Canada@	1969-10-11
-26184		1969-10-11
+26184	America@	1969-10-11
 26185	America@America@	1969-10-11
 26186	India@	1969-10-11
 26187	America@	1969-10-11
@@ -26308,8 +26308,8 @@
 26417		1969-08-23
 26418	America@	1969-08-23
 26419	America@	1969-08-23
-26420		1969-08-16
-26421		1969-08-16
+26420	America@	1969-08-16
+26421	America@	1969-08-16
 26422		1969-08-16
 26423		1969-08-16
 26424	United Kingdom@	1969-08-16
@@ -26453,7 +26453,7 @@
 26562	South Africa@	1969-07-19
 26563	Australia@	1969-07-19
 26564	Egypt@	1969-07-19
-26565	Niger@	1969-07-19
+26565	Nigeria@	1969-07-19
 26566	United Kingdom@	1969-07-19
 26567	America@	1969-07-19
 26568		1969-07-19
@@ -26471,7 +26471,7 @@
 26580	America@	1969-07-19
 26581	America@	1969-07-19
 26582	America@	1969-07-19
-26583	Malta@Australia@	1969-07-19
+26583	United Kingdom@Australia@	1969-07-19
 26584	America@	1969-07-19
 26585		1969-07-19
 26586	America@	1969-07-19
@@ -26492,14 +26492,14 @@
 26601	Netherlands@Netherlands@Netherlands@	1969-07-12
 26602	United Kingdom@	1969-07-12
 26603	Italy@	1969-07-12
-26604	Argentina@America@Germany@	1969-07-12
+26604	America@America@Germany@	1969-07-12
 26605	America@	1969-07-12
 26606	America@	1969-07-12
 26607	Italy@	1969-07-12
 26608		1969-07-12
 26609	America@	1969-07-12
 26610	India@	1969-07-12
-26611	Argentina@	1969-07-12
+26611	America@	1969-07-12
 26612	Brazil@	1969-07-12
 26613		1969-07-12
 26614	America@	1969-07-12
@@ -26525,7 +26525,7 @@
 26634		1969-07-05
 26635		1969-07-05
 26636	United Kingdom@Austria@	1969-07-05
-26637	Malta@	1969-07-05
+26637		1969-07-05
 26638		1969-07-05
 26639	Japan@	1969-07-05
 26640	Thailand@	1969-07-05
@@ -26589,7 +26589,7 @@
 26698	Canada@	1969-06-28
 26699	Australia@Australia@	1969-06-28
 26700		1969-06-28
-26701	Argentina@	1969-06-28
+26701	America@	1969-06-28
 26702	America@	1969-06-28
 26703	America@America@	1969-06-28
 26704	Sweden@	1969-06-28
@@ -26773,7 +26773,7 @@
 26883	America@	1969-05-17
 26884	Australia@	1969-05-17
 26885	United Kingdom@	1969-05-17
-26886	Niger@	1969-05-17
+26886	Nigeria@	1969-05-17
 26887		1969-05-17
 26888	America@	1969-05-17
 26889		1969-05-17
@@ -26882,7 +26882,7 @@
 26992	Canada@	1969-04-26
 26993	Israel@	1969-04-26
 26994	United Kingdom@	1969-04-26
-26995	Niger@	1969-04-26
+26995	Nigeria@	1969-04-26
 26996	America@	1969-04-26
 26997		1969-04-26
 26998	Mexico@	1969-04-26
@@ -26958,7 +26958,7 @@
 27068	Sweden@	1969-04-12
 27069	Canada@	1969-04-12
 27070	America@	1969-04-12
-27071		1969-04-12
+27071	America@	1969-04-12
 27072	America@	1969-04-12
 27073	United Kingdom@	1969-04-12
 27074	Australia@	1969-04-12
@@ -27112,7 +27112,7 @@
 27222	America@	1969-02-22
 27223	United Kingdom@	1969-02-22
 27224	Sweden@	1969-02-22
-27225	Argentina@	1969-02-22
+27225	America@	1969-02-22
 27226	United Kingdom@	1969-02-22
 27227		1969-02-22
 27228	America@	1969-02-22
@@ -27442,7 +27442,7 @@
 27553		1968-12-07
 27554	Australia@	1968-12-07
 27555	Canada@	1968-12-07
-27556	Argentina@	1968-12-07
+27556	America@	1968-12-07
 27557		1968-12-07
 27558	Sweden@	1968-12-07
 27559	Sweden@	1968-12-07
@@ -27548,7 +27548,7 @@
 27659	Austria@	1968-11-16
 27660	America@	1968-11-16
 27661	Canada@	1968-11-16
-27662	Argentina@	1968-11-16
+27662	America@	1968-11-16
 27663		1968-11-16
 27664	Japan@Japan@	1968-11-16
 27665		1968-11-16
@@ -27576,11 +27576,11 @@
 27687	Denmark@	1968-11-09
 27688		1968-11-09
 27689		1968-11-09
-27690	Ireland@	1968-11-09
+27690	America@Ireland@	1968-11-09
 27691	America@	1968-11-09
 27692		1968-11-09
 27693	Australia@	1968-11-09
-27694		1968-11-09
+27694	America@	1968-11-09
 27695		1968-11-09
 27696	Australia@America@	1968-11-09
 27697		1968-11-09
@@ -27640,7 +27640,7 @@
 27751	United Kingdom@	1968-10-26
 27752	United Kingdom@	1968-10-26
 27753	United Kingdom@	1968-10-26
-27754		1968-10-26
+27754	America@	1968-10-26
 27755	Hungary@	1968-10-26
 27756	America@	1968-10-26
 27757	America@	1968-10-26
@@ -27705,7 +27705,7 @@
 27816	America@	1968-10-12
 27817	America@	1968-10-12
 27818	America@	1968-10-12
-27819	Niger@	1968-10-12
+27819	Nigeria@	1968-10-12
 27820	United Kingdom@	1968-10-12
 27821		1968-10-12
 27822	Mexico@	1968-10-12
@@ -27869,7 +27869,7 @@
 27980		1968-09-14
 27981	America@	1968-09-14
 27982	United Kingdom@	1968-09-14
-27983	Argentina@	1968-09-14
+27983	America@	1968-09-14
 27984	America@	1968-09-14
 27985	America@United Kingdom@	1968-09-14
 27986		1968-09-14
@@ -27879,7 +27879,7 @@
 27990	China@	1968-09-14
 27991	America@	1968-09-14
 27992		1968-09-14
-27993	America@Argentina@	1968-09-14
+27993	America@Georgia@	1968-09-14
 27994	Canada@	1968-09-14
 27995		1968-09-14
 27996	America@	1968-09-14
@@ -27890,7 +27890,7 @@
 28001	Italy@	1968-09-07
 28002	America@	1968-09-07
 28003	America@	1968-09-07
-28004	Niger@	1968-09-07
+28004	Nigeria@	1968-09-07
 28005	America@	1968-09-07
 28006	Denmark@	1968-09-07
 28007	America@	1968-09-07
@@ -28000,7 +28000,7 @@
 28112	New Zealand@	1968-08-10
 28113	America@	1968-08-10
 28114	America@	1968-08-10
-28115		1968-08-10
+28115	America@	1968-08-10
 28116	Germany@	1968-08-10
 28117	America@	1968-08-10
 28118		1968-08-10
@@ -28563,7 +28563,7 @@
 28675	India@	1968-04-20
 28676	America@	1968-04-20
 28677	Australia@	1968-04-20
-28678	Niger@	1968-04-20
+28678	Nigeria@	1968-04-20
 28679	America@	1968-04-20
 28680	America@	1968-04-20
 28681		1968-04-20
@@ -28690,7 +28690,7 @@
 28802	United Kingdom@	1968-03-30
 28803		1968-03-30
 28804	United Kingdom@	1968-03-30
-28805		1968-03-30
+28805	America@	1968-03-30
 28806	Australia@	1968-03-30
 28807		1968-03-30
 28808		1968-03-30
@@ -28880,7 +28880,7 @@
 28992	America@	1968-02-24
 28993	Germany@	1968-02-24
 28994		1968-02-24
-28995	Malta@	1968-02-24
+28995		1968-02-24
 28996	Italy@	1968-02-24
 28997		1968-02-24
 28998		1968-02-24
@@ -28982,7 +28982,7 @@
 29094	Australia@	1968-02-10
 29095	Japan@	1968-02-10
 29096	America@America@	1968-02-10
-29097	Sudan@	1968-02-10
+29097		1968-02-10
 29098	America@	1968-02-10
 29099	United Kingdom@	1968-02-10
 29100	South Africa@	1968-02-10
@@ -29376,7 +29376,7 @@
 29488	United Kingdom@	1967-11-25
 29489	United Kingdom@	1967-11-25
 29490		1967-11-25
-29491	America@Niger@America@	1967-11-25
+29491	America@Nigeria@America@	1967-11-25
 29492		1967-11-25
 29493	Uganda@	1967-11-25
 29494	Canada@	1967-11-25
@@ -29384,7 +29384,7 @@
 29496	United Kingdom@	1967-11-25
 29497		1967-11-25
 29498	Canada@	1967-11-25
-29499	Argentina@	1967-11-25
+29499	America@	1967-11-25
 29500	India@	1967-11-25
 29501	America@	1967-11-25
 29502		1967-11-25
@@ -29721,7 +29721,7 @@
 29833	United Kingdom@	1967-09-30
 29834	America@	1967-09-30
 29835	America@	1967-09-30
-29836		1967-09-30
+29836	Egypt@	1967-09-30
 29837		1967-09-30
 29838	France@	1967-09-30
 29839	New Zealand@	1967-09-30
@@ -29800,7 +29800,7 @@
 29912		1967-09-23
 29913		1967-09-23
 29914		1967-09-23
-29915	Argentina@	1967-09-23
+29915	America@	1967-09-23
 29916	Poland@	1967-09-23
 29917	Australia@	1967-09-23
 29918		1967-09-23
@@ -29841,7 +29841,7 @@
 29953	America@Netherlands@	1967-09-16
 29954	Uganda@	1967-09-16
 29955		1967-09-16
-29956		1967-09-16
+29956	America@	1967-09-16
 29957	America@	1967-09-16
 29958	America@	1967-09-16
 29959	America@	1967-09-16
@@ -29925,7 +29925,7 @@
 30037		1967-09-02
 30038		1967-09-02
 30039		1967-09-02
-30040	Malta@	1967-09-02
+30040		1967-09-02
 30041	America@	1967-09-02
 30042		1967-09-02
 30043		1967-09-02
@@ -29945,10 +29945,10 @@
 30057	Australia@	1967-08-26
 30058	Japan@	1967-08-26
 30059		1967-08-26
-30060	United Kingdom@	1967-08-26
+30060	United Kingdom@Egypt@	1967-08-26
 30061	Switzerland@	1967-08-26
 30062		1967-08-26
-30063	Argentina@	1967-08-26
+30063	United Kingdom@	1967-08-26
 30064	America@America@	1967-08-26
 30065	America@	1967-08-26
 30066		1967-08-26
@@ -30075,7 +30075,7 @@
 30187		1967-08-12
 30188	Japan@	1967-08-12
 30189		1967-08-12
-30190	Niger@Canada@	1967-08-12
+30190	Nigeria@Canada@	1967-08-12
 30191		1967-08-12
 30192	America@	1967-08-12
 30193	Sweden@America@	1967-08-12
@@ -30086,7 +30086,7 @@
 30198	Japan@	1967-08-12
 30199	Malaysia@	1967-08-12
 30200		1967-08-12
-30201	Niger@	1967-08-12
+30201	Nigeria@	1967-08-12
 30202		1967-08-12
 30203		1967-08-12
 30204		1967-08-12
@@ -30287,7 +30287,7 @@
 30399	America@	1967-07-15
 30400		1967-07-15
 30401		1967-07-15
-30402	Niger@Australia@	1967-07-15
+30402	Nigeria@Australia@	1967-07-15
 30403	America@America@	1967-07-15
 30404	America@	1967-07-15
 30405	Canada@	1967-07-15
@@ -30421,7 +30421,7 @@
 30533		1967-07-01
 30534	Japan@	1967-07-01
 30535		1967-07-01
-30536	Argentina@	1967-07-01
+30536	America@	1967-07-01
 30537	America@	1967-07-01
 30538	United Kingdom@	1967-07-01
 30539	America@	1967-07-01
@@ -30500,7 +30500,7 @@
 30612	Belgium@	1967-06-17
 30613		1967-06-17
 30614	Australia@	1967-06-17
-30615	America@Colombia@	1967-06-17
+30615	America@Canada@	1967-06-17
 30616	America@	1967-06-17
 30617	America@Denmark@America@	1967-06-17
 30618		1967-06-17
@@ -30646,7 +30646,7 @@
 30758	America@	1967-05-27
 30759	Germany@Germany@	1967-05-27
 30760		1967-05-27
-30761	Sudan@	1967-05-27
+30761		1967-05-27
 30762	America@	1967-05-27
 30763	India@	1967-05-27
 30764	America@	1967-05-27
@@ -30708,7 +30708,7 @@
 30820	America@America@	1967-05-20
 30821	America@	1967-05-20
 30822	America@	1967-05-20
-30823	Italy@Niger@	1967-05-20
+30823	Italy@Nigeria@	1967-05-20
 30824	America@	1967-05-20
 30825	Sweden@	1967-05-20
 30826		1967-05-20
@@ -30741,11 +30741,11 @@
 30853	Canada@America@	1967-05-13
 30854		1967-05-13
 30855	America@	1967-05-13
-30856		1967-05-13
+30856	America@	1967-05-13
 30857	America@	1967-05-13
 30858	America@	1967-05-13
 30859	America@	1967-05-13
-30860		1967-05-13
+30860	America@America@	1967-05-13
 30861	America@	1967-05-13
 30862		1967-05-13
 30863	Canada@	1967-05-13
@@ -30755,7 +30755,7 @@
 30867	United Kingdom@	1967-05-13
 30868	America@	1967-05-13
 30869	United Kingdom@	1967-05-13
-30870		1967-05-13
+30870	America@	1967-05-13
 30871	Peru@	1967-05-13
 30872	America@America@	1967-05-13
 30873		1967-05-13
@@ -30795,7 +30795,7 @@
 30907		1967-05-06
 30908	Austria@	1967-05-06
 30909	America@	1967-05-06
-30910	America@	1967-05-06
+30910	America@America@	1967-05-06
 30911	India@	1967-05-06
 30912	America@	1967-05-06
 30913	Italy@	1967-05-06
@@ -31011,7 +31011,7 @@
 31123	America@	1967-04-08
 31124	America@	1967-04-08
 31125		1967-04-08
-31126		1967-04-08
+31126	America@	1967-04-08
 31127		1967-04-08
 31128	France@	1967-04-08
 31129		1967-04-08
@@ -31046,14 +31046,14 @@
 31158	Spain@	1967-04-01
 31159	Norway@	1967-04-01
 31160		1967-04-01
-31161		1967-04-01
+31161	America@	1967-04-01
 31162		1967-04-01
 31163	America@	1967-04-01
 31164		1967-04-01
 31165	America@	1967-04-01
 31166	America@Israel@	1967-04-01
 31167	India@	1967-04-01
-31168		1967-04-01
+31168	America@	1967-04-01
 31169		1967-04-01
 31170	Kenya@	1967-04-01
 31171		1967-04-01
@@ -31143,7 +31143,7 @@
 31255		1967-03-18
 31256	Italy@	1967-03-18
 31257	Australia@	1967-03-18
-31258		1967-03-18
+31258	America@	1967-03-18
 31259	Malaysia@	1967-03-18
 31260	Australia@Guinea@	1967-03-18
 31261	United Kingdom@	1967-03-18
@@ -31170,7 +31170,7 @@
 31282	America@	1967-03-11
 31283	United Kingdom@	1967-03-11
 31284		1967-03-11
-31285	Israel@	1967-03-11
+31285	Israel@America@	1967-03-11
 31286		1967-03-11
 31287	America@	1967-03-11
 31288		1967-03-11
@@ -31232,7 +31232,7 @@
 31344	Japan@	1967-03-04
 31345		1967-03-04
 31346	America@	1967-03-04
-31347		1967-03-04
+31347	America@	1967-03-04
 31348	Germany@	1967-03-04
 31349		1967-03-04
 31350	America@	1967-03-04
@@ -31302,7 +31302,7 @@
 31414	Canada@	1967-02-25
 31415		1967-02-25
 31416	Solomon Islands@	1967-02-18
-31417		1967-02-18
+31417	America@	1967-02-18
 31418		1967-02-18
 31419		1967-02-18
 31420	United Kingdom@United Kingdom@	1967-02-18
@@ -31354,7 +31354,7 @@
 31466	America@	1967-02-18
 31467	India@	1967-02-18
 31468	Australia@	1967-02-11
-31469		1967-02-11
+31469	America@	1967-02-11
 31470		1967-02-11
 31471	America@	1967-02-11
 31472	America@	1967-02-11
@@ -31451,9 +31451,9 @@
 31563	America@	1967-01-28
 31564	United Kingdom@	1967-01-28
 31565	America@	1967-01-28
-31566	America@Belgium@	1967-01-28
+31566	America@Belgium@America@	1967-01-28
 31567		1967-01-28
-31568	America@	1967-01-28
+31568	America@America@	1967-01-28
 31569	America@	1967-01-28
 31570	United Kingdom@	1967-01-28
 31571	Sweden@	1967-01-28
@@ -31480,7 +31480,7 @@
 31592	America@	1967-01-28
 31593	India@	1967-01-28
 31594	America@Israel@	1967-01-28
-31595		1967-01-28
+31595	America@	1967-01-28
 31596	Canada@	1967-01-28
 31597		1967-01-28
 31598		1967-01-28
@@ -31875,7 +31875,7 @@
 31989		1966-12-10
 31990		1966-12-10
 31991	America@America@America@America@	1966-12-10
-31992		1966-12-10
+31992	America@	1966-12-10
 31993		1966-12-10
 31994	Germany@	1966-12-10
 31995		1966-12-10
@@ -31911,7 +31911,7 @@
 32025		1966-12-10
 32026		1966-12-10
 32027	United Kingdom@	1966-12-03
-32028		1966-12-03
+32028	America@	1966-12-03
 32029		1966-12-03
 32030		1966-12-03
 32031		1966-12-03
@@ -31930,7 +31930,7 @@
 32044	Italy@	1966-12-03
 32045	United Kingdom@	1966-12-03
 32046	Romania@	1966-12-03
-32047	Niger@	1966-12-03
+32047	Nigeria@	1966-12-03
 32048	Hungary@	1966-12-03
 32049		1966-12-03
 32050		1966-12-03
@@ -31996,7 +31996,7 @@
 32110		1966-11-19
 32111	America@	1966-11-19
 32112		1966-11-19
-32113		1966-11-19
+32113	America@	1966-11-19
 32114		1966-11-19
 32115		1966-11-19
 32116	Australia@	1966-11-19
@@ -32035,7 +32035,7 @@
 32149	Canada@	1966-11-19
 32150		1966-11-19
 32151	Norway@	1966-11-19
-32152		1966-11-19
+32152	America@	1966-11-19
 32153	Canada@	1966-11-19
 32154	Turkey@	1966-11-19
 32155		1966-11-19
@@ -32062,7 +32062,7 @@
 32176	America@America@	1966-11-12
 32177	United Kingdom@	1966-11-12
 32178		1966-11-12
-32179		1966-11-12
+32179	America@	1966-11-12
 32180	Australia@	1966-11-12
 32181		1966-11-12
 32182	Italy@	1966-11-12
@@ -32127,7 +32127,7 @@
 32241		1966-11-05
 32242	America@	1966-11-05
 32243	United Kingdom@	1966-11-05
-32244		1966-11-05
+32244	America@	1966-11-05
 32245	Belgium@	1966-11-05
 32246	America@Switzerland@	1966-11-05
 32247	Japan@	1966-11-05
@@ -32157,7 +32157,7 @@
 32271	United Kingdom@	1966-11-05
 32272	America@	1966-11-05
 32273	America@	1966-10-29
-32274	America@Netherlands@	1966-10-29
+32274	America@Netherlands@America@	1966-10-29
 32275		1966-10-29
 32276	America@	1966-10-29
 32277		1966-10-29
@@ -32190,7 +32190,7 @@
 32304		1966-10-29
 32305		1966-10-29
 32306	America@	1966-10-29
-32307	Niger@	1966-10-29
+32307	Nigeria@	1966-10-29
 32308	Hong Kong@	1966-10-29
 32309	America@	1966-10-29
 32310		1966-10-29
@@ -32251,7 +32251,7 @@
 32365		1966-10-22
 32366	America@	1966-10-22
 32367	Canada@Canada@	1966-10-22
-32368		1966-10-22
+32368	America@	1966-10-22
 32369		1966-10-22
 32370		1966-10-22
 32371		1966-10-22
@@ -32365,8 +32365,8 @@
 32479	United Kingdom@	1966-10-08
 32480	United Kingdom@	1966-10-08
 32481	America@	1966-10-08
-32482	Niger@	1966-10-08
-32483	Niger@	1966-10-08
+32482	Nigeria@	1966-10-08
+32483	Nigeria@	1966-10-08
 32484	Australia@	1966-10-08
 32485	United Kingdom@	1966-10-01
 32486	Australia@	1966-10-01
@@ -32445,12 +32445,12 @@
 32559	Finland@	1966-09-24
 32560	America@	1966-09-24
 32561		1966-09-24
-32562		1966-09-24
+32562	America@	1966-09-24
 32563		1966-09-24
 32564	America@	1966-09-24
 32565	Japan@	1966-09-24
 32566	America@	1966-09-24
-32567		1966-09-24
+32567	America@	1966-09-24
 32568	Macau@Canada@	1966-09-24
 32569		1966-09-24
 32570		1966-09-24
@@ -32469,7 +32469,7 @@
 32583		1966-09-17
 32584		1966-09-17
 32585	Canada@	1966-09-17
-32586		1966-09-17
+32586	America@	1966-09-17
 32587	America@	1966-09-17
 32588	United Kingdom@	1966-09-17
 32589	America@	1966-09-17
@@ -32522,7 +32522,7 @@
 32636	Japan@	1966-09-10
 32637		1966-09-10
 32638		1966-09-10
-32639	Niger@	1966-09-10
+32639	Nigeria@	1966-09-10
 32640	America@	1966-09-10
 32641	America@	1966-09-10
 32642		1966-09-10
@@ -32539,7 +32539,7 @@
 32653	Japan@	1966-09-10
 32654	America@	1966-09-10
 32655	Israel@	1966-09-10
-32656	Malaysia@America@	1966-09-10
+32656	Malaysia@America@America@	1966-09-10
 32657	America@	1966-09-10
 32658		1966-09-10
 32659	America@	1966-09-10
@@ -32603,7 +32603,7 @@
 32717	India@	1966-08-27
 32718	United Kingdom@	1966-08-27
 32719	America@	1966-08-27
-32720	America@	1966-08-27
+32720	America@America@	1966-08-27
 32721	America@	1966-08-27
 32722		1966-08-27
 32723	Australia@	1966-08-27
@@ -32646,7 +32646,7 @@
 32760	Belgium@	1966-08-27
 32761	America@	1966-08-27
 32762	South Africa@	1966-08-27
-32763		1966-08-20
+32763	America@	1966-08-20
 32764		1966-08-20
 32765	America@	1966-08-20
 32766	America@	1966-08-20
@@ -32665,7 +32665,7 @@
 32779	America@	1966-08-20
 32780	America@	1966-08-20
 32781		1966-08-20
-32782		1966-08-20
+32782	America@	1966-08-20
 32783	America@	1966-08-20
 32784	United Kingdom@	1966-08-20
 32785		1966-08-20
@@ -32691,7 +32691,7 @@
 32805		1966-08-20
 32806	United Kingdom@	1966-08-20
 32807	America@	1966-08-20
-32808	America@	1966-08-20
+32808	America@America@	1966-08-20
 32809		1966-08-20
 32810		1966-08-20
 32811		1966-08-20
@@ -32780,13 +32780,13 @@
 32894	Australia@	1966-08-06
 32895	America@	1966-08-06
 32896		1966-08-06
-32897		1966-08-06
+32897	America@	1966-08-06
 32898	Australia@	1966-08-06
 32899		1966-08-06
 32900	America@	1966-08-06
 32901		1966-08-06
 32902	New Zealand@	1966-08-06
-32903	Italy@	1966-08-06
+32903	Italy@America@	1966-08-06
 32904	Australia@	1966-08-06
 32905	Yugoslavia@	1966-08-06
 32906	Switzerland@	1966-08-06
@@ -32794,7 +32794,7 @@
 32908		1966-08-06
 32909	United Kingdom@	1966-08-06
 32910	Hungary@	1966-08-06
-32911		1966-08-06
+32911	America@	1966-08-06
 32912		1966-08-06
 32913	Netherlands@	1966-08-06
 32914	Israel@	1966-08-06
@@ -33113,7 +33113,7 @@
 33227	America@	1966-06-25
 33228	America@	1966-06-25
 33229	America@Canada@	1966-06-25
-33230	America@	1966-06-25
+33230	America@America@	1966-06-25
 33231		1966-06-25
 33232	America@	1966-06-25
 33233	America@	1966-06-25
@@ -33152,8 +33152,8 @@
 33266	Australia@	1966-06-18
 33267	America@	1966-06-18
 33268	America@	1966-06-18
-33269		1966-06-18
-33270	America@	1966-06-18
+33269	America@	1966-06-18
+33270	America@America@	1966-06-18
 33271		1966-06-18
 33272	America@	1966-06-18
 33273	United Kingdom@	1966-06-18
@@ -33170,7 +33170,7 @@
 33284		1966-06-18
 33285	America@	1966-06-18
 33286		1966-06-18
-33287		1966-06-18
+33287	America@	1966-06-18
 33288		1966-06-18
 33289		1966-06-18
 33290	Canada@	1966-06-18
@@ -33290,7 +33290,7 @@
 33404	Australia@	1966-05-28
 33405	Australia@	1966-05-28
 33406	New Zealand@	1966-05-28
-33407		1966-05-28
+33407	America@	1966-05-28
 33408		1966-05-28
 33409	Sweden@	1966-05-28
 33410		1966-05-28
@@ -33304,7 +33304,7 @@
 33418	America@	1966-05-28
 33419		1966-05-28
 33420	America@	1966-05-28
-33421		1966-05-28
+33421	America@	1966-05-28
 33422	Switzerland@	1966-05-28
 33423		1966-05-28
 33424		1966-05-28
@@ -33330,7 +33330,7 @@
 33444	America@	1966-05-21
 33445	America@	1966-05-21
 33446	America@	1966-05-21
-33447	America@	1966-05-21
+33447	America@America@	1966-05-21
 33448		1966-05-21
 33449		1966-05-21
 33450		1966-05-21
@@ -33434,7 +33434,7 @@
 33548		1966-05-07
 33549		1966-05-07
 33550		1966-05-07
-33551	Niger@	1966-05-07
+33551	Nigeria@	1966-05-07
 33552	Australia@	1966-05-07
 33553	Australia@	1966-05-07
 33554	United Kingdom@	1966-05-07
@@ -33484,7 +33484,7 @@
 33598	India@	1966-04-30
 33599		1966-04-30
 33600		1966-04-30
-33601		1966-04-30
+33601	America@	1966-04-30
 33602	Australia@	1966-04-30
 33603	America@	1966-04-30
 33604	New Zealand@	1966-04-30
@@ -33492,7 +33492,7 @@
 33606		1966-04-30
 33607	India@	1966-04-30
 33608	Australia@	1966-04-30
-33609		1966-04-30
+33609	America@	1966-04-30
 33610		1966-04-30
 33611		1966-04-30
 33612	Puerto Rico@	1966-04-30
@@ -33505,7 +33505,7 @@
 33619	America@America@	1966-04-30
 33620		1966-04-30
 33621		1966-04-30
-33622	America@	1966-04-30
+33622	America@America@	1966-04-30
 33623	America@	1966-04-30
 33624	America@	1966-04-30
 33625	America@	1966-04-30
@@ -33513,11 +33513,11 @@
 33627	Netherlands@	1966-04-30
 33628	Romania@	1966-04-30
 33629		1966-04-30
-33630	America@	1966-04-30
+33630	America@America@	1966-04-30
 33631	United Kingdom@	1966-04-30
 33632		1966-04-30
 33633		1966-04-30
-33634		1966-04-30
+33634	America@	1966-04-30
 33635	America@	1966-04-30
 33636	Israel@	1966-04-30
 33637		1966-04-23
@@ -33556,7 +33556,7 @@
 33670	America@	1966-04-23
 33671		1966-04-23
 33672	America@	1966-04-23
-33673	Sudan@	1966-04-23
+33673		1966-04-23
 33674	America@	1966-04-23
 33675	Japan@	1966-04-23
 33676	United Kingdom@	1966-04-16
@@ -33607,7 +33607,7 @@
 33721		1966-04-09
 33722	America@	1966-04-09
 33723	America@	1966-04-09
-33724	America@Australia@	1966-04-09
+33724	America@America@Australia@	1966-04-09
 33725		1966-04-09
 33726	Ireland@	1966-04-09
 33727	South Africa@	1966-04-09
@@ -33632,7 +33632,7 @@
 33746	America@	1966-04-09
 33747	America@	1966-04-09
 33748	South Africa@	1966-04-09
-33749	Niger@Niger@	1966-04-09
+33749	Nigeria@Nigeria@	1966-04-09
 33750	America@	1966-04-09
 33751	India@	1966-04-09
 33752	United Kingdom@	1966-04-09
@@ -33640,7 +33640,7 @@
 33754	America@America@	1966-04-09
 33755	America@	1966-04-09
 33756		1966-04-09
-33757		1966-04-02
+33757	America@	1966-04-02
 33758	Canada@	1966-04-02
 33759	India@	1966-04-02
 33760		1966-04-02
@@ -33725,7 +33725,7 @@
 33839		1966-03-19
 33840	Australia@	1966-03-19
 33841	Poland@	1966-03-19
-33842		1966-03-19
+33842	America@	1966-03-19
 33843	United Kingdom@	1966-03-19
 33844		1966-03-19
 33845	South Africa@	1966-03-19
@@ -33742,7 +33742,7 @@
 33856	America@America@	1966-03-19
 33857		1966-03-19
 33858	Finland@	1966-03-19
-33859	America@	1966-03-19
+33859	America@America@	1966-03-19
 33860	America@	1966-03-19
 33861		1966-03-19
 33862		1966-03-19
@@ -33839,7 +33839,7 @@
 33953	Canada@	1966-03-05
 33954		1966-03-05
 33955		1966-03-05
-33956		1966-03-05
+33956	America@	1966-03-05
 33957	Australia@	1966-03-05
 33958	Australia@	1966-03-05
 33959	America@	1966-02-26
@@ -33859,7 +33859,7 @@
 33973	America@	1966-02-26
 33974	America@	1966-02-26
 33975	Canada@	1966-02-26
-33976		1966-02-26
+33976	America@	1966-02-26
 33977		1966-02-26
 33978		1966-02-26
 33979	America@	1966-02-26
@@ -33895,7 +33895,7 @@
 34009	America@	1966-02-19
 34010	America@	1966-02-19
 34011	Canada@	1966-02-19
-34012		1966-02-19
+34012	America@	1966-02-19
 34013	America@	1966-02-19
 34014	United Kingdom@	1966-02-19
 34015		1966-02-19
@@ -33906,7 +33906,7 @@
 34020	Netherlands@	1966-02-19
 34021	America@	1966-02-19
 34022		1966-02-19
-34023		1966-02-19
+34023	America@	1966-02-19
 34024	United Kingdom@	1966-02-19
 34025	America@	1966-02-19
 34026	Australia@	1966-02-19
@@ -33931,7 +33931,7 @@
 34045		1966-02-12
 34046		1966-02-12
 34047	United Kingdom@	1966-02-12
-34048		1966-02-12
+34048	America@	1966-02-12
 34049	Canada@	1966-02-12
 34050	United Kingdom@	1966-02-12
 34051		1966-02-12
@@ -33952,7 +33952,7 @@
 34066		1966-02-12
 34067		1966-02-12
 34068	India@	1966-02-12
-34069	India@	1966-02-12
+34069	India@America@	1966-02-12
 34070		1966-02-12
 34071		1966-02-12
 34072		1966-02-12
@@ -34124,7 +34124,7 @@
 34238		1966-01-15
 34239		1966-01-15
 34240		1966-01-15
-34241	Sudan@	1966-01-15
+34241	United Kingdom@	1966-01-15
 34242		1966-01-15
 34243	America@	1966-01-15
 34244		1966-01-15
@@ -34228,7 +34228,7 @@
 34342	Uganda@	1966-01-01
 34343	India@	1966-01-01
 34344	America@	1966-01-01
-34345	Niger@	1966-01-01
+34345	Nigeria@	1966-01-01
 34346	Austria@	1966-01-01
 34347	America@	1966-01-01
 34348	America@	1966-01-01
@@ -34389,8 +34389,8 @@
 34503		1965-12-04
 34504	America@	1965-12-04
 34505	Germany@	1965-12-04
-34506	Niger@	1965-12-04
-34507	Niger@Niger@	1965-12-04
+34506	Nigeria@	1965-12-04
+34507	Nigeria@Nigeria@	1965-12-04
 34508		1965-12-04
 34509		1965-12-04
 34510		1965-12-04
@@ -34448,7 +34448,7 @@
 34562	America@	1965-11-20
 34563	Chile@	1965-11-20
 34564	America@	1965-11-20
-34565		1965-11-20
+34565	America@	1965-11-20
 34566	America@	1965-11-20
 34567	Canada@	1965-11-20
 34568	Canada@	1965-11-20
@@ -34594,14 +34594,14 @@
 34708	Australia@	1965-10-23
 34709		1965-10-23
 34710	Italy@Italy@	1965-10-23
-34711		1965-10-23
+34711	America@	1965-10-23
 34712		1965-10-23
 34713		1965-10-23
 34714	America@	1965-10-23
 34715	India@	1965-10-23
 34716	America@	1965-10-23
 34717	India@	1965-10-23
-34718	Niger@	1965-10-23
+34718	Nigeria@	1965-10-23
 34719	Canada@	1965-10-23
 34720	America@	1965-10-23
 34721	America@	1965-10-23
@@ -34625,7 +34625,7 @@
 34739	America@	1965-10-16
 34740	America@	1965-10-16
 34741	Canada@Canada@Canada@	1965-10-16
-34742		1965-10-16
+34742	America@	1965-10-16
 34743	America@	1965-10-16
 34744		1965-10-16
 34745	Australia@	1965-10-16
@@ -34647,7 +34647,7 @@
 34761	United Kingdom@	1965-10-09
 34762	Australia@	1965-10-09
 34763	Canada@	1965-10-09
-34764		1965-10-09
+34764	Egypt@	1965-10-09
 34765	Canada@	1965-10-09
 34766	Japan@	1965-10-09
 34767	America@	1965-10-09
@@ -34669,7 +34669,7 @@
 34783	United Kingdom@Canada@	1965-10-09
 34784	Ireland@	1965-10-09
 34785		1965-10-09
-34786	America@	1965-10-09
+34786	America@America@America@	1965-10-09
 34787	India@	1965-10-09
 34788	Canada@	1965-10-09
 34789		1965-10-09
@@ -34705,7 +34705,7 @@
 34819	Canada@	1965-10-02
 34820	America@	1965-10-02
 34821		1965-10-02
-34822		1965-10-02
+34822	America@	1965-10-02
 34823	America@	1965-10-02
 34824	America@	1965-10-02
 34825	Denmark@	1965-10-02
@@ -34714,7 +34714,7 @@
 34828	America@America@	1965-09-25
 34829	America@	1965-09-25
 34830	Australia@Finland@	1965-09-25
-34831	Niger@	1965-09-25
+34831	Nigeria@	1965-09-25
 34832		1965-09-25
 34833		1965-09-25
 34834	Mexico@	1965-09-25
@@ -34739,7 +34739,7 @@
 34853	America@	1965-09-25
 34854	Poland@	1965-09-25
 34855	America@	1965-09-25
-34856		1965-09-25
+34856	America@	1965-09-25
 34857		1965-09-25
 34858	Italy@	1965-09-25
 34859	America@	1965-09-25
@@ -34785,7 +34785,7 @@
 34899		1965-09-18
 34900		1965-09-18
 34901	America@	1965-09-18
-34902	Indonesia@	1965-09-18
+34902		1965-09-18
 34903	Canada@	1965-09-18
 34904		1965-09-18
 34905	Netherlands@	1965-09-18
@@ -34795,9 +34795,9 @@
 34909	Italy@	1965-09-11
 34910	United Kingdom@	1965-09-11
 34911	America@	1965-09-11
-34912		1965-09-11
+34912	Egypt@	1965-09-11
 34913	America@America@	1965-09-11
-34914		1965-09-11
+34914	Egypt@	1965-09-11
 34915		1965-09-11
 34916	United Kingdom@	1965-09-11
 34917		1965-09-11
@@ -34808,7 +34808,7 @@
 34922	Israel@	1965-09-11
 34923	Japan@	1965-09-11
 34924		1965-09-11
-34925	America@	1965-09-11
+34925	America@America@	1965-09-11
 34926		1965-09-11
 34927		1965-09-11
 34928	Australia@	1965-09-11
@@ -34891,7 +34891,7 @@
 35005	America@	1994-09-01
 35006	America@America@	1994-08-25
 35007	China@Peru@	1994-07-21
-35008	Germany@America@Germany@Canada@	1994-06-23
+35008	Germany@America@Germany@	1994-06-23
 35009	America@America@	1994-06-09
 35010	America@United Kingdom@	1994-05-12
 35011	America@America@	1994-04-21
@@ -34976,7 +34976,7 @@
 35090	Japan@Japan@	1986-07-24
 35091	Switzerland@	1986-07-03
 35092	France@France@	1986-06-26
-35093	China@France@India@France@France@	1986-06-26
+35093	China@France@America@France@France@	1986-06-26
 35094	United Kingdom@	1986-06-19
 35095	America@	1986-06-19
 35096	United Kingdom@United Kingdom@	1986-06-12
@@ -35240,7 +35240,7 @@
 35356	America@America@America@	1981-12-10
 35357	America@	1981-12-10
 35358	India@	1981-12-10
-35359	America@Argentina@	1981-12-10
+35359	America@America@	1981-12-10
 35360	America@America@France@America@	1981-12-10
 35361	United Kingdom@	1981-12-10
 35362	United Kingdom@	1981-12-10
@@ -35287,14 +35287,14 @@
 35403	Mexico@America@	1981-11-26
 35404	Canada@	1981-11-26
 35405	America@	1981-11-26
-35406	China@America@France@China@India@France@	1981-11-26
+35406	China@America@France@China@America@France@	1981-11-26
 35407	France@	1981-11-26
 35408	Brazil@	1981-11-26
 35409	Canada@	1981-11-26
 35410	America@Netherlands@	1981-11-26
 35411	Japan@	1981-11-26
 35412	America@	1981-11-26
-35413	Austria@Germany@	1981-11-26
+35413	Austria@France@	1981-11-26
 35414	Switzerland@Switzerland@	1981-11-26
 35415	France@	1981-11-26
 35416	Israel@	1981-11-26
@@ -35309,7 +35309,7 @@
 35425	Georgia@Jamaica@	1981-11-19
 35426	America@America@Jamaica@America@	1981-11-19
 35427	America@America@Australia@	1981-11-19
-35428	United Kingdom@Canada@	1981-11-19
+35428	United Kingdom@United Kingdom@	1981-11-19
 35429	America@America@	1981-11-19
 35430	America@United Kingdom@	1981-11-19
 35431	Canada@	1981-11-19
@@ -35447,7 +35447,7 @@
 35563	Canada@	1977-07-21
 35564	Sweden@	1977-07-21
 35565	America@	1977-07-21
-35566		1977-07-21
+35566	America@	1977-07-21
 35567	Australia@America@	1977-07-14
 35568	United Kingdom@	1977-07-07
 35569	America@	1977-07-07
@@ -35918,7 +35918,7 @@
 36035		1969-07-19
 36036	America@	1969-07-19
 36037	India@	1969-07-12
-36038	Netherlands@Sudan@	1969-07-12
+36038	Netherlands@	1969-07-12
 36039	United Kingdom@	1969-07-05
 36040		1969-07-05
 36041	America@	1969-07-05
@@ -36026,7 +36026,7 @@
 36143	Switzerland@	1968-07-27
 36144	France@	1968-07-27
 36145	America@	1968-07-27
-36146	Malta@	1968-07-27
+36146		1968-07-27
 36147	America@	1968-07-27
 36148	Germany@	1968-07-27
 36149	America@	1968-07-13
@@ -36041,7 +36041,7 @@
 36158		1968-06-08
 36159	America@	1968-06-08
 36160		1968-06-08
-36161	Sudan@	1968-05-18
+36161		1968-05-18
 36162		1968-05-11
 36163	Mexico@	1968-05-11
 36164	America@	1968-05-11
@@ -36087,7 +36087,7 @@
 36204	Netherlands@	1968-01-20
 36205		1968-01-06
 36206	Australia@	1968-01-06
-36207		1968-01-06
+36207	America@	1968-01-06
 36208		1968-01-06
 36209		1967-12-30
 36210	America@	1967-12-30
@@ -36222,7 +36222,7 @@
 36339	United Kingdom@Canada@	1967-02-04
 36340	Switzerland@	1967-02-04
 36341		1967-02-04
-36342		1967-02-04
+36342	America@	1967-02-04
 36343	United Kingdom@	1967-01-28
 36344	Germany@	1967-01-28
 36345	America@	1967-01-28
@@ -36261,7 +36261,7 @@
 36378	Canada@	1966-12-10
 36379	America@	1966-12-10
 36380	South Africa@	1966-12-10
-36381		1966-12-10
+36381	America@	1966-12-10
 36382	Canada@	1966-12-10
 36383		1966-12-10
 36384	Japan@	1966-12-10
@@ -36304,7 +36304,7 @@
 36421	South Africa@	1966-09-10
 36422	Germany@	1966-09-10
 36423		1966-09-03
-36424		1966-08-27
+36424	America@	1966-08-27
 36425		1966-08-20
 36426		1966-08-20
 36427	America@	1966-08-20
@@ -36344,7 +36344,7 @@
 36461		1966-07-02
 36462		1966-07-02
 36463		1966-06-11
-36464	America@	1966-05-21
+36464	America@America@	1966-05-21
 36465	Kenya@	1966-05-21
 36466		1966-05-21
 36467	Japan@	1966-05-21
@@ -36413,7 +36413,7 @@
 36530		1965-11-27
 36531	United Kingdom@	1965-11-27
 36532	United Kingdom@	1965-11-20
-36533		1965-11-20
+36533	America@	1965-11-20
 36534	Sweden@	1965-11-20
 36535	America@	1965-11-20
 36536	Australia@	1965-11-20
@@ -36502,7 +36502,7 @@
 36619	America@	1956-06-30
 36620	Mexico@	1964-05-23
 36621		1963-08-31
-36622	Canada@	1963-08-10
+36622	Canada@America@	1963-08-10
 36623	America@	1963-03-23
 36624	United Kingdom@	1963-03-16
 36625	United Kingdom@	1963-03-16
@@ -36757,7 +36757,7 @@
 36875	America@Switzerland@	1997-01-30
 36876	America@America@America@	1997-01-30
 36877	Canada@France@	1997-01-30
-36878	America@India@France@	1997-01-30
+36878	America@America@France@	1997-01-30
 36879	America@	1997-01-30
 36880	America@	1997-01-30
 36881	United Kingdom@United Kingdom@America@	1997-01-30
@@ -36780,7 +36780,7 @@
 36898	America@America@	1997-01-16
 36899	Switzerland@Switzerland@	1997-01-16
 36900	America@	1997-01-16
-36901	India@Australia@America@	1997-01-16
+36901	America@Australia@America@	1997-01-16
 36902	America@Iceland@	1997-01-16
 36903	America@America@America@	1997-01-16
 36904	America@	1997-01-16
@@ -37086,7 +37086,7 @@
 37204		1960-07-02
 37205		1960-07-02
 37206	Canada@	1960-07-02
-37207	Niger@	1960-07-02
+37207	Nigeria@	1960-07-02
 37208	United Kingdom@	1960-07-02
 37209		1960-07-02
 37210		1960-06-25
@@ -37447,7 +37447,7 @@
 37565	New Zealand@	1960-04-30
 37566		1960-04-30
 37567	United Kingdom@	1960-04-30
-37568	America@America@United Kingdom@	1960-04-30
+37568	America@America@America@United Kingdom@	1960-04-30
 37569	India@	1960-04-30
 37570		1960-04-30
 37571		1960-04-30
@@ -37499,7 +37499,7 @@
 37617		1960-04-23
 37618		1960-04-23
 37619		1960-04-23
-37620		1960-04-23
+37620	America@	1960-04-23
 37621		1960-04-16
 37622		1960-04-16
 37623	Australia@Canada@	1960-04-16
@@ -37710,7 +37710,7 @@
 37828		1960-03-19
 37829	America@	1960-03-19
 37830		1960-03-19
-37831	Niger@	1960-03-19
+37831	Nigeria@	1960-03-19
 37832		1960-03-19
 37833	United Kingdom@	1960-03-19
 37834	South Africa@	1960-03-19
@@ -37779,7 +37779,7 @@
 37897	Switzerland@	1960-03-05
 37898	Switzerland@	1960-03-05
 37899	Georgia@	1960-03-05
-37900	Indonesia@	1960-03-05
+37900		1960-03-05
 37901	Japan@	1960-03-05
 37902	United Kingdom@	1960-03-05
 37903		1960-03-05
@@ -37833,7 +37833,7 @@
 37951		1960-02-27
 37952	Australia@	1960-02-27
 37953	America@	1960-02-27
-37954	Niger@	1960-02-27
+37954	Nigeria@	1960-02-27
 37955	Sweden@	1960-02-20
 37956	Canada@	1960-02-20
 37957	United Kingdom@	1960-02-20
@@ -37853,7 +37853,7 @@
 37971	India@	1960-02-20
 37972	Netherlands@	1960-02-20
 37973	India@	1960-02-20
-37974	America@	1960-02-20
+37974	America@America@	1960-02-20
 37975		1960-02-20
 37976		1960-02-20
 37977	Italy@	1960-02-20
@@ -37950,7 +37950,7 @@
 38068		1960-02-06
 38069	America@	1960-02-06
 38070		1960-02-06
-38071		1960-01-30
+38071	America@	1960-01-30
 38072	America@	1960-01-30
 38073		1960-01-30
 38074		1960-01-30
@@ -37970,7 +37970,7 @@
 38088		1960-01-30
 38089	Israel@	1960-01-30
 38090		1960-01-30
-38091	America@	1960-01-30
+38091	America@America@	1960-01-30
 38092	Georgia@	1960-01-30
 38093		1960-01-30
 38094		1960-01-30
@@ -38018,7 +38018,7 @@
 38136		1960-01-23
 38137		1960-01-23
 38138	America@	1960-01-23
-38139	America@	1960-01-23
+38139	America@America@	1960-01-23
 38140		1960-01-23
 38141	America@America@	1960-01-23
 38142		1960-01-23
@@ -38027,7 +38027,7 @@
 38145		1960-01-23
 38146		1960-01-23
 38147		1960-01-23
-38148	Niger@	1960-01-23
+38148	Nigeria@	1960-01-23
 38149	Singapore@	1960-01-23
 38150	Pakistan@	1960-01-23
 38151		1960-01-23
@@ -38038,7 +38038,7 @@
 38156		1960-01-23
 38157		1960-01-23
 38158		1960-01-23
-38159	Niger@	1960-01-23
+38159	Nigeria@	1960-01-23
 38160		1960-01-23
 38161		1960-01-16
 38162		1960-01-16
@@ -38055,7 +38055,7 @@
 38173		1960-01-16
 38174	South Africa@	1960-01-16
 38175	America@	1960-01-16
-38176	America@	1960-01-16
+38176	America@America@	1960-01-16
 38177	America@	1960-01-16
 38178		1960-01-16
 38179		1960-01-16
@@ -38220,7 +38220,7 @@
 38338	America@	1959-12-19
 38339	Japan@	1959-12-19
 38340	Australia@	1959-12-19
-38341	America@	1959-12-19
+38341	America@America@	1959-12-19
 38342		1959-12-19
 38343	Kenya@Kenya@	1959-12-19
 38344		1959-12-19
@@ -38270,12 +38270,12 @@
 38388		1959-12-12
 38389	United Kingdom@United Kingdom@	1959-12-12
 38390	Norway@	1959-12-12
-38391	America@	1959-12-12
+38391	America@America@	1959-12-12
 38392		1959-12-12
 38393		1959-12-12
 38394	Switzerland@	1959-12-12
 38395		1959-12-12
-38396		1959-12-12
+38396	America@	1959-12-12
 38397		1959-12-12
 38398		1959-12-12
 38399	America@	1959-12-12
@@ -38312,9 +38312,9 @@
 38430	America@America@	1959-12-05
 38431		1959-12-05
 38432	United Kingdom@	1959-12-05
-38433	Niger@	1959-12-05
+38433	Nigeria@	1959-12-05
 38434		1959-12-05
-38435		1959-12-05
+38435	America@	1959-12-05
 38436		1959-12-05
 38437		1959-12-05
 38438		1959-12-05
@@ -38403,7 +38403,7 @@
 38521		1959-11-21
 38522	America@	1959-11-21
 38523	Canada@	1959-11-21
-38524	Niger@	1959-11-21
+38524	Nigeria@	1959-11-21
 38525		1959-11-21
 38526	United Kingdom@	1959-11-21
 38527		1959-11-21
@@ -38431,7 +38431,7 @@
 38549		1959-11-14
 38550		1959-11-14
 38551	India@	1959-11-14
-38552	Niger@	1959-11-14
+38552	Nigeria@	1959-11-14
 38553	Sweden@	1959-11-14
 38554	America@	1959-11-14
 38555		1959-11-14
@@ -38491,14 +38491,14 @@
 38609		1959-11-07
 38610	America@America@	1959-11-07
 38611		1959-11-07
-38612	America@	1959-11-07
+38612	America@America@	1959-11-07
 38613		1959-11-07
 38614		1959-11-07
 38615	United Kingdom@	1959-11-07
 38616	Kenya@	1959-11-07
 38617	Kenya@	1959-11-07
 38618		1959-11-07
-38619	Niger@	1959-11-07
+38619	Nigeria@	1959-11-07
 38620		1959-11-07
 38621	America@	1959-11-07
 38622		1959-11-07
@@ -38650,7 +38650,7 @@
 38768		1959-10-10
 38769	America@Georgia@America@	1959-10-10
 38770	America@	1959-10-10
-38771	Niger@	1959-10-10
+38771	Nigeria@	1959-10-10
 38772		1959-10-10
 38773	United Kingdom@	1959-10-10
 38774		1959-10-10
@@ -38669,7 +38669,7 @@
 38787		1959-10-10
 38788		1959-10-10
 38789	India@	1959-10-10
-38790	Niger@	1959-10-10
+38790	Nigeria@	1959-10-10
 38791		1959-10-10
 38792	India@	1959-10-10
 38793	America@	1959-10-10
@@ -38727,7 +38727,7 @@
 38845		1959-09-26
 38846		1959-09-26
 38847	America@	1959-09-26
-38848	Niger@	1959-09-26
+38848	Nigeria@	1959-09-26
 38849		1959-09-26
 38850		1959-09-26
 38851	America@	1959-09-26
@@ -38880,7 +38880,7 @@
 38998	Canada@	1959-08-29
 38999		1959-08-29
 39000		1959-08-29
-39001	Niger@	1959-08-29
+39001	Nigeria@	1959-08-29
 39002		1959-08-29
 39003	Ireland@	1959-08-29
 39004		1959-08-29
@@ -38913,7 +38913,7 @@
 39031	Japan@	1959-08-22
 39032		1959-08-22
 39033	Belgium@	1959-08-22
-39034		1959-08-22
+39034	America@	1959-08-22
 39035		1959-08-22
 39036	America@America@	1959-08-22
 39037	America@	1959-08-22
@@ -38981,7 +38981,7 @@
 39099		1959-08-08
 39100	America@	1959-08-08
 39101	America@	1959-08-08
-39102	America@	1959-08-08
+39102	America@America@	1959-08-08
 39103	United Kingdom@	1959-08-08
 39104		1959-08-08
 39105	America@	1959-08-08
@@ -39133,7 +39133,7 @@
 39251		1959-07-04
 39252		1959-07-04
 39253		1959-07-04
-39254	Niger@	1959-07-04
+39254	Nigeria@	1959-07-04
 39255	Congo@	1959-07-04
 39256	America@	1959-07-04
 39257	India@	1959-07-04
@@ -39160,7 +39160,7 @@
 39278		1959-07-04
 39279		1959-07-04
 39280	India@	1959-07-04
-39281	Niger@	1959-07-04
+39281	Nigeria@	1959-07-04
 39282		1959-07-04
 39283		1959-07-04
 39284		1959-07-04
@@ -39242,7 +39242,7 @@
 39360		1959-06-13
 39361		1959-06-13
 39362	Japan@	1959-06-13
-39363		1959-06-13
+39363	America@	1959-06-13
 39364		1959-06-13
 39365	United Kingdom@	1959-06-13
 39366	America@	1959-06-13
@@ -39272,8 +39272,8 @@
 39390	Egypt@	1959-06-13
 39391	America@	1959-06-06
 39392	Canada@	1959-06-06
-39393	Niger@	1959-06-06
-39394	Niger@United Kingdom@	1959-06-06
+39393	Nigeria@	1959-06-06
+39394	Nigeria@United Kingdom@	1959-06-06
 39395		1959-06-06
 39396		1959-06-06
 39397		1959-06-06
@@ -39285,7 +39285,7 @@
 39403	Poland@	1959-06-06
 39404	America@Poland@	1959-06-06
 39405	Australia@	1959-06-06
-39406	Niger@	1959-06-06
+39406	Nigeria@	1959-06-06
 39407		1959-06-06
 39408		1959-06-06
 39409		1959-06-06
@@ -39396,7 +39396,7 @@
 39514	Netherlands@	1959-05-16
 39515		1959-05-16
 39516		1959-05-16
-39517	Sudan@	1959-05-16
+39517		1959-05-16
 39518	America@	1959-05-16
 39519		1959-05-16
 39520		1959-05-16
@@ -39460,13 +39460,13 @@
 39578		1959-05-02
 39579		1959-05-02
 39580	America@	1959-05-02
-39581	America@	1959-05-02
+39581	America@America@	1959-05-02
 39582	America@	1959-05-02
 39583	Canada@	1959-05-02
 39584	Canada@	1959-05-02
 39585	America@	1959-05-02
 39586	Italy@	1959-05-02
-39587		1959-05-02
+39587	America@	1959-05-02
 39588	America@America@	1959-05-02
 39589		1959-05-02
 39590	America@	1959-05-02
@@ -39527,7 +39527,7 @@
 39645	Sweden@	1959-04-18
 39646	Canada@	1959-04-18
 39647		1959-04-18
-39648	Indonesia@	1959-04-18
+39648		1959-04-18
 39649	Italy@	1959-04-18
 39650	America@	1959-04-18
 39651	Australia@	1959-04-18
@@ -39581,14 +39581,14 @@
 39699	Kenya@	1959-04-04
 39700	Kenya@	1959-04-04
 39701	United Kingdom@	1959-04-04
-39702	Niger@	1959-04-04
+39702	Nigeria@	1959-04-04
 39703	Canada@	1959-04-04
 39704		1959-04-04
 39705	America@	1959-04-04
 39706	Lebanon@	1959-04-04
 39707	America@Canada@	1959-04-04
 39708	United Kingdom@	1959-04-04
-39709	America@America@	1959-04-04
+39709	America@America@America@	1959-04-04
 39710		1959-04-04
 39711		1959-04-04
 39712		1959-04-04
@@ -39713,7 +39713,7 @@
 39832		1959-03-14
 39833	South Africa@	1959-03-14
 39834	America@	1959-03-14
-39835		1959-03-14
+39835	America@	1959-03-14
 39836	America@	1959-03-14
 39837		1959-03-14
 39838		1959-03-14
@@ -39969,7 +39969,7 @@
 40088		1959-01-24
 40089		1959-01-24
 40090		1959-01-24
-40091	United Kingdom@America@	1959-01-24
+40091	United Kingdom@America@America@	1959-01-24
 40092		1959-01-24
 40093		1959-01-24
 40094		1959-01-24
@@ -39982,7 +39982,7 @@
 40101		1959-01-24
 40102	India@	1959-01-24
 40103		1959-01-24
-40104	Niger@	1959-01-24
+40104	Nigeria@	1959-01-24
 40105	United Kingdom@	1959-01-24
 40106	South Africa@	1959-01-24
 40107	America@	1959-01-24
@@ -40021,7 +40021,7 @@
 40140		1959-01-17
 40141		1959-01-17
 40142		1959-01-17
-40143	Sudan@	1959-01-17
+40143		1959-01-17
 40144		1959-01-17
 40145	United Kingdom@	1959-01-17
 40146		1959-01-10
@@ -40047,7 +40047,7 @@
 40166	America@	1959-01-10
 40167		1959-01-10
 40168	America@	1959-01-10
-40169	America@	1959-01-10
+40169	America@America@	1959-01-10
 40170	America@Australia@	1959-01-10
 40171	America@	1959-01-10
 40172		1959-01-10
@@ -40067,7 +40067,7 @@
 40186	India@	1959-01-03
 40187		1959-01-03
 40188		1959-01-03
-40189	Niger@	1959-01-03
+40189	Nigeria@	1959-01-03
 40190	South Africa@	1959-01-03
 40191		1959-01-03
 40192		1959-01-03
@@ -40289,7 +40289,7 @@
 40408	Australia@	1958-11-22
 40409		1958-11-22
 40410	America@	1958-11-22
-40411		1958-11-22
+40411	America@	1958-11-22
 40412		1958-11-22
 40413		1958-11-22
 40414	America@	1958-11-22
@@ -40414,7 +40414,7 @@
 40533		1958-11-01
 40534		1958-11-01
 40535		1958-11-01
-40536	America@	1958-11-01
+40536	America@America@	1958-11-01
 40537		1958-11-01
 40538		1958-11-01
 40539		1958-11-01
@@ -40480,7 +40480,7 @@
 40599		1958-10-18
 40600	New Zealand@	1958-10-18
 40601		1958-10-18
-40602	Niger@	1958-10-18
+40602	Nigeria@	1958-10-18
 40603		1958-10-18
 40604		1958-10-18
 40605		1958-10-18
@@ -40619,7 +40619,7 @@
 40738	Japan@	1958-09-20
 40739		1958-09-20
 40740		1958-09-20
-40741	Niger@	1958-09-20
+40741	Nigeria@	1958-09-20
 40742	United Kingdom@	1958-09-20
 40743	Norway@	1958-09-20
 40744		1958-09-20
@@ -40686,7 +40686,7 @@
 40805		1958-08-30
 40806		1958-08-30
 40807	America@	1958-08-30
-40808		1958-08-30
+40808	America@	1958-08-30
 40809		1958-08-30
 40810		1958-08-30
 40811	America@	1958-08-30
@@ -40723,9 +40723,9 @@
 40842		1958-08-23
 40843	India@	1958-08-23
 40844		1958-08-23
-40845	Sudan@	1958-08-23
+40845		1958-08-23
 40846		1958-08-23
-40847	Niger@	1958-08-23
+40847	Nigeria@	1958-08-23
 40848	United Kingdom@	1958-08-23
 40849	Kenya@	1958-08-23
 40850		1958-08-23
@@ -40885,7 +40885,7 @@
 41004		1958-07-12
 41005	India@	1958-07-12
 41006		1958-07-12
-41007		1958-07-12
+41007	America@	1958-07-12
 41008		1958-07-12
 41009	America@	1958-07-12
 41010		1958-07-12
@@ -41111,7 +41111,7 @@
 41230	United Kingdom@	1958-05-24
 41231		1958-05-24
 41232		1958-05-24
-41233		1958-05-24
+41233	America@	1958-05-24
 41234		1958-05-24
 41235		1958-05-24
 41236	America@	1958-05-24
@@ -41123,7 +41123,7 @@
 41242		1958-05-24
 41243		1958-05-24
 41244		1958-05-24
-41245		1958-05-17
+41245	America@	1958-05-17
 41246	Canada@	1958-05-17
 41247		1958-05-17
 41248	Netherlands@	1958-05-17
@@ -41208,7 +41208,7 @@
 41327	America@	1958-05-03
 41328	America@	1958-05-03
 41329		1958-05-03
-41330		1958-05-03
+41330	America@	1958-05-03
 41331	New Zealand@	1958-05-03
 41332		1958-05-03
 41333		1958-05-03
@@ -41527,7 +41527,7 @@
 41647	India@	1958-03-08
 41648	Sweden@	1958-03-08
 41649		1958-03-08
-41650	Niger@	1958-03-08
+41650	Nigeria@	1958-03-08
 41651	South Africa@	1958-03-08
 41652	Japan@	1958-03-08
 41653	Canada@United Kingdom@	1958-03-08
@@ -41918,7 +41918,7 @@
 42039	Canada@	1957-12-28
 42040		1957-12-28
 42041	Australia@	1957-12-28
-42042	Indonesia@Canada@	1957-12-28
+42042	Canada@	1957-12-28
 42043	America@	1957-12-28
 42044	New Zealand@	1957-12-28
 42045		1957-12-28
@@ -41929,7 +41929,7 @@
 42050	Ghana@	1957-12-28
 42051	Denmark@	1957-12-28
 42052	Israel@	1957-12-28
-42053	Niger@	1957-12-28
+42053	Nigeria@	1957-12-28
 42054	Australia@	1957-12-28
 42055	Malaysia@	1957-12-28
 42056	America@	1957-12-28
@@ -42074,7 +42074,7 @@
 42195	New Zealand@	1957-11-30
 42196		1957-11-30
 42197	America@	1957-11-30
-42198		1957-11-30
+42198	America@	1957-11-30
 42199	America@	1957-11-30
 42200		1957-11-30
 42201	America@	1957-11-30
@@ -42120,7 +42120,7 @@
 42241	Norway@	1957-11-23
 42242	America@	1957-11-23
 42243		1957-11-23
-42244	Sudan@United Kingdom@	1957-11-23
+42244	United Kingdom@	1957-11-23
 42245		1957-11-23
 42246	United Kingdom@	1957-11-23
 42247		1957-11-23
@@ -42357,7 +42357,7 @@
 42478	Chile@	1957-09-07
 42479	Ghana@	1957-09-07
 42480		1957-09-07
-42481	Niger@	1957-09-07
+42481	Nigeria@	1957-09-07
 42482		1957-09-07
 42483		1957-09-07
 42484		1957-08-31
@@ -42384,7 +42384,7 @@
 42505	Israel@	1957-08-24
 42506	Australia@	1957-08-24
 42507	America@	1957-08-24
-42508	Niger@	1957-08-24
+42508	Nigeria@	1957-08-24
 42509	Australia@	1957-08-24
 42510		1957-08-24
 42511	Canada@	1957-08-24
@@ -42403,7 +42403,7 @@
 42524	United Kingdom@	1957-08-17
 42525		1957-08-17
 42526	United Kingdom@	1957-08-17
-42527		1957-08-17
+42527	America@	1957-08-17
 42528	Australia@	1957-08-17
 42529		1957-08-17
 42530	United Kingdom@	1957-08-17
@@ -42413,7 +42413,7 @@
 42534	America@	1957-08-10
 42535	New Zealand@	1957-08-10
 42536	New Zealand@	1957-08-10
-42537	Niger@	1957-08-10
+42537	Nigeria@	1957-08-10
 42538	Macau@	1957-08-10
 42539		1957-08-10
 42540	Netherlands@	1957-08-10
@@ -42605,10 +42605,10 @@
 42726		1957-06-01
 42727		1957-06-01
 42728	Kenya@	1957-06-01
-42729	Niger@	1957-06-01
+42729	Nigeria@	1957-06-01
 42730		1957-06-01
 42731		1957-06-01
-42732	Niger@	1957-06-01
+42732	Nigeria@	1957-06-01
 42733		1957-06-01
 42734		1957-06-01
 42735		1957-06-01
@@ -42661,7 +42661,7 @@
 42782		1957-05-11
 42783		1957-05-11
 42784	Chile@	1957-05-11
-42785	United Kingdom@	1957-05-11
+42785	United Kingdom@America@	1957-05-11
 42786		1957-05-11
 42787	Australia@	1957-05-11
 42788	Canada@	1957-05-11
@@ -42682,7 +42682,7 @@
 42803		1957-05-04
 42804		1957-05-04
 42805	Israel@	1957-05-04
-42806	America@America@	1957-05-04
+42806	America@America@America@	1957-05-04
 42807		1957-05-04
 42808	Canada@	1957-05-04
 42809		1957-05-04
@@ -42705,7 +42705,7 @@
 42826	America@	1957-04-27
 42827		1957-04-27
 42828	America@America@	1957-04-27
-42829	Niger@	1957-04-27
+42829	Nigeria@	1957-04-27
 42830		1957-04-27
 42831		1957-04-27
 42832		1957-04-27
@@ -42742,7 +42742,7 @@
 42863		1957-04-13
 42864	France@	1957-04-13
 42865	United Kingdom@	1957-04-13
-42866		1957-04-13
+42866	America@	1957-04-13
 42867	America@	1957-04-13
 42868	Denmark@	1957-04-13
 42869		1957-04-13
@@ -42905,7 +42905,7 @@
 43026	America@	1957-02-23
 43027		1957-02-23
 43028	America@America@	1957-02-23
-43029	Niger@	1957-02-23
+43029	Nigeria@	1957-02-23
 43030		1957-02-23
 43031		1957-02-23
 43032	United Kingdom@	1957-02-23
@@ -42928,7 +42928,7 @@
 43049	Japan@	1957-02-16
 43050		1957-02-16
 43051	United Kingdom@	1957-02-16
-43052	Indonesia@	1957-02-16
+43052		1957-02-16
 43053	New Zealand@New Zealand@Australia@	1957-02-16
 43054	United Kingdom@	1957-02-09
 43055	New Zealand@	1957-02-09
@@ -42991,7 +42991,7 @@
 43112	America@	1957-01-26
 43113	New Zealand@	1957-01-26
 43114	Canada@	1957-01-26
-43115	Sudan@	1957-01-26
+43115		1957-01-26
 43116		1957-01-19
 43117		1957-01-19
 43118		1957-01-19
@@ -43179,7 +43179,7 @@
 43300	United Kingdom@	1956-12-01
 43301		1956-12-01
 43302		1956-12-01
-43303		1956-12-01
+43303	America@	1956-12-01
 43304	America@	1956-12-01
 43305		1956-12-01
 43306		1956-12-01
@@ -43192,7 +43192,7 @@
 43313	United Kingdom@	1956-11-24
 43314		1956-11-24
 43315		1956-11-24
-43316		1956-11-24
+43316	America@	1956-11-24
 43317	America@	1956-11-24
 43318	India@	1956-11-24
 43319		1956-11-24
@@ -43253,7 +43253,7 @@
 43374		1956-11-10
 43375	Japan@	1956-11-10
 43376	America@	1956-11-10
-43377	Indonesia@	1956-11-10
+43377		1956-11-10
 43378	India@	1956-11-10
 43379	Australia@	1956-11-10
 43380		1956-11-10
@@ -43335,7 +43335,7 @@
 43456		1956-10-27
 43457		1956-10-27
 43458	America@America@	1956-10-27
-43459	Niger@	1956-10-27
+43459	Nigeria@	1956-10-27
 43460	New Zealand@	1956-10-27
 43461		1956-10-27
 43462	Finland@	1956-10-27
@@ -43370,7 +43370,7 @@
 43491		1956-10-13
 43492	New Zealand@	1956-10-13
 43493		1956-10-13
-43494	Argentina@	1956-10-13
+43494	America@	1956-10-13
 43495		1956-10-13
 43496		1956-10-13
 43497	United Kingdom@	1956-10-13
@@ -43386,7 +43386,7 @@
 43507		1956-10-13
 43508		1956-10-13
 43509		1956-10-13
-43510	America@	1956-10-06
+43510	America@America@	1956-10-06
 43511		1956-10-06
 43512	America@	1956-10-06
 43513		1956-10-06
@@ -43560,7 +43560,7 @@
 43681		1956-08-25
 43682		1956-08-25
 43683	Congo@	1956-08-25
-43684	Sudan@	1956-08-25
+43684		1956-08-25
 43685	Australia@	1956-08-18
 43686		1956-08-18
 43687	India@	1956-08-18
@@ -43853,7 +43853,7 @@
 43974		1956-05-26
 43975		1956-05-19
 43976		1956-05-19
-43977	Niger@	1956-05-19
+43977	Nigeria@	1956-05-19
 43978	Japan@	1956-05-19
 43979	Japan@	1956-05-19
 43980		1956-05-19
@@ -43879,7 +43879,7 @@
 44000	United Kingdom@	1964-05-30
 44001	America@	1964-05-30
 44002	America@	1964-05-30
-44003	Thailand@	1964-05-30
+44003	America@Thailand@	1964-05-30
 44004		1964-05-30
 44005	Denmark@Germany@	1964-05-30
 44006	America@	1964-05-30
@@ -43904,8 +43904,8 @@
 44025	America@	1964-05-23
 44026	Australia@	1964-05-23
 44027		1964-05-23
-44028	America@	1964-05-23
-44029		1964-05-23
+44028	America@America@America@	1964-05-23
+44029	America@	1964-05-23
 44030	America@	1964-05-23
 44031	America@	1964-05-23
 44032	America@	1964-05-23
@@ -43944,7 +43944,7 @@
 44065	America@	1964-05-16
 44066	America@	1964-05-16
 44067		1964-05-16
-44068		1964-05-16
+44068	America@	1964-05-16
 44069	America@	1964-05-16
 44070	America@	1964-05-16
 44071	America@	1964-05-16
@@ -43952,7 +43952,7 @@
 44073	America@America@	1964-05-16
 44074	America@	1964-05-16
 44075	Sweden@	1964-05-16
-44076	America@	1964-05-16
+44076	America@America@	1964-05-16
 44077	America@	1964-05-16
 44078	United Kingdom@	1964-05-16
 44079		1964-05-16
@@ -44129,7 +44129,7 @@
 44250		1964-04-25
 44251	Australia@	1964-04-25
 44252		1964-04-18
-44253		1964-04-18
+44253	America@	1964-04-18
 44254	Mexico@	1964-04-18
 44255	America@	1964-04-18
 44256		1964-04-18
@@ -44140,7 +44140,7 @@
 44261	India@	1964-04-18
 44262		1964-04-18
 44263		1964-04-18
-44264		1964-04-18
+44264	America@	1964-04-18
 44265	America@	1964-04-18
 44266	Germany@	1964-04-18
 44267	India@	1964-04-18
@@ -44161,7 +44161,7 @@
 44282	Canada@	1964-04-18
 44283		1964-04-18
 44284		1964-04-18
-44285		1964-04-18
+44285	America@	1964-04-18
 44286	America@	1964-04-18
 44287		1964-04-18
 44288	Yugoslavia@	1964-04-18
@@ -44241,7 +44241,7 @@
 44362		1964-04-04
 44363		1964-04-04
 44364	America@	1964-04-04
-44365	America@	1964-04-04
+44365	America@America@	1964-04-04
 44366	United Kingdom@	1964-04-04
 44367	Canada@	1964-04-04
 44368		1964-04-04
@@ -44258,12 +44258,12 @@
 44379	America@	1964-04-04
 44380		1964-04-04
 44381		1964-04-04
-44382	America@	1964-03-28
+44382	America@America@	1964-03-28
 44383	America@	1964-03-28
 44384		1964-03-28
 44385		1964-03-28
-44386	Sudan@	1964-03-28
-44387		1964-03-28
+44386		1964-03-28
+44387	Egypt@	1964-03-28
 44388	South Africa@	1964-03-28
 44389	America@	1964-03-28
 44390	Germany@	1964-03-28
@@ -44334,7 +44334,7 @@
 44455	America@	1964-03-21
 44456	America@	1964-03-21
 44457	America@	1964-03-21
-44458	Canada@	1964-03-21
+44458	Canada@America@America@	1964-03-21
 44459	Germany@	1964-03-21
 44460	Sweden@	1964-03-21
 44461	Australia@	1964-03-21
@@ -44375,7 +44375,7 @@
 44496		1964-03-14
 44497	America@	1964-03-14
 44498		1964-03-14
-44499		1964-03-14
+44499	America@	1964-03-14
 44500	America@	1964-03-14
 44501	America@America@	1964-03-14
 44502	America@	1964-03-14
@@ -44384,7 +44384,7 @@
 44505	United Kingdom@Canada@	1964-03-14
 44506	Canada@	1964-03-14
 44507		1964-03-14
-44508	Niger@Niger@	1964-03-14
+44508	Nigeria@Nigeria@	1964-03-14
 44509	Canada@	1964-03-14
 44510	India@	1964-03-14
 44511	America@	1964-03-14
@@ -44412,7 +44412,7 @@
 44533	United Kingdom@	1964-03-07
 44534		1964-03-07
 44535	America@	1964-03-07
-44536	America@Iraq@America@	1964-03-07
+44536	America@America@Iraq@America@	1964-03-07
 44537	South Africa@	1964-03-07
 44538		1964-03-07
 44539		1964-03-07
@@ -44425,7 +44425,7 @@
 44546		1964-03-07
 44547	Australia@	1964-03-07
 44548		1964-03-07
-44549		1964-03-07
+44549	America@	1964-03-07
 44550	America@	1964-03-07
 44551	America@	1964-03-07
 44552	America@	1964-03-07
@@ -44443,7 +44443,7 @@
 44564	Australia@	1964-03-07
 44565	America@	1964-03-07
 44566	America@	1964-03-07
-44567		1964-02-29
+44567	America@	1964-02-29
 44568		1964-02-29
 44569	New Zealand@	1964-02-29
 44570	Singapore@	1964-02-29
@@ -44474,7 +44474,7 @@
 44595	America@	1964-02-29
 44596	Belgium@Poland@	1964-02-29
 44597	Greece@	1964-02-29
-44598		1964-02-29
+44598	America@	1964-02-29
 44599		1964-02-29
 44600	Finland@	1964-02-29
 44601		1964-02-29
@@ -44594,7 +44594,7 @@
 44715	Denmark@	1964-02-15
 44716	Canada@	1964-02-15
 44717		1964-02-15
-44718		1964-02-08
+44718	America@	1964-02-08
 44719	America@	1964-02-08
 44720		1964-02-08
 44721	Australia@	1964-02-08
@@ -44622,7 +44622,7 @@
 44743	America@France@	1964-02-08
 44744	Germany@	1964-02-08
 44745		1964-02-08
-44746	America@	1964-02-08
+44746	America@America@	1964-02-08
 44747		1964-02-08
 44748		1964-02-08
 44749	Switzerland@	1964-02-08
@@ -44683,7 +44683,7 @@
 44804		1964-02-01
 44805	United Kingdom@	1964-02-01
 44806	India@	1964-02-01
-44807	Sudan@	1964-02-01
+44807		1964-02-01
 44808	Sweden@	1964-02-01
 44809	America@America@	1964-02-01
 44810	United Kingdom@	1964-02-01
@@ -44799,7 +44799,7 @@
 44920		1964-01-11
 44921	New Zealand@	1964-01-11
 44922	India@	1964-01-11
-44923	America@	1964-01-11
+44923	America@America@	1964-01-11
 44924		1964-01-11
 44925	America@	1964-01-11
 44926	New Zealand@	1964-01-11
@@ -44819,7 +44819,7 @@
 44940	America@	1964-01-11
 44941		1964-01-11
 44942	America@	1964-01-11
-44943	America@	1964-01-11
+44943	America@America@	1964-01-11
 44944		1964-01-11
 44945	United Kingdom@	1964-01-11
 44946	America@	1964-01-11
@@ -44915,7 +44915,7 @@
 45036	America@	1963-12-28
 45037	Japan@	1963-12-28
 45038	America@	1963-12-28
-45039		1963-12-28
+45039	America@	1963-12-28
 45040	America@	1963-12-28
 45041	Japan@	1963-12-28
 45042	America@Colombia@	1963-12-28
@@ -44961,7 +44961,7 @@
 45082	India@	1963-12-21
 45083	Canada@	1963-12-21
 45084		1963-12-21
-45085	America@	1963-12-21
+45085	America@America@	1963-12-21
 45086		1963-12-21
 45087		1963-12-21
 45088	America@	1963-12-21
@@ -45113,11 +45113,11 @@
 45234	America@	1963-11-30
 45235	America@	1963-11-30
 45236	America@	1963-11-30
-45237	Sudan@	1963-11-30
+45237		1963-11-30
 45238	India@Canada@	1963-11-30
 45239	Hungary@	1963-11-30
 45240	America@	1963-11-30
-45241		1963-11-30
+45241	America@	1963-11-30
 45242		1963-11-30
 45243		1963-11-30
 45244	Philippines@	1963-11-30
@@ -45125,7 +45125,7 @@
 45246	Germany@	1963-11-30
 45247	America@	1963-11-30
 45248	Kenya@	1963-11-30
-45249		1963-11-30
+45249	America@	1963-11-30
 45250		1963-11-30
 45251	United Kingdom@Canada@	1963-11-30
 45252	America@	1963-11-30
@@ -45139,7 +45139,7 @@
 45260	America@America@	1963-11-23
 45261		1963-11-23
 45262		1963-11-23
-45263		1963-11-23
+45263	America@	1963-11-23
 45264	America@	1963-11-23
 45265		1963-11-23
 45266	Canada@	1963-11-23
@@ -45195,7 +45195,7 @@
 45316	Japan@	1963-11-16
 45317	Australia@	1963-11-16
 45318	Brazil@	1963-11-16
-45319	America@	1963-11-16
+45319	America@America@	1963-11-16
 45320		1963-11-16
 45321	India@	1963-11-16
 45322		1963-11-16
@@ -45254,9 +45254,9 @@
 45375		1963-11-09
 45376	Japan@Japan@	1963-11-09
 45377	America@	1963-11-09
-45378	America@	1963-11-09
+45378	America@America@	1963-11-09
 45379	New Zealand@	1963-11-09
-45380	Australia@Netherlands@	1963-11-09
+45380	Australia@Netherlands@America@	1963-11-09
 45381	America@	1963-11-09
 45382	Australia@	1963-11-09
 45383	Jamaica@	1963-11-09
@@ -45344,7 +45344,7 @@
 45465	India@	1963-11-02
 45466	America@	1963-11-02
 45467		1963-10-26
-45468		1963-10-26
+45468	America@	1963-10-26
 45469		1963-10-26
 45470	Georgia@	1963-10-26
 45471		1963-10-26
@@ -45379,7 +45379,7 @@
 45500		1963-10-26
 45501		1963-10-26
 45502	America@	1963-10-26
-45503	Sudan@	1963-10-26
+45503		1963-10-26
 45504		1963-10-26
 45505		1963-10-19
 45506		1963-10-19
@@ -45390,7 +45390,7 @@
 45511		1963-10-19
 45512	Canada@	1963-10-19
 45513	America@	1963-10-19
-45514	America@Germany@	1963-10-19
+45514	America@America@Germany@	1963-10-19
 45515		1963-10-19
 45516	America@America@	1963-10-19
 45517		1963-10-19
@@ -45400,18 +45400,18 @@
 45521		1963-10-19
 45522	Netherlands@America@	1963-10-19
 45523	America@	1963-10-19
-45524		1963-10-19
+45524	America@	1963-10-19
 45525		1963-10-19
 45526	America@	1963-10-19
 45527		1963-10-19
 45528	Israel@	1963-10-19
 45529	Yugoslavia@	1963-10-19
 45530		1963-10-19
-45531		1963-10-19
+45531	America@	1963-10-19
 45532	America@	1963-10-19
 45533	Norway@	1963-10-19
 45534	America@	1963-10-19
-45535		1963-10-19
+45535	America@	1963-10-19
 45536	New Zealand@	1963-10-19
 45537		1963-10-19
 45538	America@	1963-10-19
@@ -45443,7 +45443,7 @@
 45565	United Kingdom@	1963-10-12
 45566	Australia@	1963-10-12
 45567	America@	1963-10-12
-45568		1963-10-12
+45568	America@	1963-10-12
 45569		1963-10-12
 45570	United Kingdom@United Kingdom@	1963-10-12
 45571		1963-10-12
@@ -45471,7 +45471,7 @@
 45593		1963-10-12
 45594	Sweden@	1963-10-12
 45595		1963-10-12
-45596		1963-10-12
+45596	America@	1963-10-12
 45597		1963-10-05
 45598		1963-10-05
 45599		1963-10-05
@@ -45600,7 +45600,7 @@
 45722	Australia@	1963-09-14
 45723		1963-09-14
 45724		1963-09-14
-45725	America@	1963-09-14
+45725	America@America@	1963-09-14
 45726		1963-09-14
 45727	Italy@	1963-09-14
 45728		1963-09-14
@@ -45654,7 +45654,7 @@
 45776		1963-09-07
 45777	Australia@	1963-09-07
 45778	Mexico@	1963-09-07
-45779	America@America@	1963-09-07
+45779	America@America@America@	1963-09-07
 45780	United Kingdom@	1963-09-07
 45781		1963-09-07
 45782		1963-09-07
@@ -45820,7 +45820,7 @@
 45942		1963-08-10
 45943	America@America@	1963-08-10
 45944	America@	1963-08-10
-45945	America@	1963-08-10
+45945	America@America@America@	1963-08-10
 45946	America@	1963-08-10
 45947	United Kingdom@	1963-08-10
 45948	United Kingdom@	1963-08-10
@@ -45836,7 +45836,7 @@
 45958		1963-08-03
 45959	America@	1963-08-03
 45960		1963-08-03
-45961	America@America@	1963-08-03
+45961	America@America@America@	1963-08-03
 45962	Canada@	1963-08-03
 45963	United Kingdom@	1963-08-03
 45964	Israel@	1963-08-03
@@ -46028,7 +46028,7 @@
 46150		1963-07-06
 46151		1963-07-06
 46152	America@	1963-07-06
-46153	Niger@	1963-07-06
+46153	Nigeria@	1963-07-06
 46154		1963-07-06
 46155	America@	1963-07-06
 46156	United Kingdom@	1963-07-06
@@ -46050,11 +46050,11 @@
 46172	America@	1963-07-06
 46173	United Kingdom@	1963-07-06
 46174		1963-07-06
-46175	Malta@	1963-07-06
+46175		1963-07-06
 46176	America@	1963-07-06
 46177	America@	1963-07-06
 46178		1963-07-06
-46179		1963-07-06
+46179	America@	1963-07-06
 46180		1963-07-06
 46181		1963-07-06
 46182	America@	1963-07-06
@@ -46080,7 +46080,7 @@
 46202		1963-06-29
 46203		1963-06-29
 46204		1963-06-29
-46205	Indonesia@	1963-06-29
+46205		1963-06-29
 46206	America@	1963-06-29
 46207	America@	1963-06-29
 46208	America@	1963-06-29
@@ -46106,7 +46106,7 @@
 46228	America@	1963-06-29
 46229		1963-06-29
 46230	Spain@	1963-06-29
-46231	Niger@	1963-06-29
+46231	Nigeria@	1963-06-29
 46232	United Kingdom@	1963-06-29
 46233	America@	1963-06-22
 46234		1963-06-22
@@ -46122,9 +46122,9 @@
 46244		1963-06-22
 46245	United Kingdom@	1963-06-22
 46246		1963-06-22
-46247		1963-06-22
+46247	America@	1963-06-22
 46248	Japan@	1963-06-22
-46249	America@America@	1963-06-22
+46249	America@America@America@	1963-06-22
 46250		1963-06-22
 46251	America@	1963-06-22
 46252	Germany@	1963-06-22
@@ -46253,7 +46253,7 @@
 46375	Poland@	1963-06-08
 46376	Sweden@	1963-06-08
 46377		1963-06-08
-46378	Niger@	1963-06-08
+46378	Nigeria@	1963-06-08
 46379	America@	1963-06-08
 46380	America@	1963-06-01
 46381		1963-06-01
@@ -46289,7 +46289,7 @@
 46411	India@	1963-06-01
 46412	Sweden@	1963-06-01
 46413		1963-06-01
-46414	America@	1963-06-01
+46414	America@America@	1963-06-01
 46415	Canada@	1963-06-01
 46416		1963-06-01
 46417	Australia@	1963-06-01
@@ -46360,13 +46360,13 @@
 46482	America@	1963-05-18
 46483	India@United Kingdom@	1963-05-18
 46484		1963-05-18
-46485		1963-05-18
+46485	America@	1963-05-18
 46486	United Kingdom@	1963-05-18
 46487	America@	1963-05-18
 46488	America@	1963-05-18
 46489	America@	1963-05-18
 46490		1963-05-18
-46491		1963-05-18
+46491	America@	1963-05-18
 46492	America@	1963-05-18
 46493	Denmark@	1963-05-18
 46494	America@America@	1963-05-18
@@ -46390,7 +46390,7 @@
 46512	Japan@	1963-05-11
 46513		1963-05-11
 46514	Japan@	1963-05-11
-46515		1963-05-11
+46515	America@	1963-05-11
 46516		1963-05-11
 46517		1963-05-11
 46518		1963-05-11
@@ -46410,7 +46410,7 @@
 46532		1963-05-11
 46533		1963-05-11
 46534	United Kingdom@	1963-05-11
-46535	Italy@	1963-05-11
+46535	Italy@America@	1963-05-11
 46536	France@	1963-05-11
 46537		1963-05-11
 46538		1963-05-11
@@ -46529,7 +46529,7 @@
 46651	America@	1963-04-20
 46652	America@America@	1963-04-20
 46653	America@	1963-04-20
-46654		1963-04-20
+46654	America@	1963-04-20
 46655	America@India@	1963-04-20
 46656	Norway@	1963-04-20
 46657		1963-04-20
@@ -46656,7 +46656,7 @@
 46778	America@	1963-04-06
 46779	Colombia@	1963-04-06
 46780		1963-04-06
-46781		1963-04-06
+46781	America@	1963-04-06
 46782	United Kingdom@	1963-04-06
 46783	Belgium@	1963-04-06
 46784	America@	1963-04-06
@@ -46666,7 +46666,7 @@
 46788	America@	1963-04-06
 46789	United Kingdom@	1963-04-06
 46790	Taiwan@	1963-03-30
-46791		1963-03-30
+46791	America@	1963-03-30
 46792	New Zealand@	1963-03-30
 46793		1963-03-30
 46794	America@	1963-03-30
@@ -46741,8 +46741,8 @@
 46863		1963-03-23
 46864		1963-03-23
 46865	Germany@	1963-03-23
-46866		1963-03-23
-46867	America@	1963-03-23
+46866	America@	1963-03-23
+46867	America@America@	1963-03-23
 46868	America@	1963-03-23
 46869		1963-03-23
 46870	Japan@	1963-03-23
@@ -46781,7 +46781,7 @@
 46903	America@Italy@	1963-03-16
 46904	America@	1963-03-16
 46905		1963-03-16
-46906		1963-03-16
+46906	America@	1963-03-16
 46907	Canada@	1963-03-16
 46908		1963-03-16
 46909	America@	1963-03-16
@@ -46914,7 +46914,7 @@
 47036	America@	1963-02-23
 47037		1963-02-23
 47038	Japan@	1963-02-23
-47039	Niger@	1963-02-23
+47039	Nigeria@	1963-02-23
 47040		1963-02-23
 47041	Australia@	1963-02-23
 47042	America@	1963-02-23
@@ -46963,7 +46963,7 @@
 47085	Canada@	1963-02-16
 47086		1963-02-16
 47087		1963-02-16
-47088		1963-02-16
+47088	America@	1963-02-16
 47089	United Kingdom@	1963-02-16
 47090		1963-02-16
 47091	America@	1963-02-16
@@ -46974,7 +46974,7 @@
 47096	United Kingdom@	1963-02-16
 47097		1963-02-16
 47098		1963-02-16
-47099	America@	1963-02-16
+47099	America@America@	1963-02-16
 47100		1963-02-16
 47101	America@	1963-02-16
 47102	Canada@	1963-02-16
@@ -46982,7 +46982,7 @@
 47104	Belgium@	1963-02-16
 47105	India@	1963-02-16
 47106		1963-02-16
-47107		1963-02-09
+47107	America@	1963-02-09
 47108	America@	1963-02-09
 47109		1963-02-09
 47110	New Zealand@	1963-02-09
@@ -47178,9 +47178,9 @@
 47300	America@	1963-01-19
 47301		1963-01-19
 47302	America@	1963-01-19
-47303	America@	1963-01-19
+47303	America@America@	1963-01-19
 47304		1963-01-19
-47305		1963-01-19
+47305	America@	1963-01-19
 47306	America@	1963-01-19
 47307	Israel@	1963-01-19
 47308	Netherlands@	1963-01-19
@@ -47323,7 +47323,7 @@
 47445	India@India@	1962-12-29
 47446		1962-12-29
 47447	Australia@	1962-12-29
-47448	America@	1962-12-29
+47448	America@America@	1962-12-29
 47449		1962-12-29
 47450	United Kingdom@	1962-12-29
 47451		1962-12-29
@@ -47343,7 +47343,7 @@
 47465	America@	1962-12-29
 47466		1962-12-29
 47467	America@America@	1962-12-29
-47468		1962-12-29
+47468	America@	1962-12-29
 47469		1962-12-22
 47470	Australia@	1962-12-22
 47471		1962-12-22
@@ -47424,7 +47424,7 @@
 47546	America@	1962-12-15
 47547		1962-12-15
 47548	United Kingdom@	1962-12-15
-47549	Niger@	1962-12-15
+47549	Nigeria@	1962-12-15
 47550	America@America@	1962-12-15
 47551	Uganda@	1962-12-15
 47552	Japan@	1962-12-15
@@ -47511,7 +47511,7 @@
 47633	America@	1962-11-24
 47634		1962-11-24
 47635	America@	1962-11-24
-47636	Morocco@	1962-11-24
+47636		1962-11-24
 47637	America@	1962-11-24
 47638		1962-11-24
 47639	Australia@	1962-11-24
@@ -47520,8 +47520,8 @@
 47642		1962-11-17
 47643	Japan@Canada@	1962-11-17
 47644	Australia@	1962-11-17
-47645		1962-11-17
-47646		1962-11-17
+47645	America@	1962-11-17
+47646	America@	1962-11-17
 47647	Australia@	1962-11-17
 47648	America@Japan@	1962-11-17
 47649	India@	1962-11-17
@@ -47539,7 +47539,7 @@
 47661	America@Germany@Germany@	1962-11-17
 47662	America@	1962-11-17
 47663	Japan@	1962-11-17
-47664	Malta@	1962-11-17
+47664		1962-11-17
 47665	Norway@	1962-11-17
 47666		1962-11-17
 47667	Congo@	1962-11-17
@@ -47578,7 +47578,7 @@
 47700		1962-11-10
 47701		1962-11-10
 47702		1962-11-10
-47703		1962-11-10
+47703	America@	1962-11-10
 47704	India@	1962-11-10
 47705	Germany@	1962-11-10
 47706	America@	1962-11-10
@@ -47590,7 +47590,7 @@
 47712	America@	1962-11-10
 47713		1962-11-10
 47714		1962-11-10
-47715	Italy@	1962-11-10
+47715	Italy@America@	1962-11-10
 47716		1962-11-10
 47717	United Kingdom@	1962-11-10
 47718	United Kingdom@	1962-11-03
@@ -47606,7 +47606,7 @@
 47728	Australia@	1962-11-03
 47729		1962-11-03
 47730	France@	1962-11-03
-47731	America@	1962-11-03
+47731	America@America@	1962-11-03
 47732	America@	1962-11-03
 47733		1962-11-03
 47734	America@	1962-11-03
@@ -47826,7 +47826,7 @@
 47948		1962-09-29
 47949	America@	1962-09-29
 47950	Canada@Canada@	1962-09-29
-47951	Niger@	1962-09-29
+47951	Nigeria@	1962-09-29
 47952	America@	1962-09-29
 47953		1962-09-29
 47954	South Africa@	1962-09-29
@@ -47851,7 +47851,7 @@
 47973		1962-09-22
 47974		1962-09-22
 47975		1962-09-22
-47976		1962-09-22
+47976	America@	1962-09-22
 47977		1962-09-22
 47978	America@Germany@	1962-09-22
 47979		1962-09-22
@@ -47877,7 +47877,7 @@
 47999		1962-09-22
 48000	Australia@America@	1962-09-22
 48001	Jamaica@	1962-09-22
-48002		1962-09-22
+48002	America@	1962-09-22
 48003		1962-09-22
 48004		1962-09-22
 48005		1962-09-22
@@ -47949,7 +47949,7 @@
 48071	America@	1962-09-08
 48072		1962-09-08
 48073	Canada@	1962-09-08
-48074	America@	1962-09-08
+48074	America@America@	1962-09-08
 48075	Israel@	1962-09-08
 48076	America@	1962-09-08
 48077		1962-09-08
@@ -47964,7 +47964,7 @@
 48086		1962-09-08
 48087		1962-09-08
 48088	United Kingdom@	1962-09-08
-48089		1962-09-08
+48089	America@	1962-09-08
 48090	America@	1962-09-08
 48091		1962-09-08
 48092	United Kingdom@	1962-09-08
@@ -47977,8 +47977,8 @@
 48099	United Kingdom@	1962-09-08
 48100		1962-09-08
 48101	America@America@	1962-09-08
-48102	America@	1962-09-01
-48103	America@	1962-09-01
+48102	America@America@	1962-09-01
+48103	America@America@	1962-09-01
 48104	America@	1962-09-01
 48105		1962-09-01
 48106	America@	1962-09-01
@@ -47989,7 +47989,7 @@
 48111	America@	1962-09-01
 48112		1962-09-01
 48113	South Africa@	1962-09-01
-48114	Niger@	1962-09-01
+48114	Nigeria@	1962-09-01
 48115	America@	1962-09-01
 48116	America@	1962-09-01
 48117	Norway@	1962-09-01
@@ -48004,7 +48004,7 @@
 48126		1962-09-01
 48127	United Kingdom@	1962-09-01
 48128		1962-09-01
-48129		1962-09-01
+48129	America@	1962-09-01
 48130	America@Australia@	1962-09-01
 48131	America@	1962-09-01
 48132		1962-09-01
@@ -48013,7 +48013,7 @@
 48135	United Kingdom@	1962-09-01
 48136	Norway@	1962-09-01
 48137		1962-09-01
-48138		1962-09-01
+48138	America@	1962-09-01
 48139	America@	1962-08-25
 48140	America@	1962-08-25
 48141	Canada@	1962-08-25
@@ -48028,7 +48028,7 @@
 48150		1962-08-25
 48151		1962-08-25
 48152		1962-08-25
-48153	America@	1962-08-25
+48153	America@America@	1962-08-25
 48154	Finland@	1962-08-25
 48155	America@	1962-08-25
 48156	America@	1962-08-25
@@ -48058,7 +48058,7 @@
 48180	United Kingdom@	1962-08-25
 48181		1962-08-25
 48182	America@	1962-08-25
-48183		1962-08-25
+48183	America@	1962-08-25
 48184		1962-08-25
 48185		1962-08-25
 48186	America@	1962-08-18
@@ -48082,7 +48082,7 @@
 48204		1962-08-18
 48205		1962-08-18
 48206		1962-08-18
-48207		1962-08-18
+48207	America@	1962-08-18
 48208	Canada@	1962-08-18
 48209		1962-08-18
 48210		1962-08-18
@@ -48125,7 +48125,7 @@
 48247		1962-08-11
 48248	United Kingdom@America@	1962-08-11
 48249	United Kingdom@United Kingdom@	1962-08-11
-48250		1962-08-11
+48250	America@	1962-08-11
 48251		1962-08-11
 48252		1962-08-11
 48253		1962-08-11
@@ -48175,7 +48175,7 @@
 48297	Australia@	1962-08-04
 48298	America@	1962-08-04
 48299	America@	1962-08-04
-48300	America@America@	1962-08-04
+48300	America@America@America@America@	1962-08-04
 48301	Japan@	1962-08-04
 48302	America@America@America@	1962-08-04
 48303		1962-08-04
@@ -48213,7 +48213,7 @@
 48335	Australia@	1962-07-28
 48336		1962-07-28
 48337		1962-07-28
-48338	Indonesia@	1962-07-28
+48338		1962-07-28
 48339	America@	1962-07-28
 48340		1962-07-28
 48341	United Kingdom@	1962-07-28
@@ -48230,7 +48230,7 @@
 48352		1962-07-28
 48353	America@	1962-07-28
 48354		1962-07-28
-48355	America@	1962-07-28
+48355	America@America@	1962-07-28
 48356		1962-07-28
 48357		1962-07-28
 48358		1962-07-28
@@ -48281,7 +48281,7 @@
 48403		1962-07-21
 48404	America@	1962-07-21
 48405	Australia@	1962-07-21
-48406	America@	1962-07-21
+48406	America@America@	1962-07-21
 48407		1962-07-21
 48408	Netherlands@	1962-07-21
 48409		1962-07-21
@@ -48338,7 +48338,7 @@
 48460	America@	1962-07-07
 48461	Australia@	1962-07-07
 48462		1962-07-07
-48463	America@Australia@	1962-07-07
+48463	America@Australia@America@	1962-07-07
 48464	China@	1962-07-07
 48465		1962-07-07
 48466	America@	1962-07-07
@@ -48354,10 +48354,10 @@
 48476		1962-07-07
 48477	New Zealand@	1962-07-07
 48478		1962-07-07
-48479		1962-07-07
+48479	America@	1962-07-07
 48480	America@	1962-07-07
 48481		1962-07-07
-48482	America@America@America@	1962-07-07
+48482	America@America@America@America@	1962-07-07
 48483	America@	1962-07-07
 48484	America@	1962-07-07
 48485	Israel@	1962-07-07
@@ -48378,7 +48378,7 @@
 48500	Australia@	1962-07-07
 48501		1962-07-07
 48502		1962-07-07
-48503	America@	1962-07-07
+48503	America@America@	1962-07-07
 48504		1962-07-07
 48505	America@	1962-06-30
 48506		1962-06-30
@@ -48390,7 +48390,7 @@
 48512		1962-06-30
 48513	Australia@	1962-06-30
 48514	America@	1962-06-30
-48515		1962-06-30
+48515	America@	1962-06-30
 48516	Mexico@	1962-06-30
 48517	United Kingdom@	1962-06-30
 48518	America@	1962-06-30
@@ -48531,13 +48531,13 @@
 48653	America@	1962-06-02
 48654	United Kingdom@	1962-06-02
 48655	United Kingdom@	1962-06-02
-48656	Niger@	1962-06-02
+48656	Nigeria@	1962-06-02
 48657	Israel@	1962-06-02
 48658	India@	1962-06-02
 48659	United Kingdom@	1962-06-02
 48660	Australia@	1962-06-02
 48661		1962-06-02
-48662	America@	1962-06-02
+48662	America@America@	1962-06-02
 48663	Canada@	1962-06-02
 48664		1962-06-02
 48665	United Kingdom@	1962-06-02
@@ -48618,7 +48618,7 @@
 48740	Poland@	1962-05-19
 48741		1962-05-19
 48742		1962-05-19
-48743		1962-05-19
+48743	America@	1962-05-19
 48744		1962-05-19
 48745	Netherlands@	1962-05-19
 48746	America@	1962-05-19
@@ -48627,7 +48627,7 @@
 48749	Australia@	1962-05-19
 48750		1962-05-19
 48751	Germany@	1962-05-19
-48752		1962-05-19
+48752	America@	1962-05-19
 48753	America@	1962-05-19
 48754		1962-05-19
 48755		1962-05-19
@@ -48642,7 +48642,7 @@
 48764		1962-05-19
 48765		1962-05-19
 48766	America@Lebanon@	1962-05-19
-48767		1962-05-19
+48767	America@	1962-05-19
 48768	Australia@United Kingdom@	1962-05-19
 48769	America@	1962-05-19
 48770	New Zealand@	1962-05-19
@@ -48838,7 +48838,7 @@
 48960	Australia@	1962-04-21
 48961	America@	1962-04-21
 48962	America@	1962-04-21
-48963	America@America@America@	1962-04-21
+48963	America@America@America@America@	1962-04-21
 48964	United Kingdom@	1962-04-21
 48965	America@Austria@	1962-04-21
 48966	Sweden@	1962-04-21
@@ -48887,7 +48887,7 @@
 49009		1962-04-14
 49010	America@	1962-04-14
 49011	South Africa@	1962-04-14
-49012	Canada@	1962-04-14
+49012	Canada@America@	1962-04-14
 49013		1962-04-14
 49014	Canada@America@	1962-04-14
 49015	America@	1962-04-14
@@ -49008,7 +49008,7 @@
 49130	Georgia@	1965-04-17
 49131	Norway@	1965-04-17
 49132	America@	1965-04-17
-49133		1965-04-17
+49133	America@	1965-04-17
 49134	United Kingdom@	1965-04-17
 49135	Australia@	1965-04-17
 49136	America@	1965-04-17
@@ -49066,7 +49066,7 @@
 49188	Canada@	1965-04-10
 49189	America@	1965-04-10
 49190	America@	1965-04-10
-49191	America@	1965-04-10
+49191	America@America@	1965-04-10
 49192		1965-04-10
 49193	America@	1965-04-10
 49194	Sweden@	1965-04-10
@@ -49158,7 +49158,7 @@
 49280		1965-03-27
 49281	Australia@	1965-03-27
 49282		1965-03-27
-49283		1965-03-27
+49283	America@	1965-03-27
 49284	America@	1965-03-27
 49285		1965-03-27
 49286	Australia@	1965-03-27
@@ -49172,7 +49172,7 @@
 49294	New Zealand@	1965-03-27
 49295	America@	1965-03-27
 49296		1965-03-13
-49297	America@	1965-03-13
+49297	America@America@	1965-03-13
 49298		1965-03-13
 49299		1965-03-13
 49300	New Zealand@	1965-03-13
@@ -49199,7 +49199,7 @@
 49321		1965-03-13
 49322	America@	1965-03-13
 49323	America@	1965-03-13
-49324		1965-03-13
+49324	America@	1965-03-13
 49325		1965-03-13
 49326	Yugoslavia@	1965-03-13
 49327	Germany@	1965-03-13
@@ -49323,7 +49323,7 @@
 49445	United Kingdom@	1965-02-20
 49446	America@	1965-02-20
 49447	Finland@	1965-02-20
-49448		1965-02-20
+49448	America@	1965-02-20
 49449	America@	1965-02-20
 49450	America@	1965-02-20
 49451		1965-02-20
@@ -49338,7 +49338,7 @@
 49460	Spain@	1965-02-20
 49461	Hungary@	1965-02-20
 49462	America@	1965-02-20
-49463		1965-02-20
+49463	America@	1965-02-20
 49464	America@	1965-02-20
 49465		1965-02-20
 49466	America@	1965-02-20
@@ -49352,7 +49352,7 @@
 49474		1965-02-13
 49475		1965-02-13
 49476	Netherlands@	1965-02-13
-49477	Niger@	1965-02-13
+49477	Nigeria@	1965-02-13
 49478	Canada@	1965-02-13
 49479		1965-02-13
 49480		1965-02-13
@@ -49363,7 +49363,7 @@
 49485		1965-02-13
 49486	America@	1965-02-13
 49487	Canada@	1965-02-13
-49488	America@	1965-02-13
+49488	America@America@	1965-02-13
 49489	America@	1965-02-13
 49490	America@	1965-02-13
 49491	America@	1965-02-13
@@ -49416,7 +49416,7 @@
 49538		1965-02-06
 49539		1965-02-06
 49540		1965-02-06
-49541	Italy@	1965-02-06
+49541	Italy@America@	1965-02-06
 49542		1965-02-06
 49543	America@	1965-02-06
 49544	Canada@Yugoslavia@	1965-02-06
@@ -49442,13 +49442,13 @@
 49564	Canada@	1965-02-06
 49565	United Kingdom@	1965-02-06
 49566	Macau@	1965-02-06
-49567	America@	1965-02-06
+49567	America@America@	1965-02-06
 49568		1965-02-06
 49569	Germany@	1965-02-06
 49570	United Kingdom@	1965-02-06
-49571	America@	1965-02-06
+49571	America@America@	1965-02-06
 49572	America@	1965-01-30
-49573	America@	1965-01-30
+49573	America@America@	1965-01-30
 49574	Canada@	1965-01-30
 49575	America@	1965-01-30
 49576	United Kingdom@	1965-01-30
@@ -49502,7 +49502,7 @@
 49624		1965-01-23
 49625	Germany@	1965-01-23
 49626	Spain@	1965-01-23
-49627		1965-01-23
+49627	America@	1965-01-23
 49628		1965-01-23
 49629		1965-01-23
 49630	United Kingdom@	1965-01-23
@@ -49528,7 +49528,7 @@
 49650	Sweden@	1965-01-23
 49651		1965-01-23
 49652		1965-01-23
-49653		1965-01-23
+49653	America@	1965-01-23
 49654	Norway@	1965-01-23
 49655	America@America@	1965-01-23
 49656	America@	1965-01-23
@@ -49556,7 +49556,7 @@
 49678		1965-01-16
 49679	Australia@	1965-01-16
 49680	America@	1965-01-16
-49681		1965-01-16
+49681	America@	1965-01-16
 49682	America@	1965-01-16
 49683	America@	1965-01-16
 49684	America@America@	1965-01-16
@@ -49601,7 +49601,7 @@
 49723	Japan@	1965-01-09
 49724	Sweden@	1965-01-09
 49725	Sweden@	1965-01-09
-49726	America@America@	1965-01-09
+49726	America@America@America@America@	1965-01-09
 49727		1965-01-09
 49728	Germany@	1965-01-09
 49729	Italy@	1965-01-09
@@ -49723,7 +49723,7 @@
 49845	Russia@	1964-12-26
 49846	United Kingdom@	1964-12-26
 49847	United Kingdom@	1964-12-26
-49848		1964-12-26
+49848	America@	1964-12-26
 49849	Canada@	1964-12-26
 49850	South Africa@	1964-12-26
 49851	America@	1964-12-26
@@ -49742,7 +49742,7 @@
 49864	New Zealand@	1964-12-19
 49865		1964-12-19
 49866	America@	1964-12-19
-49867	America@	1964-12-19
+49867	America@America@	1964-12-19
 49868	Netherlands@	1964-12-19
 49869	America@	1964-12-19
 49870	Japan@	1964-12-19
@@ -49752,7 +49752,7 @@
 49874		1964-12-19
 49875	America@	1964-12-19
 49876		1964-12-19
-49877		1964-12-19
+49877	America@	1964-12-19
 49878	Eritrea@	1964-12-19
 49879	Sweden@	1964-12-19
 49880		1964-12-19
@@ -49764,7 +49764,7 @@
 49886	Ghana@	1964-12-19
 49887	America@	1964-12-19
 49888		1964-12-19
-49889	Niger@	1964-12-19
+49889	Nigeria@	1964-12-19
 49890	America@	1964-12-19
 49891	Italy@	1964-12-19
 49892		1964-12-19
@@ -49798,7 +49798,7 @@
 49920	Japan@	1964-12-12
 49921		1964-12-12
 49922		1964-12-12
-49923		1964-12-12
+49923	America@	1964-12-12
 49924		1964-12-12
 49925	United Kingdom@	1964-12-12
 49926	Italy@	1964-12-12
@@ -49816,7 +49816,7 @@
 49938	United Kingdom@	1964-12-12
 49939	America@	1964-12-12
 49940	Canada@	1964-12-12
-49941	Niger@	1964-12-12
+49941	Nigeria@	1964-12-12
 49942	Australia@	1964-12-12
 49943	South Africa@	1964-12-12
 49944	Kenya@	1964-12-12
@@ -49830,7 +49830,7 @@
 49952	United Kingdom@	1964-12-12
 49953	America@	1964-12-05
 49954	America@	1964-12-05
-49955		1964-12-05
+49955	America@	1964-12-05
 49956	France@	1964-12-05
 49957	America@	1964-12-05
 49958	Pakistan@	1964-12-05
@@ -49862,7 +49862,7 @@
 49984	America@	1964-12-05
 49985	America@	1964-11-28
 49986		1964-11-28
-49987		1964-11-28
+49987	America@	1964-11-28
 49988		1964-11-28
 49989		1964-11-28
 49990	America@	1964-11-28
@@ -49876,7 +49876,7 @@
 49998	America@	1964-11-28
 49999	America@	1964-11-28
 50000		1964-11-28
-50001	America@	1964-11-28
+50001	America@America@	1964-11-28
 50002	United Kingdom@	1964-11-28
 50003		1964-11-28
 50004		1964-11-28
@@ -49936,7 +49936,7 @@
 50058		1964-11-21
 50059	America@	1964-11-21
 50060		1964-11-21
-50061		1964-11-21
+50061	America@	1964-11-21
 50062		1964-11-21
 50063	United Kingdom@	1964-11-21
 50064	America@	1964-11-21
@@ -49968,7 +49968,7 @@
 50090		1964-11-14
 50091	Italy@	1964-11-14
 50092		1964-11-14
-50093	America@	1964-11-14
+50093	America@America@	1964-11-14
 50094	Japan@	1964-11-14
 50095	America@	1964-11-14
 50096		1964-11-14
@@ -49981,11 +49981,11 @@
 50103	America@	1964-11-14
 50104	Norway@	1964-11-14
 50105	Georgia@	1964-11-14
-50106		1964-11-14
+50106	America@	1964-11-14
 50107		1964-11-14
 50108	New Zealand@	1964-11-14
 50109	Australia@	1964-11-14
-50110	Sudan@	1964-11-14
+50110		1964-11-14
 50111	America@	1964-11-14
 50112	America@	1964-11-14
 50113	America@	1964-11-14
@@ -50008,7 +50008,7 @@
 50130	Chile@Chile@	1964-11-07
 50131	America@	1964-11-07
 50132	America@	1964-11-07
-50133		1964-11-07
+50133	America@	1964-11-07
 50134	Uganda@	1964-11-07
 50135	Austria@	1964-11-07
 50136	America@	1964-11-07
@@ -50065,7 +50065,7 @@
 50187	America@	1964-10-31
 50188	Ireland@	1964-10-31
 50189	Australia@	1964-10-31
-50190	Niger@	1964-10-31
+50190	Nigeria@	1964-10-31
 50191	India@	1964-10-31
 50192	India@	1964-10-31
 50193		1964-10-31
@@ -50113,7 +50113,7 @@
 50235	Germany@	1965-08-28
 50236	America@	1965-08-28
 50237		1965-08-28
-50238	America@	1965-08-28
+50238	America@America@America@	1965-08-28
 50239	India@	1965-08-28
 50240	Yugoslavia@	1965-08-28
 50241		1965-08-28
@@ -50125,8 +50125,8 @@
 50247	America@	1965-08-28
 50248	Egypt@	1965-08-28
 50249	Brazil@	1965-08-28
-50250		1965-08-28
-50251		1965-08-28
+50250	America@	1965-08-28
+50251	America@	1965-08-28
 50252	America@	1965-08-28
 50253	United Kingdom@	1965-08-28
 50254	Australia@	1965-08-28
@@ -50169,7 +50169,7 @@
 50291	America@	1965-08-21
 50292	America@	1965-08-21
 50293	America@	1965-08-21
-50294	Ghana@Niger@	1965-08-21
+50294	Ghana@Nigeria@	1965-08-21
 50295	Canada@	1965-08-21
 50296		1965-08-21
 50297	America@	1965-08-21
@@ -50318,7 +50318,7 @@
 50440	Australia@	1965-07-31
 50441		1965-07-31
 50442	Australia@	1965-07-31
-50443		1965-07-31
+50443	America@	1965-07-31
 50444	America@	1965-07-31
 50445	Norway@	1965-07-24
 50446	United Kingdom@	1965-07-24
@@ -50388,7 +50388,7 @@
 50510	Netherlands@	1965-07-17
 50511		1965-07-17
 50512	Australia@	1965-07-17
-50513		1965-07-17
+50513	America@	1965-07-17
 50514	Australia@	1965-07-17
 50515	America@	1965-07-17
 50516	United Kingdom@	1965-07-17
@@ -50422,7 +50422,7 @@
 50544	America@	1965-07-17
 50545		1965-07-17
 50546	America@	1965-07-17
-50547		1965-07-17
+50547	America@	1965-07-17
 50548		1965-07-17
 50549		1965-07-17
 50550	Yugoslavia@America@	1965-07-17
@@ -50447,7 +50447,7 @@
 50569	America@	1965-07-10
 50570		1965-07-10
 50571		1965-07-10
-50572	Niger@	1965-07-10
+50572	Nigeria@	1965-07-10
 50573	United Kingdom@	1965-07-10
 50574	America@America@Canada@	1965-07-10
 50575	United Kingdom@	1965-07-10
@@ -50464,7 +50464,7 @@
 50586	United Kingdom@	1965-07-10
 50587	America@	1965-07-10
 50588	Austria@	1965-07-10
-50589	America@America@America@	1965-07-10
+50589	America@America@America@America@	1965-07-10
 50590	America@	1965-07-10
 50591		1965-07-10
 50592		1965-07-10
@@ -50497,7 +50497,7 @@
 50619		1965-07-03
 50620		1965-07-03
 50621	Netherlands@	1965-07-03
-50622		1965-07-03
+50622	America@	1965-07-03
 50623	Sweden@	1965-07-03
 50624	America@	1965-07-03
 50625	United Kingdom@	1965-07-03
@@ -50618,12 +50618,12 @@
 50740	America@	1965-06-12
 50741	United Kingdom@	1965-06-12
 50742	Italy@	1965-06-12
-50743		1965-06-12
+50743	America@	1965-06-12
 50744	Netherlands@	1965-06-12
-50745	America@America@	1965-06-12
+50745	America@America@America@	1965-06-12
 50746	America@	1965-06-12
 50747	America@	1965-06-12
-50748		1965-06-12
+50748	America@	1965-06-12
 50749	America@	1965-06-12
 50750	Yugoslavia@Yugoslavia@America@	1965-06-12
 50751		1965-06-12
@@ -50637,13 +50637,13 @@
 50759	Australia@	1965-06-05
 50760	America@	1965-06-05
 50761	United Kingdom@	1965-06-05
-50762	United Kingdom@	1965-06-05
+50762	United Kingdom@America@	1965-06-05
 50763		1965-06-05
 50764	Japan@	1965-06-05
 50765		1965-06-05
 50766		1965-06-05
 50767	America@America@	1965-06-05
-50768	America@	1965-06-05
+50768	America@America@	1965-06-05
 50769	America@America@	1965-06-05
 50770	Brazil@	1965-06-05
 50771	America@	1965-06-05
@@ -50718,11 +50718,11 @@
 50840	America@	1965-05-29
 50841		1965-05-29
 50842		1965-05-29
-50843		1965-05-29
+50843	America@	1965-05-29
 50844	Norway@	1965-05-29
 50845		1965-05-22
 50846		1965-05-22
-50847	America@	1965-05-22
+50847	America@America@	1965-05-22
 50848	America@	1965-05-22
 50849	America@	1965-05-22
 50850	America@Australia@	1965-05-22
@@ -50738,7 +50738,7 @@
 50860	America@	1965-05-22
 50861		1965-05-22
 50862	Israel@	1965-05-22
-50863	America@	1965-05-22
+50863	America@America@	1965-05-22
 50864		1965-05-22
 50865	South Africa@	1965-05-22
 50866	America@	1965-05-22
@@ -50746,7 +50746,7 @@
 50868		1965-05-22
 50869		1965-05-22
 50870	Australia@	1965-05-22
-50871	America@	1965-05-22
+50871	America@America@America@	1965-05-22
 50872	America@	1965-05-22
 50873	America@	1965-05-22
 50874		1965-05-22
@@ -50763,7 +50763,7 @@
 50885	Canada@	1965-05-22
 50886		1965-05-22
 50887		1965-05-22
-50888		1965-05-22
+50888	America@	1965-05-22
 50889	Canada@	1965-05-22
 50890	America@	1965-05-22
 50891	America@	1965-05-15
@@ -50799,7 +50799,7 @@
 50921	America@	1960-06-25
 50922	United Kingdom@	1960-06-25
 50923		1960-06-25
-50924	Niger@	1960-06-25
+50924	Nigeria@	1960-06-25
 50925	America@	1960-06-18
 50926		1960-06-18
 50927	America@	1960-06-11
@@ -50814,7 +50814,7 @@
 50936	America@	1960-05-07
 50937	America@	1960-04-30
 50938	South Africa@	1960-04-30
-50939	Niger@	1960-04-30
+50939	Nigeria@	1960-04-30
 50940	Sweden@	1960-04-23
 50941		1960-04-16
 50942		1960-04-09
@@ -50879,7 +50879,7 @@
 51001	America@	1959-08-15
 51002		1959-08-08
 51003		1959-08-01
-51004	America@	1959-07-11
+51004	America@America@	1959-07-11
 51005	Hungary@	1959-07-11
 51006		1959-07-11
 51007		1959-06-27
@@ -51274,7 +51274,7 @@
 51396	America@	1963-10-05
 51397	France@	1963-10-05
 51398		1963-10-05
-51399		1963-10-05
+51399	America@	1963-10-05
 51400	America@	1963-10-05
 51401		1963-09-28
 51402		1963-09-28
@@ -51346,7 +51346,7 @@
 51468		1963-03-09
 51469	America@America@	1963-03-09
 51470		1963-03-09
-51471	America@	1963-03-09
+51471	America@America@	1963-03-09
 51472	Canada@	1963-03-02
 51473		1963-03-02
 51474	Poland@	1963-02-23
@@ -51397,7 +51397,7 @@
 51519	United Kingdom@	1962-12-08
 51520	Canada@	1962-12-08
 51521		1962-12-08
-51522	America@	1962-12-08
+51522	America@America@	1962-12-08
 51523	United Kingdom@	1962-12-08
 51524	America@	1962-12-01
 51525	America@	1962-12-01
@@ -51461,7 +51461,7 @@
 51583		1962-07-28
 51584		1962-07-28
 51585	United Kingdom@	1962-07-28
-51586	America@	1962-07-21
+51586	America@America@	1962-07-21
 51587	America@	1962-07-21
 51588	Germany@	1962-07-14
 51589		1962-07-14
@@ -51493,7 +51493,7 @@
 51615		1962-04-28
 51616	America@	1962-04-28
 51617		1962-04-07
-51618		1965-05-01
+51618	America@	1965-05-01
 51619	Canada@	1965-05-01
 51620	Australia@	1965-05-01
 51621	United Kingdom@America@	1965-04-24
@@ -51517,7 +51517,7 @@
 51639		1965-03-27
 51640	America@	1965-03-27
 51641	Australia@	1965-03-13
-51642		1965-03-13
+51642	America@	1965-03-13
 51643		1965-03-06
 51644	America@	1965-03-06
 51645	America@	1965-03-06
@@ -51596,10 +51596,10 @@
 51718		1965-07-03
 51719		1965-07-03
 51720	America@	1965-06-26
-51721	Taiwan@	1965-06-26
+51721	America@Taiwan@	1965-06-26
 51722		1965-06-26
 51723	America@	1965-06-19
-51724	America@	1965-06-19
+51724	America@America@	1965-06-19
 51725	Austria@	1965-06-19
 51726	Australia@	1965-06-19
 51727	America@	1965-06-05
@@ -51699,7 +51699,7 @@
 51821		1956-04-14
 51822	America@	1956-04-14
 51823		1956-04-07
-51824	Niger@	1956-04-07
+51824	Nigeria@	1956-04-07
 51825		1956-04-07
 51826		1956-04-07
 51827		1956-04-07
@@ -51752,7 +51752,7 @@
 51874		1956-03-17
 51875		1956-03-17
 51876	Uganda@	1956-03-17
-51877	Niger@	1956-03-17
+51877	Nigeria@	1956-03-17
 51878	United Kingdom@	1956-03-17
 51879	New Zealand@	1956-03-17
 51880	America@	1956-03-17
@@ -51851,7 +51851,7 @@
 51973	United Kingdom@	1956-02-11
 51974	Japan@	1956-02-11
 51975		1956-02-11
-51976	Sudan@	1956-02-11
+51976		1956-02-11
 51977	America@	1956-02-11
 51978	America@	1956-02-11
 51979	United Kingdom@	1956-02-11
@@ -51878,10 +51878,10 @@
 52000		1956-02-04
 52001	America@	1956-02-04
 52002		1956-01-21
-52003	America@	1956-01-21
+52003	America@America@	1956-01-21
 52004	Australia@	1956-01-21
 52005		1956-01-21
-52006	Niger@	1956-01-21
+52006	Nigeria@	1956-01-21
 52007	United Kingdom@	1956-01-21
 52008	America@	1956-01-21
 52009		1956-01-21
@@ -51943,7 +51943,7 @@
 52065	United Kingdom@	1955-12-31
 52066	South Africa@	1955-12-31
 52067		1955-12-31
-52068	Niger@	1955-12-31
+52068	Nigeria@	1955-12-31
 52069		1955-12-31
 52070		1955-12-31
 52071		1955-12-31
@@ -51958,7 +51958,7 @@
 52080	United Kingdom@	1955-12-31
 52081	South Africa@	1955-12-31
 52082		1955-12-31
-52083	Niger@	1955-12-31
+52083	Nigeria@	1955-12-31
 52084		1955-12-31
 52085		1955-12-31
 52086		1955-12-31
@@ -52138,7 +52138,7 @@
 52260	United Kingdom@	1955-10-22
 52261	America@	1955-10-22
 52262	America@	1955-10-22
-52263		1955-10-22
+52263	America@	1955-10-22
 52264	United Kingdom@Netherlands@	1955-10-15
 52265	Australia@	1955-10-15
 52266		1955-10-15
@@ -52256,7 +52256,7 @@
 52378	Japan@	1955-09-03
 52379	Netherlands@	1955-09-03
 52380	South Africa@	1955-09-03
-52381	Indonesia@	1955-09-03
+52381		1955-09-03
 52382		1955-09-03
 52383	India@	1955-09-03
 52384		1955-08-27
@@ -52377,7 +52377,7 @@
 52499		1955-07-16
 52500	America@	1955-07-16
 52501		1955-07-16
-52502	Panama@	1955-07-16
+52502		1955-07-16
 52503		1955-07-16
 52504	America@	1955-07-16
 52505	America@	1955-07-16
@@ -52410,7 +52410,7 @@
 52532	Belgium@	1955-07-02
 52533		1955-07-02
 52534		1955-07-02
-52535	Sudan@	1955-07-02
+52535		1955-07-02
 52536	America@	1955-07-02
 52537		1955-07-02
 52538	Jamaica@	1955-06-25
@@ -52713,7 +52713,7 @@
 52835		1955-03-05
 52836		1955-03-05
 52837		1955-03-05
-52838	Sudan@	1955-03-05
+52838		1955-03-05
 52839		1955-03-05
 52840	United Kingdom@	1955-03-05
 52841	India@	1955-03-05
@@ -52795,7 +52795,7 @@
 52918	America@	1955-02-05
 52919		1955-02-05
 52920		1955-01-29
-52921	America@	1955-01-29
+52921	America@America@	1955-01-29
 52922		1955-01-29
 52923		1955-01-29
 52924		1955-01-29
@@ -53060,7 +53060,7 @@
 53183		1954-10-16
 53184	America@	1954-10-16
 53185		1954-10-16
-53186	Niger@	1954-10-16
+53186	Nigeria@	1954-10-16
 53187		1954-10-16
 53188		1954-10-16
 53189		1954-10-16
@@ -53161,7 +53161,7 @@
 53284		1954-09-04
 53285		1954-09-04
 53286	America@	1954-09-04
-53287		1954-09-04
+53287	America@	1954-09-04
 53288		1954-09-04
 53289	India@	1954-09-04
 53290		1954-09-04
@@ -53190,7 +53190,7 @@
 53313	United Kingdom@	1954-08-28
 53314		1954-08-28
 53315	United Kingdom@	1954-08-28
-53316	Niger@	1954-08-28
+53316	Nigeria@	1954-08-28
 53317	United Kingdom@	1954-08-28
 53318	Australia@	1954-08-28
 53319		1954-08-21
@@ -53464,7 +53464,7 @@
 53587		1954-05-01
 53588		1954-05-01
 53589	Canada@	1954-05-01
-53590		1954-05-01
+53590	America@	1954-05-01
 53591		1954-05-01
 53592	Canada@America@	1954-05-01
 53593		1954-05-01
@@ -53583,7 +53583,7 @@
 53706		1954-03-13
 53707	India@	1954-03-13
 53708	America@	1954-03-13
-53709	Niger@	1954-03-13
+53709	Nigeria@	1954-03-13
 53710		1954-03-13
 53711	America@	1954-03-13
 53712		1954-03-13
@@ -53609,7 +53609,7 @@
 53732		1954-03-06
 53733		1954-03-06
 53734	Egypt@	1954-03-06
-53735		1954-03-06
+53735	America@	1954-03-06
 53736		1954-02-27
 53737		1954-02-27
 53738		1954-02-27
@@ -53835,7 +53835,7 @@
 53958	Austria@	1953-12-05
 53959		1953-12-05
 53960		1953-12-05
-53961		1953-12-05
+53961	America@	1953-12-05
 53962		1953-11-28
 53963		1953-11-28
 53964	Germany@	1953-11-28
@@ -53939,7 +53939,7 @@
 54062		1953-10-24
 54063		1953-10-24
 54064	United Kingdom@	1953-10-24
-54065	Sudan@	1953-10-17
+54065		1953-10-17
 54066		1953-10-17
 54067		1953-10-17
 54068	Canada@	1953-10-17
@@ -53968,7 +53968,7 @@
 54091		1953-10-10
 54092		1953-10-10
 54093	America@	1953-10-10
-54094		1953-10-10
+54094	America@	1953-10-10
 54095	India@	1953-10-10
 54096		1953-10-10
 54097		1953-10-10
@@ -54038,7 +54038,7 @@
 54161		1953-09-12
 54162		1953-09-12
 54163		1953-09-12
-54164	Niger@	1953-09-12
+54164	Nigeria@	1953-09-12
 54165		1953-09-12
 54166	United Kingdom@	1953-09-12
 54167		1953-09-12
@@ -54208,7 +54208,7 @@
 54331		1953-07-18
 54332		1953-07-18
 54333		1953-07-18
-54334	Sudan@	1953-07-18
+54334		1953-07-18
 54335		1953-07-18
 54336	United Kingdom@	1953-07-11
 54337	Australia@	1953-07-11
@@ -54260,7 +54260,7 @@
 54383		1953-06-27
 54384		1953-06-27
 54385		1953-06-27
-54386		1953-06-27
+54386	America@	1953-06-27
 54387	Ireland@	1953-06-27
 54388		1953-06-27
 54389	Mauritius@	1953-06-27
@@ -54437,7 +54437,7 @@
 54560	America@	1953-04-04
 54561	Austria@	1953-04-04
 54562	India@	1953-04-04
-54563	Niger@	1953-04-04
+54563	Nigeria@	1953-04-04
 54564		1953-04-04
 54565		1953-04-04
 54566		1953-04-04
@@ -54753,7 +54753,7 @@
 54876		1952-12-06
 54877		1952-12-06
 54878		1952-12-06
-54879	Sudan@	1952-12-06
+54879		1952-12-06
 54880	India@	1952-12-06
 54881		1952-12-06
 54882		1952-12-06
@@ -54865,7 +54865,7 @@
 54988	Denmark@	1952-10-25
 54989	America@	1952-10-25
 54990		1952-10-25
-54991	Niger@	1952-10-25
+54991	Nigeria@	1952-10-25
 54992		1952-10-25
 54993		1952-10-25
 54994		1952-10-18
@@ -55033,7 +55033,7 @@
 55156	America@	1952-08-16
 55157		1952-08-16
 55158		1952-08-16
-55159	Niger@	1952-08-16
+55159	Nigeria@	1952-08-16
 55160		1952-08-16
 55161		1952-08-16
 55162		1952-08-16
@@ -55202,7 +55202,7 @@
 55325		1952-06-14
 55326		1952-06-14
 55327		1952-06-14
-55328	America@	1952-06-14
+55328	America@America@	1952-06-14
 55329		1952-06-14
 55330		1952-06-14
 55331	America@	1952-06-14
@@ -55361,7 +55361,7 @@
 55484	America@	1952-04-12
 55485		1952-04-12
 55486	America@	1952-04-12
-55487	Niger@	1952-04-12
+55487	Nigeria@	1952-04-12
 55488		1952-04-12
 55489	America@	1952-04-12
 55490		1952-04-05
@@ -55513,7 +55513,7 @@
 55636	United Kingdom@	1952-02-09
 55637		1952-02-09
 55638	America@	1952-02-09
-55639		1952-02-09
+55639	America@	1952-02-09
 55640		1952-02-09
 55641		1952-02-09
 55642		1952-02-09
@@ -55582,7 +55582,7 @@
 55705	America@	1952-01-05
 55706		1952-01-05
 55707		1952-01-05
-55708	Indonesia@	1952-01-05
+55708		1952-01-05
 55709		1952-01-05
 55710	United Kingdom@	1952-01-05
 55711		1952-01-05
@@ -55774,7 +55774,7 @@
 55897	South Africa@	1951-10-27
 55898		1951-10-27
 55899		1951-10-20
-55900	Indonesia@	1951-10-20
+55900		1951-10-20
 55901		1951-10-20
 55902	America@	1951-10-20
 55903	America@	1951-10-20
@@ -55886,7 +55886,7 @@
 56009		1951-09-08
 56010		1951-09-08
 56011	India@	1951-09-08
-56012	Indonesia@	1951-09-08
+56012		1951-09-08
 56013	America@	1951-09-08
 56014		1951-09-08
 56015		1951-09-08
@@ -56027,7 +56027,7 @@
 56150		1951-07-14
 56151	Canada@	1951-07-14
 56152	Sweden@	1951-07-14
-56153	America@	1951-07-14
+56153	America@America@	1951-07-14
 56154		1951-07-14
 56155		1951-07-14
 56156	America@	1951-07-14
@@ -56737,7 +56737,7 @@
 56863		1950-10-07
 56864		1950-10-07
 56865		1950-10-07
-56866	Niger@	1950-10-07
+56866	Nigeria@	1950-10-07
 56867		1950-10-07
 56868		1950-09-30
 56869	America@	1950-09-30
@@ -56987,7 +56987,7 @@
 57113		1950-07-01
 57114		1950-07-01
 57115	New Zealand@	1950-07-01
-57116	Niger@	1950-07-01
+57116	Nigeria@	1950-07-01
 57117	South Africa@	1950-07-01
 57118	Australia@	1950-06-24
 57119		1950-06-24
@@ -57057,7 +57057,7 @@
 57183	Finland@	1950-06-03
 57184		1950-06-03
 57185		1950-06-03
-57186	Niger@	1950-06-03
+57186	Nigeria@	1950-06-03
 57187	India@	1950-06-03
 57188		1950-06-03
 57189	Iran@	1950-06-03
@@ -57077,7 +57077,7 @@
 57203	United Kingdom@	1950-05-27
 57204		1950-05-27
 57205		1950-05-27
-57206	Niger@	1950-05-20
+57206	Nigeria@	1950-05-20
 57207		1950-05-20
 57208		1950-05-20
 57209	United Kingdom@	1950-05-20
@@ -57357,7 +57357,7 @@
 57484		1950-02-11
 57485		1950-02-11
 57486	Australia@	1950-02-11
-57487	Indonesia@	1950-02-11
+57487		1950-02-11
 57488	America@	1950-02-11
 57489		1950-02-11
 57490	Israel@	1950-02-11
@@ -57500,7 +57500,7 @@
 57627	America@	1962-03-31
 57628		1962-03-31
 57629	America@	1962-03-31
-57630	Australia@	1962-03-31
+57630	Australia@America@	1962-03-31
 57631		1962-03-31
 57632		1962-03-31
 57633	America@	1962-03-31
@@ -57581,7 +57581,7 @@
 57708	America@	1962-03-17
 57709		1962-03-17
 57710		1962-03-17
-57711	Malta@	1962-03-17
+57711	New Zealand@	1962-03-17
 57712		1962-03-17
 57713	Canada@	1962-03-17
 57714		1962-03-17
@@ -57679,7 +57679,7 @@
 57806		1962-03-03
 57807	India@America@	1962-03-03
 57808		1962-03-03
-57809		1962-03-03
+57809	America@	1962-03-03
 57810	Canada@	1962-03-03
 57811	Australia@	1962-03-03
 57812	Canada@	1962-03-03
@@ -57730,7 +57730,7 @@
 57857	America@	1962-02-24
 57858	Sweden@Sweden@	1962-02-24
 57859	America@	1962-02-24
-57860		1962-02-24
+57860	America@	1962-02-24
 57861	France@	1962-02-24
 57862	America@	1962-02-24
 57863	Turkey@	1962-02-24
@@ -57913,7 +57913,7 @@
 58040		1962-01-27
 58041	America@	1962-01-27
 58042		1962-01-27
-58043		1962-01-27
+58043	America@	1962-01-27
 58044	America@	1962-01-27
 58045		1962-01-27
 58046		1962-01-27
@@ -57989,7 +57989,7 @@
 58116	America@	1962-01-13
 58117	Australia@	1962-01-13
 58118	Canada@	1962-01-13
-58119	Australia@	1962-01-13
+58119	Australia@America@	1962-01-13
 58120	America@	1962-01-13
 58121	America@	1962-01-13
 58122	America@	1962-01-13
@@ -58012,9 +58012,9 @@
 58139	America@	1962-01-13
 58140	America@	1962-01-13
 58141		1962-01-13
-58142		1962-01-13
+58142	America@	1962-01-13
 58143	Ghana@	1962-01-06
-58144	Niger@	1962-01-06
+58144	Nigeria@	1962-01-06
 58145		1962-01-06
 58146	Germany@	1962-01-06
 58147		1962-01-06
@@ -58059,7 +58059,7 @@
 58186		1962-01-06
 58187	America@	1962-01-06
 58188	Finland@	1962-01-06
-58189	Niger@	1962-01-06
+58189	Nigeria@	1962-01-06
 58190		1962-01-06
 58191		1962-01-06
 58192		1962-01-06
@@ -58075,7 +58075,7 @@
 58202		1961-12-30
 58203		1961-12-30
 58204		1961-12-30
-58205	America@	1961-12-30
+58205	America@America@	1961-12-30
 58206	America@	1961-12-30
 58207		1961-12-30
 58208		1961-12-30
@@ -58143,7 +58143,7 @@
 58270	America@America@	1961-12-23
 58271		1961-12-23
 58272	America@	1961-12-23
-58273	America@	1961-12-23
+58273	America@America@	1961-12-23
 58274	Brazil@	1961-12-23
 58275	United Kingdom@	1961-12-23
 58276		1961-12-23
@@ -58244,7 +58244,7 @@
 58371	America@	1961-12-09
 58372	America@	1961-12-09
 58373		1961-12-09
-58374	Japan@	1961-12-09
+58374	Japan@America@	1961-12-09
 58375	America@	1961-12-09
 58376		1961-12-09
 58377	Pakistan@	1961-12-09
@@ -58411,7 +58411,7 @@
 58538	America@	1961-11-11
 58539	United Kingdom@	1961-11-11
 58540	America@	1961-11-11
-58541	America@	1961-11-11
+58541	America@America@	1961-11-11
 58542		1961-11-11
 58543		1961-11-11
 58544		1961-11-11
@@ -58511,7 +58511,7 @@
 58638		1961-10-28
 58639		1961-10-28
 58640		1961-10-28
-58641	America@	1961-10-28
+58641	America@America@	1961-10-28
 58642		1961-10-28
 58643	America@	1961-10-28
 58644		1961-10-28
@@ -58599,7 +58599,7 @@
 58726		1961-10-14
 58727	United Kingdom@	1961-10-14
 58728	Gambia@	1961-10-14
-58729	Niger@Niger@	1961-10-14
+58729	Nigeria@Nigeria@	1961-10-14
 58730		1961-10-14
 58731		1961-10-14
 58732		1961-10-14
@@ -58677,7 +58677,7 @@
 58804		1961-09-30
 58805		1961-09-30
 58806	America@	1961-09-30
-58807	Niger@	1961-09-30
+58807	Nigeria@	1961-09-30
 58808	Netherlands@	1961-09-30
 58809	Canada@	1961-09-30
 58810	Japan@	1961-09-30
@@ -58725,7 +58725,7 @@
 58852		1961-09-23
 58853	Israel@	1961-09-23
 58854	Canada@	1961-09-23
-58855	America@	1961-09-23
+58855	America@America@America@	1961-09-23
 58856	America@	1961-09-23
 58857		1961-09-23
 58858		1961-09-23
@@ -58768,7 +58768,7 @@
 58895		1961-09-16
 58896	India@	1961-09-16
 58897		1961-09-16
-58898	Sudan@	1961-09-16
+58898		1961-09-16
 58899		1961-09-16
 58900	Hungary@United Kingdom@	1961-09-16
 58901	United Kingdom@	1961-09-16
@@ -58803,7 +58803,7 @@
 58930	America@America@	1961-09-09
 58931	Jamaica@	1961-09-09
 58932		1961-09-09
-58933	America@America@	1961-09-09
+58933	America@America@America@	1961-09-09
 58934	Israel@	1961-09-09
 58935	America@	1961-09-09
 58936	Puerto Rico@	1961-09-09
@@ -58847,7 +58847,7 @@
 58974		1961-09-02
 58975		1961-09-02
 58976	United Kingdom@	1961-09-02
-58977		1961-09-02
+58977	America@	1961-09-02
 58978	Netherlands@	1961-09-02
 58979		1961-09-02
 58980	South Africa@	1961-08-26
@@ -58862,7 +58862,7 @@
 58989	America@	1961-08-26
 58990		1961-08-26
 58991	South Africa@	1961-08-26
-58992	Germany@	1961-08-26
+58992	Germany@America@America@	1961-08-26
 58993		1961-08-26
 58994	Australia@	1961-08-26
 58995	America@	1961-08-26
@@ -58918,7 +58918,7 @@
 59045		1961-08-19
 59046	America@	1961-08-19
 59047	America@	1961-08-19
-59048	Belgium@	1961-08-19
+59048	Belgium@America@	1961-08-19
 59049	Peru@	1961-08-19
 59050	Finland@	1961-08-19
 59051		1961-08-19
@@ -58957,7 +58957,7 @@
 59084		1961-08-12
 59085		1961-08-12
 59086	Iran@	1961-08-12
-59087		1961-08-12
+59087	America@	1961-08-12
 59088		1961-08-12
 59089	Canada@	1961-08-12
 59090		1961-08-12
@@ -58975,7 +58975,7 @@
 59102	United Kingdom@	1961-08-12
 59103	America@America@	1961-08-12
 59104		1961-08-12
-59105	Sudan@	1961-08-12
+59105		1961-08-12
 59106		1961-08-12
 59107	India@	1961-08-12
 59108		1961-08-12
@@ -59072,7 +59072,7 @@
 59199		1961-07-29
 59200	Australia@	1961-07-29
 59201	Australia@	1961-07-29
-59202	Niger@	1961-07-29
+59202	Nigeria@	1961-07-29
 59203		1961-07-29
 59204	America@	1961-07-29
 59205	America@	1961-07-29
@@ -59333,7 +59333,7 @@
 59460		1961-06-17
 59461	America@	1961-06-17
 59462	America@	1961-06-17
-59463	America@	1961-06-17
+59463	America@America@	1961-06-17
 59464	Canada@	1961-06-17
 59465	America@	1961-06-17
 59466		1961-06-17
@@ -59382,7 +59382,7 @@
 59509	America@America@	1961-06-10
 59510		1961-06-10
 59511		1961-06-10
-59512	Niger@	1961-06-10
+59512	Nigeria@	1961-06-10
 59513	Israel@	1961-06-10
 59514	South Africa@	1961-06-10
 59515	United Kingdom@	1961-06-10
@@ -59581,7 +59581,7 @@
 59708	United Kingdom@	1961-05-06
 59709	Canada@	1961-05-06
 59710		1961-05-06
-59711	Malta@	1961-05-06
+59711	New Zealand@	1961-05-06
 59712	Jamaica@	1961-05-06
 59713	Japan@	1961-05-06
 59714	Netherlands@	1961-05-06
@@ -59604,7 +59604,7 @@
 59731	America@	1961-05-06
 59732		1961-05-06
 59733		1961-05-06
-59734	Niger@	1961-05-06
+59734	Nigeria@	1961-05-06
 59735		1961-05-06
 59736		1961-05-06
 59737	America@	1961-05-06
@@ -59817,7 +59817,7 @@
 59945	Australia@	1961-04-01
 59946		1961-04-01
 59947		1961-04-01
-59948		1961-04-01
+59948	America@	1961-04-01
 59949	Congo@	1961-04-01
 59950	America@America@	1961-04-01
 59951	Japan@	1961-04-01
@@ -59916,7 +59916,7 @@
 60044	America@	1961-03-18
 60045	America@	1961-03-18
 60046		1961-03-18
-60047		1961-03-18
+60047	America@	1961-03-18
 60048	America@	1961-03-18
 60049	America@	1961-03-18
 60050	United Kingdom@	1961-03-18
@@ -59996,7 +59996,7 @@
 60124	America@America@	1961-03-04
 60125	Finland@	1961-03-04
 60126	India@	1961-03-04
-60127	America@	1961-03-04
+60127	America@America@	1961-03-04
 60128		1961-03-04
 60129	Georgia@	1961-03-04
 60130		1961-03-04
@@ -60060,7 +60060,7 @@
 60188	Australia@	1961-02-18
 60189		1961-02-18
 60190	India@	1961-02-18
-60191	America@	1961-02-18
+60191	America@America@	1961-02-18
 60192	Canada@	1961-02-18
 60193		1961-02-18
 60194		1961-02-18
@@ -60187,7 +60187,7 @@
 60315		1961-01-28
 60316		1961-01-28
 60317		1961-01-28
-60318	America@	1961-01-28
+60318	America@America@	1961-01-28
 60319	Argentina@	1961-01-28
 60320	South Africa@	1961-01-28
 60321		1961-01-28
@@ -60233,7 +60233,7 @@
 60361	America@	1961-01-21
 60362	America@	1961-01-21
 60363		1961-01-21
-60364		1961-01-21
+60364	America@	1961-01-21
 60365		1961-01-21
 60366	Germany@Belgium@	1961-01-21
 60367	Canada@	1961-01-21
@@ -60313,7 +60313,7 @@
 60441	America@United Kingdom@	1961-01-07
 60442	Russia@	1961-01-07
 60443	Australia@	1961-01-07
-60444	Egypt@	1961-01-07
+60444	America@Egypt@	1961-01-07
 60445	Canada@	1961-01-07
 60446	Italy@	1961-01-07
 60447		1961-01-07
@@ -60345,7 +60345,7 @@
 60473		1960-12-31
 60474	America@	1960-12-31
 60475	Italy@	1960-12-31
-60476	America@	1960-12-31
+60476	America@America@	1960-12-31
 60477	Netherlands@	1960-12-31
 60478		1960-12-31
 60479		1960-12-31
@@ -60382,7 +60382,7 @@
 60510		1960-12-31
 60511	America@	1960-12-31
 60512	Italy@	1960-12-31
-60513	America@	1960-12-31
+60513	America@America@	1960-12-31
 60514	Netherlands@	1960-12-31
 60515		1960-12-31
 60516		1960-12-31
@@ -60462,7 +60462,7 @@
 60590	America@America@	1960-12-17
 60591	United Kingdom@America@	1960-12-17
 60592		1960-12-17
-60593	Niger@Australia@	1960-12-17
+60593	Nigeria@Australia@	1960-12-17
 60594	Australia@	1960-12-17
 60595	South Africa@	1960-12-17
 60596		1960-12-17
@@ -60498,12 +60498,12 @@
 60626		1960-12-10
 60627	America@	1960-12-10
 60628		1960-12-10
-60629	Niger@	1960-12-10
+60629	Nigeria@	1960-12-10
 60630		1960-12-10
 60631	United Kingdom@	1960-12-10
 60632	Canada@	1960-12-10
 60633		1960-12-10
-60634		1960-12-10
+60634	America@	1960-12-10
 60635	United Kingdom@	1960-12-10
 60636		1960-12-10
 60637	America@	1960-12-10
@@ -60517,7 +60517,7 @@
 60645		1960-12-03
 60646	America@	1960-12-03
 60647		1960-12-03
-60648	Sudan@	1960-12-03
+60648		1960-12-03
 60649		1960-12-03
 60650	America@	1960-12-03
 60651		1960-12-03
@@ -60647,7 +60647,7 @@
 60775	United Kingdom@	1960-11-12
 60776		1960-11-12
 60777	America@	1960-11-12
-60778		1960-11-12
+60778	America@	1960-11-12
 60779	Georgia@	1960-11-12
 60780	Japan@America@	1960-11-12
 60781		1960-11-12
@@ -60687,7 +60687,7 @@
 60815		1960-11-05
 60816	America@	1960-11-05
 60817		1960-11-05
-60818	Denmark@	1960-11-05
+60818	Denmark@America@	1960-11-05
 60819		1960-11-05
 60820	Japan@	1960-11-05
 60821	America@	1960-11-05
@@ -60743,7 +60743,7 @@
 60871		1960-10-29
 60872		1960-10-29
 60873		1960-10-29
-60874	Niger@	1960-10-29
+60874	Nigeria@	1960-10-29
 60875	Australia@	1960-10-22
 60876	America@	1960-10-22
 60877		1960-10-22
@@ -60806,7 +60806,7 @@
 60934		1960-10-15
 60935	America@Honduras@	1960-10-15
 60936	Hungary@	1960-10-15
-60937		1960-10-15
+60937	America@	1960-10-15
 60938		1960-10-15
 60939	America@	1960-10-15
 60940		1960-10-15
@@ -60834,7 +60834,7 @@
 60962	Australia@	1960-10-08
 60963	United Kingdom@	1960-10-08
 60964	America@	1960-10-08
-60965	America@	1960-10-08
+60965	America@America@	1960-10-08
 60966	America@America@	1960-10-08
 60967	America@	1960-10-08
 60968		1960-10-08
@@ -61125,7 +61125,7 @@
 61253	Australia@	1960-08-13
 61254	Uganda@Uganda@	1960-08-13
 61255	Australia@	1960-08-13
-61256	Niger@	1960-08-13
+61256	Nigeria@	1960-08-13
 61257		1960-08-13
 61258		1960-08-13
 61259	India@	1960-08-13
@@ -61166,11 +61166,11 @@
 61294		1960-08-06
 61295		1960-08-06
 61296	Canada@	1960-08-06
-61297		1960-08-06
+61297	America@	1960-08-06
 61298		1960-08-06
 61299		1960-07-30
 61300		1960-07-30
-61301		1960-07-30
+61301	America@	1960-07-30
 61302	Canada@	1960-07-30
 61303	United Kingdom@	1960-07-30
 61304		1960-07-30
@@ -61181,7 +61181,7 @@
 61309	America@	1960-07-30
 61310		1960-07-30
 61311	United Kingdom@	1960-07-30
-61312		1960-07-30
+61312	America@	1960-07-30
 61313	America@	1960-07-30
 61314	Germany@	1964-10-24
 61315	America@	1964-10-24
@@ -61195,7 +61195,7 @@
 61323		1964-10-24
 61324	Egypt@	1964-10-24
 61325	Denmark@	1964-10-24
-61326		1964-10-24
+61326	America@	1964-10-24
 61327		1964-10-24
 61328	America@	1964-10-24
 61329	United Kingdom@	1964-10-24
@@ -61207,7 +61207,7 @@
 61335		1964-10-24
 61336		1964-10-24
 61337		1964-10-24
-61338	Niger@	1964-10-24
+61338	Nigeria@	1964-10-24
 61339	Canada@	1964-10-24
 61340		1964-10-17
 61341	America@Canada@	1964-10-17
@@ -61217,7 +61217,7 @@
 61345	India@	1964-10-17
 61346		1964-10-17
 61347		1964-10-17
-61348		1964-10-17
+61348	America@	1964-10-17
 61349	America@	1964-10-17
 61350	United Kingdom@	1964-10-17
 61351	United Kingdom@	1964-10-17
@@ -61268,7 +61268,7 @@
 61396	America@	1964-10-10
 61397	Japan@Japan@	1964-10-10
 61398		1964-10-10
-61399		1964-10-10
+61399	America@	1964-10-10
 61400	America@	1964-10-03
 61401		1964-10-03
 61402	America@	1964-10-03
@@ -61286,14 +61286,14 @@
 61414	United Kingdom@	1964-10-03
 61415		1964-10-03
 61416	Australia@	1964-10-03
-61417		1964-10-03
+61417	America@	1964-10-03
 61418	Canada@	1964-10-03
 61419		1964-10-03
 61420		1964-10-03
 61421	America@	1964-10-03
 61422	Sweden@	1964-10-03
 61423	Japan@America@	1964-10-03
-61424	Indonesia@America@	1964-10-03
+61424	America@	1964-10-03
 61425		1964-10-03
 61426		1964-10-03
 61427		1964-10-03
@@ -61302,7 +61302,7 @@
 61430	Australia@	1964-10-03
 61431		1964-10-03
 61432	America@United Kingdom@	1964-10-03
-61433		1964-10-03
+61433	America@	1964-10-03
 61434	America@	1964-10-03
 61435	Canada@	1964-10-03
 61436	Australia@	1964-10-03
@@ -61348,7 +61348,7 @@
 61476	United Kingdom@	1964-09-26
 61477	Germany@	1964-09-26
 61478	United Kingdom@India@	1964-09-26
-61479		1964-09-26
+61479	America@	1964-09-26
 61480	Australia@	1964-09-26
 61481		1964-09-26
 61482	Australia@	1964-09-19
@@ -61366,12 +61366,12 @@
 61494		1964-09-19
 61495	America@America@America@	1964-09-19
 61496	America@	1964-09-19
-61497	America@United Kingdom@	1964-09-19
+61497	America@United Kingdom@America@	1964-09-19
 61498		1964-09-19
 61499	Switzerland@	1964-09-19
 61500	Israel@	1964-09-19
 61501		1964-09-19
-61502	America@	1964-09-19
+61502	America@America@	1964-09-19
 61503	America@	1964-09-19
 61504	Australia@	1964-09-19
 61505		1964-09-19
@@ -61491,7 +61491,7 @@
 61619	America@	1964-08-29
 61620		1964-08-29
 61621		1964-08-29
-61622	Malta@	1964-08-29
+61622		1964-08-29
 61623	America@	1964-08-29
 61624	America@	1964-08-29
 61625	Japan@	1964-08-29
@@ -61506,7 +61506,7 @@
 61634		1964-08-29
 61635		1964-08-29
 61636	America@	1964-08-22
-61637		1964-08-22
+61637	America@	1964-08-22
 61638	America@	1964-08-22
 61639		1964-08-22
 61640		1964-08-22
@@ -61577,8 +61577,8 @@
 61705	America@	1964-08-15
 61706	Canada@Canada@	1964-08-15
 61707	South Africa@	1964-08-15
-61708		1964-08-15
-61709		1964-08-15
+61708	America@	1964-08-15
+61709	America@	1964-08-15
 61710		1964-08-15
 61711		1964-08-15
 61712		1964-08-15
@@ -61599,7 +61599,7 @@
 61727	Canada@	1964-08-15
 61728		1964-08-15
 61729	America@	1964-08-15
-61730	America@	1964-08-15
+61730	America@America@	1964-08-15
 61731	America@	1964-08-08
 61732		1964-08-08
 61733	France@	1964-08-08
@@ -61619,8 +61619,8 @@
 61747	Italy@	1964-08-08
 61748	America@	1964-08-08
 61749		1964-08-08
-61750		1964-08-08
-61751		1964-08-08
+61750	America@	1964-08-08
+61751	America@	1964-08-08
 61752	America@	1964-08-08
 61753	Uruguay@	1964-08-08
 61754	America@	1964-08-08
@@ -61718,7 +61718,7 @@
 61846		1964-07-25
 61847	America@	1964-07-25
 61848	America@	1964-07-25
-61849	America@	1964-07-25
+61849	America@America@	1964-07-25
 61850		1964-07-25
 61851	America@	1964-07-25
 61852	America@Israel@	1964-07-25
@@ -61766,7 +61766,7 @@
 61894	United Kingdom@	1964-07-18
 61895	America@	1964-07-18
 61896	United Kingdom@	1964-07-18
-61897		1964-07-18
+61897	America@	1964-07-18
 61898		1964-07-18
 61899	Australia@	1964-07-18
 61900	Italy@	1964-07-18
@@ -61800,7 +61800,7 @@
 61928	America@	1964-07-11
 61929	Germany@	1964-07-11
 61930	Japan@	1964-07-11
-61931		1964-07-11
+61931	America@	1964-07-11
 61932	Australia@	1964-07-11
 61933	France@	1964-07-11
 61934	America@America@	1964-07-11
@@ -61815,7 +61815,7 @@
 61943		1964-07-11
 61944		1964-07-11
 61945	America@	1964-07-11
-61946	United Kingdom@Niger@	1964-07-11
+61946	United Kingdom@Nigeria@	1964-07-11
 61947		1964-07-11
 61948	South Africa@	1964-07-11
 61949	America@	1964-07-11
@@ -61823,7 +61823,7 @@
 61951	United Kingdom@	1964-07-11
 61952		1964-07-11
 61953	America@	1964-07-04
-61954	Niger@	1964-07-04
+61954	Nigeria@	1964-07-04
 61955	Hungary@	1964-07-04
 61956	America@	1964-07-04
 61957	Australia@	1964-07-04
@@ -61876,14 +61876,14 @@
 62004	United Kingdom@United Kingdom@	1964-06-27
 62005	America@	1964-06-27
 62006	United Kingdom@	1964-06-27
-62007		1964-06-27
+62007	America@	1964-06-27
 62008		1964-06-27
 62009	America@America@	1964-06-27
 62010		1964-06-27
 62011	Netherlands@Netherlands@	1964-06-27
 62012		1964-06-27
 62013	America@	1964-06-27
-62014		1964-06-27
+62014	America@	1964-06-27
 62015		1964-06-27
 62016	America@	1964-06-27
 62017	America@	1964-06-27
@@ -61905,15 +61905,15 @@
 62033	India@	1964-06-27
 62034		1964-06-27
 62035	India@	1964-06-27
-62036		1964-06-27
+62036	America@	1964-06-27
 62037	United Kingdom@	1964-06-27
 62038		1964-06-27
-62039		1964-06-20
+62039	America@	1964-06-20
 62040	America@	1964-06-20
 62041	Sweden@Austria@	1964-06-20
 62042	America@	1964-06-20
 62043	America@America@	1964-06-20
-62044		1964-06-20
+62044	America@	1964-06-20
 62045		1964-06-20
 62046	Romania@	1964-06-20
 62047		1964-06-20
@@ -61939,7 +61939,7 @@
 62067	Japan@	1964-06-20
 62068	America@	1964-06-20
 62069	America@	1964-06-20
-62070	America@	1964-06-20
+62070	America@America@	1964-06-20
 62071	Japan@India@	1964-06-20
 62072	America@	1964-06-20
 62073	Germany@	1964-06-20
@@ -61978,7 +61978,7 @@
 62106	America@	1964-06-13
 62107	Japan@	1964-06-13
 62108		1964-06-13
-62109		1964-06-13
+62109	America@	1964-06-13
 62110		1964-06-13
 62111	America@	1964-06-13
 62112		1964-06-13
@@ -62134,11 +62134,11 @@
 62262	Slovakia@	1965-05-08
 62263		1965-05-08
 62264	Australia@	1965-05-01
-62265		1965-05-01
+62265	America@	1965-05-01
 62266	India@	1965-05-01
 62267		1965-05-01
 62268	America@	1965-05-01
-62269	Switzerland@	1965-05-01
+62269	America@Switzerland@	1965-05-01
 62270	United Kingdom@	1965-05-01
 62271	Sweden@	1965-05-01
 62272	America@	1965-05-01
@@ -62334,13 +62334,13 @@
 62463	America@	1989-12-07
 62464	United Kingdom@Sweden@	1989-12-07
 62465	Japan@Japan@Japan@Japan@	1989-12-07
-62466	Argentina@America@	1989-12-07
+62466	America@America@	1989-12-07
 62467	America@Mexico@	1989-12-07
 62468	United Kingdom@	1989-12-07
 62469	Italy@Italy@	1989-12-07
 62470	America@	1989-12-07
 62471	America@America@	1989-12-07
-62472	America@America@America@Canada@Canada@	1989-12-07
+62472	America@America@America@America@Canada@	1989-12-07
 62473	Israel@America@	1989-12-07
 62474	America@America@	1989-12-07
 62475	America@America@America@	1989-12-07
@@ -62507,7 +62507,7 @@
 62637	United Kingdom@United Kingdom@	1984-02-09
 62638	United Kingdom@America@	1980-10-16
 62639	South Africa@South Africa@	1980-10-16
-62640	France@Germany@	1980-10-16
+62640	France@France@	1980-10-16
 62641	America@America@	1980-10-16
 62642	France@Switzerland@America@	1980-10-16
 62643	United Kingdom@	1980-10-16
@@ -62542,7 +62542,7 @@
 62672	America@Philippines@	1969-03-01
 62673		1969-03-01
 62674	Canada@America@	1969-03-01
-62675		1969-03-01
+62675	America@	1969-03-01
 62676	Sweden@	1969-03-01
 62677	America@	1969-03-01
 62678	America@	1969-03-01
@@ -63118,7 +63118,7 @@
 63248		1961-06-10
 63249	Japan@	1961-06-10
 63250	New Zealand@	1961-06-10
-63251	America@America@	1961-06-10
+63251	America@America@America@	1961-06-10
 63252		1961-06-03
 63253		1961-06-03
 63254	India@	1961-06-03
@@ -63282,7 +63282,7 @@
 63412	America@	1964-10-10
 63413		1964-10-10
 63414	India@	1964-10-10
-63415		1964-10-10
+63415	America@	1964-10-10
 63416		1964-10-10
 63417	America@	1964-10-03
 63418	Canada@	1964-10-03
@@ -63298,7 +63298,7 @@
 63428		1964-09-05
 63429	Italy@	1964-09-05
 63430	New Zealand@	1964-09-05
-63431	Niger@Niger@	1964-09-05
+63431	Nigeria@Nigeria@	1964-09-05
 63432		1964-09-05
 63433	America@	1964-09-05
 63434	Australia@	1964-09-05
@@ -63314,7 +63314,7 @@
 63444	Canada@	1964-08-15
 63445	Japan@	1964-08-08
 63446	United Kingdom@United Kingdom@	1964-08-01
-63447		1964-08-01
+63447	America@	1964-08-01
 63448	Australia@	1964-07-25
 63449	America@	1964-07-18
 63450	America@	1964-07-18
@@ -63352,12 +63352,12 @@
 63482	America@	1964-05-30
 63483	India@	1965-05-15
 63484		1965-05-08
-63485		1965-05-08
+63485	America@	1965-05-08
 63486	Israel@	1965-05-08
 63487	America@	1965-05-08
 63488		1965-05-01
 63489	Canada@Germany@	1995-08-03
-63491	America@	1995-06-15
+63491	America@America@	1995-06-15
 63492	America@	1995-06-15
 63493	America@	1995-04-06
 63494	America@America@	1995-04-06
