@@ -22,7 +22,7 @@ def hello(fileName):
 		
 	for key in group:
 		print key
-		output.write(str(key)+'\n')
+		output.write(str(key))
 		
 		
 def analyze(group,element):

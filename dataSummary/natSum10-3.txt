@@ -1,0 +1,211 @@
+1	America@America@German@German@America@America@German@America@German@America@German@America@America@America@China@America@America@German@America@German@America@German@Russia@Russia@German@German@America@German@	2010
+2	America@America@Finland@America@Finland@Finland@America@Finland@America@America@America@America@Italy@Finland@America@America@Finland@America@	2010
+3	United Kingdom@America@United Kingdom@America@America@United Kingdom@America@United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@America@America@America@America@America@America@United Kingdom@United Kingdom@America@America@America@United Kingdom@America@	2010
+4	America@America@	2010
+5	America@America@America@America@America@	2010
+6	America@America@America@America@	2010
+7	Anguilla@Anguilla@	2010
+8	Japan@Japan@Japan@Japan@	2010
+9	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@Japan@America@America@America@America@America@America@America@America@America@America@	2010
+10	America@America@America@America@America@	2010
+11	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+12	China@China@China@	2010
+13	America@America@America@America@America@America@America@America@America@	2010
+14	France@America@America@Singapore@America@Singapore@America@America@Singapore@France@Singapore@France@America@Singapore@Singapore@Singapore@America@	2010
+15	Spain@Spain@Spain@Spain@Spain@Spain@Japan@German@Japan@Puerto Rico@	2010
+16	America@America@America@	2010
+17	America@America@America@America@America@America@	2010
+18	America@America@America@America@America@German@America@America@German@America@America@America@German@America@America@America@	2010
+19	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+20	America@America@	2010
+21	America@	2010
+22	America@America@America@	2010
+23	America@	2010
+24	America@America@America@America@America@America@America@	2010
+25	America@America@America@	2010
+26	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@Switzerland@America@America@America@America@America@America@	2010
+27	America@America@America@America@America@America@America@America@America@America@America@America@Australia@America@America@America@	2010
+28	Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@	2010
+29	America@America@America@America@America@America@America@	2010
+30	America@America@China@America@America@America@America@America@America@	2010
+31	America@America@México@México@America@America@	2010
+32	America@America@America@America@America@America@America@America@America@America@	2010
+33	America@America@	2010
+34	German@German@German@German@Sloveni@Swiss@America@America@America@	2010
+35	America@	2010
+36	Bahamas@Japan@	2010
+37	German@German@United Kingdom@German@America@German@America@United Kingdom@German@	2010
+38	America@America@America@America@America@America@	2010
+39	Italy@France@Italy@Italy@Iran@France@France@Iran@Italy@France@Italy@	2010
+40	America@America@America@America@America@America@America@America@America@America@	2010
+41	Japan@Japan@America@Japan@	2010
+42	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+43	America@America@America@	2010
+44	America@America@America@	2010
+45	America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+46	America@America@America@America@America@America@America@	2010
+47	America@America@German@	2010
+48	Denmark@America@America@United Kingdom@Denmark@United Kingdom@Brazil@America@United Kingdom@United Kingdom@United Kingdom@America@Canada@America@America@America@Denmark@America@America@United Kingdom@Canada@United Kingdom@Sweden@United Kingdom@America@United Kingdom@America@United Kingdom@America@America@America@United Kingdom@America@America@America@Japan@America@America@Canada@United Kingdom@America@Japan@	2010
+49	America@America@America@America@Japan@America@America@America@America@	2010
+50	America@America@America@America@America@America@	2010
+51	America@America@America@America@America@America@	2010
+52	America@America@America@America@Swiss@Swiss@America@	2010
+53	America@America@America@America@America@America@America@	2010
+54	America@America@America@America@America@America@America@America@America@America@America@	2010
+55	America@America@America@America@America@	2010
+56	France@France@France@United Kingdom@France@France@France@United Kingdom@France@	2010
+57	German@German@German@German@German@German@German@German@German@German@America@America@America@America@German@America@German@German@	2010
+58	America@China@China@	2010
+59	America@America@America@America@America@America@America@America@	2010
+60	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+61	America@America@America@America@America@America@America@America@America@America@	2010
+62	China@China@	2010
+63	America@Chile@Chile@Italia@Poland@Chile@Chile@	2010
+64	America@America@America@America@America@America@	2010
+65	German@America@German@Switzerland@German@German@German@German@German@German@German@German@Switzerland@German@German@German@German@German@German@German@German@German@German@German@Estonia@German@German@German@Moscow@Sierra Leone@German@German@America@German@German@German@German@German@German@German@	2010
+66	Sweden@Sweden@Sweden@Sweden@Denmark@Sweden@Denmark@Sweden@Sweden@Denmark@Sweden@Sweden@	2010
+67	America@America@America@America@America@America@America@America@America@America@America@	2010
+68	America@America@America@America@America@America@America@America@America@America@America@	2010
+69	America@America@America@America@America@America@America@America@America@America@	2010
+70	America@America@America@America@America@America@America@	2010
+71	America@America@America@America@	2010
+72	America@America@America@	2010
+73	America@America@America@America@Israel@America@America@America@Israel@America@America@America@America@America@	2010
+74	America@America@America@America@America@	2010
+75	America@America@America@America@America@America@America@France@Dominica@France@America@America@	2010
+76	America@America@America@America@	2010
+77	Iceland@Iceland@Netherlands@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Sweden@Iceland@America@	2010
+78	America@America@Australia@America@America@America@Canada@Australia@	2010
+79	Netherlands@United Kingdom@German@Netherlands@Australia@Australia@	2010
+80	America@America@America@America@America@America@America@America@America@America@America@	2010
+81	America@America@America@America@America@Austria@America@	2010
+82	America@United Kingdom@Australia@Australia@Australia@Australia@Australia@United Kingdom@Australia@Australia@Australia@Australia@Australia@Australia@Australia@United Kingdom@America@	2010
+83	America@America@America@America@America@America@America@America@Switzerland@America@Switzerland@America@America@America@America@America@America@America@America@	2010
+84	France@China@France@United Kingdom@France@France@Spain@China@United Kingdom@France@	2010
+85	America@America@America@	2010
+86	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+87	America@America@America@Japan@America@America@America@America@America@America@America@Japan@America@	2010
+88	Japan@America@Japan@Japan@Japan@German@America@German@America@Japan@Japan@Japan@	2010
+89	America@France@America@German@German@France@France@America@France@America@	2010
+90	Korea@America@America@America@America@America@America@America@America@China@America@America@China@America@America@America@	2010
+91	Hungary@Scotland@Scotland@Hungary@Hungary@	2010
+92	Spain@United Kingdom@	2010
+93	America@America@America@America@America@	2010
+94	Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@Singapore@America@Singapore@Singapore@Singapore@	2010
+95	America@America@America@America@America@America@America@America@America@	2010
+96	United Kingdom@United Kingdom@United Kingdom@	2010
+97	America@America@America@America@America@America@America@America@America@America@	2010
+98	America@America@United Kingdom@United Kingdom@United Kingdom@	2010
+99	America@	2010
+100	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+101	America@America@America@America@America@France@France@France@America@America@	2010
+102	Japan@Japan@Japan@Japan@	2010
+103	America@America@America@America@America@America@America@America@	2010
+104	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+105	Spain@Spain@United Kingdom@Spain@United Kingdom@Austria@Central Africa Republic@Spain@	2010
+106	United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@Italy@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@Italy@United Kingdom@United Kingdom@United Kingdom@	2010
+107	Australia@Australia@Australia@Australia@Australia@Australia@Australia@America@America@America@German@America@Australia@United Kingdom@German@Australia@	2010
+108	America@America@America@America@America@America@America@America@America@	2010
+109	United Kingdom@United Kingdom@Japan@United Kingdom@United Kingdom@United Kingdom@United Kingdom@Nigeria@United Kingdom@	2010
+110	Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@	2010
+111		2010
+112	America@America@America@America@America@America@America@America@America@America@	2010
+113	America@America@America@America@Netherlands@	2010
+114	German@German@German@German@German@German@	2010
+115	China@America@Thailand@Libya@China@Libya@China@Libya@China@China@China@China@China@France@Libya@China@	2010
+116	Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@Iceland@	2010
+117	America@America@America@America@America@Korea@America@	2010
+118	United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@San Marino@America@United Kingdom@	2010
+119	America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+120	United Kingdom@United Kingdom@Ireland@United Kingdom@Ireland@United Kingdom@United Kingdom@	2010
+121	Japan@America@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@	2010
+122	China@China@China@China@China@America@America@China@China@	2010
+123	America@America@America@America@	2010
+124	China@China@China@United Kingdom@United Kingdom@China@United Kingdom@Bahamas@China@	2010
+125	America@America@America@United Kingdom@United Kingdom@	2010
+126	America@America@America@	2010
+127	German@German@America@Switzerland@America@America@America@Italy@America@Netherlands@Netherlands@Switzerland@German@Italy@Italy@German@America@America@Italy@America@Switzerland@America@Italy@America@France@America@German@America@German@America@America@German@America@	2010
+128	America@America@America@America@	2010
+129	America@America@	2010
+130	Australia@Australia@Australia@Australia@Australia@Australia@	2010
+131	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@France@America@America@America@America@America@	2010
+132	America@America@America@America@America@America@America@America@America@	2010
+133	America@German@Korea@America@America@America@America@America@America@America@America@German@America@America@	2010
+134	Bangladesh@Bangladesh@America@Bangladesh@	2010
+135	America@America@America@America@America@America@America@America@America@America@America@America@	2010
+136	America@America@America@America@America@America@America@	2010
+137	Japan@New Zealand@New Zealand@Japan@United Kingdom@	2010
+138	America@America@Italy@America@America@Italia@America@	2010
+139	German@Italy@Italia@Italy@Italy@Italy@	2010
+140	Chile@German@German@German@German@German@German@Italy@America@China@Poland@Spain@France@America@America@America@Bhutan@Italy@	2010
+141	America@America@Antigua and BarbudaAntigua and Barbuda@America@America@	2010
+142	America@America@America@	2010
+143	Finland@Finland@German@Finland@Finland@Finland@Finland@Finland@German@Finland@America@Finland@	2010
+144	America@America@America@	2010
+145	United Kingdom@Georgia@America@America@United Kingdom@Georgia@America@America@America@America@United Kingdom@United Kingdom@America@America@America@United Kingdom@Sweden@America@Australia@Iceland@America@United Kingdom@America@Iceland@United Kingdom@Canada@America@German@United Kingdom@Iceland@German@Australia@America@America@America@Georgia@Norway@Georgia@America@Estonia@Ecuador@America@America@Sweden@United Kingdom@America@German@German@America@America@Bhutan@America@America@Swiss@America@Croatia@German@United Kingdom@United Kingdom@Iceland@United Kingdom@America@Sweden@America@United Kingdom@Australia@Finland@Finland@United Kingdom@Finland@Estonia@America@Georgia@Iceland@America@America@America@America@United Kingdom@Australia@Bosnia and Herzegovina@America@Canada@America@Finland@America@Finland@German@Canada@Australia@America@Sweden@America@United Kingdom@German@America@America@United Kingdom@America@Italy@China@America@United Kingdom@Nicaragua@America@Sweden@Canada@America@America@German@Sweden@Lesotho@America@Italy@German@Scotland@America@United Kingdom@Cote divide@Finland@America@Bhutan@Italy@America@Finland@Finland@German@Australia@Sweden@German@Finland@Finland@United Kingdom@Finland@Croatia@Finland@German@Finland@Singapore@Finland@Croatia@China@German@China@America@America@United Kingdom@German@German@Finland@Finland@Sweden@America@United Kingdom@America@German@Finland@Bhutan@America@Iceland@Finland@America@Bhutan@Italy@Croatia@Finland@Estonia@United Kingdom@Bahamas@Estonia@Georgia@Finland@Georgia@Netherlands@America@Swiss@Australia@America@Swiss@America@Italy@Netherlands@Iceland@America@Lesotho@Sweden@Finland@America@Finland@Finland@America@Haiti@German@America@Finland@Sweden@America@Australia@Finland@America@Sweden@Georgia@Australia@Finland@America@America@Finland@Swiss@German@America@America@German@German@Finland@Netherlands@Finland@America@Australia@Australia@America@Georgia@America@America@America@America@United Kingdom@German@Sweden@Sweden@United Kingdom@German@German@France@Finland@German@China@America@America@America@United Kingdom@Georgia@America@Bhutan@Ecuador@America@German@America@Iceland@Sweden@America@America@Finland@America@Ecuador@United Kingdom@Bhutan@German@America@America@Nicaragua@Sweden@German@United Kingdom@America@Sweden@America@America@America@Estonia@America@America@United Kingdom@America@America@United Kingdom@German@America@Georgia@America@Iceland@America@Georgia@Australia@America@United Kingdom@America@United Kingdom@Sweden@United Kingdom@America@Iceland@United Kingdom@America@	2010
+146	America@America@America@America@	2010
+147	Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@Australia@	2010
+148	America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+149	America@America@America@America@America@America@	2010
+150	Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@Japan@America@Japan@	2010
+151	America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+152	America@America@German@German@America@	2010
+153	America@America@America@America@America@America@America@Scotland@Scotland@Antigua and BarbudaAntigua and Barbuda@America@America@America@	2010
+154	America@America@America@	2010
+155	Australia@Australia@Australia@America@Australia@America@America@Australia@Australia@	2010
+156	Australia@Australia@Australia@Australia@Australia@America@Australia@America@Australia@Australia@Australia@Australia@Australia@Australia@America@Australia@	2010
+157	Switzerland@Switzerland@Switzerland@Switzerland@	2010
+158	United Kingdom@United Kingdom@	2010
+159	America@America@America@	2010
+160	America@America@America@America@America@America@America@America@	2010
+161	Nicaragua@Nicaragua@Nicaragua@Nicaragua@Nicaragua@Nicaragua@	2010
+162	United Kingdom@United Kingdom@America@United Kingdom@Portugal@Italy@Portugal@Portugal@Italy@United Kingdom@	2010
+163	Japan@Japan@Japan@	2010
+164	Japan@Japan@Japan@Japan@	2010
+165	America@America@America@America@America@America@America@	2010
+166	China@China@China@China@China@China@China@China@	2010
+167	America@America@	2010
+168	America@America@German@China@America@America@America@Australia@Australia@America@America@	2010
+169	America@America@America@America@	2010
+170	America@America@America@America@America@America@America@America@	2010
+171	America@America@America@America@America@America@America@America@America@America@	2010
+172	America@America@America@America@	2010
+173	America@America@America@America@America@America@	2010
+174	America@America@German@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@German@America@	2010
+175	America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@America@Australia@America@America@America@America@America@America@	2010
+176	America@America@America@America@America@America@	2010
+177	America@America@	2010
+178	America@America@America@America@America@America@	2010
+179	Japan@Japan@	2010
+180	German@German@German@German@German@	2010
+181	America@America@America@America@America@America@Congo@America@America@America@America@America@America@France@Cameroun@America@America@America@France@United Kingdom@America@America@	2010
+182	America@America@America@America@America@America@America@America@America@America@America@America@	2010
+183	America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+184	German@Palestine@German@Switzerland@France@Switzerland@Palestine@German@	2010
+185	Italy@Italy@German@America@Italy@Italy@Italy@Italy@United Kingdom@America@Italy@Italy@	2010
+186	America@America@United Kingdom@Nauru@	2010
+187	Australia@Australia@America@Australia@	2010
+188	America@America@	2010
+189	America@America@	2010
+190	German@United Kingdom@United Kingdom@United Kingdom@America@United Kingdom@United Kingdom@United Kingdom@United Kingdom@German@German@German@German@German@German@United Kingdom@United Kingdom@America@America@German@German@America@United Kingdom@United Kingdom@Nicaragua@German@Nicaragua@German@German@German@German@German@German@German@German@America@United Kingdom@Czech Republic@United Kingdom@America@United Kingdom@United Kingdom@German@United Kingdom@	2010
+191	Burundi@Burundi@	2010
+192	America@America@	2010
+193	United Kingdom@United Kingdom@	2010
+194	America@America@America@America@America@America@	2010
+195	America@America@America@America@America@America@America@	2010
+196	America@America@America@	2010
+197	Croatia@German@	2010
+198		2010
+199	America@America@America@America@	2010
+200	German@German@German@German@German@	2010
+201	America@America@America@America@America@America@America@America@America@America@Austria@America@America@	2010
+202	America@America@Finland@America@Finland@Finland@America@Finland@America@America@America@America@Italy@Finland@America@America@Finland@America@	2010
+203	America@America@	2010
+204	Argentina@Argentina@Argentina@America@Argentina@Argentina@Spain@Argentina@Argentina@America@America@Argentina@America@Spain@Argentina@Argentina@Argentina@	2010
+205	America@America@Canada@Canada@Canada@America@America@	2010
+206	Bahamas@Bahamas@Bahamas@	2010
+207	United Kingdom@United Kingdom@United Kingdom@America@	2010
+208	America@America@America@America@America@America@America@America@America@America@America@America@America@America@	2010
+209	America@America@Japan@	2010
+210	America@America@	2010
+211	America@America@America@America@America@	2010

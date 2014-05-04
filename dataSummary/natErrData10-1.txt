@@ -1,0 +1,271 @@
+1@
+2@
+3@#
+4@##
+5@#
+6@#
+7@#
+8@
+9@####
+10@#Program in Gene Function and Expression,.#
+11@
+12@#
+13@
+14@#
+15@#Department of Medicine,.Siteman Cancer Center,.These authors contributed equally to this work..#Department of Medicine,.#Department of Medicine,.#Department of Genetics,.Division of Statistical Genomics,.#Department of Medicine,.#Department of Medicine,.#Department of Medicine,.#Department of Medicine,.#Department of Medicine,.#Division of Biostatistics,.#Department of Medicine,.##Department of Surgery and the Young Women&#x02019;s Breast Cancer Program,.#Department of Surgery and the Young Women&#x02019;s Breast Cancer Program,.#Department of Surgery and the Young Women&#x02019;s Breast Cancer Program,.#Department of Surgery and the Young Women&#x02019;s Breast Cancer Program,.#
+16@Department of Physiology,.These authors contributed equally to this work..#Department of Physiology,.#Department of Physiology,.#Department of Physiology,.##Department of Physiology,.Department of Cellular and Molecular Pharmacology,.#
+17@#
+18@
+19@##
+20@
+21@
+22@#######Dipartimento di Biologia di Base ed Applicata,.#
+23@#Lewis-Sigler Institute for Integrative Genomics,.#Lewis-Sigler Institute for Integrative Genomics,.#Lewis-Sigler Institute for Integrative Genomics,.#
+24@Department of Dermatology,.These authors contributed equally to this work..#Department of Dermatology,.#Department of Dermatology,.#
+25@
+26@Department of Antibody Engineering,.These authors contributed equally to this work..#Department of Molecular Biology,.These authors contributed equally to this work..#Department of Molecular Biology,.#Department of Molecular Biology,.#Department of Antibody Engineering,.#Department of Translational Oncology,.#Department of Translational Oncology,.#Department of Tumor Biology and Angiogenesis,.#Department of Tumor Biology and Angiogenesis,.#Department of Neurodegeneration,.#Department of Molecular Biology,.#Department of Antibody Engineering,.#Department of Neurodegeneration,.#Department of Tumor Biology and Angiogenesis,.#Department of Pathology,.#Department of Pathology,.#Department of Molecular Biology,.#
+27@Department of Head and Neck Surgery,.These authors contributed equally to this work..#Department of Head and Neck Surgery,.These authors contributed equally to this work..#Department of Molecular Pathology,.#Department of Molecular Pathology,.#Department of Head and Neck Surgery,.#Department of Head and Neck Surgery,.#Department of Gastroenterology, Hepatology and Nutrition, and.#Department of Head and Neck Surgery,.#
+28@#
+29@Jonsson Comprehensive Cancer Center,.Department of Pathology, David Geffen School of Medicine,.#
+30@Sidney Kimmel Comprehensive Cancer Center,.#Stanford Cancer Center and Transgenic Mouse Research Center,.#Sidney Kimmel Comprehensive Cancer Center,.#
+31@
+32@
+33@
+34@
+35@
+36@
+37@#
+38@
+39@###
+40@#
+41@
+42@Computation and Neural Systems and Division of Biology,.#
+43@##
+44@###
+45@#
+46@#
+47@#
+48@Department of Microbiology,.#
+49@#
+50@
+51@###
+52@##Cell Biology/Biophysics Units, Structural and,.##Cell Biology/Biophysics Units, Structural and,.#Cell Biology/Biophysics Units, Structural and,.#Gene Expression and,.#
+53@Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Structural Biology Laboratory, Department of Chemistry,.#Structural Biology Laboratory, Department of Chemistry,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,.#
+54@
+55@
+56@
+57@#Nordic Center for Earth Evolution, &#x000D8;ster Voldgade 5-7,.Department of Geological and Environmental Sciences,.#
+58@
+59@
+60@###
+61@Department of Psychiatry,.#Department of Psychiatry,.Department of Physiology and Cellular Biophysics,.#
+62@Department of Human Genetics,.#Department of Human Genetics,.#Department of Human Genetics,.#Department of Human Genetics,.#Department of Computer Science,.#Department of Human Genetics,.#Department of Human Genetics,.#
+63@Department of Cell Biology,.#
+64@######
+65@Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.#Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.#Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.#Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.##Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.#Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.#Urologische Klinik/Frauenklinik und Zentrale Klinische Forschung, Klinikum der Universit&auml;t Freiburg, Breisacherstrasse 66,.###
+66@CEA Genoscope,.#
+67@
+68@#Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research,.Department of Neurology,.Biomedical Sciences Graduate Program,.These authors contributed equally to this work..#Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research,.Department of Neurology,.#
+69@##
+70@
+71@
+72@
+73@
+74@#
+75@#####
+76@###
+77@#National Center for Behavioral Genomics,.Volen Center for Complex Systems, Department of Biology,.#National Center for Behavioral Genomics,.Volen Center for Complex Systems, Department of Biology,.#National Center for Behavioral Genomics,.Volen Center for Complex Systems, Department of Biology,.#National Center for Behavioral Genomics,.Volen Center for Complex Systems, Department of Biology,.#
+78@
+79@##
+80@
+81@
+82@
+83@
+84@Grupo de Desarrollo Reproductivo y Apomixis, Laboratorio Nacional de Gen&#x000F3;mica para la Biodiversidad y Departamento de Ingenier&#x000ED;a Gen&#x000E9;tica de Plantas, Cinvestav Irapuato CP36500 Guanajuato, M&#x000E9;xico.#####Grupo de Desarrollo Reproductivo y Apomixis, Laboratorio Nacional de Gen&#x000F3;mica para la Biodiversidad y Departamento de Ingenier&#x000ED;a Gen&#x000E9;tica de Plantas, Cinvestav Irapuato CP36500 Guanajuato, M&#x000E9;xico.#
+85@##
+86@
+87@#####
+88@#
+89@#
+90@
+91@#
+92@#Institute of Biochemistry and Cell Biology,.#Institute of Biochemistry and Cell Biology,.#
+93@
+94@
+95@Cancer Biology and Genetics Program,.#Cancer Biology and Genetics Program,.#Cancer Biology and Genetics Program,.Cancer Biology and Genetics Program,.#
+96@#
+97@#Department of Medical Biochemistry,.These authors contributed equal to this work..#Department of Medical Biochemistry,.##
+98@
+99@Division of Developmental Biology and,.These authors contributed equally to this work..#Division of Developmental Biology and,.These authors contributed equally to this work..#Division of Developmental Biology and,.#Division of Developmental Biology and,.#Division of Developmental Biology and,.#Division of Developmental Biology and,.#
+100@Max Planck Institute for Molecular Cell Biology and Genetics,.##Max Planck Institute for Molecular Cell Biology and Genetics,.#Max Planck Institute for Molecular Cell Biology and Genetics,.#Max Planck Institute for Molecular Cell Biology and Genetics,.#Max Planck Institute for Molecular Cell Biology and Genetics,.#Max Planck Institute for Molecular Cell Biology and Genetics,.#
+101@####
+102@
+103@#
+104@
+105@
+106@Department of Atmospheric Sciences,.##Department of Atmospheric Sciences,.#
+107@
+108@
+109@
+110@
+111@
+112@#
+113@#######
+114@
+115@Research Laboratory for Surface Science,.#Department of Physics,.#Department of Physics,.#Research Laboratory for Surface Science,.#Department of Physics,.#Department of Physics,.#Research Laboratory for Surface Science,.#Research Laboratory for Surface Science,.#
+116@
+117@
+118@#
+119@##
+120@
+121@#Department of Cellular and Molecular Medicine,.Section of Cell and Developmental Biology,.#Department of Cellular and Molecular Medicine,.Section of Cell and Developmental Biology,.#Department of Cellular and Molecular Medicine,.Section of Cell and Developmental Biology,.#
+122@
+123@#Erasmus Medical Center, Department of Cell Biology,.#Erasmus Medical Center, Department of Cell Biology,.#Erasmus Medical Center, Department of Cell Biology,.Erasmus Medical Center, Erasmus Stem Cell Institute,.#Erasmus Medical Center, Department of Cell Biology,.Erasmus Medical Center, Erasmus Stem Cell Institute,.#
+124@
+125@Institute for Stem Cell Biology and Regenerative Medicine, Department of Pathology,.Program in Cancer Biology,.#Institute for Stem Cell Biology and Regenerative Medicine, Department of Pathology,.Program in Cancer Biology,.#Department of Molecular and Cellular Physiology,.#Institute for Stem Cell Biology and Regenerative Medicine, Department of Pathology,.##Institute for Stem Cell Biology and Regenerative Medicine, Department of Pathology,.Program in Cancer Biology,.#
+126@#
+127@#
+128@#
+129@
+130@
+131@Department of Biological Sciences,.#
+132@Developmental Biology Unit,.#Developmental Biology Unit,.#Developmental Biology Unit,.#Developmental Biology Unit,.#Developmental Biology Unit,.#
+133@#
+134@
+135@Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#Stem Cell and Developmental Biology,.#
+136@
+137@##
+138@#
+139@#
+140@#Department of Biology,.#
+141@#
+142@
+143@#Stowers Institute for Medical Research,.#Stowers Institute for Medical Research,.##
+144@Department of Chemical and Systems Biology,.#Department of Chemical and Systems Biology,.#Department of Chemical and Systems Biology,.#Department of Medicine, Division of Cardiovascular Medicine,.#Department of Surgery,.#Department of Surgery,.#Department of Chemical and Systems Biology,.#
+145@Department of Microbiology and Immunology, Stanford School of Medicine, and,.###Department of Microbiology and Immunology, Stanford School of Medicine, and,.#Department of Microbiology and Immunology, Stanford School of Medicine, and,.##
+146@#
+147@####
+148@#######
+149@###
+150@#
+151@
+152@
+153@
+154@
+155@Ministry of Education Protein Science Laboratory,.These authors contributed equally to this work..#Ministry of Education Protein Science Laboratory,.#Ministry of Education Protein Science Laboratory,.#
+156@#
+157@
+158@
+159@
+160@
+161@
+162@#
+163@#
+164@#######
+165@#
+166@Department of Biochemistry,.#Department of Biochemistry,.#
+167@
+168@
+169@
+170@#
+171@##
+172@
+173@#
+174@Department of Human Evolutionary Biology, 11 Divinity Avenue,.#Department of Human Evolutionary Biology, 11 Divinity Avenue,.These authors contributed equally to this work..###
+175@
+176@#Department of Pathology,.#Department of Microbiology and Immunology,.#Department of Microbiology and Immunology,.#
+177@##
+178@#
+179@#
+180@#Joint BioEnergy Institute,.QB3 Institute,.These authors contributed equally to this work..#Joint BioEnergy Institute,.QB3 Institute,.##
+181@
+182@
+183@#
+184@#Center for Computational Biology and Bioinformatics,.Joint Centers for Systems Biology,.These authors contributed equally to this work..#Institute for Cancer Genetics,.#Division of Radiation Oncology,.#Department of Pathology,.#Department of Neuro-Oncology,.#Institute for Cancer Genetics,.Department of Pathology,.Department of Pediatrics,.#Institute for Cancer Genetics,.Department of Biomedical Informatics,.Center for Computational Biology and Bioinformatics,.Joint Centers for Systems Biology,.#
+185@Department of Bioengineering,.These authors contributed equally to this work..##
+186@
+187@
+188@#
+189@
+190@Department of Biology,.#Department of Biology,.##
+191@#
+192@Laboratory of Computational Biology,.##Laboratory of Computational Biology,.#Laboratory of Computational Biology,.#
+193@#
+194@Development, Genetics &amp; Molecular Physiology Unit,.#Development, Genetics &amp; Molecular Physiology Unit,.#Development, Genetics &amp; Molecular Physiology Unit,.#Development, Genetics &amp; Molecular Physiology Unit,.#Development, Genetics &amp; Molecular Physiology Unit,.#Development, Genetics &amp; Molecular Physiology Unit,.#
+195@#Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute and Harvard School of Public Health,.These authors contributed equally to this work..#Department of Cancer Biology, Dana-Farber Cancer Institute, and Department of Pathology, Harvard Medical School,.#Department of Cancer Biology, Dana-Farber Cancer Institute, and Department of Pathology, Harvard Medical School,.#Department of Cancer Biology, Dana-Farber Cancer Institute, and Department of Pathology, Harvard Medical School,.#Department of Cancer Biology, Dana-Farber Cancer Institute, and Department of Pathology, Harvard Medical School,.#Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute and Harvard School of Public Health,.#Department of Cell Biology, Harvard Medical School,.#Department of Cancer Biology, Dana-Farber Cancer Institute, and Department of Pathology, Harvard Medical School,.#
+196@##
+197@##
+198@
+199@Institute of Particle Physics,.#
+200@#
+201@##
+202@Department of Earth and Planetary Sciences,.#
+203@
+204@#
+205@##
+206@
+207@#
+208@#
+209@Center for Neural Science,.#
+210@Department of Microbiology and Cell Science,.These authors contributed equally to this work..#Department of Microbiology and Cell Science,.These authors contributed equally to this work..#Department of Microbiology and Cell Science,.#Department of Microbiology and Cell Science,.#Department of Microbiology and Cell Science,.#Department of Microbiology and Cell Science,.#
+211@##
+212@#
+213@#
+214@
+215@
+216@
+217@
+218@Metabolism Branch,.These authors contributed equally to this work..#Metabolism Branch,.These authors contributed equally to this work..#Metabolism Branch,.These authors contributed equally to this work..#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#Metabolism Branch,.#
+219@Terry Fox Laboratory,.#Terry Fox Laboratory,.#Terry Fox Laboratory,.#
+220@#
+221@Department of Physiological Chemistry,.These authors contributed equally to this work..#Department of Physiological Chemistry,.These authors contributed equally to this work..#Department of Protein Chemistry,.#Department of Bioinformatics,.#Department of Pathology,.#Department of Pathology,.#Department of Translational Oncology,.##Department of Protein Engineering,.#Department of Pathology,.#Department of Bioinformatics,.#Department of Physiological Chemistry,.#
+222@Department of Molecular and Cellular Physiology,.#Department of Molecular and Cellular Physiology,.##Stanford Magnetic Resonance Laboratory, and,.#Department of Molecular and Cellular Physiology,.#Department of Molecular and Cellular Physiology,.##Department of Molecular and Cellular Physiology,.#Department of Molecular and Cellular Physiology,.#Department of Molecular and Cellular Physiology,.#
+223@
+224@
+225@
+226@##
+227@
+228@##
+229@Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#Developmental Genomics and Aging Section, Laboratory of Genetics,.#
+230@#Experimental Research Center for Infectious Diseases, Institute for Virus Research, and,.#
+231@#
+232@#
+233@#
+234@
+235@
+236@#
+237@
+238@#
+239@#Biotech Research and Innovation Centre (BRIC),.#
+240@##
+241@
+242@
+243@#
+244@
+245@
+246@#
+247@Structural Biology and,.#Structural Biology and,.#Structural Biology and,.#
+248@##
+249@
+250@#Department of Microbiology,.These authors contributed equally to this work..#Infectious and Inflammatory Disease Center, Burnham Institute for Medical Research, 10901 North Torrey Pines Road,.#Department of Microbiology,.#Nomis Center for Immunobiology and Microbial Pathogenesis, The Salk Institute for Biological Studies, 10010 North Torrey Pines Road,.#Department of Microbiology,.#Department of Microbiology,.#Department of Microbiology,.#Department of Microbiology,.#Department of Microbiology,.#Infectious and Inflammatory Disease Center, Burnham Institute for Medical Research, 10901 North Torrey Pines Road,.#Infectious and Inflammatory Disease Center, Burnham Institute for Medical Research, 10901 North Torrey Pines Road,.#Infectious and Inflammatory Disease Center, Burnham Institute for Medical Research, 10901 North Torrey Pines Road,.##Nomis Center for Immunobiology and Microbial Pathogenesis, The Salk Institute for Biological Studies, 10010 North Torrey Pines Road,.#Department of Microbiology,.Department of Medicine, Division of Infectious Diseases,.#Department of Microbiology,.These authors contributed equally to this work..#Infectious and Inflammatory Disease Center, Burnham Institute for Medical Research, 10901 North Torrey Pines Road,.These authors contributed equally to this work..#
+251@#Molecular Biology Department,.These authors contributed equally to this work..#Molecular Biology Department,.#Molecular Biology Department,.#Molecular Biology Department,.#Molecular Biology Department,.#Molecular Biology Department,.#Molecular Biology Department,.###Molecular Biology Department,.#
+252@#
+253@
+254@#
+255@
+256@#
+257@##
+258@
+259@#
+260@#
+261@Division of Biology 216-76,.#
+262@Department of Genetics and,.These authors contributed equally to this work..#Department of Genetics and,.#Department of Genetics and,.#
+263@#
+264@#Departments of Medicine and Pathology, Brigham and Women&#x02019;s Hospital, 75 Francis Street,.#Departments of Medical Oncology, Pediatric Oncology, and Cancer Biology, and Center for Cancer Genome Discovery, Dana-Farber Cancer Institute, 44 Binney Street,.#Departments of Medical Oncology, Pediatric Oncology, and Cancer Biology, and Center for Cancer Genome Discovery, Dana-Farber Cancer Institute, 44 Binney Street,.Departments of Medicine and Pathology, Brigham and Women&#x02019;s Hospital, 75 Francis Street,.#Departments of Medicine and Pathology, Brigham and Women&#x02019;s Hospital, 75 Francis Street,.##Departments of Medical Oncology, Pediatric Oncology, and Cancer Biology, and Center for Cancer Genome Discovery, Dana-Farber Cancer Institute, 44 Binney Street,.Departments of Medicine and Pathology, Brigham and Women&#x02019;s Hospital, 75 Francis Street,.#Departments of Medical Oncology, Pediatric Oncology, and Cancer Biology, and Center for Cancer Genome Discovery, Dana-Farber Cancer Institute, 44 Binney Street,.#Departments of Medical Oncology, Pediatric Oncology, and Cancer Biology, and Center for Cancer Genome Discovery, Dana-Farber Cancer Institute, 44 Binney Street,.Departments of Medicine and Pathology, Brigham and Women&#x02019;s Hospital, 75 Francis Street,.#
+265@#
+266@##########
+267@
+268@##
+269@###
+270@#
+271@#Department of Structural Biology,.#
