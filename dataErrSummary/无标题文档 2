@@ -1,0 +1,68 @@
+import re
+import MySQLdb
+import json
+import re
+group = {}
+summaryOutput = "summary.txt"
+output = open(summaryOutput,'w')
+
+
+def output():
+	output = open(summaryOutput,'w')
+def main():
+	global group,summaryOutput,output
+	summary("country.txt")
+	#summary("429")
+	#fileName = 'sciErrData'
+	##hello(fileName)
+	##fileName = 'natErrData'
+	#hello(fileName)
+	
+	print group
+	'''for key in group:
+		print key
+		#output.write(str(key)+'\n')
+	'''
+def summary(fileName):
+	global group
+	file = open(fileName,'r');
+	while True:
+		element = file.readline();
+		if not element: break
+		analyze(element)
+		
+		
+		
+def analyze(element):
+	global group
+	arr = element.split('#')	
+	#print arr
+	#print arr[0]
+
+	if group.has_key(arr[0]):
+		if len(arr) == 1:
+			return
+		for i in range(1,len(arr)-1):
+	#		print arr[i]
+			if group[arr[0]].has_key(re.sub('\n','',arr[i])):
+				group[arr[0]][re.sub('\n','',arr[i])] = group[arr[0]][re.sub('\n','',arr[i])] +1
+			else:
+				group[arr[0]][re.sub('\n','',arr[i])] = 1
+	else:
+		group[arr[0]] = {}
+		if len(arr) == 1:
+			return
+		#print arr[1]
+		if len(arr) == 2:
+			if group[arr[0]].has_key(re.sub('\n','',arr[1])):
+				group[arr[0]][re.sub('\n','',arr[1])] = group[arr[0]][re.sub('\n','',arr[1])] +1
+			else:
+				group[arr[0]][re.sub('\n','',arr[1])] = 1
+		for i in range(1,len(arr)-1):
+			if group[arr[0]].has_key(re.sub('\n','',arr[i])):
+				group[arr[0]][re.sub('\n','',arr[i])] = group[arr[0]][re.sub('\n','',arr[i])] +1
+			else:
+				group[arr[0]][re.sub('\n','',arr[i])] = 1
+	
+
+main()
