@@ -51,15 +51,15 @@ Chad#TD#
 Chech#Praha#
 Chile#Catholic University of Chile#University of Chile#CL#
 China#Zhengzhou#Institute of Basic Medical Sciences#ShanghaiTech University#Joinn Laboratory#Xian Jiao Tong University#Linyi#Beijing Institute of Respiratory Medicine#Chinese Academy of Agricultural Sciences#State Oceanic Administration#Beijing Chao-Yang Hospital#Fudan University#Capital Medical University#Shanghai Jiaotong University School of Medicine#Beijing Genomics Institute-Shenzhen#Northwest University#Donghua University#Xia Men University#Wuhan#Guizhou University#Beijing Genome Institute#Yangling#Soochow University#Shenzhen #HeFei University of Technology#Lanzhou University#Zhejiang Medical University#National Institute for Communicable Disease Control and Prevention#Novel Bioinformatics Company#Shanghai Research Center for Model Organisms#Shanghai Jiao-Tong University School of Medicine#Linyi University#Anhui University#National Central University#Shandong University#Shijiazhuang, Hebei#Harbin Engineering University# Fourth Military Medical University#First Affiliated Hospital of Harbin Medical University#Shanxi University#The Hong Kong Polytechnic University#National Taiwan University of Science & Technology#Tangshan#Tibet Autonomous Region#Beijing Institute of Microbiology and Epidemiology#Shanghai Genomics, Inc.#National Chung Cheng University#Harbin#Capital Medical University School of Basic Medicine#Providence University#JoeKai, Inc.#Tongji University#Tunghai University# Henan Agricultural University#Gansu Agricultural University#Northwest Agriculture and Forestry University#Nanjing Medical University#Shenyang#Ningbo University#Guang Dong Medical College#The Hong Kong University of Science and Technology#Peking University#Langfang#Shanghai Institute of Biological Sciences#Southeast University# Capital Normal University#East China University of Science and Technology#Henan Agricultural University#Chang Gung University# Capital University of Medical Sciences#Taiw#Beihang University# Hefei#Wenzhou Medical College# Shandong#Shanghai Diabetes Institute, Shanghai Key Laboratory of Diabetes Mellitus#College of Pharmaceutical Sciences#The Chinese University of Hong Kong#Jiangsu Institute of Parasitic Diseases#Nankai University#Jiangsu# Central-South University#Shanghai Jiaotong University#Chinese Academy of Inspection and Quarantine#Guangzhou#Jiangnan University#China University of Political Science and Law#Zhejiang#Nanjing Agricultural University#Henan Academy of Agricultural and Forestry Science#National Taiwan University#National Chiao Tung University#Beijing University of Posts and Telecommunications#National Taipei University of Technology#Xinjiang#Sichuan University#Xiamen#Chinese National Genome Center#Shanghai First People''s Hospital#City University of Hong Kong#Sun Yat-Sen University#The Second Military Medical University#Feng Chia University#Shanghai Jiao Tong University#Hangzhou#Shanghai Institute of Materia Medica, Chinese Academy of Science#Huazhong Agriculture University#Wuxi#Taiyuan#Soochow#Chinese Culture University#Xinjiang Center for Disease Control and Prevention#Harbin Medical University#Fujian#Shanghai E-Institute for Model Organisms#Guangxi#Hong Kong Baptist University#Ocean University of China#Tianjin Medical University#South China University of Technology#Wuhan University of Technology#National Cheng Kung University#Langfang Normal University#Fu Jen Catholic University#Beijing Jiaotong University#Xijing Hospital#National Sun Yat-Sen University#Guangdong#Chinese Academy of Social Science#Ningbo#Beijing Forestry University#Liaoning Province Institute of Archaeology#Xinjiang Normal University#Shantou University#Nei Mongol#The University of Hong Kong#Hebei University#Zhejiang Chinese Medical University#Tsinghua University# Soochow University#Huazhong University of Science and Technology#Fujian Agriculture and Forestry University#National Yang Ming University#Guangxi Animal Centers for Disease Control#Dalian University of Technology#Lanzhou#National Yunlin University of Science and Technology#Chinese Academy of Science#Jiangsu University Affiliated Hospital# Beijing 306 Hospital#Peking Union Medical College#Beijing Normal University#Yunnan#National Engineering Center for Biochip at Shanghai#Nanjing Normal University#Yunnan Institute of Cultural Relics and Archaeology#Kunming#Zhangjiang Hi-Tech Park#Shanghai University of Traditional Chinese Medicine#Capital Medical University School of Stomatology#Tibet Academy of Social Sciences#Sichuan Academy of Medical Sciences and Sichuan Provincial People''s Hospital#Tsingua University#Nanjing University#Chang'An University#Ningbo Addiction Research and Treatment Center#Shandong Tianyu Museum of Nature#Beijing Institute of Biotechnology#CN#Zhejiang Academy of Agricultural Sciences#Macau University of Science and Technology#National Tsing Hua University#Tianjin University# Agricultural University of Hebei#Linhe#Jilin Agricultural University#Zhejiang University#Hunan University#Guiyang#Chung Yuan Christian University#University of Macau#Weifang Medical University#Xi’an#Wuhan University#Shanghai Jiaotong University Affiliated Sixth People’s Hospital#Hebei United University#Guangxi University#Xinqiao Hospital#Zhejiang Sci-Tech University#Sun Yat-sen University#Yuan Ze University#National Changhua University of Education#National Institute of Biological Sciences#Chinese Research Academy of Environmental Sciences#University of Shanghai for Science and Technology#Northwest A&F University#National Taiwan Normal University#Jiaotong University#China Medical University#Pingyi#University of Science and Technology of China#Shenyang Normal University#Chinese Academy of Social Sciences#Tianjin#Northeast Forestry University#Shanghai#Hunan Normal University# Institute of Health and Environmental Medicine#Taipei Medical University#Hangzhou Normal University#National Laboratory of Experimental Hematology#Xidian University#Tamkang University#Central University of Finance and Economics#Shaanxi Province# Xian Jiaotong University#Beijing Institute of Technology#China Agricultural University#Yunnan Institute for Epidemic Diseases Control and Research#Rui-Jin Hospital affiliated to Shanghai Jiao-Tong University School of Medicine#Beijing Genomics Institute#Wenzhou#Yangzhou University#Changchun#Xiamen University#National Kaohsiung First University of Science and Technology#Chinese National Human Genome Center at Shanghai#Zhongguancun Life Science Park#Shanghai Normal University#National Institute of Biological Science#Jilin University#Military Center for Disease Control and Prevention#Nanning#Qingdao#Chongqing#Chinese Academy of Sciences#National Key Facilities for Crop Genetic Resources and Improvement#Chinese Academy of Agricultural Science#Shanghai Veterinary Research Institute#First Hospital affiliated with Suzhou University School of Medicine#Beijing University of Technology#Yangzhou#Second Military Medical University#Shanghai Center for Bioinformation Technology#Hefei National Laboratory for Physical Sciences#Luzhou Medical College#Northeast Normal University#Jinan University#Key Laboratory of Risk Assessment and Control for Environment and Food Safety#Harbin Institute of Technology#Kaohsiung Medical University#National Taiwan Ocean University#Renmin University of China#Dalian#Weifang#Chengdu#Changsha#National Chung Hsing University#National Taipei University#Fourth Military Medical University#Hebei Veyong Bio-Chemical Co., Ltd.#Central South University#Nanjing#National Institute of Earth Sciences# Nanjing Institute of Geology and Palaeontology#Shanghai JiaoTong University School of Medicine#Shaanxi Normal University#Capital Normal University#Lingnan University#
-Christmas Island#CX#
-Cocas Islands#CC#
+Christmas Island#
+Cocas Islands#
 Colombia#National University of Colombia#Universidad de los Andes#Bogotá#
-Comoros#KM#
-Congo#CG#
-Congo the democratic republic of the#CD#
-Cook Islands#CK#
-Costa Rica#CR#
-Cote divide#CI#
+Comoros#
+Congo#
+Congo the democratic republic of the#
+Cook Islands#
+Costa Rica#
+Cote divide#
 Croatia#HR#
 Cuba#CU#
 Cyprus#CY#
@@ -118,77 +118,76 @@ Israel#The Hebrew University of Jerusalem#Bar-Ilan University#Weizmann Institute
 Italia#Roma#
 Italy#University of Trento#International School for Advanced Studies#Universita di Pavia a Varese#University of Turin#Pavia#Scuola Normale Superiore - Pisa#University of Genova#University of Calabria#University of Naples Federico II#University of Camerino#University of Florence#Sant'Anna School of Advanced Studies of Pisa#Polytechnic University of Turin#University of Bocconi#University of Perugia#University of Pavia#Camerino#IT#European University Institute#Catholic University of the Sacred Heart#Rome#University of Milan#University of Roma - Tor Vergata#University of Trieste#University of Padua#University of Ferrara#Polytechnic Institute of Milan#University of Messina#Roma Tre University#University of Bologna#University of Alberta#University of Roma - La Sapienza#University of Palermo#University of Pisa#University of Milan - Bicocca#Universite di Palermo#
 Ivory Coast#Abidjan#
-Jamaica#JM#
+Jamaica#
 Japan##Wakayama Medical University School of Medicine#JP#Jap#Laboratory for Cell Lineage Modulation#Aichi#Ono Pharmaceutical Co., Ltd.#Kinki University School of Medicine#Nagasaki University#AminoScience Laboratories#Suita#Yokohama National University#National Institute of Advanced Industrial Science and TechnologyNational Institute of Agrobiological Sciences#Kirin Brewery Pharmaceutical Research Laboratory#Izumo#Open Laboratories for Advanced Bioscience and Biotechnology#Nara Institute of Science and Technology#Yamagata University#University of Tokushima#Institute of Physical and Chemical Research#Tokai University#Nagaizumi#The University of Tokyo#Tottori University#Nagaoka University of Technology#Yamaguchi University#Hitotsubashi University# Wakayama#Kinki University#Kochi University#Chugushi#Osaka#Aichi Medical University School of Medicine#Keio University#Odawara Research Center#Aichi Medical University#The Tazuke Kofukai Medical Research Institute#Chiba University#Tokushima#Shimane#JT Biohistory Research Hall#Tohoku University#Science University of Tokyo#Research Institute for Biological Sciences Okayama#Okinawa Institute of Science and Technology Graduate University# Harima Institute#Gunma University#Osaka Bioscience Institute#Kurume University#Tokyo Medical and Dental University#Toon#TOYOTA Physical and Chemical Research Institute#Meiji University#Kyushu University#RIKEN Center for Developmental Biology#Gunma#Laboratory of Genomics and Proteomics#Ishikawa#Okazaki#Nagakute#Osaka Prefectural Institute of Public Health#University of Aizu#National Institutes of Natural Sciences#Nagoya University#Chuo University#NTT Communication Science Laboratories#Utsunomiya University#World Premier International Immunology Frontier Research Center#Kitano Hospital#Osaka University#Shizuoka#Tokyo Metropolitan University#Genetic Strains Research Center#Hiroshima University#Dokkyo Medical University#Okayama University#RIKEN Genomic Sciences Center#Yokohama City University#Yamaguchi#Osaka Medical College#National Institute of Genetics#National Hospital Organization Yamaguchi-Ube Medical Center#Showa University#Saitama University#Hirosaki University#RIKEN Research Center for Allergy and Immunology#Ishikawa Prefectural University#Doshisha University#Osaka Medical Center for Cancer#National Research Institute of Fisheries Science#AomoriKyoto#Hyogo#Kansai Medical University#Nagasaki International University#Kagawa University#Laboratory of Developmental Engineering#Kyushu Institute of Technology#Fukui University#Tohoku Institute of Technology#Kobe University#Oita# School of Life Science#Sendai#Kazusa DNA Research Institute#Otsuka Pharmaceutical Co. Ltd.#Kyoto Sangyo University#Research Institute of Genome-Based Biofactory#Fukui Prefectural University#Nikko Station# Aichi Gakuin University School of Health Science#Miyahara-chou#University of Tsukuba#Waseda University#Yoshida#National Institute of Biomedical Innovation#Kobe#NTT Corporation#Graduate University for Advanced Studies#Shinshu University#Toyohashi University of Technology#Tsukuba#Kagawa#Drug Discovery Research #Tochigi#Niigata University#University of Miyazaki#Kanazawa University#Plant Genetics Laboratory#Tokushima University#National Institute for Basic Biology#University of Toyama#Laboratory for Developmental Genetics#The Third Section of Clinical Investigation, Kinki Blood Center#Osaka Prefecture University#Osaka City University#Meiji University International Institute for Bio-Resource Research#Toyama Medical and Pharmaceutical University# National Institute for Longevity Sciences#St. Marianna University School of Medicine#Kyoto University#Nagaoka#National Center for Geriatrics and Gerontology#Oita University#Eiheiji-cho#Higashinari-ku#Toyama# Tottori#Shimane University#Hokkaido University#Yazako#Chubu University#National Institute of Crop Science#Fukui#Ibaraki#Suntory Institute for Bioorganic Research#Wakayama Medical University#Ehime University Proteo-Medicine Research Center#Plant Molecular Technology Research Group#Yokohama#The University of Tokushima#Sapporo#Okazaki Institute for Integrative Bioscience#Kanagawa#Tochigi#Kumamoto#Hirosaki University#Chiba#Hiroshima#Ehime University#Nara#Kagoshima University#Shiga#Hamamatsu University School of Medicine#Hyogo#Iwate#Toon#Kyoto#Shizuoka University#Okinawa#Mito#Gunma#Nishinomiya#Mie#Kanazawa#Wako#Dokkyo Medical University#Fukuoka#Fukushima Medical University#Jichi Medical University#Misima#Gifu#Ibaraki University#Nagano#Nishihara#Nagoya#Kitakyushu#Morioka#Kobe City General Hospital#Nara Medical University#Kitasato University School of Medicine#Niigata#Mishima#Saga University#Akita Prefectural University#Saitama#Sanda#Saga#University of the Ryukyus#Shizuoka#Sapporo#Akita#Aomori#Yokohama#Ibaragi#Fukushima#Yokohama City University#Kagoshima#Hokkaido#Graduate University for Advanced Studies#Tokyo#
 Jord#
-Jordan#JO#
+Jordan#
 Kazakhstan#Akmolinsk Oblast#Kokshetau University#
-Kazaks tan#KZ#
+Kazaks tan#
 Kenya#Eldoret#KE#Economics and Public Health Group;International Livestock Research Institute#Moi University School of Medicine#International Fund for Agricultural Development#World Agroforestry Centre#International Livestock Research Institute#Nairobi#
-Kiribati#KI#
+Kiribati#
 Korea#Korea University#Catholic University of Korea#Dongguk University International Hospital#Seoul National University#Gyeonggi-do#Dongguk University#Kyung Hee University#Yonsei University#Kyungpook National University#Hanyang University#Gyeongju#Korea Advanced Institute of Science and Technology#
 Korea Democratic Peoples Republic of#KP#
 Korean#Kookmin University#Institute for Basic Science#Oryong-dong, Buk-gu, Gwangju#Jeonju#Ewha Woman’s University#Gyeongsang National University#Jinju #Gachon University of Medicine and Science#Dong-A University#Suwon #Chungnam National University School of Medicine#Seoul#University of Ulsan College of Medicine#Gachon University#Daejeon#University of Seoul#Sogang University#Soongsil University#Institute for Basic Science, Yusung-gu, Daejeon#Pusan National University#Busan #Yusung-gu, Daejeon# National Academy of Agricultural Science, Rural Development Administration#National Cancer Center#Kunsan National University#Institute for Cellular and Molecular Biology#University of Ulsan#Chungnam National University# Gwangju Institute of Science and Technology#Incheon#Yangsan#Chonnam National University Medical School#Goyang, Gyeonggi#Konkuk University#Gwangju Institute of Science and Technology#International Vaccine Institute#
-Kuwait#KW#
-Kyrgyzstan#KG#
+Kuwait#
+Kyrgyzstan#
 Lao#
-Latvia#LV#
-Lebanon#LB#
-Lesotho#LS#
-Liberia#LR#
-Libya#LY#
-Liechtenstein#LI#
-Lithuania#LT#
-Luxembourg#LU#
-Macau#CN#
-Macedonia#MK#
-Madagascar#MG#
-Malawi#MW#
+Latvia#
+Lebanon#
+Lesotho#
+Liberia#
+Libya#
+Liechtenstein#
+Lithuania#
+Luxembourg#
+Macedonia#
+Madagascar#
+Malawi#
 Malaysia#University of Malaya#Kuala Lumpur#MY#Penang#
 MalaysiaMali#
-Maldives#MV#
-Mali#ML#
+Maldives#
+Mali#
 Malta#
-Marshall Islands#MH#
-Martinique#MQ#
-Mauritania#MR#
-Mauritius#MU#
-Mayotte#YT#
+Marshall Islands#
+Martinique#
+Mauritania#
+Mauritius#
+Mayotte#
 Mexico#México City, DF#National Polytechnic Institute#National Autonomous University of Mexico#Metropolitan Autonomous University#México#Monterrey Institute of Technology and Higher Education#University of Guadalajara#MX#
-Micronesia#FM#
+Micronesia#
 Moldova#
-Monaco#MC#
+Monaco#
 Mongolia#
 Montserrat#
 Morocco#
 Moscow#Vernadsky Institute, U.S.S.R. Academy of Sciences#
 Moscow #Institute of Molecular Genetics, U.S.S.R. Academy of Sciences#
-Mozambique#MZ#
-Myanmar#MM#
-Namibia#Walvis Bay#NA#
-Nauru#NR#
-Nepal#NP#
+Mozambique#
+Myanmar#
+Namibia#Walvis Bay#
+Nauru#
+Nepal#
 Netherlands#University of Amsterdam#University of Twente#NL#Delft University of Technology#University of Wageningen#Eindhoven University of Technology#Leiden University#University of Groningen#University of Maastricht#Tilburg University#Utrecht University#Erasmus University#VU University Amsterdam#Radboud University Nijmegen#
-Netherlands Antilles#AN#
-New Caledonia#NC#
+Netherlands Antilles#
+New Caledonia#
 New Zealand#University of Otago#Massey University#Malaghan Institute of Medical Research#Auckland#Victoria University of Wellington#Wellington#Department of Conservation#The University of Auckland#University of Auckland#NZ#University of Canterbury#
-Nicaragua#NI#
+Nicaragua#
 Niger#
-Nigeria#NG#
-Niue#NU#
-Norfolk Island#NF#
-Northern Marianas Islands#MP#
+Nigeria#
+Niue#
+Norfolk Island#
+Northern Marianas Islands#
 Norway#University of Tromso#University of Oslo#NO#University of Bergen#Norwegian University of Science and Technology#Norwegian School of Economics and Business Administration#
-Oman#OM#
-Pakistan#PK#
-Palau#PW#
-Palestine#PS#Hebrew University#
+Oman#
+Pakistan#
+Palau#
+Palestine#Hebrew University#
 Panama#
-Papua New Guinea#PG#
-Paraguay#PY#
-Peru#Universidad Nacional Mayor de San Marcos#Perú#Lima#PE#
+Papua New Guinea#
+Paraguay#
+Peru#Universidad Nacional Mayor de San Marcos#Perú#Lima#
 Philippines#PH#Manila#
-Pitcairn#PN#
+Pitcairn#
 Poiand#Warsaw#
 Poland#Wrocaw#Adam Mickiewicz University#Jagiellonian University#University of Gdansk#Institute of Low Temperature and Structure Research#Silesian University#University of Warsaw#PL#
 Portugal#University of Aveiro#PT#University of Coimbra#Catholic University of Portugal#University of Lisbon#Technical University of Lisbon#University of Porto#
@@ -252,27 +251,26 @@ Tunisia#
 Turkey#Koc University#Hacettepe University#Istanbul#TR#Bogazici University#Istanbul University#Bilkent University#
 Turkmenistan#TM#
 Turks audacious Islands#TC#
-Tuvalu#TV#
-
-Uganda#UG#Kampala#
-Ukraine#Lva Tolstogo#UA#
-United Arab Emirates#AE#
+Tuvalu#
+Uganda#Kampala#
+Ukraine#Lva Tolstogo#
+United Arab Emirates#
 United Kingdom#Goldsmiths#Rotherham#Worcs.#University of Reading#University of Hull#Yorkshire#University of Camebridge#Heriot-Watt University#Silsoe, Beds#Hull#Wilts.#The University of Sheffield#Plymouth University#Hertfordshire#University College of Swansea#Egham, Surrey#Queen Mary, U. of London#University of Bath#University of Southampton#University of Surrey#GB#Royal Holloway, U. of London#Northampton College#U.K#England#The University of Edinburgh#Bradford Institute of Technology#Durham#Manchester#Royal Holloway College#The University of Glasgow#University of Stirling#University of Nottingham#Royal School of Mines#Midlothian#Wembley#Swansea#University of Dundee#University of Aberdeen#Aldermaston#University of Bristol#Leeds#London School of Hygiene and Tropical Medicine#London#University of Leicester#Ware#Birkbeck, University of London#University of Manchester#Staffordshire#University of New Hampshire#University of Liverpool#Cambridge#Castleford#Hadassah#Imperial Chemical Industries Limited#Essex#University of East Anglia#UK#Oxford Brookes University#Doncaster#University of Oxford#Queen's University Belfast#University of St Andrews#U.K.#Belfast#University of Warwick#London School of Economics and Political Science#Ely#The University of Reading#Ambleside#The Imperial College of Science, Technology and Medicine#British Museum#Westmorland#The University, Sheffield#The Open University#Armadale#Hickson''s Timber Impregnation Co.#University of Exeter#Bangor University#Buckinghamshire#University College London#Bradford#University of York#Dunbartonshire#Brunel University#The University of Dundee#Swansea Univ#University of Bradford#Surrey#Christie Hospital and Holt Radium Institute#Birmingham#ICI Fibres Ltd#University of Sussex#The University of Manchester#Aberystwyth, University of Wales#Aylesbury#Robert Hooke Institute#Moorgate#Lancaster University#Glasgow#School of Oriental and African Studies#University of Hertfordshire#University of Strathclyde#University Of Central Lancashire#Keble College#Oxford#The University, St. Andrews#Malvern#Cardiff University#University of Birmingham#Reading#University of Durham#Public Health Laboratory#Newcastle University#Harrogate#Bangor#University of Essex#Bristol#University of Leeds#Fort Halstead#Taunton#University College of North Wales#Hadassah University Hospital#Porton Down#British Museum (Natural History)#University of Cambridge#King's College London#Cambridge#ENGLAND#Bartholomew''s Hospital#Herts#Christie Hospital#Molecular Biophysics Unit, Unilever Research Laboratory#Cambridge CB2 2QH#MRC Laboratory of Molecular Biology#Manchester#Royal Cancer Hospital#London#Radiobiological Research Unit#Harwell, Didcot, Berkshire#UK#John Innes Centre#
 United States of United States Minor outlying Islands#UM#
-Uruguay#UY#
-Uzbekistan#UZ#
-Vanuatu#VU#
+Uruguay#
+Uzbekistan#
+Vanuatu#
 Vatican#
-Venezuela#Maracaibo#VE#
-Viet Nam#Vietnam#VN#
+Venezuela#Maracaibo#
+Viet Nam#Vietnam#
 Vietnam#Hanoi#
-Virgin Islands British#VG#
-Virgin Islands US#VI#
+Virgin Islands British#
+Virgin Islands US#
 Wales#Formerly University of Wales#
 Wallis and Futuna#WF#
 Western Sahara#EH#
-Yemen#YE#
+Yemen#
 Yemensui#
-Yugoslavia#YU#
-Zambia#ZM#
-Zimbabwe#ZW#
+Yugoslavia#
+Zambia#
+Zimbabwe#

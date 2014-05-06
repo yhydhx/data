@@ -1,242 +1,241 @@
-Algeria#DZ
-Austria#AT#University of Vienna#Medical University of Vienna#University of Innsbruck#Medical University of Graz#Medical University of Innsbruck#University of Graz#Vienna University of Technology#Graz University of Technology#University for Agricultural Sciences, Vienna#University of Linz
-Australia#AU#University of Melbourne#The Australian National University#The University of Queensland#The University of Western Australia#University of Sydney#Monash University#University of New South Wales#Macquarie University#The University of Adelaide#Flinders University#Griffith University#James Cook University#Swinburne University of Technology#University of Newcastle#University of Tasmania#University of Wollongong#Curtin University of Technology#La Trobe University#University of Technology, Sydney#Deakin University#Murdoch University#Queensland University of Technology#Royal Melbourne Institute of Technology#University of South Australia
+Algeria
+Austria#University of Vienna#Medical University of Vienna#University of Innsbruck#Medical University of Graz#Medical University of Innsbruck#University of Graz#Vienna University of Technology#Graz University of Technology#University for Agricultural Sciences, Vienna#University of Linz
+Australia#University of Melbourne#The Australian National University#The University of Queensland#The University of Western Australia#University of Sydney#Monash University#University of New South Wales#Macquarie University#The University of Adelaide#Flinders University#Griffith University#James Cook University#Swinburne University of Technology#University of Newcastle#University of Tasmania#University of Wollongong#Curtin University of Technology#La Trobe University#University of Technology, Sydney#Deakin University#Murdoch University#Queensland University of Technology#Royal Melbourne Institute of Technology#University of South Australia
 Albania
-Afghanistan#AF
+Afghanistan
 Argentina#University of Buenos Aires
-United Arab Emirates#AE
-Aruba#AW
-Oman#OM
+United Arab Emirates
+Aruba
+Oman
 Azerbaijan
 Egypt#Ethiopia#EG#Cairo University#Alexandria University#Mansoura University
 Ethiopia
-Ireland#IE#University College Dublin#Trinity College Dublin#University College Cork
-Estonia#EE#Tallinn University of Technology
-Andorra#AD
-Angola#AO
-Anguilla#AI
+Ireland#University College Dublin#Trinity College Dublin#University College Cork
+Estonia#Tallinn University of Technology
+Andorra
+Angola
+Anguilla
 Antigua and BarbudaAntigua and Barbuda#AG
-Macau#CN
-Barbados#BB
-Papua New Guinea#PG
-Bahamas#BS
-Pakistan#PK
-Paraguay#PY
-Palestine#PS
-Bahrain#BH
+Macau
+Barbados
+Papua New Guinea
+Bahamas
+Pakistan
+Paraguay
+Palestine
+Bahrain
 Panama
-Brazil#BR#University of Sao Paulo#Federal University of Minas Gerais#Federal University of Rio de Janeiro#Sao Paulo State University#State University of Campinas#Federal University of Rio Grande do Sul#Federal University of Pernambuco#Federal University of Vicosa
-Belarus#BY
-Bermuda#BM
+Brazil#University of Sao Paulo#Federal University of Minas Gerais#Federal University of Rio de Janeiro#Sao Paulo State University#State University of Campinas#Federal University of Rio Grande do Sul#Federal University of Pernambuco#Federal University of Vicosa
+Belarus
+Bermuda
 Bulgaria
-Northern Marianas Islands#MP
-Benin#BJ
-Belgium#BE#Ghent University#Catholic University of Leuven#Catholic University of Louvain#University Libre Bruxelles#University of Antwerp#University of Liege#Vrije University Brussel
+Northern Marianas Islands
+Benin
+Belgium#Ghent University#Catholic University of Leuven#Catholic University of Louvain#University Libre Bruxelles#University of Antwerp#University of Liege#Vrije University Brussel
 Iceland#ISUniversity of Iceland
-Puerto Rico#PR
-Bosnia and Herzegovina#BA
+Puerto Rico
+Bosnia and Herzegovina
 Poland#PL#Jagiellonian University#University of Warsaw#Adam Mickiewicz University#Silesian University#University of Gdansk#University of Wroclaw
-Bolivia#BO
-Belize#BZ
-Botswana#BW
-Bhutan#BT
-Burkina Faso#BF
-Burundi#BI
-Bouvet Island#BV
+Bolivia
+Belize
+Botswana
+Bhutan
+Burkina Faso
+Burundi
+Bouvet Island
 South Korea#Sungkyunkwan University#Pohang University of Science and Technology#Chonbuk Natl University#Chung-Ang University#Gyeongsang Natl University#Sogang University
-Korea Democratic Peoples Republic of#KP
+Korea Democratic Peoples Republic of
 Korea#Seoul National University#Korea Advanced Institute of Science and Technology#Yonsei University#Hanyang University#Korea University#Catholic University of Korea#Kyung Hee University#Kyungpook National University#Pusan National University
-Equatorial Guinea#GQ
-Denmark#DK#University of Copenhagen#Aarhus University#Technical University of Denmark#University of Southern Denmark#Aalborg University
+Equatorial Guinea
+Denmark#University of Copenhagen#Aarhus University#Technical University of Denmark#University of Southern Denmark#Aalborg University
 Germany#Technical University Munich#University of Heidelberg#University of Munich#University of Bonn#University of Frankfurt#University of Goettingen#University of Muenster#University of Hamburg#University of Kiel#University of Koeln#University of Mainz#University of Tuebingen#University of Wuerzburg#Dresden University of Technology#Karlsruhe Institute of Technology (KIT)#RWTH Aachen University#Technical University of Berlin#University of Duesseldorf#University of Erlangen-Nuremberg#University of Leipzig#University of Marburg#University of Stuttgart#Technical University Darmstadt#University of Bochum#University of Giessen#University of Halle-Wittenberg#University of Konstanz#University of Regensburg#University of Ulm#Hannover Medical School#Technical University of Braunschweig#University of Bayreuth#University of Bielefeld#University of Bremen#University of Duisburg-Essen#University of Hannover#University of Jena#Free University of Berlin#Kaiserslautern University of Technology#University of Magdeburg#University of Rostock#Heidelberg
-East Timor#TP
-Togo#TG
-Dominican Republic#DO
-Dominica#DM
-Russia#RU#Moscow State University#Saint Petersburg State University#Kazan State University#Moscow Institute of Physics and Technology#Novosibirsk State University#Ural State University#Voronezh State University#Novosibirsk
-Ecuador#EC
-Eritrea#ER
-France#FR#Pierre and Marie Curie University - Paris 6#University of Paris Sud (Paris 11)#Ecole Normale Superieure - Paris#University of Strasbourg#Joseph Fourier University (Grenoble 1)#University of Paris Diderot (Paris 7)#Aix Marseille University#University of Paris Descartes (Paris 5)#Claude Bernard University Lyon 1#Ecole Normale Superieure - Lyon#Ecole Polytechnique#Paul Sabatier University (Toulouse 3)#University of Bordeaux#University of Lorraine#University of Montpellier 2#University of Paris Dauphine (Paris 9)#Industrial Physics and Chemistry Higher Educational Institution - Paris#University of Nice Sophia Antipolis#Ecole National Superieure Mines - Paris#University of Rennes 1#HEC Paris#University of Montpellier 1#University of Versailles
-Faroe Islands#FO
-French Polynesia#PF
-French Guiana#GF
-French Southern Territories#TF
+East Timor
+Togo
+Dominican Republic
+Dominica
+Russia#Moscow State University#Saint Petersburg State University#Kazan State University#Moscow Institute of Physics and Technology#Novosibirsk State University#Ural State University#Voronezh State University#Novosibirsk
+Ecuador
+Eritrea
+France#Pierre and Marie Curie University - Paris 6#University of Paris Sud (Paris 11)#Ecole Normale Superieure - Paris#University of Strasbourg#Joseph Fourier University (Grenoble 1)#University of Paris Diderot (Paris 7)#Aix Marseille University#University of Paris Descartes (Paris 5)#Claude Bernard University Lyon 1#Ecole Normale Superieure - Lyon#Ecole Polytechnique#Paul Sabatier University (Toulouse 3)#University of Bordeaux#University of Lorraine#University of Montpellier 2#University of Paris Dauphine (Paris 9)#Industrial Physics and Chemistry Higher Educational Institution - Paris#University of Nice Sophia Antipolis#Ecole National Superieure Mines - Paris#University of Rennes 1#HEC Paris#University of Montpellier 1#University of Versailles
+Faroe Islands
+French Polynesia
+French Guiana
+French Southern Territories
 Vatican
-Philippines#PH
-Fiji#FJ
-Finland#FI#University of Helsinki#University of Oulu#University of Turku#University of Eastern Finland#University of Jyvaskyla#Aalto University#University of Tampere
-Cape Verde#CV
-Falkland Islands#FK
-Gambia#GM
-Congo#CG
-Congo the democratic republic of the#CD
+Philippines
+Fiji
+Finland#University of Helsinki#University of Oulu#University of Turku#University of Eastern Finland#University of Jyvaskyla#Aalto University#University of Tampere
+Cape Verde
+Falkland Islands
+Gambia
+Congo
+Congo the democratic republic of the
 Colombia#National University of Colombia#University of Antioquia
 Costa Rica#CR#University of Costa Rica
-Grenada#GD
-Greenland#GL
-Georgia#GE
-Cuba#CU
-Guadeloupe#GP
-Guam#GU
-Guyana#GY
-Kazaks tan#KZ
-Haiti#HT
-Korea#KR
-Netherlands#NL#Utrecht University#Leiden University#University of Groningen#Radboud University Nijmegen#University of Amsterdam#University of Wageningen#VU University Amsterdam#Erasmus University#Delft University of Technology#University of Maastricht#Eindhoven University of Technology#University of Twente#Tilburg University#Holland
-Netherlands Antilles#AN
-Heard Islands and McDonald Islands#HM
-Honduras#HN
-Kiribati#KI
-Djibouti#DJ
-Kyrgyzstan#KG
-Guinea#GN
-Guinea Bissau#GW
+Grenada
+Greenland
+Georgia
+Cuba
+Guadeloupe
+Guam
+Guyana
+Kazaks tan
+Haiti
+Korea
+Netherlands#Utrecht University#Leiden University#University of Groningen#Radboud University Nijmegen#University of Amsterdam#University of Wageningen#VU University Amsterdam#Erasmus University#Delft University of Technology#University of Maastricht#Eindhoven University of Technology#University of Twente#Tilburg University#Holland
+Netherlands Antilles
+Heard Islands and McDonald Islands
+Honduras
+Kiribati
+Djibouti
+Kyrgyzstan
+Guinea
+Guinea Bissau
 Canada#New Brunswick#University of Toronto#University of British Columbia#McGill University#McMaster University#University of Montreal#University of Waterloo#Dalhousie University#Laval University#Queen's University#Simon Fraser University#The University of Calgary#The University of Western Ontario#University of Guelph#University of Ottawa#University of Saskatchewan#Western University#University of Manitoba#University of Victoria#Carleton University#Concordia University#University of Quebec#University of Sherbrooke#York University#York University#University of Regina#Calgary#Ontario#Ottawa#Quebec#Toronto
-Ghana#GH
+Ghana
 Gabon
-Cambodia#KH
+Cambodia
 Czech Republic#CZ#Charles University in Prague#Czech Technical University in Prague#Masaryk University#Palacky University#Prague
-Zimbabwe#ZW
-Cameroon#CM
-Qatar#QA
+Zimbabwe
+Cameroon
+Qatar
 Cayman Islands
-Cocas Islands#CC
-Comoros#KM
-Cote divide#CI
-Kuwait#KW
+Cocas Islands
+Comoros
+Cote divide
+Kuwait
 Croatia#HR#University of Zagreb
-Kenya#KE
-Cook Islands#CK
-Latvia#LV
-Lesotho#LS
+Kenya
+Cook Islands
+Latvia
+Lesotho
 Lao
-Lebanon#LB#American University of Beirut
-Lithuania#LT#Vilnius University
-Liberia#LR
-Libya#LY
-Liechtenstein#LI
+Lebanon#American University of Beirut
+Lithuania#Vilnius University
+Liberia
+Libya
+Liechtenstein
 Reunion
-Luxembourg#LU
-Rwanda#RW
-Romania#RO#Babeș-Bolyai University#University of Bucharest
-Madagascar#MG
-Maldives#MV
+Luxembourg
+Rwanda
+Romania#Babeș-Bolyai University#University of Bucharest
+Madagascar
+Maldives
 Malta
-Malawi#MW
-Malaysia#MY#University of Malaya#Putra University
-Mali#ML
-Marshall Islands#MH
-Martinique#MQ
-Mayotte#YT
-Mauritius#MU
-Mauritania#MR
+Malawi
+Malaysia#University of Malaya#Putra University
+Mali
+Marshall Islands
+Martinique
+Mayotte
+Mauritius
+Mauritania
 United States of United States Minor outlying Islands#UM
-American Samoa#AS
-Virgin Islands US#VI
+American Samoa
+Virgin Islands US
 Mongolia
 Montserrat
 Bangladesh
-Peru#PE#Pontifical Catholic University of Peru
-Micronesia#FM
-Myanmar#MM
+Peru#Pontifical Catholic University of Peru
+Micronesia
+Myanmar
 Moldova
 Morocco
-Monaco#MC
-Mozambique#MZ
-Mexico#MX#México#National Autonomous University of Mexico#Metropolitan Autonomous University#Monterrey Institute of Technology and Higher Education#National Polytechnic Institute#University of Guadalajara#México
-Namibia#NA
-South Africa#ZA#University of Cape Town#University of the Witwatersrand#University of KwaZulu-Natal#Stellenbosch University#University of Pretoria#University of South Africa
-Antarctica#AQ
-Yugoslavia#YU
-Nauru#NR
-Nepal#NP
-Nicaragua#NI
+Monaco
+Mozambique
+Mexico#México#National Autonomous University of Mexico#Metropolitan Autonomous University#Monterrey Institute of Technology and Higher Education#National Polytechnic Institute#University of Guadalajara#México
+Namibia
+South Africa#University of Cape Town#University of the Witwatersrand#University of KwaZulu-Natal#Stellenbosch University#University of Pretoria#University of South Africa
+Antarctica
+Yugoslavia
+Nauru
+Nepal
+Nicaragua
 Niger
-Nigeria#NG
-Niue#NU
-Norway#NO#University of Oslo#Norwegian University of Science and Technology#University of Bergen#University of Tromso#Norwegian School of Economics and Business Administration#Oslo
-Norfolk Island#NF
-Palau#PW
-Pitcairn#PN
-Portugal#PT#University of Lisbon#University of Porto#Technical University of Lisbon#University of Coimbra#Catholic University of Portugal#University of Aveiro#University of Minho
-Macedonia#MK
-Japan#JP#The University of Tokyo#Kyoto University#Osaka University#Hokkaido University#Nagoya University#Tohoku University#Kyushu University#University of Tsukuba#Kobe University#Hiroshima University#Keio University#Okayama University#Tokyo Medical and Dental University#Waseda University#Kanazawa University#Nagasaki University#Niigata University#Osaka City University#The University of Tokushima#Chiba University#Chuo University#Doshisha University#Fukui University#Hitotsubashi University#Kochi University#Kyushu Institute of Technology#Nara Institute of Science and Technology#Osaka Prefecture University#Saitama University#Science University of Tokyo#Shinshu University#Showa University#Tokai University#Tokyo Metropolitan University#Toyohashi University of Technology#University of Aizu#University of Miyazaki#Utsunomiya University#Yamaguchi University#Yokohama National University#Tokyo
-Sweden#SE#Karolinska Institute#Uppsala University#Stockholm University#Lund University#University of Gothenburg#Royal Institute of Technology#Swedish University of Agricultural Sciences#Umea University#Chalmers University of Technology#Linkoping University#Stockholm School of Economics
-Switzerland#CH#Swiss Federal Institute of Technology Zurich#University of Zurich#University of Geneva#University of Basel#University of Freiburg#Swiss Federal Institute of Technology of Lausanne#University of Bern#University of Lausanne#University of Fribourg#University of Lucerne#Epalinges#Zurich#Zürich#Lausanne#Schweitz#Schweiz
-El Salvador#SV
-Samoa#WS
-Sierra Leone#SL
-Senegal#SN
-Cyprus#CY
+Nigeria
+Niue
+Norway#University of Oslo#Norwegian University of Science and Technology#University of Bergen#University of Tromso#Norwegian School of Economics and Business Administration#Oslo
+Norfolk Island
+Palau
+Pitcairn
+Portugal#University of Lisbon#University of Porto#Technical University of Lisbon#University of Coimbra#Catholic University of Portugal#University of Aveiro#University of Minho
+Macedonia
+Japan#The University of Tokyo#Kyoto University#Osaka University#Hokkaido University#Nagoya University#Tohoku University#Kyushu University#University of Tsukuba#Kobe University#Hiroshima University#Keio University#Okayama University#Tokyo Medical and Dental University#Waseda University#Kanazawa University#Nagasaki University#Niigata University#Osaka City University#The University of Tokushima#Chiba University#Chuo University#Doshisha University#Fukui University#Hitotsubashi University#Kochi University#Kyushu Institute of Technology#Nara Institute of Science and Technology#Osaka Prefecture University#Saitama University#Science University of Tokyo#Shinshu University#Showa University#Tokai University#Tokyo Metropolitan University#Toyohashi University of Technology#University of Aizu#University of Miyazaki#Utsunomiya University#Yamaguchi University#Yokohama National University#Tokyo
+Sweden#Karolinska Institute#Uppsala University#Stockholm University#Lund University#University of Gothenburg#Royal Institute of Technology#Swedish University of Agricultural Sciences#Umea University#Chalmers University of Technology#Linkoping University#Stockholm School of Economics
+Switzerland#Swiss Federal Institute of Technology Zurich#University of Zurich#University of Geneva#University of Basel#University of Freiburg#Swiss Federal Institute of Technology of Lausanne#University of Bern#University of Lausanne#University of Fribourg#University of Lucerne#Epalinges#Zurich#Zürich#Lausanne#Schweitz#Schweiz
+El Salvador
+Samoa
+Sierra Leone
+Senegal
+Cyprus
 Seychelles
 Saudi Arabia#King Saud University#King Fahd University of Petroleum & Minerals#King Abdulaziz University#King Abdullah University of Science and Technology
-Christmas Island#CX
-Sao Tome and Principe#ST
-Saint Helena#SH
-Saint Kitts and Nevis#KN
-Saint Lucia#LC
-San Marino#SM
-Saint Pierre and Miquelon#PM
-Saint Vincent and Grenadines#VC
+Christmas Island
+Sao Tome and Principe
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+San Marino
+Saint Pierre and Miquelon
+Saint Vincent and Grenadines
 Scotland
-Sri Lanka#LK
-Slovakia#SK#Comenius University#Slovak University of Technology
-Slovenia#SI#University of Ljubljana
-Svalbard and Jan Mayan#SJ
-Swaziland#SZ
+Sri Lanka
+Slovakia#Comenius University#Slovak University of Technology
+Slovenia#University of Ljubljana
+Svalbard and Jan Mayan
+Swaziland
 Sudan
-Suriname#SR
-Solomon Islands#SB
-Somalia#SO
-Tajikistan#TJ
-Taiwan#CN
-Thailand#TH#Chulalongkorn University
-Tanzania#TZ
-Tonga#TO
-Turks audacious Islands#TC
-Trinidad and Tobago#TT
+Suriname
+Solomon Islands
+Somalia
+Tajikistan
+Taiwan
+Thailand#Chulalongkorn University
+Tanzania
+Tonga
+Turks audacious Islands
+Trinidad and Tobago
 Tunisia
-Tuvalu#TV
-Turkey#TR#Istanbul University#Bilkent University#Bogazici University#Hacettepe University#Koc University#Middle East Technical University
-Turkmenistan#TM
-Tokelau#TK
-Wallis and Futuna#WF
-Vanuatu#VU
-Guatemala#GT
-Venezuela#VE#Universidad Catolica Andres Bello
-Brunei#BN
-Uganda#UG
-Ukraine#UA#Karazin Kharkiv National University
-Uruguay#UY
-Uzbekistan#UZ
-Spain#ES#Autonomous University of Barcelona#Autonomous University of Madrid#Complutense University of Madrid#University of Barcelona#Polytechnic University of Valencia#University of Granada#University of Pompeu Fabra#University of Valencia#University of the Basque Country#University of Zaragoza#Charles III University of Madrid#Miguel Hernandez University of Elche#Polytechnic University of Catalonia#University of Alcala#University of Alicante#University of Cantabria#University of Cordoba#University of La Laguna#University of Malaga#University of Navarra#University of Oviedo#University of Salamanca#University of Santiago Compostela#University of Sevilla#University of the Balearic Islands#University of Vigo#University Rovira i Virgili
-Western Sahara#EH
-Greece#GR#Aristotle University of Thessaloniki#National and Kapodistrian University of Athens#University of Crete
-Hong Kong#CN
-Singapore#SG#National University of Singapore#Nanyang Technological University
-New Caledonia#NC
-New Zealand#NZ#The University of Auckland#University of Otago#Massey University#University of Canterbury#Victoria University of Wellington#University of Waikato
-Hungary#HU#Eotvos Lorand University#University of Szeged#Central European University#University of Debrecen#University of Pecs#Budapest#Szeged
-Syria#SY
-Jamaica#JM
-Armenia#AM
-Yemen#YE
-Iraq#IQ
-Iran#IR#University of Tehran#Isfahan University of Technology#Tehran University of Medical Sciences
+Tuvalu
+Turkey#Istanbul University#Bilkent University#Bogazici University#Hacettepe University#Koc University#Middle East Technical University
+Turkmenistan
+Tokelau
+Wallis and Futuna
+Vanuatu
+Guatemala
+Venezuela#Universidad Catolica Andres Bello
+Brunei
+Uganda
+Ukraine#Karazin Kharkiv National University
+Uruguay
+Uzbekistan
+Spain#Autonomous University of Barcelona#Autonomous University of Madrid#Complutense University of Madrid#University of Barcelona#Polytechnic University of Valencia#University of Granada#University of Pompeu Fabra#University of Valencia#University of the Basque Country#University of Zaragoza#Charles III University of Madrid#Miguel Hernandez University of Elche#Polytechnic University of Catalonia#University of Alcala#University of Alicante#University of Cantabria#University of Cordoba#University of La Laguna#University of Malaga#University of Navarra#University of Oviedo#University of Salamanca#University of Santiago Compostela#University of Sevilla#University of the Balearic Islands#University of Vigo#University Rovira i Virgili
+Western Sahara
+Greece#Aristotle University of Thessaloniki#National and Kapodistrian University of Athens#University of Crete
+Singapore#National University of Singapore#Nanyang Technological University
+New Caledonia
+New Zealand#The University of Auckland#University of Otago#Massey University#University of Canterbury#Victoria University of Wellington#University of Waikato
+Hungary#Eotvos Lorand University#University of Szeged#Central European University#University of Debrecen#University of Pecs#Budapest#Szeged
+Syria
+Jamaica
+Armenia
+Yemen
+Iraq
+Iran#University of Tehran#Isfahan University of Technology#Tehran University of Medical Sciences
 Israel#Isreal#The Hebrew University of Jerusalem#Technion-Israel Institute of Technology#Weizmann Institute of Science#Tel Aviv University#Bar-Ilan University#Ben-Gurion University of the Negev#University of Haifa
-Italy#IT#University of Pisa#University of Roma - La Sapienza#University of Milan#University of Padua#Polytechnic Institute of Milan#Scuola Normale Superiore - Pisa#University of Bologna#University of Florence#University of Turin#University of Genova#University of Naples Federico II#University of Perugia#Catholic University of the Sacred Heart#Polytechnic University of Turin#University of Ferrara#University of Milan - Bicocca#University of Palermo#University of Pavia#University of Roma - Tor Vergata#European University Institute#International School for Advanced Studies#Roma Tre University#Sant'Anna School of Advanced Studies of Pisa#University of Bocconi#University of Calabria#University of Messina#University of Trento#University of Trieste#University of Venice
+Italy#University of Pisa#University of Roma - La Sapienza#University of Milan#University of Padua#Polytechnic Institute of Milan#Scuola Normale Superiore - Pisa#University of Bologna#University of Florence#University of Turin#University of Genova#University of Naples Federico II#University of Perugia#Catholic University of the Sacred Heart#Polytechnic University of Turin#University of Ferrara#University of Milan - Bicocca#University of Palermo#University of Pavia#University of Roma - Tor Vergata#European University Institute#International School for Advanced Studies#Roma Tre University#Sant'Anna School of Advanced Studies of Pisa#University of Bocconi#University of Calabria#University of Messina#University of Trento#University of Trieste#University of Venice
 India#Indian Institute of Science#Indian Institute of Technology Bombay#Indian Institute of Technology Kharagpur#Indian Institute of Technology Madras#Poona
 Indonesia
 United Kingdom#UK#U.K#GB#University of Cambridge#University of Oxford#University College London#The Imperial College of Science, Technology and Medicine#The University of Manchester#The University of Edinburgh#University of Bristol#King's College London#University of Nottingham#London School of Economics and Political Science#The University of Sheffield#University of Birmingham#University of Liverpool#University of Sussex#Cardiff University#The University of Glasgow#University of Leeds#University of Southampton#University of Warwick#Newcastle University#Queen Mary, U. of London#The University of Dundee#University of Aberdeen#University of Durham#University of East Anglia#University of Exeter#University of Leicester#University of St Andrews#University of York#Lancaster University#Queen's University Belfast#The University of Reading#University of Bath#London School of Hygiene and Tropical Medicine#The Open University#University of Essex#University of Surrey#Aberystwyth, University of Wales#Bangor University#Birkbeck, University of London#Brunel University#Heriot-Watt University#Oxford Brookes University#Plymouth University#Royal Holloway, U. of London#School of Oriental and African Studies#Swansea Univ#University of Bradford#University Of Central Lancashire#University of Hertfordshire#University of Hull#University of Stirling#University of Strathclyde#Glasgow#England#London#Great Britain
 Virgin Islands British#VG
 British Indian Ocean Territory#IO
-Jordan#JO
-Viet Nam#VN
-Zambia#ZM
-Chad#TD
-Gibraltar#GI
-Chile#CL#Catholic University of Chile#University of Chile#University of Concepcion
-Central Africa Republic#CF
+Jordan
+Viet Nam
+Zambia
+Chad
+Gibraltar
+Chile#Catholic University of Chile#University of Chile#University of Concepcion
+Central Africa Republic
 China#CN#National Taiwan University#National Tsing Hua University#Chang Gung University#National Cheng Kung University#National Chiao Tung University#China Medical University#National Central University#National Sun Yat-Sen University#National Yang Ming University#Chinese Culture University#Chung Yuan Christian University#Feng Chia University#Fu Jen Catholic University#Kaohsiung Medical University#National Changhua University of Education#National Chung Cheng University#National Chung Hsing University#National Kaohsiung First University of Science and Technology#National Taipei University#National Taipei University of Technology#National Taiwan Normal University#National Taiwan Ocean University#National Taiwan University of Science & Technology#National Yunlin University of Science and Technology#Providence University#Taipei Medical University#Tamkang University#Tunghai University#Yuan Ze University#The Chinese University of Hong Kong#The Hong Kong University of Science and Technology#The University of Hong Kong#City University of Hong Kong#The Hong Kong Polytechnic University#Hong Kong Baptist University#Lingnan University#Macau University of Science and Technology#University of Macau#Fudan University#Peking University#Shanghai Jiao Tong University#Tsinghua University#Zhejiang University#Nanjing University#Sun Yat-sen University#University of Science and Technology of China#Beijing Normal University#China Agricultural University#Harbin Institute of Technology#Huazhong University of Science and Technology#Jilin University#Shandong University#Sichuan University#Xian Jiao Tong University#Beihang University#Central South University#Dalian University of Technology#Lanzhou University#Nankai University#Peking Union Medical College#South China University of Technology#Southeast University#Tianjin University#Tongji University#Wuhan University#Xiamen University#Wuhan University#Beijing Forestry University#Beijing Institute of Technology#Beijing Jiaotong University#Beijing University of Posts and Telecommunications#Beijing University of Technology#Central University of Finance and Economics#Chang'An University#China University of Political Science and Law#Donghua University#East China University of Science and Technology#Guangxi University#Harbin Engineering University#HeFei University of Technology#Hunan University#Jinan University#Nanjing Agricultural University#Nanjing Medical University#Nanjing Normal University#Northwest A&F University#Ocean University of China#Renmin University of China#Shaanxi Normal University#Shanghai University of Traditional Chinese Medicine#Shantou University#University of Shanghai for Science and Technology#Wuhan University of Technology#Xidian University#Shanghai
 America#US#U.S#USA#Alabama#Alaska#Arizona#Arkansas#California#Colorado#Connecticut#Delaware#Florida#Georgia#Hawaii#Idaho#Illinois#Indiana#Iowa#Kansas#Kentucky#Louisiana#Maine#Maryland#Massachusetts#Michigan#Minnesota#Mississippi#Missouri#Montana#Nebraska#Nevada#Newhampshire#New Jersey#Newmexico#New York#carolina#Northdakota#Ohio#Oklahoma#Oregon#Pennsylvania#Rhodeisland#Southdakota#Tennessee#Texas#Utah#Vermont#Virginia#Washington#Westvirginia#Wisconsin#Wyoming#Alabama#Alaska#Arizona#Arkansas#California#Colorado#Connecticut#Delaware#Florida#Georgia#Hawaii#Idaho#Illinois#Indiana#Inadiana#Iowa#Kansas#Kentucky#Louisiana#Maine#Maryland#Massachusetts#Michigan#Minnesota#Mississippi#Missouri#Montana#Nebraska#Nevada#Newhampshire#Newjersey#Newmexico#Newyork#Northcarolina#Northdakota#Ohio#Oklahoma#Oregon#Pennsylvania#Rhodeisland#Southcarolina#Southdakota#Tennessee#Texas#Utah#Vermont#Virginia#Washington#Westvirginia#Wisconsin#Wyoming#Montgomery#Juneau#Phoenix#Littlerock#Sacramento#Denver#Hartford#Dover#Tallahassee#Atlanta#Honolulu#Boise#Springfield#Indianapolis#DesMoines#Topeka#Frankfort#BatonRouge#Augusta#Annapolis#Boston#Lansing#St.Paul#Jackson#JeffersonCity#Helena#Lincoln#CarsonCity#Concord#Trenton#SantaFe#Albany#Raleigh#Bismarck#Columbus#OklahomaCity#Salem#Harrisburg#Providence#Columbia#Pierre#Nashville#Austin#SaltLakeCity#Montpelier#Richmond#Olympia#Charleston#Madison#Cheyenne#AL#AK#AZ#AR#CA#CO#CT#DE#FL#GA#HI#ID#IL#IN#IA#KS#KY#LA#ME#MD#MA#MI#MN#MS#MO#MT#NE#NV#NH#NJ#NM#NY#NC#ND#OH#OK#OR#PA#RL#SC#SD#TN#TX#UT#VT#VA#WA#WV#WI#WY#Harvard University#Universidad Catolica Andres Bello#Stanford University#University of California, Berkeley#Massachusetts Institute of Technology (MIT)#California Institute of Technology#Princeton University#Columbia University#University of Chicago#Yale University#University of California, Los Angeles#Cornell University#University of California#San Diego#University of Pennsylvania#University of Washington#The Johns Hopkins University#University of California, San Francisco#University of Wisconsin - Madison#University of Michigan - Ann Arbor#University of Illinois at Urbana-Champaign#New York University#University of Minnesota, Twin Cities#Northwestern University#Duke University#Washington University in St. Louis#University of Colorado at Boulder#Rockefeller University#University of California, Santa Barbara#The University of Texas at Austin#University of Maryland, College Park#University of North Carolina#University of California, Irvine#The University of Texas Southwestern Medical Center at Dallas#University of California, Davis#University of Southern California#Vanderbilt University#Carnegie Mellon University#Pennsylvania State University - University Park#Purdue University - West Lafayette#Rutgers, The State University of New Jersey - New Brunswick#University of Pittsburgh#The Ohio State University - Columbus#Brown University#University of Florida#Boston University#University of Arizona#Arizona State University - Tempe#Indiana University Bloomington#University of Utah#University of Rochester#Michigan State University#Rice University#Case Western Reserve University#Baylor College of Medicine#Emory University#Georgia Institute of Technology#Mayo Medical School#Oregon State University#Texas A&M University - College Station#The University of Georgia#The University of Texas M. D. Anderson Cancer Center#Tokyo Institute of Technology#Tufts University#University of California, Riverside#University of California, Santa Cruz#University of Iowa#University of Massachusetts Amherst#University of Massachusetts Medical School#University of Virginia#Colorado State University#Dartmouth College#Florida State University#George Mason University#Iowa State University#Mount Sinai School of Medicine#North Carolina State University - Raleigh#Oregon Health and Science University#State University of New York at Stony Brook#The University of Texas Health Science Center at Houston#University of Delaware#University of Hawaii at Manoa#University of Illinois at Chicago#University of Maryland, Baltimore#University of Miami#University of Tennessee - Knoxville#Virginia Commonwealth University#Virginia Polytechnic Institute and State University#Brandeis University#Louisiana State University - Baton Rouge#Rensselaer Polytechnic Institute#State University of New York at Buffalo#The George Washington University#The University of Alabama at Birmingham#The University of Connecticut - Storrs#The University of New Mexico - Albuquerque#Thomas Jefferson University#University of Central Florida#University of Cincinnati#University of Colorado at Denver#University of Houston#University of Kansas - Lawrence#University of Kentucky#University of Medicine and Dentistry New Jersey#University of Missouri - Columbia#University of Nebraska - Lincoln#University of Notre Dame#University of Oregon#University of South Florida#Washington State University - Pullman#Yeshiva University#Brigham Young University#City University of New York City College#Clemson University#Georgetown University#Kansas State University#Medical University of South Carolina#Northeastern University#San Diego State University#State University of New York at Albany#State University of New York Health Science Center at Brooklyn#Syracuse University#Temple University#The University of Montana - Missoula#The University of Texas at Dallas#The University of Texas Health Science Center at San Antonio#Tulane University#University of Oklahoma - Norman#University of Rhode Island#University of South Carolina - Columbia#University of Vermont#Wake Forest University#Wayne State University#Auburn University#Boston College#Drexel University#Indiana University-Purdue University at Indianapolis#Kent State University#Lehigh University#Medical College of Wisconsin#Southern Methodist University#Texas Tech University#The University of Texas Medical Branch at Galveston#University of Alaska - Fairbanks#University of Arkansas at Fayetteville#University of Idaho#University of Maryland, Baltimore County#University of Nebraska Medical Center#University of New Hampshire#University of Wyoming#Utah State University#Colorado School of Mines#Georgia State University#Michigan Technological University#Mississippi State University#Montana State University - Bozeman#Portland State University#Rutgers, The State University of New Jersey - Newark#The University of Akron#University of California, Merced#University of Dayton#University of North Texas#University of Southern Mississippi#University of Wisconsin - Milwaukee#West Virginia University#Pawtucket#La Jolla#Baltimore#Piscataway#Chapel Hill#Newark#Grand Forks#D.C.#Omaha#Seattle
 Serbia#University of Belgrade

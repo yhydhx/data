@@ -5,15 +5,18 @@ import re
 
 
 def main():
+	'''
 	fileName = 'pnasErrData'
 	hello(fileName)
 	fileName = 'sciErrData'
 	hello(fileName)
+	'''
 	fileName = 'natErrData'
 	hello(fileName)
+	
 def hello(fileName):
-	file = open('504/'+fileName+'New.txt','r');
-	output = open("505/"+fileName+'New.txt','w');
+	file = open('test/'+fileName+'1.txt','r');
+	output = open("test/"+fileName+'New.txt','w');
 	group={}
 	while True:
 		element = file.readline();
@@ -22,17 +25,26 @@ def hello(fileName):
 		
 	for key in group:
 		print key
-		output.write(str(key))
+		output.write(str(key)+'\n')
+	print group
 		
 		
 def analyze(group,element):
-	if group.has_key(element):
-		group[element] = group[element]+1
-	else:
-		group[element] = 1
-	country = showCountry(element)
+	arr = element.split('@')
+	insts = arr[1].split('#')
+	#if len(insts) == 1:
+	#	return group
+	for key in insts:
+		key = re.sub('\n','',key)
+		if group.has_key(key):
+			group[key] = group[key]+1
+		else:
+			group[key] = 1
+	'''
+	#country = showCountry(element)
 	if country != '':
 		del group[element]
+	'''
 	return group
 
 def showCountry(key):

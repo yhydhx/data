@@ -20,6 +20,11 @@ def main():
 	summary("430/newData-jx.txt")
 	summary("430/newData-xx.txt")
 	summary("430/newData--zj.txt")
+	summary("504/newData--HJ5-4.txt")
+	summary("504/newData--xx-5-4.txt")
+	summary("504/newData--ZJ5-4.txt")
+	summary("505/newData-xx-5-5.txt")
+	summary("505/newData--ZJ5-5.txt")
 	#print group
 	group = sorted(group.iteritems(),key= lambda d:d[0],reverse= False)
 	for key in group:

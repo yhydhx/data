@@ -44,7 +44,6 @@ Burkina Faso
 Burundi
 Bouvet Island
 South Korea
-Korea Democratic Peoples Republic of
 Korea#Gyeonggi-do#Dongguk University International Hospital#Dongguk University Medical School
 Equatorial Guinea
 Denmark
@@ -161,8 +160,6 @@ Pitcairn
 Portugal
 Macedonia
 Japan#Ibaraki#Tochigi#Yokohama#Sendai#Gunma#Okazaki#Toon#Hyogo#Yokohama#Kobe#Yamaguchi#Shizuoka#Ibaraki#Tsukuba#Sapporo#Kagawa##AomoriKyoto#Kyoto Sangyo University#Kagawa University#Plant Molecular Technology Research Group#Research Institute of Genome-Based Biofactory#National Institute of Advanced Industrial Science and TechnologyNational Institute of Agrobiological Sciences#National Institute of Crop Science#NTT Communication Science Laboratories#NTT Corporation#University of Tokushima#Hirosaki University#Institute of Physical and Chemical Research#Graduate University for Advanced Studies# Harima Institute#Plant Genetics Laboratory#Genetic Strains Research Center#National Institute of Genetics# School of Life Science#Graduate University for Advanced Studies#National Hospital Organization Yamaguchi-Ube Medical Center#Laboratory for Cell Lineage Modulation#RIKEN Center for Developmental Biology#Ehime University Proteo-Medicine Research Center#Laboratory for Developmental Genetics#RIKEN Research Center for Allergy and Immunology#Okazaki Institute for Integrative Bioscience#National Institute for Basic Biology#National Institutes of Natural Sciences#Graduate University for Advanced Studies#Okinawa Institute of Science and Technology Graduate University#RIKEN Genomic Sciences Center#Gunma University#Tohoku Institute of Technology#Tohoku Institute of Technology#Yokohama City University#Dokkyo Medical University#AminoScience Laboratories#National Institute for Materials Science
-
-
 Sweden#Uppsala# University of Uppsala
 Switzerland#Zürich#Lausanne#GenevaBasel#Basel University Hospital#Université de Genève#Laboratory of Ecohydrology#ETH Zürich#Swiss Institute for Experimental Cancer Research
 El Salvador
@@ -241,16 +238,10 @@ Gibraltar
 Chile
 Central Africa Republic
 China#Chongqing#Yunnan#Kunming#Wuhan#Yunnan Institute of Cultural Relics and Archaeology#Huazhong Agriculture University#Yunnan Institute for Epidemic Diseases Control and Research#Xinqiao Hospital#Third Military Medical University
-
 America#Cleveland#National Oceanic and Atmospheric Administration#Tucson#ontario#Buffalo#Seattle#Montreal#Quebec#Philadelphia#Baltimore#Berkeley#Houston#Argonne#Boulder#New York#Marvland#Maryland#Los Alamos#Berkeley#Bethesda#Scotts Valley#New Hampshire#North Dakota#Rhode Island#Ontario#Baltimore#Gainesville#Florida#North Carolina State#Delaware#Chapel Hill##Santa MonicaTucson#East Orange#New Jersey#
-
 Serbia
-
 Russian Federation#Moscow#Central Research Institute of Geodesy, Aerosurvey, and Cartography#Central Scientific Research Institute of Geodesy#niversity Medical School
-
 Australia#Brisbane#Victori#Vienna#St. Vincent''s School of Medical Research#Queensland#University of Queensland#Naturhistorisches Museum Wien#Prince Henry''s Institute of Medical Research#University of Queensland#nternational Institute for Applied Systems Analysis#Institut für Biochemie der Universität Innsbruck
-
-
 Trinidad#
 Norway#
 Czechoslovakia#
