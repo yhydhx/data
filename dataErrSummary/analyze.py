@@ -12,20 +12,21 @@ def main():
 	fileName = 'natErrData'
 	hello(fileName)
 def hello(fileName):
-	file = open('504/'+fileName+'New.txt','r');
-	output = open("505/"+fileName+'New.txt','w');
+	file = open('508/'+fileName+'.txt','r');
+	output = open("508/"+fileName+'New.txt','w');
 	group={}
 	while True:
 		element = file.readline();
 		if not element: break
 		group = analyze(group,element)
-		
 	for key in group:
 		print key
 		output.write(str(key))
 		
 		
 def analyze(group,element):
+	if str(element)[0] == '*':
+		return group
 	if group.has_key(element):
 		group[element] = group[element]+1
 	else:
@@ -37,10 +38,10 @@ def analyze(group,element):
 
 def showCountry(key):
 	Datafile={}
-	Datafile[0]= '505/newData--ZJ5-5.txt'
-	Datafile[1]= '505/newData-xx-5-5.txt'
-	#Datafile[2]= '504/newData--ZJ5-4.txt'
-	#Datafile[3]='430/newData--zj.txt'
+	Datafile[0]= '509/newData--ZJ5-11.txt'
+	Datafile[1]= '509/newData-xx-5.11.txt'
+	#Datafile[2]= '508/newData-xx-5.7.txt'
+	Datafile[3]= 'summary.txt'
 
 	
 	for dataKey in Datafile:
@@ -71,4 +72,5 @@ def showCountry(key):
 	  				'''
 	  	countryFile.close()
   	return ''
+
 main()

@@ -1,0 +1,251 @@
+Albania
+Algeria#Alger
+Afghanistan
+Argentina
+United Arab Emirates
+Aruba
+Oman
+Azerbaijan
+Egypt#Giza#University of Cairo
+Ethiopia
+Ireland
+Estonia
+Andorra
+Angola
+Anguilla
+Antigua and BarbudaAntigua and Barbuda
+Austria
+Australia
+Macau
+Barbados
+Papua New Guinea
+Bahamas
+Pakistan
+Paraguay
+Palestine
+Bahrain
+Panama
+Brazil
+Belarus
+Bermuda
+Bulgaria
+Northern Marianas Islands
+Benin
+Belgium#Ghent#Louvain#Bruxelles#University of Louvain
+Iceland
+Puerto Rico
+Bosnia and Herzegovina
+Poland
+Bolivia
+Belize
+Botswana
+Bhutan
+Burkina Faso
+Burundi
+Bouvet Island
+South Korea
+Korea Democratic Peoples Republic of
+Korea
+Equatorial Guinea
+Denmark#stervoldgade
+Germany#Berlin#bingen#Jena
+East Timor
+Togo
+Dominican Republic
+Dominica
+Russia
+Ecuador
+Eritrea
+France#Orsay#Toulouse#Lyon#Alfort#Montpellier
+Faroe Islands
+French Polynesia
+French Guiana
+French Southern Territories
+Vatican
+Philippines
+Fiji
+Finland
+Cape Verde
+Falkland Islands
+Gambia
+Congo
+Congo the democratic republic of the
+Colombia
+Costa Rica
+Grenada
+Greenland
+Georgia
+Cuba
+Guadeloupe
+Guam
+Guyana
+Kazaks tan
+Haiti
+Korea
+Netherlands#Delft#Amsterdam
+Netherlands Antilles
+Heard Islands and McDonald Islands
+Honduras
+Kiribati
+Djibouti
+Kyrgyzstan
+Guinea
+Guinea Bissau
+Canada
+Ghana
+Gabon
+Cambodia
+Czech Republic#Brno
+Zimbabwe
+Cameroon
+Qatar
+Cayman Islands
+Cocas Islands
+Comoros
+Cote divide
+Kuwait
+Croatia
+Kenya
+Cook Islands
+Latvia
+Lesotho
+Lao
+Lebanon
+Lithuania
+Liberia
+Libya
+Liechtenstein
+Reunion
+Luxembourg
+Rwanda
+Romania
+Madagascar
+Maldives
+Malta
+Malawi
+Malaysia
+Mali
+Marshall Islands
+Martinique
+Mayotte
+Mauritius
+Mauritania
+United States of United States Minor outlying Islands
+American Samoa
+Virgin Islands US
+Mongolia
+Montserrat
+Bangladesh
+Peru
+Micronesia
+Myanmar
+Moldova
+Morocco
+Monaco
+Mozambique
+Mexico
+Namibia
+South Africa#Grahamstown#Rhodes University
+Antarctica
+Yugoslavia
+Nauru
+Nepal
+Nicaragua
+Niger
+Nigeria
+Niue
+Norway#Horten#Rikshospitalet University Hospital#Norwegian Defence Research Establishment
+Norfolk Island
+Palau
+Pitcairn
+Portugal
+Macedonia
+Japan
+Switzerland
+El Salvador
+Samoa
+Sierra Leone
+Senegal
+Cyprus
+Seychelles
+Christmas Island
+Sao Tome and Principe
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+San Marino
+Saint Pierre and Miquelon
+Saint Vincent and Grenadines
+Scotland
+Sri Lanka#Ceylon#Colombo#Dartonfield#Agalawatta#University of Ceylon#Ceylon.Medical Research Institute#Rubber Research Institute of Ceylon#Colombo Plan Fellow
+Slovakia
+Slovenia
+Svalbard and Jan Mayan
+Swaziland
+Sudan
+Suriname
+Solomon Islands
+Somalia
+Tajikistan
+Taiwan
+Thailand
+Tanzania
+Tonga
+Turks audacious Islands
+Trinidad and Tobago
+Tunisia
+Tuvalu
+Turkey
+Turkmenistan
+Tokelau
+Wallis and Futuna
+Vanuatu
+Guatemala
+Venezuela
+Brunei
+Uganda
+Ukraine
+Uruguay
+Uzbekistan
+Spain
+Western Sahara
+Greece
+Hong Kong
+Singapore
+New Caledonia
+New Zealand
+Hungary
+Syria
+Jamaica
+Armenia
+Yemen
+Iraq
+Iran
+Israel
+Italy#Naples#Ischia#University of Naples#Universities of Naples and Messina
+India#New Delhi#University of Allahabad
+Indonesia
+United Kingdom#Battelle#Notts#Nr. Newbury#Somerset#Dundee#Glastonbury#Southwell#Mapperley#Berks#Maidenhead#Welwyn#Silwood Park#Sunninghill#Chelsea College of Science and Technology#The British Petroleum Co., Ltd.#Dundee
+Virgin Islands British
+British Indian Ocean Territory
+Jord
+Viet Nam
+Zambia
+Chad
+Gibraltar
+Chile
+Central Africa Republic
+China
+Serbia
+Burma
+Holland
+Vietnam
+Ethiopia
+Kazakhstan
+Brasil
+Poiand
+Sloveni
+Ivory Coast
+Korea
+Saudi Arabia
+American#Battelle#Alfred P. Sloan Foundation#Harvard Medical School
